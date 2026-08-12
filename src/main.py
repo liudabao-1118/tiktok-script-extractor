@@ -15,7 +15,9 @@ In both modes results are also saved locally (output/) as a backup / history.
 
 import sys
 import os
-from datetime import datetime
+import json
+import urllib.request
+from datetime import datetime, timezone, timedelta
 
 # Add src directory to path
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -36,6 +38,46 @@ OUTPUT_JSON = os.path.join(os.path.dirname(__file__), "..", "output", "results.j
 MAX_VIDEOS_PER_RUN = 10  # Limit per run to avoid GitHub timeout
 
 
+def send_feishu_notification(summary):
+    """Send a notification to Feishu bot webhook after each run."""
+    webhook = os.environ.get("FEISHU_BOT_WEBHOOK", "")
+    if not webhook:
+        return
+
+    # Beijing time (UTC+8)
+    now_bj = datetime.now(timezone(timedelta(hours=8)))
+    time_str = now_bj.strftime("%Y-%m-%d %H:%M:%S")
+
+    status_emoji = "✅" if summary.get("failed", 0) == 0 else "⚠️"
+    lines = [
+        f"{status_emoji} TikTok脚本提取通知",
+        f"时间：{time_str}",
+        f"待处理：{summary.get('pending', 0)} 行",
+        f"已处理：{summary.get('processed', 0)} 行",
+        f"成功：{summary.get('succeeded', 0)} 行",
+        f"失败：{summary.get('failed', 0)} 行",
+    ]
+    if summary.get("written_cells"):
+        lines.append(f"写回飞书：{summary['written_cells']} 个单元格")
+    if summary.get("failed", 0) > 0:
+        lines.append("失败行会在下次运行时自动重试")
+
+    text = "\n".join(lines)
+    payload = json.dumps({"msg_type": "text", "content": {"text": text}}).encode("utf-8")
+
+    try:
+        req = urllib.request.Request(
+            webhook,
+            data=payload,
+            headers={"Content-Type": "application/json"},
+            method="POST",
+        )
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            print(f"  Feishu notification sent: {resp.status}")
+    except Exception as e:
+        print(f"  Feishu notification failed: {e}")
+
+
 def process_one(extractor, translator, url):
     """Extract transcript + translate for a single URL. Returns result dict."""
     result = extractor.extract(url)
@@ -53,9 +95,11 @@ def run_feishu_mode(feishu, extractor, translator):
     pending = feishu.collect_pending()
     print(f"Pending rows (need extract/translate): {len(pending)}")
 
+    summary = {"pending": len(pending), "processed": 0, "succeeded": 0, "failed": 0, "written_cells": 0}
+
     if not pending:
         print("Nothing to do. All rows are up to date.")
-        return
+        return summary
 
     # Deduplicate by video_id so we don't re-download the same video for dup rows
     seen = {}  # video_id -> result
@@ -79,6 +123,11 @@ def run_feishu_mode(feishu, extractor, translator):
                 seen[vid] = result
 
         result["row"] = item["row"]
+        summary["processed"] += 1
+        if result.get("original_text"):
+            summary["succeeded"] += 1
+        else:
+            summary["failed"] += 1
         print(f"  Status: {result['status']}")
         if result["original_text"]:
             print(f"  Original: {result['original_text'][:80]}...")
@@ -89,6 +138,13 @@ def run_feishu_mode(feishu, extractor, translator):
     print("\nWriting results back to Feishu...")
     resp = feishu.write_back(results_to_write)
     print(f"  Feishu write: {resp.get('msg')}")
+    # Extract cell count from response message like "wrote 18 cells"
+    msg = resp.get("msg", "")
+    if "wrote" in msg:
+        try:
+            summary["written_cells"] = int(msg.split("wrote")[1].split("cells")[0].strip())
+        except Exception:
+            pass
 
     # Local backup (non-fatal — Feishu write is the primary output)
     try:
@@ -98,6 +154,8 @@ def run_feishu_mode(feishu, extractor, translator):
         print(f"  Local backup: {OUTPUT_CSV}, {OUTPUT_JSON}")
     except Exception as e:
         print(f"  Local backup skipped: {e}")
+
+    return summary
 
 
 def run_csv_mode(extractor, translator):
@@ -157,12 +215,14 @@ def main():
     extractor = TikTokExtractor(whisper_model="tiny")
     translator = Translator(target_lang="zh-CN")
 
+    summary = None
     feishu = from_env()
     if feishu:
         try:
-            run_feishu_mode(feishu, extractor, translator)
+            summary = run_feishu_mode(feishu, extractor, translator)
         except Exception as e:
             print(f"Feishu mode error: {e}")
+            summary = {"pending": 0, "processed": 0, "succeeded": 0, "failed": 1, "written_cells": 0, "error": str(e)}
             if os.path.exists(INPUT_CSV):
                 print("Falling back to CSV mode.")
                 run_csv_mode(extractor, translator)
@@ -170,6 +230,10 @@ def main():
                 print("No CSV input file available. Will retry next run.")
     else:
         run_csv_mode(extractor, translator)
+
+    # Send Feishu bot notification
+    if summary:
+        send_feishu_notification(summary)
 
     print(f"\nDone. Next run in 30 minutes.")
 

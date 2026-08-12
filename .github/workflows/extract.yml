@@ -51,6 +51,7 @@ jobs:
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
           FEISHU_WIKI_TOKEN: ${{ secrets.FEISHU_WIKI_TOKEN }}
           FEISHU_SHEET_TITLE: ${{ secrets.FEISHU_SHEET_TITLE || '脚本读取' }}
+          FEISHU_BOT_WEBHOOK: ${{ secrets.FEISHU_BOT_WEBHOOK }}
         run: python src/main.py
 
       - name: Commit and push results
