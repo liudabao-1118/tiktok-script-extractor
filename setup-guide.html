@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TikTok 脚本提取自动化 - 部署指南</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f5f5f4; color: #1c1c1a; line-height: 1.7; }
+  .container { max-width: 860px; margin: 0 auto; padding: 40px 24px 80px; }
+  h1 { font-size: 28px; font-weight: 600; margin-bottom: 8px; color: #0C447C; }
+  .subtitle { font-size: 15px; color: #666; margin-bottom: 32px; }
+  h2 { font-size: 20px; font-weight: 600; margin: 36px 0 16px; color: #1c1c1a; border-bottom: 2px solid #E6F1FB; padding-bottom: 8px; }
+  h3 { font-size: 16px; font-weight: 500; margin: 24px 0 12px; color: #0C447C; }
+  p { margin-bottom: 12px; font-size: 15px; }
+  .step { background: white; border: 1px solid #e5e5e4; border-radius: 12px; padding: 24px; margin-bottom: 20px; }
+  .step-num { display: inline-flex; align-items: center; justify-content: center; width: 28px; height: 28px; background: #185FA5; color: white; border-radius: 50%; font-size: 14px; font-weight: 600; margin-right: 8px; }
+  .step-title { font-size: 17px; font-weight: 500; display: flex; align-items: center; margin-bottom: 12px; }
+  code { background: #f0f0ef; padding: 2px 6px; border-radius: 4px; font-size: 13px; font-family: "SF Mono", Monaco, Consolas, monospace; color: #993C1D; }
+  pre { background: #1c1c1a; color: #e5e5e4; padding: 16px; border-radius: 8px; overflow-x: auto; margin: 12px 0; font-size: 13px; line-height: 1.5; }
+  pre code { background: none; color: inherit; padding: 0; }
+  .note { background: #FAEEDA; border: 1px solid #FAC775; border-radius: 8px; padding: 12px 16px; margin: 12px 0; font-size: 14px; }
+  .note-title { font-weight: 600; color: #633806; margin-bottom: 4px; }
+  .success { background: #E1F5EE; border: 1px solid #5DCAA5; border-radius: 8px; padding: 12px 16px; margin: 12px 0; font-size: 14px; }
+  table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 14px; }
+  th, td { padding: 10px 12px; text-align: left; border: 1px solid #e5e5e4; }
+  th { background: #E6F1FB; font-weight: 500; color: #0C447C; }
+  .tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 12px; font-weight: 500; }
+  .tag-free { background: #E1F5EE; color: #085041; }
+  .tag-fee { background: #FAECE7; color: #993C1D; }
+  .file-tree { background: #f8f8f7; border: 1px solid #e5e5e4; border-radius: 8px; padding: 16px; font-family: monospace; font-size: 13px; line-height: 1.8; margin: 12px 0; }
+  .file-tree .dir { color: #185FA5; font-weight: 600; }
+  .file-tree .file { color: #444; }
+  .file-tree .desc { color: #888; }
+  ul, ol { margin: 8px 0 12px 20px; }
+  li { margin-bottom: 6px; font-size: 15px; }
+  a { color: #185FA5; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .summary-box { background: #EEEDFE; border: 1px solid #AFA9EC; border-radius: 12px; padding: 20px; margin: 20px 0; }
+  .summary-box h3 { margin-top: 0; }
+</style>
+</head>
+<body>
+<div class="container">
+
+<h1>TikTok 脚本提取自动化 - 部署指南</h1>
+<p class="subtitle">基于 GitHub Actions 的全自动 TikTok 视频脚本提取 + 翻译管道</p>
+
+<div class="summary-box">
+  <h3>整体方案概览</h3>
+  <ul>
+    <li><strong>触发方式</strong>：GitHub Actions 每 30 分钟自动运行，无需登录</li>
+    <li><strong>提取方案</strong>：tikwm.com API 获取视频信息 + faster-whisper 语音转写</li>
+    <li><strong>翻译方案</strong>：Google Translate（免费，无需 API Key）</li>
+    <li><strong>输出格式</strong>：CSV + JSON，自动提交到 GitHub 仓库</li>
+    <li><strong>总成本</strong>：0 元（全部使用免费工具和开源项目）</li>
+  </ul>
+</div>
+
+<h2>项目文件结构</h2>
+<div class="file-tree">
+<span class="dir">tiktok-script-extractor/</span>
+├── <span class="dir">.github/workflows/</span>
+│   └── <span class="file">extract.yml</span>          <span class="desc"># GitHub Actions 定时任务</span>
+├── <span class="dir">input/</span>
+│   └── <span class="file">tiktok_links.csv</span>      <span class="desc"># 输入：TikTok 链接列表</span>
+├── <span class="dir">output/</span>
+│   ├── <span class="file">results.csv</span>           <span class="desc"># 输出：提取结果（CSV）</span>
+│   └── <span class="file">results.json</span>          <span class="desc"># 输出：提取结果（JSON）</span>
+├── <span class="dir">src/</span>
+│   ├── <span class="file">main.py</span>               <span class="desc"># 主程序入口</span>
+│   ├── <span class="file">extractor.py</span>          <span class="desc"># TikTok 视频提取器</span>
+│   ├── <span class="file">translator.py</span>         <span class="desc"># 翻译模块</span>
+│   └── <span class="file">utils.py</span>              <span class="desc"># 工具函数</span>
+├── <span class="file">.gitignore</span>
+├── <span class="file">requirements.txt</span>          <span class="desc"># Python 依赖</span>
+└── <span class="file">README.md</span>
+</div>
+
+<h2>部署步骤</h2>
+
+<div class="step">
+  <div class="step-title"><span class="step-num">1</span>导出飞书表格中的 TikTok 链接</div>
+  <p>打开你的飞书表格，将包含 TikTok 链接的内容导出为 CSV 文件。</p>
+  <div class="note">
+    <div class="note-title">注意</div>
+    脚本会自动识别包含链接的列。常见列名：<code>url</code>、<code>link</code>、<code>链接</code>、<code>视频链接</code>、<code>tiktok_url</code> 等。如果列名不同，脚本也会自动检测包含 "url"、"link" 或 "链接" 的列。
+  </div>
+  <p>导出后，将 CSV 内容替换到项目的 <code>input/tiktok_links.csv</code> 文件中。格式示例：</p>
+  <pre><code>url,note,category
+https://www.tiktok.com/@user1/video/7234567890123456789,备注1,分类A
+https://www.tiktok.com/@user2/video/7234567890123456790,备注2,分类B</code></pre>
+</div>
+
+<div class="step">
+  <div class="step-title"><span class="step-num">2</span>创建 GitHub 仓库</div>
+  <ol>
+    <li>登录 <a href="https://github.com/new" target="_blank">github.com/new</a></li>
+    <li>仓库名称填：<code>tiktok-script-extractor</code></li>
+    <li>选择 <strong>Public</strong>（公开仓库 GitHub Actions 免费无限时长）</li>
+    <li>勾选 "Add a README file"</li>
+    <li>点击 <strong>Create repository</strong></li>
+  </ol>
+</div>
+
+<div class="step">
+  <div class="step-title"><span class="step-num">3</span>上传项目文件到 GitHub</div>
+  <p>在 GitHub 仓库页面，逐个上传以下文件（保持目录结构）：</p>
+  <ol>
+    <li>点击 "Add file" > "Upload files"</li>
+    <li>将项目目录中的所有文件拖入上传区域</li>
+    <li>确保目录结构正确（特别是 <code>.github/workflows/extract.yml</code> 和 <code>src/</code> 目录）</li>
+    <li>点击 "Commit changes"</li>
+  </ol>
+  <div class="note">
+    <div class="note-title">提示</div>
+    如果 GitHub 网页上传不方便，也可以用 Git 命令行：
+    <pre><code>git clone https://github.com/你的用户名/tiktok-script-extractor.git
+cd tiktok-script-extractor
+# 复制所有项目文件到此目录
+git add .
+git commit -m "Initial commit: TikTok script extractor"
+git push</code></pre>
+  </div>
+</div>
+
+<div class="step">
+  <div class="step-title"><span class="step-num">4</span>更新输入链接</div>
+  <p>在 GitHub 仓库中，找到 <code>input/tiktok_links.csv</code>，点击编辑图标（铅笔），将示例链接替换为你的实际 TikTok 链接。</p>
+  <p>每行一个链接，格式：<code>URL,备注,分类</code>。保存时填写 commit message 并提交。</p>
+</div>
+
+<div class="step">
+  <div class="step-title"><span class="step-num">5</span>启用 GitHub Actions</div>
+  <ol>
+    <li>进入仓库的 <strong>Actions</strong> 标签页</li>
+    <li>如果出现提示，点击 "I understand my workflows, go ahead and enable them"</li>
+    <li>左侧应能看到 "TikTok Script Extractor" 工作流</li>
+    <li>点击它，然后点击 "Run workflow" 手动触发第一次运行</li>
+  </ol>
+  <div class="success">
+    <strong>设置完成！</strong>之后 GitHub 会每 30 分钟自动运行一次，提取新加入的 TikTok 视频脚本。
+  </div>
+</div>
+
+<h2>输出表格结构</h2>
+<p>提取结果保存在 <code>output/results.csv</code> 和 <code>output/results.json</code> 中：</p>
+<table>
+  <tr><th>字段</th><th>说明</th><th>示例</th></tr>
+  <tr><td><code>video_id</code></td><td>TikTok 视频 ID</td><td>7234567890123456789</td></tr>
+  <tr><td><code>url</code></td><td>原始链接</td><td>https://www.tiktok.com/@user/video/...</td></tr>
+  <tr><td><code>author</code></td><td>作者用户名</td><td>@username</td></tr>
+  <tr><td><code>description</code></td><td>视频描述（创作者写的文字）</td><td>Check out my new video!</td></tr>
+  <tr><td><code>original_text</code></td><td>脚本原文（语音转写）</td><td>Hey guys, today I want to share...</td></tr>
+  <tr><td><code>translated_text</code></td><td>中文翻译</td><td>大家好，今天我想分享...</td></tr>
+  <tr><td><code>language</code></td><td>检测到的语言</td><td>en</td></tr>
+  <tr><td><code>duration</code></td><td>视频时长</td><td>24s</td></tr>
+  <tr><td><code>extracted_at</code></td><td>提取时间</td><td>2026-08-12T10:30:00</td></tr>
+  <tr><td><code>status</code></td><td>处理状态</td><td>success / error</td></tr>
+  <tr><td><code>error_message</code></td><td>错误信息（如有）</td><td></td></tr>
+</table>
+
+<h2>TikTok 脚本提取工具/网站汇总</h2>
+<table>
+  <tr><th>工具</th><th>类型</th><th>免费额度</th><th>需要 API Key</th><th>链接</th></tr>
+  <tr><td>tikwm.com</td><td>API</td><td><span class="tag tag-free">无限</span></td><td>否</td><td><a href="https://tikwm.com" target="_blank">tikwm.com</a></td></tr>
+  <tr><td>RapidAPI TikTok Transcripts</td><td>API</td><td><span class="tag tag-free">100次/月</span></td><td>是</td><td><a href="https://rapidapi.com" target="_blank">rapidapi.com</a></td></tr>
+  <tr><td>SocialKit</td><td>API</td><td><span class="tag tag-free">20次</span></td><td>是</td><td><a href="https://socialkit.dev" target="_blank">socialkit.dev</a></td></tr>
+  <tr><td>Social Fetch</td><td>API + 网页</td><td><span class="tag tag-free">有限</span></td><td>是(API)</td><td><a href="https://socialfetch.dev" target="_blank">socialfetch.dev</a></td></tr>
+  <tr><td>Masa TikTok Scraper</td><td>工具 + API</td><td><span class="tag tag-free">100次</span></td><td>是</td><td><a href="https://masa.fi" target="_blank">masa.fi</a></td></tr>
+  <tr><td>Apify TikTok Scraper</td><td>Actor</td><td><span class="tag tag-free">免费层</span></td><td>是</td><td><a href="https://apify.com" target="_blank">apify.com</a></td></tr>
+  <tr><td>sm_transcribe (Whisper)</td><td>本地工具</td><td><span class="tag tag-free">无限</span></td><td>否</td><td><a href="https://github.com/alobbs/sm_transcribe" target="_blank">GitHub</a></td></tr>
+  <tr><td>faster-whisper (本项目使用)</td><td>Python 库</td><td><span class="tag tag-free">无限</span></td><td>否</td><td><a href="https://github.com/SYSTRAN/faster-whisper" target="_blank">GitHub</a></td></tr>
+</table>
+
+<h2>常见问题</h2>
+
+<h3>Q: 为什么有些视频状态是 "error"？</h3>
+<p>可能原因：视频已被删除、地区限制、tikwm.com API 暂时不可用、视频下载超时。脚本会跳过错误视频，下次运行时会重试。</p>
+
+<h3>Q: 为什么有些视频没有脚本原文？</h3>
+<p>如果视频是纯音乐/舞蹈视频（没有人说话），Whisper 可能无法识别出文字。这种情况下 <code>original_text</code> 会为空，状态为 <code>no_audio_detected</code>。</p>
+
+<h3>Q: 如何修改运行频率？</h3>
+<p>编辑 <code>.github/workflows/extract.yml</code> 中的 cron 表达式：</p>
+<ul>
+  <li><code>*/30 * * * *</code> - 每 30 分钟（默认）</li>
+  <li><code>0 * * * *</code> - 每小时</li>
+  <li><code>*/15 * * * *</code> - 每 15 分钟</li>
+</ul>
+
+<h3>Q: 如何提高转写准确率？</h3>
+<p>编辑 <code>src/main.py</code>，将 Whisper 模型从 <code>tiny</code> 改为 <code>base</code> 或 <code>small</code>：</p>
+<pre><code>extractor = TikTokExtractor(whisper_model="base")  # 或 "small"</code></pre>
+<p>更大的模型准确率更高，但速度更慢、占用更多资源。</p>
+
+<h3>Q: 如何查看提取结果？</h3>
+<p>在 GitHub 仓库中打开 <code>output/results.csv</code> 即可查看。也可以下载到本地用 Excel 打开。JSON 格式的结果在 <code>output/results.json</code>。</p>
+
+<h3>Q: 私有仓库可以吗？</h3>
+<p>可以，但 GitHub Actions 免费额度为每月 2000 分钟。公开仓库无限制。每 30 分钟运行一次，每次约 5-10 分钟，每月约 7200-14400 分钟，建议使用公开仓库。</p>
+
+</div>
+</body>
+</html>
