@@ -107,9 +107,9 @@
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7670477975812377870",
-    "extracted_at": "2026-08-12T07:05:26.840055",
-    "row": 29
+    "error_message": "Url parsing is failed! Please check url.",
+    "extracted_at": "2026-08-12T07:59:03.068490",
+    "row": 30
   },
   {
     "video_id": "7670477975812377870",
@@ -135,9 +135,9 @@
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7665338675856690445",
-    "extracted_at": "2026-08-12T07:05:34.390181",
-    "row": 19
+    "error_message": "Url parsing is failed! Please check url.",
+    "extracted_at": "2026-08-12T07:59:06.229680",
+    "row": 20
   },
   {
     "video_id": "7668892380812234005",
@@ -149,9 +149,9 @@
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7668892380812234005",
-    "extracted_at": "2026-08-12T07:05:41.941102",
-    "row": 20
+    "error_message": "Url parsing is failed! Please check url.",
+    "extracted_at": "2026-08-12T07:59:09.006722",
+    "row": 31
   },
   {
     "video_id": "7668892380812234005",
@@ -171,29 +171,29 @@
     "video_id": "7668281207544728845",
     "url": "https://www.tiktok.com/@anker_uk/video/7668281207544728845?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "",
-    "original_text": "",
-    "translated_text": "",
-    "language": "",
-    "duration": "",
-    "status": "error",
-    "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7668281207544728845",
-    "extracted_at": "2026-08-12T07:05:49.492710",
-    "row": 22
+    "description": "#health #man #fyp #tiktok ",
+    "original_text": "Este es tu estado actual. Este es el estado que ella espera que tengas. Si tomas este producto cada noche antes de dormir en tan solo tres días, esas arterias que ya se han reducido hasta quedar tan delgadas como una pajita, se expandirán con fuerza hasta alcanzar el doble de su anchura original. Cuando sientes en tu mesimiento en las manos y los pies, o simplemente te falta el aire al caminar, tu corazón está luchando desesperadamente por sobrevivir, intentando empujar la sangre a través de sus canales vitales que ya están completamente bloqueados. La L-Arginina y la L-Citrolina provocaran una gran liberación de oxydonítricos, como una máquina de limpieza alta presión, eliminando la acumulación de positada en las paredes de los vasos sanguinis. Si en siete días no ves una transformación completa, te devolveremos el dinero en su totalidad.",
+    "translated_text": "这就是你现在的状态。这就是她希望你拥有的状态。如果每天晚上睡前服用本品，短短三天内，那些本来已经收缩到细如吸管的动脉就会大力扩张，直至达到原来宽度的两倍。当你感到手脚抽筋，或者只是走路时感到呼吸急促时，你的心脏正在拼命地挣扎求生，试图将血液推过已经完全堵塞的重要通道。 L-精氨酸和L-柠檬酸会导致氧化硝酸的大量释放，就像高压清洗机一样，消除血管壁上的沉积物堆积。如果您在 7 天内没有看到完全转变，我们将全额退款。",
+    "language": "es",
+    "duration": "45s",
+    "status": "success",
+    "error_message": "",
+    "extracted_at": "2026-08-12T07:59:16.871300",
+    "row": 23
   },
   {
     "video_id": "7670483590551047455",
     "url": "https://www.tiktok.com/@anker_uk/video/7670483590551047455?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "",
-    "original_text": "",
-    "translated_text": "",
-    "language": "",
-    "duration": "",
-    "status": "error",
-    "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7670483590551047455",
-    "extracted_at": "2026-08-12T07:05:57.046129",
-    "row": 28
+    "description": "🌿MG-Devuélvele a tu cuerpo el equilibrio y la energía que merece #salud #bienestar #suplementos #fyp #magnesium ",
+    "original_text": "¿Cuál es la forma más rápida de dejar de sentir el cuerpo tan inchado y pesado? No es tomar litros de agua con limón cada mañana, no es meterte al sauna hasta que dar desidratada y mucho menos hacer una dieta extrema que termine dañando tu cuerpo. Solo añade una cosa a tu rutina diaria y podrías notar una gran diferencia. Si tus calcetines siempre te dejan marcas profundas, tus anillos cada vez te aprietan más y con cualquier cosa que come su abdomen, se inflac como globo, escucha esto. Muchas veces no es una sola cosa, duermes mal, no vas al baño con regularidad y tu cuerpo vive tenso. Al final termina sintiéndote pesada de pieza cabeza y aquí está la clave. El magnesio ayuda a regular la respuesta del cuerpo al estrés, mantener el cortisol en niveles saludables y apoyar un mejor descanso, músculos más relajados y una sensación de ligerés adurante el día. Por eso tantas mujeres están recurriendo a Gerawre Magnesium 20 en uno, combina 12 formas de magnesio para apoyar músculos, descanso, energía y digestión. Este nutriente es cerebrales para la calma y la claridad mental y hólmo resbaladizo para una fórmula más amable con el estómago, solo dos cápsulas al día. Al terminar la primera semana las marcas de los calcetines, los anillos apretados y el abdomen inflado empiezan a notarse menos y tú comienzas a sentirte mucho más ligera para la segunda semana la ropa se siente más cómoda, tu cuerpo ya no se siente tan pesado, tu estado de ánimo se siente más estable y hasta duermes. Marrico y al llegar a la tercera semana esa pesada es en el abdomen casi desaparece, la cintura empieza a verse más definida y lo mejor de todo, tus jeans favoritos por fin si erran sin tener que aguantar la respiración. Su único efecto secundario es que se acaba demasiado rápido en tiktok, si todavía ves el carrito naranja revisa el precio ahora, porque cuando entra en oferta vuela.",
+    "translated_text": "阻止身体感觉如此肿胀和沉重的最快方法是什么？它不是每天早上喝几升加柠檬的水，也不是在脱水之前才去桑拿，更不用说极端节食而最终损害你的身体了。只要在你的日常生活中添加一件事，你就会发现很大的不同。如果你的袜子总是留下深深的痕迹，你的戒指会越来越挤压你，无论你吃什么，你的腹部都会像气球一样膨胀，听听这个。很多时候不仅仅是一件事，你睡眠不好，你不经常上厕所，你的身体紧张。最后你会感到头重脚轻，这就是关键。镁有助于调节身体对压力的反应，使皮质醇保持在健康水平，并支持更好的休息、更放松的肌肉和全天的轻松感。这就是为什么如此多的女性转向 Gerawe Magnesium 20 合一产品，它结合了 12 种形式的镁来支持肌肉、休息、能量和消化。这种营养素有助于大脑平静和头脑清晰，而滑溜溜的配方则更适合肠胃，每天只需两粒胶囊。第一周结束时，袜子痕迹、紧环和膨胀的腹部开始变得不那么明显，您开始感觉更轻松。到了第二周，你的衣服感觉更舒服了，身体不再那么沉重，心情也更稳定了，甚至可以睡觉了。 Marrico，当你到了第三周时，你腹部的重量几乎消失了，你的腰部开始看起来更加清晰，最重要的是，你最喜欢的牛仔裤终于合身了，而不必屏住呼吸。它唯一的副作用是它在抖音上用得太快了，如果你仍然看到橙色的购物车，请立即检查价格，因为它一上市就飞了。",
+    "language": "es",
+    "duration": "99s",
+    "status": "success",
+    "error_message": "",
+    "extracted_at": "2026-08-12T07:59:26.511260",
+    "row": 29
   },
   {
     "video_id": "7668892380812234005",
@@ -208,5 +208,19 @@
     "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7668892380812234005",
     "extracted_at": "2026-08-12T07:05:41.941102",
     "row": 30
+  },
+  {
+    "video_id": "7665689113856707861",
+    "url": "https://www.tiktok.com/@anker_uk/video/7665689113856707861?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "#vivonu #ventaveraniega #drenajelinfático #tiktok #health ",
+    "original_text": "Te lo juro, en solo tres días, esos flacidos brazos de murcielago, empezará a ponerse firme si suaves. Pero no te accedas, o tu marido podría no reconocerte. Si tienes arrugas marcadas en el cuello, con tomar una sola cada noche antes de dormir, basta. Si tus brazos están flacidos, como que eso derretido, dos dos y saldía, lo solucional. Si después de tres días, tus brazos no se ven más firme si suaves, te devuelvo todo el dinero y te pago 30 mil dólares adicionales. Lo único que tienes que hacer es beber esta fórmula rejuvencedora de la piel, cada noche, antes de dormir. Si utiliza la piel flacida y caída, despierta las células cansadas, elimina los desechos del cuerpo y apoya tu sistema inmunológico. A la semana, esa piel arrugada, y las líneas de tus brazos, empezará a verse firme si suaves. A los 30 días, todos pensarán que te hiciste un mini lifting de brazos a escondidas, porque te verás al menos 20 años más joven, pero hay que actuar rápido. Lo dejé en el carrito amarillo de abajo. Ahora mismo tiene una buena promoción. Si todavía puedes ver el carrito amarillo significa que aún hay existencias. Si te interesa, puedes aprovechar la promoción para echarle un vistazo.",
+    "translated_text": "我发誓，在短短的三天内，那些松弛的蝙蝠手臂就会开始变得坚硬，即使是柔软的。但不要同意，否则你的丈夫可能认不出你。如果您的颈部有明显皱纹，每晚临睡前服用一粒就足够了。如果你的手臂松弛，就像融化了一样，两两出来，我解决它。如果三天后，你的手臂看起来没有更紧实或更柔软，我将退还你所有的钱，并额外支付你 30,000 美元。您所要做的就是每晚临睡前饮用这种焕肤配方。它利用下垂的皮肤，唤醒疲惫的细胞，清除体内废物，支持您的免疫系统。一周后，皱纹的皮肤和手臂上的皱纹将开始变得紧实光滑。 30天后，大家都会认为你偷偷做了迷你手臂提拉术，因为你看起来至少年轻了20岁，但你得赶紧行动。我把它留在下面的黄色购物车里了。现在他们有很好的促销活动。如果您仍然可以看到黄色购物车，则表示仍有库存。如果您有兴趣，可以趁着促销的机会去看看。",
+    "language": "es",
+    "duration": "55s",
+    "status": "success",
+    "error_message": "",
+    "extracted_at": "2026-08-12T07:59:35.731826",
+    "row": 33
   }
 ]
