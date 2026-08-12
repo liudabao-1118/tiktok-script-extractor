@@ -108,7 +108,7 @@
     "duration": "",
     "status": "error",
     "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7670477975812377870",
-    "extracted_at": "2026-08-12T14:47:05.853046",
+    "extracted_at": "2026-08-12T18:07:14.926198",
     "row": 43
   },
   {
@@ -136,7 +136,7 @@
     "duration": "",
     "status": "error",
     "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7665338675856690445",
-    "extracted_at": "2026-08-12T14:47:13.426248",
+    "extracted_at": "2026-08-12T18:07:22.656214",
     "row": 33
   },
   {
@@ -150,7 +150,7 @@
     "duration": "",
     "status": "error",
     "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7668892380812234005",
-    "extracted_at": "2026-08-12T14:47:21.219823",
+    "extracted_at": "2026-08-12T18:07:30.387622",
     "row": 44
   },
   {
@@ -248,7 +248,7 @@
     "duration": "",
     "status": "error",
     "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7669021759823187221",
-    "extracted_at": "2026-08-12T14:46:43.133251",
+    "extracted_at": "2026-08-12T18:06:51.734765",
     "row": 4
   },
   {
@@ -304,7 +304,7 @@
     "duration": "",
     "status": "error",
     "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7664557945807539476",
-    "extracted_at": "2026-08-12T14:46:50.708865",
+    "extracted_at": "2026-08-12T18:06:59.461434",
     "row": 8
   },
   {
@@ -346,7 +346,7 @@
     "duration": "",
     "status": "error",
     "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7668620579838299413",
-    "extracted_at": "2026-08-12T14:46:58.278596",
+    "extracted_at": "2026-08-12T18:07:07.193791",
     "row": 11
   },
   {
