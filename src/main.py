@@ -90,11 +90,14 @@ def run_feishu_mode(feishu, extractor, translator):
     resp = feishu.write_back(results_to_write)
     print(f"  Feishu write: {resp.get('msg')}")
 
-    # Local backup
-    os.makedirs(os.path.dirname(OUTPUT_CSV), exist_ok=True)
-    append_results_to_csv(results_to_write, OUTPUT_CSV)
-    save_results_json(results_to_write, OUTPUT_JSON)
-    print(f"  Local backup: {OUTPUT_CSV}, {OUTPUT_JSON}")
+    # Local backup (non-fatal — Feishu write is the primary output)
+    try:
+        os.makedirs(os.path.dirname(OUTPUT_CSV), exist_ok=True)
+        append_results_to_csv(results_to_write, OUTPUT_CSV)
+        save_results_json(results_to_write, OUTPUT_JSON)
+        print(f"  Local backup: {OUTPUT_CSV}, {OUTPUT_JSON}")
+    except Exception as e:
+        print(f"  Local backup skipped: {e}")
 
 
 def run_csv_mode(extractor, translator):
@@ -160,8 +163,11 @@ def main():
             run_feishu_mode(feishu, extractor, translator)
         except Exception as e:
             print(f"Feishu mode error: {e}")
-            print("Falling back to CSV mode.")
-            run_csv_mode(extractor, translator)
+            if os.path.exists(INPUT_CSV):
+                print("Falling back to CSV mode.")
+                run_csv_mode(extractor, translator)
+            else:
+                print("No CSV input file available. Will retry next run.")
     else:
         run_csv_mode(extractor, translator)
 

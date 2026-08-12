@@ -73,7 +73,7 @@ def append_results_to_csv(results, output_csv):
 
     file_exists = os.path.exists(output_csv)
     with open(output_csv, 'a', encoding='utf-8-sig', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
         if not file_exists or os.path.getsize(output_csv) == 0:
             writer.writeheader()
         for row in results:
