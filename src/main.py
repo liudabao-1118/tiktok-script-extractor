@@ -35,7 +35,7 @@ from feishu_reader import from_env
 INPUT_CSV = os.path.join(os.path.dirname(__file__), "..", "input", "tiktok_links.csv")
 OUTPUT_CSV = os.path.join(os.path.dirname(__file__), "..", "output", "results.csv")
 OUTPUT_JSON = os.path.join(os.path.dirname(__file__), "..", "output", "results.json")
-MAX_VIDEOS_PER_RUN = 10  # Limit per run to avoid GitHub timeout
+MAX_VIDEOS_PER_RUN = 50  # Limit per run to avoid GitHub timeout
 
 
 def send_feishu_notification(summary):
@@ -235,7 +235,7 @@ def main():
     if summary:
         send_feishu_notification(summary)
 
-    print(f"\nDone. Next run in 30 minutes.")
+    print(f"\nDone. Next run in 5 minutes.")
 
 
 if __name__ == "__main__":
