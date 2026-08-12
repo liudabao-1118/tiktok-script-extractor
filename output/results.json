@@ -107,8 +107,8 @@
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
-    "extracted_at": "2026-08-12T11:14:05.381847",
+    "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7670477975812377870",
+    "extracted_at": "2026-08-12T14:47:05.853046",
     "row": 43
   },
   {
@@ -135,8 +135,8 @@
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
-    "extracted_at": "2026-08-12T11:14:08.839234",
+    "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7665338675856690445",
+    "extracted_at": "2026-08-12T14:47:13.426248",
     "row": 33
   },
   {
@@ -149,8 +149,8 @@
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
-    "extracted_at": "2026-08-12T11:14:11.675942",
+    "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7668892380812234005",
+    "extracted_at": "2026-08-12T14:47:21.219823",
     "row": 44
   },
   {
@@ -247,8 +247,8 @@
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
-    "extracted_at": "2026-08-12T11:13:16.716757",
+    "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7669021759823187221",
+    "extracted_at": "2026-08-12T14:46:43.133251",
     "row": 4
   },
   {
@@ -303,8 +303,8 @@
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
-    "extracted_at": "2026-08-12T11:13:19.560233",
+    "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7664557945807539476",
+    "extracted_at": "2026-08-12T14:46:50.708865",
     "row": 8
   },
   {
@@ -345,8 +345,8 @@
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
-    "extracted_at": "2026-08-12T11:13:22.472550",
+    "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7668620579838299413",
+    "extracted_at": "2026-08-12T14:46:58.278596",
     "row": 11
   },
   {
