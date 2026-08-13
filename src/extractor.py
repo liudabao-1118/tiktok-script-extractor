@@ -135,24 +135,6 @@ class TikTokExtractor:
         clean_url = url.split("?")[0].split("#")[0]
         info = self.get_video_info(clean_url)
         if info.get("status") == "error":
-            # Before giving up, check if the video is permanently unavailable
-            avail = self._check_tiktok_availability(clean_url)
-            if avail.get("available") is False:
-                reason = avail.get("reason", "unknown")
-                if reason == "dark_post":
-                    result["status"] = "dark_post"
-                    result["original_text"] = "[unavailable] \u26a0\ufe0f \u6697\u5e16/\u5e7f\u544a\u5e16\uff0cTikTok\u9650\u5236\u65e0\u6cd5\u63d0\u53d6"
-                elif reason == "deleted":
-                    result["status"] = "deleted"
-                    result["original_text"] = "[unavailable] \u26a0\ufe0f \u89c6\u9891\u5df2\u5220\u9664\u6216\u4e0d\u53ef\u7528"
-                elif reason == "under_review":
-                    # Under review — leave empty so it retries next run
-                    result["status"] = "error"
-                    result["error_message"] = f"video under review (status {avail.get('status_code')})"
-                    return result
-                result["error_message"] = f"video unavailable: {reason} (status {avail.get('status_code')})"
-                return result
-
             result["status"] = "error"
             result["error_message"] = info.get("error_message", "Unknown error")
             return result
@@ -201,18 +183,6 @@ class TikTokExtractor:
                 result["original_text"] = result["description"]
                 result["status"] = "success_desc_only"
                 return result
-            # Check if video is permanently unavailable before reporting error
-            avail = self._check_tiktok_availability(clean_url)
-            if avail.get("available") is False:
-                reason = avail.get("reason", "unknown")
-                if reason == "dark_post":
-                    result["status"] = "dark_post"
-                    result["original_text"] = "[unavailable] \u26a0\ufe0f \u6697\u5e16/\u5e7f\u544a\u5e16\uff0cTikTok\u9650\u5236\u65e0\u6cd5\u63d0\u53d6"
-                elif reason == "deleted":
-                    result["status"] = "deleted"
-                    result["original_text"] = "[unavailable] \u26a0\ufe0f \u89c6\u9891\u5df2\u5220\u9664\u6216\u4e0d\u53ef\u7528"
-                result["error_message"] = f"video unavailable: {reason} (status {avail.get('status_code')})"
-                return result
             result["status"] = "error"
             result["error_message"] = "No video download URL available (tikwm + yt-dlp both failed)"
             return result
@@ -241,58 +211,6 @@ class TikTokExtractor:
             result["status"] = "success" if whisper_result["transcript"] else "no_audio_detected"
 
         return result
-
-    def _check_tiktok_availability(self, url):
-        """Check if a TikTok video is available or restricted.
-
-        Fetches the TikTok page and looks for the statusCode field embedded in
-        the page JSON. This lets us distinguish permanently unavailable videos
-        (dark posts, deleted) from temporary failures.
-
-        Returns dict with:
-          available   – True / False / None (check failed)
-          reason      – 'dark_post' | 'under_review' | 'deleted' | ''
-          status_code – int
-        """
-        import re
-        clean_url = url.split("?")[0].split("#")[0]
-
-        try:
-            resp = self.session.get(clean_url, timeout=30, headers={
-                "User-Agent": (
-                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                    "AppleWebKit/537.36 (KHTML, like Gecko) "
-                    "Chrome/120.0.0.0 Safari/537.36"
-                ),
-                "Accept": "text/html,application/xhtml+xml",
-                "Accept-Language": "en-US,en;q=0.9",
-            })
-            html = resp.text
-
-            # TikTok embeds statusCode in the page JSON
-            m = re.search(r'"statusCode"\s*:\s*(\d+)', html)
-            if m:
-                code = int(m.group(1))
-                if code == 10240:
-                    return {"available": False, "reason": "dark_post", "status_code": code}
-                if code == 10204:
-                    return {"available": False, "reason": "under_review", "status_code": code}
-                if code == 0:
-                    # code 0 but empty video data means deleted
-                    if '"videoId":""' in html or '"video":null' in html or '"video":{}' in html:
-                        return {"available": False, "reason": "deleted", "status_code": code}
-
-            lower = html.lower()
-            if any(s in lower for s in (
-                "couldn't find this page",
-                "video not available",
-                "video removed",
-            )):
-                return {"available": False, "reason": "deleted", "status_code": -1}
-
-            return {"available": True, "reason": "", "status_code": 0}
-        except Exception as e:
-            return {"available": None, "reason": f"check_failed: {e}", "status_code": -1}
 
     def _get_ytdlp_url(self, url):
         """Resolve a direct video URL via yt-dlp when tikwm cannot."""
