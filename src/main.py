@@ -57,6 +57,8 @@ def send_feishu_notification(summary):
         f"成功：{summary.get('succeeded', 0)} 行",
         f"失败：{summary.get('failed', 0)} 行",
     ]
+    if summary.get("skipped", 0) > 0:
+        lines.append(f"跳过(暗帖/已删除)：{summary['skipped']} 行")
     if summary.get("written_cells"):
         lines.append(f"写回飞书：{summary['written_cells']} 个单元格")
     if summary.get("failed", 0) > 0:
@@ -81,7 +83,11 @@ def send_feishu_notification(summary):
 def process_one(extractor, translator, url):
     """Extract transcript + translate for a single URL. Returns result dict."""
     result = extractor.extract(url)
-    if result["original_text"]:
+    # For permanently unavailable videos (dark posts, deleted), write the
+    # same marker to both B and C columns so collect_pending skips them.
+    if result.get("status") in ("dark_post", "deleted"):
+        result["translated_text"] = result["original_text"]
+    elif result["original_text"]:
         result["translated_text"] = translator.translate(result["original_text"]) or ""
     else:
         result["translated_text"] = ""
@@ -95,7 +101,7 @@ def run_feishu_mode(feishu, extractor, translator):
     pending = feishu.collect_pending()
     print(f"Pending rows (need extract/translate): {len(pending)}")
 
-    summary = {"pending": len(pending), "processed": 0, "succeeded": 0, "failed": 0, "written_cells": 0}
+    summary = {"pending": len(pending), "processed": 0, "succeeded": 0, "failed": 0, "skipped": 0, "written_cells": 0}
 
     if not pending:
         print("Nothing to do. All rows are up to date.")
@@ -124,7 +130,9 @@ def run_feishu_mode(feishu, extractor, translator):
 
         result["row"] = item["row"]
         summary["processed"] += 1
-        if result.get("original_text"):
+        if result.get("status") in ("dark_post", "deleted"):
+            summary["skipped"] += 1
+        elif result.get("original_text"):
             summary["succeeded"] += 1
         else:
             summary["failed"] += 1
@@ -222,7 +230,7 @@ def main():
             summary = run_feishu_mode(feishu, extractor, translator)
         except Exception as e:
             print(f"Feishu mode error: {e}")
-            summary = {"pending": 0, "processed": 0, "succeeded": 0, "failed": 1, "written_cells": 0, "error": str(e)}
+            summary = {"pending": 0, "processed": 0, "succeeded": 0, "failed": 1, "skipped": 0, "written_cells": 0, "error": str(e)}
             if os.path.exists(INPUT_CSV):
                 print("Falling back to CSV mode.")
                 run_csv_mode(extractor, translator)

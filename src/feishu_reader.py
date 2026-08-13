@@ -34,6 +34,8 @@ import requests
 BASE = "https://open.feishu.cn/open-apis"
 
 FAILED_MARKERS = ("[download_failed]", "[analysis_failed]")
+# Rows with these markers in B column are permanently unavailable — skip them
+SKIP_MARKERS = ("[unavailable]",)
 URL_RE = re.compile(r"https?://(www\.|vm\.|vt\.|m\.)?tiktok\.com", re.I)
 
 
@@ -186,10 +188,16 @@ class FeishuClient:
         return out
 
     def collect_pending(self):
-        """Rows that still need extraction or translation."""
+        """Rows that still need extraction or translation.
+
+        Skips rows marked as permanently unavailable (dark posts, deleted videos).
+        """
         pending = []
         for item in self.read_table():
             orig = item["original"]
+            # Skip permanently unavailable videos (dark posts, deleted)
+            if any(marker in orig for marker in SKIP_MARKERS):
+                continue
             is_failed = (orig in FAILED_MARKERS) or (not orig)
             if is_failed or not item["translation"]:
                 pending.append(item)
