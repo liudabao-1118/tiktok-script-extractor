@@ -1,8 +1,6 @@
 name: TikTok Script Extractor
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'
   workflow_dispatch:
     inputs:
       max_videos:
