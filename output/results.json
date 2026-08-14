@@ -488,5 +488,47 @@
     "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7670176646518836511",
     "extracted_at": "2026-08-13T02:29:41.769838",
     "row": 12
+  },
+  {
+    "video_id": "7645145111621307669",
+    "url": "https://www.tiktok.com/@karlagallardor/video/7645145111621307669?is_copy_url=1&is_from_webapp=v1",
+    "author": "@karlagallardor",
+    "description": "mi cabello literal se ve demasiado bonito después de usar Liso Diamante ✨ el brillo se nota muchísimo y el acabado se ve súper lindo sin esfuerzo. @Garnier México 💎 #GarnierMx #BrilloQueEncantaLisoQueAguanta ",
+    "original_text": "Yo no había visto mi cabello con este brillo. Primero, la bómica ve yo, y después con loco, garnir fructis, liso de amante, y aquí viene la parte que cambió todo. Darle calor para activarlo. Entonces me seco y planche el cabello para que quedé muchísimo más pulido y brillo. Y de verdad, el globo que deja se ve pareció. Se siente su persuave, se dozo y demasiado bonito. Y siento que hace que mi cabello se ve a muchísimo más cuidado. Y ahora entiendo porque este globo en el cabello se ve tan diferente. Y honestamente, sí se nota muchísimo el efecto antifriz. Porque mi cabello se ve súper pulido con un brillo precioso y hasta 100 horas de brillo de amante.",
+    "translated_text": "我从未见过我的头发如此闪亮。首先，波米卡看到了我，然后是疯子，加尼尔果子，像情人一样顺利，而现在改变了一切的部分来了。给它加热以激活它。然后我将头发吹干并拉直，使其更加光滑和有光泽。事实上，它留下的气球看起来就像它。感觉很有说服力，很有说服力，而且太漂亮了。我觉得它让我的头发看起来更受照顾。现在我明白为什么头发上的气球看起来如此不同了。老实说，抗毛躁的效果非常明显。因为我的头发看起来非常光滑，散发着华丽的光泽，并且可以保持长达 100 小时的光泽。",
+    "language": "es",
+    "duration": "38s",
+    "status": "success",
+    "error_message": "",
+    "extracted_at": "2026-08-14T08:36:00.726001",
+    "row": 2
+  },
+  {
+    "video_id": "7656205030416059655",
+    "url": "https://www.tiktok.com/@alondra.soqui/video/7656205030416059655?is_copy_url=1&is_from_webapp=v1",
+    "author": "@alondra.soqui",
+    "description": "",
+    "original_text": "Si se te cae el pelo, yo jo de te calpa. Para mi peluca yo uso esta fantástica gama de crece pelo con biotin, argin y benzo de acepin metan.",
+    "translated_text": "如果你的头发掉光了，我会让你保持冷静。对于我的假发，我使用了一系列含有生物素、精精和乙酰苯美坦苯并的奇妙头发生长产品。",
+    "language": "es",
+    "duration": "10s",
+    "status": "success",
+    "error_message": "",
+    "extracted_at": "2026-08-14T08:36:08.754989",
+    "row": 3
+  },
+  {
+    "video_id": "7647592872979582228",
+    "url": "https://www.tiktok.com/@pinkvibes999/video/7647592872979582228?is_copy_url=1&is_from_webapp=v1",
+    "author": "@pinkvibes999",
+    "description": "Por fin empiezo a lucir un cabello hermoso y radiante ",
+    "original_text": "Mi cambio es la verdadera publicidad, vean estas puntas a Vierta ya no llevaba que hacer con ella realmente tenía demasiados y es real mi caso, luego empecé a probar esto hace unos 15 días aproximadamente este sentido y vean nada más el cambio. Tengo muchísimo menos de puntas a Vierta, significa que había sido más brilloso, está mucho más suave, muy fácil de peinar, un cantadismo con este sitio.",
+    "translated_text": "我的改变是真正的广告，看看这些关于 Pour 的提示，我与它没有任何关系，我真的有太多，这是我的真实情况，然后我大约 15 天前开始尝试这个，大约在这个意义上，只是看到了变化。 I have much less split ends, it means that it was shinier, it is much softer, very easy to comb, a great deal with this site.",
+    "language": "es",
+    "duration": "26s",
+    "status": "success",
+    "error_message": "",
+    "extracted_at": "2026-08-14T08:36:19.226416",
+    "row": 5
   }
 ]
