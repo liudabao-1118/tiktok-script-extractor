@@ -29,6 +29,7 @@ from utils import (
 )
 from extractor import TikTokExtractor
 from translator import Translator
+from analyzer import VideoAnalyzer
 from feishu_reader import from_env
 
 # Configuration
@@ -78,27 +79,66 @@ def send_feishu_notification(summary):
         print(f"  Feishu notification failed: {e}")
 
 
-def process_one(extractor, translator, url):
-    """Extract transcript + translate for a single URL. Returns result dict."""
-    result = extractor.extract(url)
-    if result["original_text"]:
-        result["translated_text"] = translator.translate(result["original_text"]) or ""
-    elif result.get("status") == "error":
-        # Extraction failed — write a simple marker so the user can see it,
-        # but the row will still be retried next run (FAILED_MARKERS).
-        result["original_text"] = "[提取失败] " + (result.get("error_message") or "unknown error")[:50]
-        result["translated_text"] = ""
+def process_one(extractor, translator, analyzer, item):
+    """Extract transcript + translate + classify for a single row.
+
+    `item` is the row dict from Feishu (may already contain original/translation).
+    If a successful transcript already exists in the sheet, we reuse it (no
+    re-download) and only (re)run analysis — this makes backfilling the new
+    analysis columns cheap for rows that were processed before.
+    """
+    url = item["url"]
+    existing_orig = (item.get("original") or "").strip()
+    existing_trans = (item.get("translation") or "").strip()
+    already_ok = existing_orig and not existing_orig.startswith(("[提取失败]", "[unavailable]"))
+
+    if already_ok:
+        # Reuse existing transcript — just translate if missing + classify
+        result = {
+            "video_id": item.get("video_id") or "",
+            "url": url,
+            "author": "",
+            "description": "",
+            "original_text": existing_orig,
+            "translated_text": existing_trans or (translator.translate(existing_orig) or ""),
+            "status": "success",
+            "error_message": "",
+        }
     else:
-        result["translated_text"] = ""
+        result = extractor.extract(url)
+        if result["original_text"]:
+            result["translated_text"] = translator.translate(result["original_text"]) or ""
+        elif result.get("status") == "error":
+            # Extraction failed — write a simple marker so the user can see it,
+            # but the row will still be retried next run (FAILED_MARKERS).
+            result["original_text"] = "[提取失败] " + (result.get("error_message") or "unknown error")[:50]
+            result["translated_text"] = ""
+        else:
+            result["translated_text"] = ""
+
+    # Classify video type & structure (skip for failed extractions)
+    if result["original_text"] and not result["original_text"].startswith("[提取失败]"):
+        vtype, structure = analyzer.analyze(
+            result.get("description", ""), result["original_text"], result.get("author", "")
+        )
+        # Photo/carousel posts have no speech -> only description was captured
+        if result.get("status") == "success_desc_only":
+            structure = "图文"
+        result["video_type"] = vtype
+        result["video_structure"] = structure
+    else:
+        result["video_type"] = ""
+        result["video_structure"] = ""
     result["extracted_at"] = datetime.now().isoformat()
     return result
 
 
 def run_feishu_mode(feishu, extractor, translator):
     """Read links from Feishu, process pending rows, write back directly."""
+    analyzer = VideoAnalyzer()
     print("Mode: Feishu direct read/write")
     pending = feishu.collect_pending()
-    print(f"Pending rows (need extract/translate): {len(pending)}")
+    print(f"Pending rows (need extract/translate/analyze): {len(pending)}")
 
     summary = {"pending": len(pending), "processed": 0, "succeeded": 0, "failed": 0, "written_cells": 0}
 
@@ -121,7 +161,7 @@ def run_feishu_mode(feishu, extractor, translator):
             result = dict(seen[vid])
             print("  (reuse transcript from duplicate video_id)")
         else:
-            result = process_one(extractor, translator, url)
+            result = process_one(extractor, translator, analyzer, item)
             if not result.get("video_id") and vid:
                 result["video_id"] = vid  # keep existing id from sheet
             if vid:
@@ -196,9 +236,10 @@ def run_csv_mode(extractor, translator):
         new_links = new_links[:MAX_VIDEOS_PER_RUN]
 
     results = []
+    analyzer = VideoAnalyzer()
     for i, link in enumerate(new_links, 1):
         print(f"\n[{i}/{len(new_links)}] Processing: {link['url']}")
-        result = process_one(extractor, translator, link["url"])
+        result = process_one(extractor, translator, analyzer, {"url": link["url"]})
         print(f"  Status: {result['status']}")
         if result["original_text"]:
             print(f"  Original: {result['original_text'][:80]}...")

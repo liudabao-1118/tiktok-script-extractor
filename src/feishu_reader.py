@@ -166,8 +166,8 @@ class FeishuClient:
 
     # ---------- high-level helpers ----------
     def read_table(self):
-        """Read A:D and return list of dicts (skips header & non-link rows)."""
-        rows = self.read_range(f"A1:D{self.max_rows}")
+        """Read A:F and return list of dicts (skips header & non-link rows)."""
+        rows = self.read_range(f"A1:F{self.max_rows}")
         out = []
         for i, row in enumerate(rows, start=1):
             g = lambda idx: (row[idx] if idx < len(row) else "") or ""
@@ -182,35 +182,44 @@ class FeishuClient:
                 "original": g(1).strip(),
                 "translation": g(2).strip(),
                 "video_id": g(3).strip(),
+                "video_type": g(4).strip(),
+                "video_structure": g(5).strip(),
             })
         return out
 
     def collect_pending(self):
-        """Rows that still need extraction or translation.
+        """Rows that still need extraction, translation or analysis.
 
         No rows are permanently skipped — every video gets retried each run
         until it succeeds. Previously failed markers are treated as pending.
+        Rows that already have a translation but no video_type yet are picked
+        up too, so the new analysis columns get backfilled without re-download.
         """
         pending = []
         for item in self.read_table():
             orig = item["original"]
             is_failed = (orig in FAILED_MARKERS) or (not orig)
-            if is_failed or not item["translation"]:
+            needs_extract = is_failed or not item["translation"]
+            needs_analysis = bool(item["translation"]) and not item["video_type"]
+            if needs_extract or needs_analysis:
                 pending.append(item)
         return pending
 
     def write_back(self, results):
-        """Write video_id / original / translation back as individual cell PUTs.
+        """Write video_id / original / translation / video_type / video_structure
+        back as individual cell PUTs.
 
         results: list of dicts with 'row', 'video_id', 'original_text',
-        'translated_text'. Only non-empty values are written; existing good
-        content is never overwritten. Each cell is written individually to
-        avoid gaps overwriting existing content with empty strings.
+        'translated_text', 'video_type', 'video_structure'. Only non-empty
+        values are written; existing good content is never overwritten. Each
+        cell is written individually to avoid gaps overwriting existing content
+        with empty strings.
 
         Returns a status dict. If the app lacks write permission (HTTP 403),
         returns {'code': 403, ...} so the caller can fall back to CSV-only.
         """
-        columns = {"B": "original_text", "C": "translated_text", "D": "video_id"}
+        columns = {"B": "original_text", "C": "translated_text",
+                   "D": "video_id", "E": "video_type", "F": "video_structure"}
         total = 0
         for r in results:
             row = r.get("row")

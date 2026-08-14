@@ -68,7 +68,8 @@ def append_results_to_csv(results, output_csv):
     fieldnames = [
         'video_id', 'url', 'author', 'description',
         'original_text', 'translated_text', 'language',
-        'duration', 'extracted_at', 'status', 'error_message'
+        'duration', 'video_type', 'video_structure',
+        'extracted_at', 'status', 'error_message'
     ]
 
     file_exists = os.path.exists(output_csv)
