@@ -744,7 +744,7 @@
     "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anagachupin13%2Fvideo%2F7661180021171686677",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-17T03:31:19.426986",
+    "extracted_at": "2026-08-17T03:36:37.125339",
     "row": 8
   },
   {
@@ -760,7 +760,7 @@
     "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40dyneecmcho%2Fvideo%2F7641677757511978261",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-17T03:31:39.689784",
+    "extracted_at": "2026-08-17T03:37:22.135021",
     "row": 11
   },
   {
@@ -776,7 +776,7 @@
     "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40rosidelacruz20%2Fvideo%2F7642368278391754005",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-17T03:32:00.937789",
+    "extracted_at": "2026-08-17T03:37:44.905990",
     "row": 13
   },
   {
@@ -792,7 +792,71 @@
     "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40jennndar%2Fvideo%2F7657256762122325256",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-17T03:32:21.175384",
+    "extracted_at": "2026-08-17T03:38:06.667969",
     "row": 14
+  },
+  {
+    "video_id": "7628434232121068807",
+    "url": "https://www.tiktok.com/@soy.maffer/video/7628434232121068807?is_copy_url=1&is_from_webapp=v1",
+    "author": "@soy.maffer",
+    "description": "",
+    "original_text": "[提取失败] tikwm API failed: 403 Client Error: Forbidden for ",
+    "translated_text": "",
+    "language": "",
+    "duration": "",
+    "status": "error",
+    "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40soy.maffer%2Fvideo%2F7628434232121068807",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-08-17T03:36:14.257810",
+    "row": 7
+  },
+  {
+    "video_id": "7665382839793274132",
+    "url": "https://www.tiktok.com/@citlali3030/video/7665382839793274132?is_copy_url=1&is_from_webapp=v1",
+    "author": "@citlali3030",
+    "description": "",
+    "original_text": "[提取失败] tikwm API failed: 403 Client Error: Forbidden for ",
+    "translated_text": "",
+    "language": "",
+    "duration": "",
+    "status": "error",
+    "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40citlali3030%2Fvideo%2F7665382839793274132",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-08-17T03:36:59.722323",
+    "row": 10
+  },
+  {
+    "video_id": "7660233785534991634",
+    "url": "https://www.tiktok.com/@rosa.parra/video/7660233785534991634?is_copy_url=1&is_from_webapp=v1",
+    "author": "@rosa.parra",
+    "description": "",
+    "original_text": "[提取失败] tikwm API failed: 403 Client Error: Forbidden for ",
+    "translated_text": "",
+    "language": "",
+    "duration": "",
+    "status": "error",
+    "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40rosa.parra%2Fvideo%2F7660233785534991634",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-08-17T03:38:28.144851",
+    "row": 16
+  },
+  {
+    "video_id": "7661058844973337876",
+    "url": "https://www.tiktok.com/@adycarrascoo/video/7661058844973337876?is_copy_url=1&is_from_webapp=v1",
+    "author": "@adycarrascoo",
+    "description": "",
+    "original_text": "[提取失败] tikwm API failed: 403 Client Error: Forbidden for ",
+    "translated_text": "",
+    "language": "",
+    "duration": "",
+    "status": "error",
+    "error_message": "tikwm API failed: 403 Client Error: Forbidden for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40adycarrascoo%2Fvideo%2F7661058844973337876",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-08-17T03:38:50.329619",
+    "row": 17
   }
 ]
