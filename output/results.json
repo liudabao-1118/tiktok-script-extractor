@@ -744,7 +744,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-18T05:58:47.738228",
+    "extracted_at": "2026-08-18T06:01:23.105978",
     "row": 8
   },
   {
@@ -824,7 +824,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-18T05:58:48.918753",
+    "extracted_at": "2026-08-18T06:01:24.860843",
     "row": 10
   },
   {
@@ -858,5 +858,21 @@
     "video_structure": "达人口播",
     "extracted_at": "2026-08-17T03:42:17.868644",
     "row": 17
+  },
+  {
+    "video_id": "7658859583284202772",
+    "url": "https://www.tiktok.com/@mitchellzuniga4960/video/7658859583284202772?is_copy_url=1&is_from_webapp=v1",
+    "author": "@mitchellzuniga4960",
+    "description": "#fyppppppppppppppppppppppp #tiktok #tiktokshop",
+    "original_text": "Oye, no mamés la cantidad que tienen aquí, se cae esta joya. Son tres aceites en uno y neta huele riquísimo. Lo calientas tanto en las manos y cerote de jagrasoso. Va de medios a puntas y veno más la diferencia. Te reviveré el pelo al instante, me encantó.",
+    "translated_text": "嘿，别担心他们这里有多少，这颗宝石正在掉落。它们是三合一的油，闻起来很香。你把它拿在手里很烫，而且很油腻。它从中间到末端，我看到了更多的差异。我会让你的头发立即恢复活力，我喜欢它。",
+    "language": "es",
+    "duration": "15s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-08-18T06:01:31.513843",
+    "row": 19
   }
 ]
