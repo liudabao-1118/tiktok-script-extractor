@@ -888,7 +888,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-19T15:52:00.725504",
+    "extracted_at": "2026-08-19T15:57:26.863591",
     "row": 11
   },
   {
@@ -952,7 +952,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-19T15:52:03.249617",
+    "extracted_at": "2026-08-19T15:57:30.708074",
     "row": 16
   },
   {
@@ -1008,15 +1008,15 @@
     "url": "https://www.tiktok.com/@vaaleriaaa_24/video/7658472213204552968?is_copy_url=1&is_from_webapp=v1",
     "author": "@vaaleriaaa_24",
     "description": "El secreto de un cabello bonito 🤫✨ #tiktokshop #terramar #cabello #sano @FYNOVA ",
-    "original_text": "[提取失败] Download/ffmpeg error: 503 Server Error: Service U",
+    "original_text": "",
     "translated_text": "",
-    "language": "",
+    "language": "en",
     "duration": "24s",
-    "status": "error",
-    "error_message": "Download/ffmpeg error: 503 Server Error: Service Unavailable for url: https://v16m.tiktokcdn-us.com/b8b7b3356ad4e138af4d96f1adeae244/6a86259b/video/tos/alisg/tos-alisg-pve-0037c001/oUERtSEKxDDbsQUfETurtHgQDfA7FBgK2BsqFI/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&&bt=608&ft=kJxApyt4ZZo0PDWODE3aQ9HEhcC6JE.C~&mime_type=video_mp4&rc=OGZpNjZpN2RpNGllNGhkM0BpMzg2dHA5cmQ4PDMzODczNEBjNmFhLmE2X2AxNWA1YWE2YSMuamNkMmRzazFhLS1kMTFzcw%3D%3D&vvpl=1&l=202608191552036435319FAD21740B1B4E&btag=e000f8000",
+    "status": "no_audio_detected",
+    "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-19T15:52:05.171356",
+    "extracted_at": "2026-08-19T15:57:32.007344",
     "row": 23
   },
   {
@@ -1384,7 +1384,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-19T15:52:08.714457",
+    "extracted_at": "2026-08-19T15:57:35.534211",
     "row": 56
   },
   {
@@ -1640,7 +1640,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-19T15:52:10.150270",
+    "extracted_at": "2026-08-19T15:57:36.886948",
     "row": 79
   },
   {
@@ -1800,7 +1800,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-19T15:52:11.379984",
+    "extracted_at": "2026-08-19T15:57:38.169928",
     "row": 93
   },
   {
@@ -1864,7 +1864,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-19T15:52:12.563185",
+    "extracted_at": "2026-08-19T15:57:39.238751",
     "row": 99
   },
   {
