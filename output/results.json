@@ -110,7 +110,7 @@
     "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7670477975812377870",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:13:36.686703",
+    "extracted_at": "2026-08-20T14:17:32.793529",
     "row": 22
   },
   {
@@ -146,15 +146,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7668892380812234005?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] Url parsing is failed! Please check url.",
+    "original_text": "[提取失败] tikwm API failed: 502 Server Error: Bad Gateway fo",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
+    "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7668892380812234005",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:12:08.847479",
+    "extracted_at": "2026-08-20T14:16:23.118973",
     "row": 5
   },
   {
@@ -1956,15 +1956,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7673526960609430798?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] Url parsing is failed! Please check url.",
+    "original_text": "[提取失败] tikwm API failed: 502 Server Error: Bad Gateway fo",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
+    "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7673526960609430798",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:11:39.261824",
+    "extracted_at": "2026-08-20T14:15:59.869089",
     "row": 2
   },
   {
@@ -1972,15 +1972,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7672341353308769550?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] Url parsing is failed! Please check url.",
+    "original_text": "[提取失败] tikwm API failed: 502 Server Error: Bad Gateway fo",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
+    "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7672341353308769550",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:11:49.625332",
+    "extracted_at": "2026-08-20T14:16:07.616331",
     "row": 3
   },
   {
@@ -1988,15 +1988,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7673402702780435733?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] Url parsing is failed! Please check url.",
+    "original_text": "[提取失败] tikwm API failed: 502 Server Error: Bad Gateway fo",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
+    "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7673402702780435733",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:11:57.671075",
+    "extracted_at": "2026-08-20T14:16:15.379795",
     "row": 4
   },
   {
@@ -2020,15 +2020,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7672715318011251981?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] Url parsing is failed! Please check url.",
+    "original_text": "[提取失败] tikwm API failed: 502 Server Error: Bad Gateway fo",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
+    "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7672715318011251981",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:12:18.381021",
+    "extracted_at": "2026-08-20T14:16:30.858549",
     "row": 7
   },
   {
@@ -2068,15 +2068,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7671216124800912653?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] Url parsing is failed! Please check url.",
+    "original_text": "[提取失败] tikwm API failed: 502 Server Error: Bad Gateway fo",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
+    "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7671216124800912653",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:12:29.151397",
+    "extracted_at": "2026-08-20T14:16:38.598612",
     "row": 10
   },
   {
@@ -2100,15 +2100,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7674070508031266079?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] Url parsing is failed! Please check url.",
+    "original_text": "[提取失败] tikwm API failed: 502 Server Error: Bad Gateway fo",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
+    "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7674070508031266079",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:12:39.449690",
+    "extracted_at": "2026-08-20T14:16:46.337418",
     "row": 12
   },
   {
@@ -2116,15 +2116,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7672745765512416525?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] Url parsing is failed! Please check url.",
+    "original_text": "[提取失败] tikwm API failed: 502 Server Error: Bad Gateway fo",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
+    "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7672745765512416525",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:12:49.697738",
+    "extracted_at": "2026-08-20T14:16:54.080551",
     "row": 13
   },
   {
@@ -2180,15 +2180,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7674833987046591765?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] Url parsing is failed! Please check url.",
+    "original_text": "[提取失败] tikwm API failed: 502 Server Error: Bad Gateway fo",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
+    "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7674833987046591765",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:12:58.482941",
+    "extracted_at": "2026-08-20T14:17:01.822592",
     "row": 17
   },
   {
@@ -2204,7 +2204,7 @@
     "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7670123578960006431",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:13:13.438893",
+    "extracted_at": "2026-08-20T14:17:09.565533",
     "row": 18
   },
   {
@@ -2220,7 +2220,7 @@
     "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7670522776716954894",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:13:21.188502",
+    "extracted_at": "2026-08-20T14:17:17.314506",
     "row": 19
   },
   {
@@ -2236,7 +2236,7 @@
     "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7671270818499808526",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:13:28.943789",
+    "extracted_at": "2026-08-20T14:17:25.056143",
     "row": 20
   },
   {
@@ -2284,7 +2284,7 @@
     "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7669611906667220246",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:13:44.423800",
+    "extracted_at": "2026-08-20T14:17:40.536277",
     "row": 24
   },
   {
@@ -2348,7 +2348,7 @@
     "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7672325988428057886",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:13:52.161739",
+    "extracted_at": "2026-08-20T14:17:48.272429",
     "row": 29
   },
   {
@@ -2412,7 +2412,7 @@
     "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7671247578742148372",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:13:59.914908",
+    "extracted_at": "2026-08-20T14:17:56.009243",
     "row": 33
   },
   {
@@ -2428,7 +2428,7 @@
     "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7673436437815020820",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:14:07.651830",
+    "extracted_at": "2026-08-20T14:18:03.744906",
     "row": 34
   },
   {
@@ -2444,7 +2444,7 @@
     "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7670876804655140127",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:14:15.384085",
+    "extracted_at": "2026-08-20T14:18:11.482319",
     "row": 35
   },
   {
@@ -2476,7 +2476,7 @@
     "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7673065276954529054",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:14:23.118404",
+    "extracted_at": "2026-08-20T14:18:19.219366",
     "row": 37
   },
   {
@@ -2524,7 +2524,7 @@
     "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7670508326664277268",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:14:30.849572",
+    "extracted_at": "2026-08-20T14:18:26.956292",
     "row": 40
   },
   {
@@ -2540,7 +2540,7 @@
     "error_message": "tikwm API failed: 502 Server Error: Bad Gateway for url: https://www.tikwm.com/api/?url=https%3A%2F%2Fwww.tiktok.com%2F%40anker_uk%2Fvideo%2F7670152508882357535",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-08-20T14:14:38.582828",
+    "extracted_at": "2026-08-20T14:18:34.692436",
     "row": 41
   },
   {
