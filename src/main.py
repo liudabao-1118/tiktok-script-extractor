@@ -277,9 +277,11 @@ def main():
     else:
         run_csv_mode(extractor, translator)
 
-    # Send Feishu bot notification
-    if summary:
+    # Send Feishu bot notification (only when actual work was done)
+    if summary and (summary.get("processed", 0) > 0 or summary.get("error")):
         send_feishu_notification(summary)
+    elif summary:
+        print(f"\nNothing processed ({summary.get('pending', 0)} pending). No notification sent.")
 
     print(f"\nDone. Next run in 5 minutes.")
 
