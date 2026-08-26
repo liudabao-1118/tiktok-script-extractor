@@ -1,0 +1,52 @@
+name: balance-monitor
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # 工作日（周一至周五）01:00 UTC = 09:00 北京时间
+    - cron: "0 1 * * 1-5"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: balance-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run balance monitor
+        id: monitor
+        env:
+          TT_APP_ID: ${{ secrets.TT_APP_ID }}
+          TT_APP_SECRET: ${{ secrets.TT_APP_SECRET }}
+          TT_ACCESS_TOKEN: ${{ secrets.TT_ACCESS_TOKEN }}
+          TT_BC_ID: ${{ vars.TT_BC_ID }}
+          TT_ADVERTISER_NAMES: ${{ vars.TT_ADVERTISER_NAMES }}
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_BOT_WEBHOOK }}
+          TZ: Asia/Shanghai
+        run: python src/balance_monitor.py
+        # 告警时退出码为 1，workflow 会显示失败（便于人工留意），
+        # 但飞书消息本身已经送达。
+        continue-on-error: true
+
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: balance-report
+          path: balance_report.json
+          retention-days: 30
