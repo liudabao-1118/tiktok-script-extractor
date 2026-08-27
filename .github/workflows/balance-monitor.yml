@@ -3,8 +3,9 @@ name: balance-monitor
 on:
   workflow_dispatch: {}
   schedule:
-    # 工作日（周一至周五）01:00 UTC = 09:00 北京时间
-    - cron: "0 1 * * 1-5"
+    # 每天 01:00 UTC = 09:00 北京时间（含周末/节假日兜底检查；
+    # 节前/周五安全线上浮逻辑由脚本内置 2026 节假日日历处理）
+    - cron: "0 1 * * *"
 
 permissions:
   contents: read
@@ -36,6 +37,7 @@ jobs:
           TT_APP_SECRET: ${{ secrets.TT_APP_SECRET }}
           TT_ACCESS_TOKEN: ${{ secrets.TT_ACCESS_TOKEN }}
           FEISHU_BOT_WEBHOOK: ${{ secrets.FEISHU_BOT_WEBHOOK }}
+          FEISHU_GROUP_WEBHOOK: ${{ secrets.FEISHU_GROUP_WEBHOOK }}
           TZ: Asia/Shanghai
         run: python src/balance_monitor.py
         # 告警时退出码为 1，workflow 会显示失败（便于人工留意），
