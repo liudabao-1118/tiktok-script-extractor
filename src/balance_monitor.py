@@ -12,10 +12,17 @@ TikTok 广告账户余额监控（US / MX 双店铺）
   4. 当前余额 < 安全线 → 标记 ALERT
   5. 结果推送飞书机器人：个人（FEISHU_BOT_WEBHOOK）+ 大群（FEISHU_GROUP_WEBHOOK，可选）
 
+Token 自动续期（无需每日手动更新）：
+  access_token 仅 24h 有效，但 oauth 授权时一并下发的 refresh_token 有效期 365 天。
+  脚本每次运行先用 TT_REFRESH_TOKEN + app_id/secret 调 /oauth2/access_token/refresh/
+  现换一个当日 access_token（内存中使用，不落地）；未配置 refresh_token 时回退到
+  TT_ACCESS_TOKEN（24h 内有效）。
+
 依赖环境变量（GitHub Secrets）：
   TT_APP_ID             Marketing API App ID
   TT_APP_SECRET         Marketing API App Secret
-  TT_ACCESS_TOKEN       当前有效 access token（24h；脚本会自动用 app_id/secret 刷新）
+  TT_REFRESH_TOKEN     oauth 授权下发的 refresh_token（365 天，自动续期用）
+  TT_ACCESS_TOKEN       兜底用 access token（未配 refresh_token 或刷新失败时回退）
   FEISHU_BOT_WEBHOOK    飞书自定义机器人 Webhook URL（个人通知）
   FEISHU_GROUP_WEBHOOK  飞书大群机器人 Webhook URL（可选，配置后告警同时发大群）
 """
@@ -138,11 +145,14 @@ def api_get_all(path: str, params: dict, token: str) -> list[dict]:
         page += 1
 
 
-def refresh_token(app_id: str, app_secret: str, access_token: str) -> str:
-    """用 app_id/secret 刷新 24h access token。"""
+def refresh_access_token(app_id: str, app_secret: str, refresh_token: str) -> str:
+    """用 refresh_token（365 天有效）换取当日有效的 access_token。
+
+    注意：refresh 接口要的是 refresh_token 字段，不是 access_token。
+    """
     resp = requests.post(
         f"{BASE}/oauth2/access_token/refresh/",
-        json={"app_id": app_id, "secret": app_secret, "access_token": access_token},
+        json={"app_id": app_id, "secret": app_secret, "refresh_token": refresh_token},
         timeout=30,
     )
     resp.raise_for_status()
@@ -241,14 +251,25 @@ def main() -> int:
     app_id = os.environ.get("TT_APP_ID", "")
     app_secret = os.environ.get("TT_APP_SECRET", "")
     token = os.environ.get("TT_ACCESS_TOKEN", "")
+    refresh_token = os.environ.get("TT_REFRESH_TOKEN", "")
     webhook = os.environ.get("FEISHU_BOT_WEBHOOK", "")
     group_webhook = os.environ.get("FEISHU_GROUP_WEBHOOK", "")
 
-    if not token:
-        log("缺少 TT_ACCESS_TOKEN")
+    if not token and not refresh_token:
+        log("缺少 TT_ACCESS_TOKEN / TT_REFRESH_TOKEN")
         return 1
 
-    # 0. 计算"提前预防"安全天数：基准 14 天 + 距下一个可操作日的天数
+    # 0. 用 refresh_token 自动续期（无需每日手动更新）
+    if refresh_token and app_id and app_secret:
+        try:
+            token = refresh_access_token(app_id, app_secret, refresh_token)
+            log("已用 TT_REFRESH_TOKEN 自动换取当日 access_token")
+        except Exception as e:
+            log(f"refresh_token 续期失败，回退到 TT_ACCESS_TOKEN：{e}")
+    else:
+        log("未配置 TT_REFRESH_TOKEN，使用现有 TT_ACCESS_TOKEN（24h 内有效）")
+
+    # 1. 计算"提前预防"安全天数：基准 14 天 + 距下一个可操作日的天数
     today = date.today()
     extra_days = days_until_next_operable(today)
     required_days = 14 + extra_days
