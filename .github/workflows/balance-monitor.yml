@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: read
+  actions: write
 
 concurrency:
   group: balance-monitor
@@ -34,9 +35,9 @@ jobs:
           TT_APP_ID: ${{ secrets.TT_APP_ID }}
           TT_APP_SECRET: ${{ secrets.TT_APP_SECRET }}
           TT_ACCESS_TOKEN: ${{ secrets.TT_ACCESS_TOKEN }}
-          TT_BC_ID: ${{ vars.TT_BC_ID }}
+          TT_ADVERTISER_IDS: ${{ vars.TT_ADVERTISER_IDS }}
           TT_ADVERTISER_NAMES: ${{ vars.TT_ADVERTISER_NAMES }}
-          FEISHU_WEBHOOK: ${{ secrets.FEISHU_BOT_WEBHOOK }}
+          FEISHU_BOT_WEBHOOK: ${{ secrets.FEISHU_BOT_WEBHOOK }}
           TZ: Asia/Shanghai
         run: python src/balance_monitor.py
         # 告警时退出码为 1，workflow 会显示失败（便于人工留意），

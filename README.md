@@ -150,7 +150,13 @@ MIT
 
 ## Balance Monitor（广告余额监控）
 
-工作日 09:00（北京时间）自动检查美/墨广告账户余额，低于安全线（近 7 天日均花费 × 14）时通过飞书机器人告警。
+工作日 09:00（北京时间）自动检查指定 TikTok 广告账户余额，低于安全线（近 7 天日均花费 × 14）时通过飞书机器人告警。
+
+### 实现说明
+
+- 使用 `advertiser/info` 接口读取余额，**无需 BC finance role**。
+- 使用 `report/integrated/get` 读取近 7 天花费。
+- 脚本会自动用 `TT_APP_ID` + `TT_APP_SECRET` 刷新 24h access token。
 
 ### 新增 Secrets（仓库 Settings → Secrets and variables → Actions）
 
@@ -159,8 +165,14 @@ MIT
 | `TT_APP_ID` | TikTok Marketing API App ID |
 | `TT_APP_SECRET` | TikTok Marketing API App Secret |
 | `TT_ACCESS_TOKEN` | 当前有效 access token（24h；脚本会自动刷新） |
-| `TT_BC_ID` | Business Center ID（可选，默认 7317194879292014593） |
 | `FEISHU_BOT_WEBHOOK` | 飞书机器人 Webhook（已有，复用） |
+
+### 可选 Variables（非必须）
+
+| Variable | 说明 |
+|----------|------|
+| `TT_ADVERTISER_IDS` | 要监控的广告主 ID，逗号分隔；默认监控 5 个 Drbcare-MX-feishu 账户 |
+| `TT_ADVERTISER_NAMES` | 名称映射，格式 `id1=名称1,id2=名称2` |
 
 ### 手动触发
 
