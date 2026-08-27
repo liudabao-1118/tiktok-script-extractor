@@ -162,8 +162,9 @@ def refresh_access_token(app_id: str, app_secret: str, refresh_token: str) -> st
     注意：refresh 接口要的是 refresh_token 字段，不是 access_token。
     """
     resp = requests.post(
-        f"{BASE}/oauth2/access_token/refresh/",
-        json={"app_id": app_id, "secret": app_secret, "refresh_token": refresh_token},
+        f"{BASE}/oauth2/refresh_token/",
+        json={"app_id": app_id, "secret": app_secret,
+              "refresh_token": refresh_token, "grant_type": "refresh_token"},
         timeout=30,
     )
     resp.raise_for_status()
