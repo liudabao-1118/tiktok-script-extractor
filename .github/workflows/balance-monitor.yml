@@ -36,6 +36,8 @@ jobs:
           TT_APP_ID: ${{ secrets.TT_APP_ID }}
           TT_APP_SECRET: ${{ secrets.TT_APP_SECRET }}
           TT_ACCESS_TOKEN: ${{ secrets.TT_ACCESS_TOKEN }}
+          TT_TOKEN_URL: ${{ secrets.TT_TOKEN_URL }}
+          TT_TOKEN_KEY: ${{ secrets.TT_TOKEN_KEY }}
           FEISHU_BOT_WEBHOOK: ${{ secrets.FEISHU_BOT_WEBHOOK }}
           FEISHU_GROUP_WEBHOOK: ${{ secrets.FEISHU_GROUP_WEBHOOK }}
           TZ: Asia/Shanghai
