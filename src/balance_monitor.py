@@ -12,16 +12,18 @@ TikTok 广告账户余额监控（US / MX 双店铺）
   4. 当前余额 < 安全线 → 标记 ALERT
   5. 结果推送飞书机器人：个人（FEISHU_BOT_WEBHOOK）+ 大群（FEISHU_GROUP_WEBHOOK，可选）
 
-Token 自动续期（无需每日手动更新）：
-  access_token 仅 24h 有效，但 oauth 授权时一并下发的 refresh_token 有效期 365 天。
-  脚本每次运行先用 TT_REFRESH_TOKEN + app_id/secret 调 /oauth2/access_token/refresh/
-  现换一个当日 access_token（内存中使用，不落地）；未配置 refresh_token 时回退到
-  TT_ACCESS_TOKEN（24h 内有效）。
+Token 自动续期（需 App 过审）：
+  TikTok Marketing API 的 access_token 仅 24h 有效。
+  仅当 App 通过 TikTok 审核后，oauth 授权才会下发 refresh_token（约 365 天）。
+  脚本检测到 TT_REFRESH_TOKEN 后，每次运行先用它调 /oauth2/access_token/refresh/
+  现换当日 access_token（内存使用，不落地），实现约一年免手动更新。
+  未配置 / App 未过审 → 无 refresh_token → 回退到 TT_ACCESS_TOKEN（24h 内有效），
+  过期后运行会失败并向个人飞书推送「请重新授权」提醒。
 
 依赖环境变量（GitHub Secrets）：
   TT_APP_ID             Marketing API App ID
   TT_APP_SECRET         Marketing API App Secret
-  TT_REFRESH_TOKEN     oauth 授权下发的 refresh_token（365 天，自动续期用）
+  TT_REFRESH_TOKEN     App 过审后 oauth 下发的 refresh_token（自动续期用，可选）
   TT_ACCESS_TOKEN       兜底用 access token（未配 refresh_token 或刷新失败时回退）
   FEISHU_BOT_WEBHOOK    飞书自定义机器人 Webhook URL（个人通知）
   FEISHU_GROUP_WEBHOOK  飞书大群机器人 Webhook URL（可选，配置后告警同时发大群）
@@ -106,6 +108,10 @@ def log(msg: str) -> None:
     print(f"[{datetime.now():%Y-%m-%d %H:%M:%S}] {msg}", flush=True)
 
 
+class TokenExpiredError(RuntimeError):
+    """TikTok access_token 失效（40100/40101 等鉴权错误）。"""
+
+
 def api_get(path: str, params: dict, token: str, tries: int = 4) -> dict:
     last_err = None
     for i in range(tries):
@@ -119,7 +125,12 @@ def api_get(path: str, params: dict, token: str, tries: int = 4) -> dict:
             resp.raise_for_status()
             data = resp.json()
             if data.get("code") != 0:
-                raise RuntimeError(f"API {path} 错误: code={data.get('code')} msg={data.get('message')}")
+                code = data.get("code")
+                msg = data.get("message", "")
+                # 鉴权失败（token 失效/无权限）→ 抛特定异常便于上层优雅降级
+                if code in (40100, 40101) or "token" in str(msg).lower():
+                    raise TokenExpiredError(f"API {path} 鉴权失败: code={code} msg={msg}")
+                raise RuntimeError(f"API {path} 错误: code={code} msg={msg}")
             return data.get("data", {})
         except RuntimeError:
             raise
@@ -277,64 +288,76 @@ def main() -> int:
     if extra_days > 0:
         log(f"提示：{holiday_hint(extra_days)}")
 
-    # 1. 刷新 token（长期运行必需）
-    if app_id and app_secret:
-        try:
-            token = refresh_token(app_id, app_secret, token)
-            log("access token 已刷新")
-        except Exception as e:
-            log(f"token 刷新失败，继续用现有 token：{e}")
-
     # 2. 监控账户列表
     accounts = DEFAULT_ACCOUNTS
     log(f"本次监控 {len(accounts)} 个账户: {[a['name'] for a in accounts]}")
 
-    # 3. 批量查余额
-    advertiser_ids = [a["advertiser_id"] for a in accounts]
-    info_list = get_advertiser_info(advertiser_ids, token)
-    info_map = {str(a.get("advertiser_id")): a for a in info_list}
+    try:
+        # 3. 批量查余额
+        advertiser_ids = [a["advertiser_id"] for a in accounts]
+        info_list = get_advertiser_info(advertiser_ids, token)
+        info_map = {str(a.get("advertiser_id")): a for a in info_list}
 
-    results = []
-    for acc in accounts:
-        adv_id = acc["advertiser_id"]
-        info = info_map.get(adv_id, {})
-        if not info:
-            log(f"未获取到账户 {adv_id} 的信息，跳过")
-            continue
-        balance = float(info.get("balance", 0) or 0)
-        currency = info.get("currency", "?")
-        name = acc["name"]
+        results = []
+        for acc in accounts:
+            adv_id = acc["advertiser_id"]
+            info = info_map.get(adv_id, {})
+            if not info:
+                log(f"未获取到账户 {adv_id} 的信息，跳过")
+                continue
+            balance = float(info.get("balance", 0) or 0)
+            currency = info.get("currency", "?")
+            name = acc["name"]
 
-        # 4. 近 7 个完整天 GMV Max 消耗
-        try:
-            spend_7d = get_7d_spend(adv_id, acc["store_id"], token)
-        except Exception as e:
-            log(f"账户 {adv_id} 消耗查询失败：{e}")
-            spend_7d = 0.0
-        avg_daily = spend_7d / 7.0
-        safety_line = avg_daily * float(required_days)
-        alert = avg_daily > 0 and balance < safety_line
-        days_left = balance / avg_daily if avg_daily > 0 else float("inf")
-        topup = max(0.0, safety_line - balance)
+            # 4. 近 7 个完整天 GMV Max 消耗
+            try:
+                spend_7d = get_7d_spend(adv_id, acc["store_id"], token)
+            except Exception as e:
+                log(f"账户 {adv_id} 消耗查询失败：{e}")
+                spend_7d = 0.0
+            avg_daily = spend_7d / 7.0
+            safety_line = avg_daily * float(required_days)
+            alert = avg_daily > 0 and balance < safety_line
+            days_left = balance / avg_daily if avg_daily > 0 else float("inf")
+            topup = max(0.0, safety_line - balance)
 
-        results.append(
-            {
-                "advertiser_id": adv_id,
-                "name": name,
-                "balance": balance,
-                "currency": currency,
-                "spend_7d": spend_7d,
-                "avg_daily_spend": avg_daily,
-                "safety_line": safety_line,
-                "days_left": days_left,
-                "topup": topup,
-                "alert": alert,
-            }
-        )
-        status = "⚠️ ALERT" if alert else "OK"
-        log(f"{name}: balance={balance:.2f} {currency}, 7d_spend={spend_7d:.2f}, "
-            f"avg_daily={avg_daily:.2f}, safety_line={safety_line:.2f}, "
-            f"days_left={days_left:.1f} → {status}")
+            results.append(
+                {
+                    "advertiser_id": adv_id,
+                    "name": name,
+                    "balance": balance,
+                    "currency": currency,
+                    "spend_7d": spend_7d,
+                    "avg_daily_spend": avg_daily,
+                    "safety_line": safety_line,
+                    "days_left": days_left,
+                    "topup": topup,
+                    "alert": alert,
+                }
+            )
+            status = "⚠️ ALERT" if alert else "OK"
+            log(f"{name}: balance={balance:.2f} {currency}, 7d_spend={spend_7d:.2f}, "
+                f"avg_daily={avg_daily:.2f}, safety_line={safety_line:.2f}, "
+                f"days_left={days_left:.1f} → {status}")
+    except TokenExpiredError as e:
+        log(f"⚠️ {e}")
+        log("access_token 已失效，向个人飞书推送重新授权提醒")
+        if webhook:
+            send_feishu(webhook, {
+                "msg_type": "text",
+                "content": {"text": (
+                    "🔑 TikTok access_token 已失效（约 24h 过期）\n"
+                    f"⏰ {datetime.now():%Y-%m-%d %H:%M}\n\n"
+                    "余额监控已暂停。请回复小墨「重新授权」，我会发你新的授权链接，"
+                    "你点一下登录即可恢复（无需自己跑命令）。\n\n"
+                    "💡 彻底免手动：把 App 提交 TikTok 审核过审后，授权会下发 "
+                    "refresh_token，约一年不用再管。"
+                )},
+            })
+            log("已向个人飞书推送重新授权提醒")
+        else:
+            log("未配置 FEISHU_BOT_WEBHOOK，跳过重新授权提醒")
+        return 1
 
     # 5. 汇总输出
     summary = {
