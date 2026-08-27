@@ -12,17 +12,19 @@ TikTok 广告账户余额监控（US / MX 双店铺）
   4. 当前余额 < 安全线 → 标记 ALERT
   5. 结果推送飞书机器人：个人（FEISHU_BOT_WEBHOOK）+ 大群（FEISHU_GROUP_WEBHOOK，可选）
 
-Token 自动续期（需 App 过审）：
-  TikTok Marketing API 的 access_token 仅 24h 有效。
-  仅当 App 通过 TikTok 审核后，oauth 授权才会下发 refresh_token（约 365 天）。
-  脚本检测到 TT_REFRESH_TOKEN 后，每次运行先用它调 /oauth2/access_token/refresh/
-  现换当日 access_token（内存使用，不落地），实现约一年免手动更新。
-  未配置 / App 未过审 → 无 refresh_token → 回退到 TT_ACCESS_TOKEN（24h 内有效），
-  过期后运行会失败并向个人飞书推送「请重新授权」提醒。
+Token 获取（access_token 仅 24h 有效，且 TikTok REST API 不发 refresh_token）：
+  1) 优先从托管 OAuth Worker 拉取最新 token（TT_TOKEN_URL + TT_TOKEN_KEY）。
+     该 Worker 把 OAuth 回调搬到云端，使你能在手机上完成重新授权，
+     无需开着电脑（详见 worker/README.md）。
+  2) 若配置了 TT_REFRESH_TOKEN（App 过审后才有），用它自动换新 token。
+  3) 否则回退到 TT_ACCESS_TOKEN（Secret，24h 内有效）。
+  4) 三者皆无 → 运行失败，向个人飞书推送带「手机可点授权链接」的重新授权提醒。
 
 依赖环境变量（GitHub Secrets）：
   TT_APP_ID             Marketing API App ID
   TT_APP_SECRET         Marketing API App Secret
+  TT_TOKEN_URL         托管 OAuth Worker 地址（如 https://xxx.workers.dev），PC 关机也可重授权
+  TT_TOKEN_KEY         Worker 的 WORKER_KEY（与 Worker 端一致）
   TT_REFRESH_TOKEN     App 过审后 oauth 下发的 refresh_token（自动续期用，可选）
   TT_ACCESS_TOKEN       兜底用 access token（未配 refresh_token 或刷新失败时回退）
   FEISHU_BOT_WEBHOOK    飞书自定义机器人 Webhook URL（个人通知）
@@ -30,9 +32,11 @@ Token 自动续期（需 App 过审）：
 """
 import json
 import os
+import secrets
 import sys
 import time
 from datetime import date, datetime, timedelta
+from urllib.parse import quote
 
 import requests
 
@@ -264,22 +268,37 @@ def main() -> int:
     app_secret = os.environ.get("TT_APP_SECRET", "")
     token = os.environ.get("TT_ACCESS_TOKEN", "")
     refresh_token = os.environ.get("TT_REFRESH_TOKEN", "")
+    token_url = os.environ.get("TT_TOKEN_URL", "")
+    token_key = os.environ.get("TT_TOKEN_KEY", "")
     webhook = os.environ.get("FEISHU_BOT_WEBHOOK", "")
     group_webhook = os.environ.get("FEISHU_GROUP_WEBHOOK", "")
 
-    if not token and not refresh_token:
-        log("缺少 TT_ACCESS_TOKEN / TT_REFRESH_TOKEN")
-        return 1
+    # 0. 获取 token：优先级 = 托管 Worker 拉取 > refresh_token 续期 > 兜底 Secret
+    if not token and token_url and token_key:
+        try:
+            r = requests.get(
+                f"{token_url.rstrip('/')}/token",
+                params={"key": token_key},
+                timeout=30,
+            )
+            r.raise_for_status()
+            tok = r.json().get("token")
+            if tok:
+                token = tok
+                log("已从托管 OAuth Worker 获取最新 access_token")
+        except Exception as e:
+            log(f"从托管地址获取 token 失败，继续尝试其他方式：{e}")
 
-    # 0. 用 refresh_token 自动续期（无需每日手动更新）
-    if refresh_token and app_id and app_secret:
+    if not token and refresh_token and app_id and app_secret:
         try:
             token = refresh_access_token(app_id, app_secret, refresh_token)
             log("已用 TT_REFRESH_TOKEN 自动换取当日 access_token")
         except Exception as e:
             log(f"refresh_token 续期失败，回退到 TT_ACCESS_TOKEN：{e}")
-    else:
-        log("未配置 TT_REFRESH_TOKEN，使用现有 TT_ACCESS_TOKEN（24h 内有效）")
+
+    if not token:
+        log("缺少可用 token（TT_ACCESS_TOKEN / TT_REFRESH_TOKEN / 托管地址均不可用）")
+        return 1
 
     # 1. 计算"提前预防"安全天数：基准 14 天 + 距下一个可操作日的天数
     today = date.today()
@@ -342,20 +361,33 @@ def main() -> int:
                 f"days_left={days_left:.1f} → {status}")
     except TokenExpiredError as e:
         log(f"⚠️ {e}")
-        log("access_token 已失效，向个人飞书推送重新授权提醒")
+        log("access_token 已失效，向个人飞书推送重新授权提醒（含手机可点链接）")
         if webhook:
-            send_feishu(webhook, {
-                "msg_type": "text",
-                "content": {"text": (
-                    "🔑 TikTok access_token 已失效（约 24h 过期）\n"
-                    f"⏰ {datetime.now():%Y-%m-%d %H:%M}\n\n"
-                    "余额监控已暂停。请回复小墨「重新授权」，我会发你新的授权链接，"
-                    "你点一下登录即可恢复（无需自己跑命令）。\n\n"
-                    "💡 彻底免手动：把 App 提交 TikTok 审核过审后，授权会下发 "
-                    "refresh_token，约一年不用再管。"
-                )},
-            })
-            log("已向个人飞书推送重新授权提醒")
+            auth_link = ""
+            if app_id and token_url:
+                redirect = f"{token_url.rstrip('/')}/callback"
+                rid = secrets.token_hex(8)
+                auth_link = (
+                    "https://ads.tiktok.com/marketing_api/auth?app_id=" + app_id +
+                    "&state=balance_monitor&redirect_uri=" + quote(redirect, safe="") +
+                    "&rid=" + rid
+                )
+            text = (
+                "🔑 TikTok access_token 已失效（约 24h 过期）\n"
+                f"⏰ {datetime.now():%Y-%m-%d %H:%M}\n\n"
+                "余额监控已暂停。请点击下方链接，在手机上登录授权即可恢复"
+                "（无需开电脑，授权后自动存好新 token）：\n"
+            )
+            if auth_link:
+                text += f"\n👉 {auth_link}\n"
+            else:
+                text += "\n（未配置 TT_TOKEN_URL，请联系管理员补充托管回调地址）\n"
+            text += (
+                "\n💡 彻底免手动：把 App 提交 TikTok 审核过审后授权会下发 "
+                "refresh_token，约一年不用再管。"
+            )
+            send_feishu(webhook, {"msg_type": "text", "content": {"text": text}})
+            log("已向个人飞书推送重新授权提醒（含授权链接）")
         else:
             log("未配置 FEISHU_BOT_WEBHOOK，跳过重新授权提醒")
         return 1
