@@ -229,19 +229,22 @@ def main() -> int:
         json.dump(summary, f, ensure_ascii=False, indent=2)
     log(f"报告已写入 balance_report.json，共 {len(results)} 个账户")
 
-    # 6. 推送飞书
+    # 6. 仅在有告警时推送飞书（用户要求：余额不足才提醒）
     if not webhook:
         log("未配置 FEISHU_BOT_WEBHOOK，跳过推送")
         return 1 if summary["any_alert"] else 0
 
-    msg = build_feishu_msg(results, summary["any_alert"])
-    resp = requests.post(webhook, json=msg, timeout=30)
-    resp.raise_for_status()
-    fb = resp.json()
-    if fb.get("code") != 0:
-        log(f"飞书推送失败: {fb}")
-        return 1
-    log("飞书推送成功")
+    if summary["any_alert"]:
+        msg = build_feishu_msg(results, summary["any_alert"])
+        resp = requests.post(webhook, json=msg, timeout=30)
+        resp.raise_for_status()
+        fb = resp.json()
+        if fb.get("code") != 0:
+            log(f"飞书推送失败: {fb}")
+            return 1
+        log("飞书告警推送成功")
+    else:
+        log("余额充足，不发送飞书消息")
 
     # 7. 告警状态下非零退出，便于 workflow 标记失败
     return 1 if summary["any_alert"] else 0
