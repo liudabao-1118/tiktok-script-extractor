@@ -411,16 +411,9 @@ def main() -> int:
             text = (
                 "🔑 TikTok access_token 已失效（约 24h 过期）\n"
                 f"⏰ {datetime.now():%Y-%m-%d %H:%M}\n\n"
-                "余额监控已暂停。请点击下方链接，在手机上登录授权即可恢复"
-                "（无需开电脑，授权后自动存好新 token）：\n"
-            )
-            if auth_link:
-                text += f"\n👉 {auth_link}\n"
-            else:
-                text += "\n（未配置 TT_TOKEN_URL，请联系管理员补充托管回调地址）\n"
-            text += (
-                "\n💡 彻底免手动：把 App 提交 TikTok 审核过审后授权会下发 "
-                "refresh_token，约一年不用再管。"
+                "余额监控今早未取到数据。请在电脑上喊我（AI 助手）重新授权一次即可恢复"
+                "（约 1 分钟：点授权链接 → 我更新 token → 自动恢复）。\n\n"
+                "💡 当前用静态 token（约 24h 过期）；想彻底免手动可部署云端 Worker 自动重授权。"
             )
             send_feishu(webhook, {"msg_type": "text", "content": {"text": text}})
             log("已向个人飞书推送重新授权提醒（含授权链接）")
