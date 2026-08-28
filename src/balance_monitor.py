@@ -297,15 +297,16 @@ def send_feishu(webhook: str, msg: dict) -> None:
 def main() -> int:
     app_id = os.environ.get("TT_APP_ID", "")
     app_secret = os.environ.get("TT_APP_SECRET", "")
-    token = os.environ.get("TT_ACCESS_TOKEN", "")
+    fallback_token = os.environ.get("TT_ACCESS_TOKEN", "")
     refresh_token = os.environ.get("TT_REFRESH_TOKEN", "")
     token_url = os.environ.get("TT_TOKEN_URL", "")
     token_key = os.environ.get("TT_TOKEN_KEY", "")
     webhook = os.environ.get("FEISHU_BOT_WEBHOOK", "")
     group_webhook = os.environ.get("FEISHU_GROUP_WEBHOOK", "")
 
-    # 0. 获取 token：优先级 = 托管 Worker 拉取 > refresh_token 续期 > 兜底 Secret
-    if not token and token_url and token_key:
+    # 0. 获取 token：优先级 = 托管 Worker 拉取（手机重授权）> 兜底 Secret
+    token = ""
+    if token_url and token_key:
         try:
             r = requests.get(
                 f"{token_url.rstrip('/')}/token",
@@ -319,6 +320,10 @@ def main() -> int:
                 log("已从托管 OAuth Worker 获取最新 access_token")
         except Exception as e:
             log(f"从托管地址获取 token 失败，继续尝试其他方式：{e}")
+
+    if not token and fallback_token:
+        token = fallback_token
+        log("使用兜底 Secret TT_ACCESS_TOKEN")
 
     if not token and refresh_token and app_id and app_secret:
         try:
