@@ -242,7 +242,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7671259877758553365: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:08.024760",
+    "extracted_at": "2026-09-02T03:32:02.817671",
     "row": 150
   },
   {
@@ -314,7 +314,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7664557945807539476: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:05.169446",
+    "extracted_at": "2026-09-02T03:31:59.615093",
     "row": 98
   },
   {
@@ -2578,7 +2578,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7676439915424517390: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:00.637656",
+    "extracted_at": "2026-09-02T03:31:54.324921",
     "row": 2
   },
   {
@@ -2610,7 +2610,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7677569318237850894: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:00.782507",
+    "extracted_at": "2026-09-02T03:31:54.484548",
     "row": 4
   },
   {
@@ -2642,7 +2642,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7679031019504258334: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:00.927719",
+    "extracted_at": "2026-09-02T03:31:54.678597",
     "row": 6
   },
   {
@@ -2674,7 +2674,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7677927783296863502: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:01.112016",
+    "extracted_at": "2026-09-02T03:31:54.851199",
     "row": 8
   },
   {
@@ -2706,7 +2706,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7677544263290195214: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:01.259141",
+    "extracted_at": "2026-09-02T03:31:55.000833",
     "row": 10
   },
   {
@@ -2770,7 +2770,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7634505367434661150: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:01.406483",
+    "extracted_at": "2026-09-02T03:31:55.194539",
     "row": 14
   },
   {
@@ -2818,7 +2818,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7675696751541619981: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:01.547994",
+    "extracted_at": "2026-09-02T03:31:55.362909",
     "row": 17
   },
   {
@@ -2850,7 +2850,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7672445022234479886: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:01.687299",
+    "extracted_at": "2026-09-02T03:31:55.527060",
     "row": 19
   },
   {
@@ -2866,7 +2866,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7676365621302463758: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:01.838627",
+    "extracted_at": "2026-09-02T03:31:55.727964",
     "row": 20
   },
   {
@@ -2882,7 +2882,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7673438601736228109: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:01.986783",
+    "extracted_at": "2026-09-02T03:31:55.989910",
     "row": 21
   },
   {
@@ -2898,7 +2898,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7662687768375479566: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:02.122218",
+    "extracted_at": "2026-09-02T03:31:56.157414",
     "row": 22
   },
   {
@@ -2930,7 +2930,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7663442389893221662: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:02.277487",
+    "extracted_at": "2026-09-02T03:31:56.327378",
     "row": 24
   },
   {
@@ -2978,7 +2978,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7675261628824210701: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:02.428096",
+    "extracted_at": "2026-09-02T03:31:56.472141",
     "row": 27
   },
   {
@@ -3010,7 +3010,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7676414989976030494: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:02.569111",
+    "extracted_at": "2026-09-02T03:31:56.635816",
     "row": 29
   },
   {
@@ -3042,7 +3042,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7652704096650136845: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:02.714138",
+    "extracted_at": "2026-09-02T03:31:56.828357",
     "row": 31
   },
   {
@@ -3122,7 +3122,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7674100393772715278: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:02.873410",
+    "extracted_at": "2026-09-02T03:31:56.995352",
     "row": 36
   },
   {
@@ -3170,7 +3170,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7677909915192577293: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:03.011167",
+    "extracted_at": "2026-09-02T03:31:57.128169",
     "row": 39
   },
   {
@@ -3250,7 +3250,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7677543101489073422: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:03.146367",
+    "extracted_at": "2026-09-02T03:31:57.323277",
     "row": 44
   },
   {
@@ -3266,7 +3266,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7668249162206547231: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:03.292681",
+    "extracted_at": "2026-09-02T03:31:57.487605",
     "row": 45
   },
   {
@@ -3282,7 +3282,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7678268313658608909: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:03.435464",
+    "extracted_at": "2026-09-02T03:31:57.681054",
     "row": 46
   },
   {
@@ -3346,7 +3346,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7672445425206529294: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:03.737351",
+    "extracted_at": "2026-09-02T03:31:57.869807",
     "row": 50
   },
   {
@@ -3458,7 +3458,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7674822203644349726: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:03.875063",
+    "extracted_at": "2026-09-02T03:31:58.043174",
     "row": 57
   },
   {
@@ -3474,7 +3474,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7674936480782994719: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:04.011002",
+    "extracted_at": "2026-09-02T03:31:58.220592",
     "row": 58
   },
   {
@@ -3538,7 +3538,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7676190808969628959: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:04.146813",
+    "extracted_at": "2026-09-02T03:31:58.390141",
     "row": 62
   },
   {
@@ -3554,7 +3554,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7678285565451701535: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:04.281292",
+    "extracted_at": "2026-09-02T03:31:58.588414",
     "row": 63
   },
   {
@@ -3698,7 +3698,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7671604093185461535: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:04.422512",
+    "extracted_at": "2026-09-02T03:31:58.789040",
     "row": 72
   },
   {
@@ -3778,7 +3778,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7672300391194823966: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:04.557026",
+    "extracted_at": "2026-09-02T03:31:58.972541",
     "row": 77
   },
   {
@@ -3826,7 +3826,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7676772409730485518: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:04.717021",
+    "extracted_at": "2026-09-02T03:31:59.119800",
     "row": 80
   },
   {
@@ -3922,7 +3922,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7677499388482178312: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:04.860697",
+    "extracted_at": "2026-09-02T03:31:59.299215",
     "row": 86
   },
   {
@@ -4018,7 +4018,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7668508739242118408: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:05.017426",
+    "extracted_at": "2026-09-02T03:31:59.440063",
     "row": 92
   },
   {
@@ -4114,7 +4114,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7631853444634070273: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:05.310675",
+    "extracted_at": "2026-09-02T03:31:59.812557",
     "row": 100
   },
   {
@@ -4130,7 +4130,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7675950949671669012: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:05.454897",
+    "extracted_at": "2026-09-02T03:31:59.989237",
     "row": 101
   },
   {
@@ -4146,7 +4146,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7677852111392083207: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:05.592097",
+    "extracted_at": "2026-09-02T03:32:00.157511",
     "row": 102
   },
   {
@@ -4194,7 +4194,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7675657648213200150: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:05.727849",
+    "extracted_at": "2026-09-02T03:32:00.323100",
     "row": 105
   },
   {
@@ -4290,7 +4290,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7676411852783488276: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:05.868156",
+    "extracted_at": "2026-09-02T03:32:00.499999",
     "row": 111
   },
   {
@@ -4322,7 +4322,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7676377749761592597: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:06.017097",
+    "extracted_at": "2026-09-02T03:32:00.665017",
     "row": 113
   },
   {
@@ -4354,7 +4354,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7673091675711032596: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:06.181311",
+    "extracted_at": "2026-09-02T03:32:00.801114",
     "row": 115
   },
   {
@@ -4402,7 +4402,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7678635886237568289: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:06.317151",
+    "extracted_at": "2026-09-02T03:32:00.945503",
     "row": 118
   },
   {
@@ -4450,7 +4450,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7674930523407420692: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:06.466023",
+    "extracted_at": "2026-09-02T03:32:01.096033",
     "row": 121
   },
   {
@@ -4514,7 +4514,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7675302579148000513: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:06.600518",
+    "extracted_at": "2026-09-02T03:32:01.252748",
     "row": 125
   },
   {
@@ -4530,7 +4530,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7672338814291021078: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:06.739403",
+    "extracted_at": "2026-09-02T03:32:01.401056",
     "row": 126
   },
   {
@@ -4546,7 +4546,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7569273131576151351: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:06.882198",
+    "extracted_at": "2026-09-02T03:32:01.576162",
     "row": 127
   },
   {
@@ -4594,7 +4594,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7674925228253793554: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:07.023486",
+    "extracted_at": "2026-09-02T03:32:01.712543",
     "row": 130
   },
   {
@@ -4610,7 +4610,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7636988905144847623: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:07.169219",
+    "extracted_at": "2026-09-02T03:32:01.861500",
     "row": 131
   },
   {
@@ -4770,7 +4770,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7677527086117965064: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:07.317306",
+    "extracted_at": "2026-09-02T03:32:02.033507",
     "row": 141
   },
   {
@@ -4786,7 +4786,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7677536569250549012: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:07.455394",
+    "extracted_at": "2026-09-02T03:32:02.203614",
     "row": 142
   },
   {
@@ -4850,7 +4850,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7673065404167654686: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:07.595059",
+    "extracted_at": "2026-09-02T03:32:02.356137",
     "row": 146
   },
   {
@@ -4882,7 +4882,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7665185560348101908: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:07.741128",
+    "extracted_at": "2026-09-02T03:32:02.501899",
     "row": 148
   },
   {
@@ -4898,7 +4898,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7677855432630717717: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:07.890667",
+    "extracted_at": "2026-09-02T03:32:02.644865",
     "row": 149
   },
   {
@@ -4930,7 +4930,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7675953620159859985: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:08.162303",
+    "extracted_at": "2026-09-02T03:32:02.985017",
     "row": 152
   },
   {
@@ -4962,7 +4962,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7669690741819493650: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-02T03:21:08.299382",
+    "extracted_at": "2026-09-02T03:32:03.174025",
     "row": 154
   },
   {
