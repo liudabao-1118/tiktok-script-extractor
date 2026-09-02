@@ -195,8 +195,20 @@ class FeishuClient:
         Rows that already have a translation but no video_type yet are picked
         up too, so the new analysis columns get backfilled without re-download.
         """
+        rows = self.read_table()
+        print(f"  [debug] read_table returned {len(rows)} link rows")
+        if rows:
+            print(f"  [debug] first row: {rows[0]}")
+            print(f"  [debug] last row:  {rows[-1]}")
+        else:
+            # Print what we actually read to diagnose empty results
+            try:
+                raw = self.read_range(f"A1:F{min(self.max_rows, 10)}")
+                print(f"  [debug] A1:F10 raw read: {raw}")
+            except Exception as e:
+                print(f"  [debug] A1:F10 read failed: {e}")
         pending = []
-        for item in self.read_table():
+        for item in rows:
             orig = item["original"]
             is_failed = (orig in FAILED_MARKERS) or (not orig)
             needs_extract = is_failed or not item["translation"]
