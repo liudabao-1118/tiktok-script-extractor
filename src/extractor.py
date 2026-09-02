@@ -20,32 +20,71 @@ class TikTokExtractor:
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
         })
 
-    def get_video_info(self, url, retries=3):
-        """Fetch video metadata from tikwm.com API (with rate-limit retry)."""
+    def get_video_info(self, url, retries=2):
+        """Fetch video metadata, trying tikwm.com first then yt-dlp.
+
+        tikwm.com is a free API that frequently gets Cloudflare-blocked (403).
+        When it fails, we fall back to yt-dlp which resolves TikTok URLs directly
+        and returns title/duration/play URL (and auto-subtitles if present).
+        Returns a dict in tikwm-compatible shape (keys: id, title, duration,
+        author, play, subtitle/subtitle_url) or {'status':'error', ...}.
+        """
+        # 1) tikwm.com
         for attempt in range(retries):
             try:
                 resp = self.session.get(
                     self.TIKWM_API,
                     params={"url": url},
-                    timeout=30
+                    timeout=20
                 )
-                resp.raise_for_status()
+                if resp.status_code != 200:
+                    # 403 / Cloudflare block — fall through to yt-dlp
+                    return self._ytdlp_video_info(url)
                 data = resp.json()
                 if data.get("code") == 0:
                     return data.get("data", {})
                 msg = data.get("msg", "Unknown API error")
-                # Rate limit (free tier: 1 req/s) -> back off and retry
                 if "limit" in msg.lower() or "rate" in msg.lower():
                     time.sleep(2.5)
                     continue
                 return {"status": "error", "error_message": msg}
-            except requests.RequestException as e:
-                time.sleep(2.5)
+            except (requests.RequestException, json.JSONDecodeError, ValueError) as e:
+                time.sleep(2.0)
                 if attempt == retries - 1:
-                    return {"status": "error", "error_message": f"tikwm API failed: {str(e)}"}
-            except (json.JSONDecodeError, KeyError) as e:
-                return {"status": "error", "error_message": f"Parse error: {str(e)}"}
-        return {"status": "error", "error_message": "tikwm retry exhausted"}
+                    return self._ytdlp_video_info(url)
+        return self._ytdlp_video_info(url)
+
+    def _ytdlp_video_info(self, url):
+        """Resolve video metadata via yt-dlp (falls back to TikTok page directly)."""
+        try:
+            import yt_dlp
+            ydl_opts = {
+                "quiet": True,
+                "no_warnings": True,
+                "format": "best[ext=mp4]/best",
+                "skip_download": True,
+                "socket_timeout": 20,
+            }
+            with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                info = ydl.extract_info(url, download=False)
+            if not info:
+                return {"status": "error", "error_message": "yt-dlp returned no info"}
+            return {
+                "id": info.get("id", ""),
+                "title": info.get("title", ""),
+                "description": info.get("description", ""),
+                "duration": info.get("duration", 0),
+                "author": info.get("uploader", ""),
+                "play": info.get("url", ""),
+                "play_no_watermark": info.get("url", ""),
+                "source": "yt_dlp",
+                # capture auto captions / subtitles if TikTok provides them
+                "_ytdlp_subtitles": (
+                    info.get("subtitles") or info.get("automatic_captions") or {}
+                ),
+            }
+        except Exception as e:
+            return {"status": "error", "error_message": f"yt-dlp failed: {str(e)}"}
 
     def download_audio(self, video_url, output_path):
         """Download video and extract audio using ffmpeg."""
@@ -152,7 +191,7 @@ class TikTokExtractor:
             if not result["author"]:
                 result["author"] = "@" + author_info.get("unique_id", author_info.get("nickname", ""))
 
-        # Step 2: Try to get subtitles from tikwm.com (if available)
+        # Step 2: Try to get subtitles — tikwm URL form or yt-dlp caption dict
         subtitle_url = info.get("subtitle") or info.get("subtitle_url")
         if subtitle_url:
             try:
@@ -161,6 +200,19 @@ class TikTokExtractor:
                 subtitle_text = self._parse_subtitle(sub_resp.text)
                 if subtitle_text:
                     result["original_text"] = subtitle_text
+                    result["language"] = "auto"
+                    result["status"] = "success"
+                    return result
+            except Exception:
+                pass
+
+        # yt-dlp may have returned automatic captions / subtitles as a dict
+        yt_subtitles = info.get("_ytdlp_subtitles")
+        if yt_subtitles:
+            try:
+                text = self._extract_ytdlp_subtitles(yt_subtitles)
+                if text:
+                    result["original_text"] = text
                     result["language"] = "auto"
                     result["status"] = "success"
                     return result
@@ -227,6 +279,46 @@ class TikTokExtractor:
                 return info.get("url") or None
         except Exception:
             return None
+
+    def _extract_ytdlp_subtitles(self, subs_dict):
+        """Download & parse subtitles from a yt-dlp subtitles/automatic_captions dict.
+
+        The dict maps language code -> list of {url, ext, ...}. We prefer the
+        first language that has a .vtt/.srt/.json3 URL and return its plain text.
+        """
+        import yt_dlp
+        if not subs_dict:
+            return ""
+        # yt-dlp captions keys look like 'en-orig', 'en' etc.
+        preferred = None
+        for lang, entries in subs_dict.items():
+            if not entries:
+                continue
+            # pick the first entry with a usable extension
+            for e in entries:
+                ext = (e.get("ext") or "").lower()
+                if ext in ("vtt", "srt", "json3"):
+                    preferred = e
+                    break
+            if preferred:
+                break
+        if not preferred:
+            return ""
+        url = preferred.get("url")
+        if not url:
+            return ""
+        sub_resp = self.session.get(url, timeout=15)
+        sub_resp.raise_for_status()
+        ext = (preferred.get("ext") or "").lower()
+        if ext == "json3":
+            # json3 is W3C JSON subtitles
+            data = sub_resp.json()
+            parts = []
+            for cue in data.get("body", []):
+                for item in cue.get("cues", []):
+                    parts.append(item.get("text", ""))
+            return " ".join(p for p in parts if p).strip()
+        return self._parse_subtitle(sub_resp.text)
 
     @staticmethod
     def _parse_subtitle(content):
