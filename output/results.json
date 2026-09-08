@@ -5042,7 +5042,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:16:01.251209",
+    "extracted_at": "2026-09-08T08:32:01.554945",
     "row": 2
   },
   {
@@ -5058,7 +5058,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:16:03.965774",
+    "extracted_at": "2026-09-08T08:32:04.397685",
     "row": 3
   },
   {
@@ -5074,7 +5074,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:16:06.809655",
+    "extracted_at": "2026-09-08T08:32:07.121853",
     "row": 4
   },
   {
@@ -5090,7 +5090,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:16:14.413089",
+    "extracted_at": "2026-09-08T08:32:09.861938",
     "row": 6
   },
   {
@@ -5106,7 +5106,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:16:17.099981",
+    "extracted_at": "2026-09-08T08:32:13.165523",
     "row": 7
   },
   {
@@ -5122,7 +5122,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:16:19.879058",
+    "extracted_at": "2026-09-08T08:32:15.983715",
     "row": 8
   },
   {
@@ -5154,7 +5154,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:23:36.244268",
+    "extracted_at": "2026-09-08T08:32:24.275325",
     "row": 100
   },
   {
@@ -5186,7 +5186,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:16:41.261693",
+    "extracted_at": "2026-09-08T08:32:32.206384",
     "row": 13
   },
   {
@@ -5202,7 +5202,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:16:44.082303",
+    "extracted_at": "2026-09-08T08:32:34.926679",
     "row": 14
   },
   {
@@ -5266,7 +5266,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:16:46.836045",
+    "extracted_at": "2026-09-08T08:32:37.699498",
     "row": 15
   },
   {
@@ -5327,10 +5327,10 @@
     "language": "",
     "duration": "64s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/owgfW3AQyiFzcHTqAKQ9E9IXfpEWQBEVmBwRli/?a=1988&bti=ODszNWYuMDE6&&bt=893&ft=4KJMyMzm8Zmo08rkGa4jVkofdpWrKsd.&mime_type=video_mp4&rc=N2UzZDU1Njc1NDQ0PGc6NEBpMzllN2o5cmp5ZDMzaTczNEBeLzQxMWIvXzYxLS1jYF8tYSMyY3JiMmRjNl9hLS1kMTJzcw%3D%3D&expire=1789028590&l=20260908082206252DAB679CC03B001635&ply_type=2&policy=2&signature=4c2da51e47ee478bad4b2ca3be481ed8&tk=tt_chain_token&btag=e00090000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/owgfW3AQyiFzcHTqAKQ9E9IXfpEWQBEVmBwRli/?a=1988&bti=ODszNWYuMDE6&&bt=893&ft=aEeq8qT0mIoPD12xX-KI3wUgeBAbMeF~O5&mime_type=video_mp4&rc=N2UzZDU1Njc1NDQ0PGc6NEBpMzllN2o5cmp5ZDMzaTczNEBeLzQxMWIvXzYxLS1jYF8tYSMyY3JiMmRjNl9hLS1kMTJzcw%3D%3D&expire=1789029225&l=202609080832412C1F117BCE076E002702&ply_type=2&policy=2&signature=d04c19f859b28af29f57995274ed87b6&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:22:06.893228",
+    "extracted_at": "2026-09-08T08:32:41.669726",
     "row": 82
   },
   {
@@ -5346,7 +5346,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:16:57.241307",
+    "extracted_at": "2026-09-08T08:32:45.495758",
     "row": 18
   },
   {
@@ -5410,7 +5410,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:17:02.907062",
+    "extracted_at": "2026-09-08T08:32:51.310355",
     "row": 20
   },
   {
@@ -5426,7 +5426,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:17:05.712212",
+    "extracted_at": "2026-09-08T08:32:54.017566",
     "row": 21
   },
   {
@@ -5538,7 +5538,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:17:59.560836",
+    "extracted_at": "2026-09-08T08:33:14.243020",
     "row": 31
   },
   {
@@ -5570,7 +5570,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:18:06.652813",
+    "extracted_at": "2026-09-08T08:33:17.028454",
     "row": 33
   },
   {
@@ -5586,7 +5586,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:18:09.476349",
+    "extracted_at": "2026-09-08T08:33:19.878637",
     "row": 34
   },
   {
@@ -5618,7 +5618,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:18:23.706005",
+    "extracted_at": "2026-09-08T08:33:22.631619",
     "row": 36
   },
   {
@@ -5650,7 +5650,7 @@
     "error_message": "Download/ffmpeg error: ffmpeg failed: ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers\n  built with gcc 13 (Ubuntu 13.2.0-23ubuntu3)\n  configuration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened -",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:18:36.501003",
+    "extracted_at": "2026-09-08T08:33:26.822286",
     "row": 38
   },
   {
@@ -5698,7 +5698,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:18:51.427041",
+    "extracted_at": "2026-09-08T08:33:29.591048",
     "row": 40
   },
   {
@@ -5762,7 +5762,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:23:07.905412",
+    "extracted_at": "2026-09-08T08:33:32.456250",
     "row": 94
   },
   {
@@ -5810,7 +5810,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:19:40.191176",
+    "extracted_at": "2026-09-08T08:33:38.074052",
     "row": 48
   },
   {
@@ -5842,7 +5842,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:19:50.726628",
+    "extracted_at": "2026-09-08T08:33:40.816918",
     "row": 50
   },
   {
@@ -5874,7 +5874,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:19:53.316625",
+    "extracted_at": "2026-09-08T08:33:43.607651",
     "row": 51
   },
   {
@@ -5890,7 +5890,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:19:56.236200",
+    "extracted_at": "2026-09-08T08:33:46.369838",
     "row": 52
   },
   {
@@ -5922,7 +5922,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:20:07.411371",
+    "extracted_at": "2026-09-08T08:33:49.059462",
     "row": 54
   },
   {
@@ -5938,7 +5938,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:20:10.253323",
+    "extracted_at": "2026-09-08T08:33:51.889123",
     "row": 55
   },
   {
@@ -6062,7 +6062,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:20:39.977827",
+    "extracted_at": "2026-09-08T08:33:54.805348",
     "row": 60
   },
   {
@@ -6110,7 +6110,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:20:51.172380",
+    "extracted_at": "2026-09-08T08:33:57.624528",
     "row": 63
   },
   {
@@ -6158,7 +6158,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:21:03.615068",
+    "extracted_at": "2026-09-08T08:34:00.396988",
     "row": 66
   },
   {
@@ -6188,7 +6188,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:21:06.599845",
+    "extracted_at": "2026-09-08T08:34:03.455000",
     "row": 67
   },
   {
@@ -6204,7 +6204,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:21:09.496021",
+    "extracted_at": "2026-09-08T08:34:06.280791",
     "row": 68
   },
   {
@@ -6220,7 +6220,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:21:15.410928",
+    "extracted_at": "2026-09-08T08:34:08.991787",
     "row": 70
   },
   {
@@ -6236,7 +6236,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:21:18.158052",
+    "extracted_at": "2026-09-08T08:34:11.731512",
     "row": 71
   },
   {
@@ -6330,7 +6330,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:21:41.585847",
+    "extracted_at": "2026-09-08T08:34:14.461338",
     "row": 76
   },
   {
@@ -6362,7 +6362,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:21:44.387553",
+    "extracted_at": "2026-09-08T08:34:17.193757",
     "row": 77
   },
   {
@@ -6378,7 +6378,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:21:47.116310",
+    "extracted_at": "2026-09-08T08:34:20.084592",
     "row": 78
   },
   {
@@ -6410,7 +6410,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:22:03.382126",
+    "extracted_at": "2026-09-08T08:34:25.690855",
     "row": 81
   },
   {
@@ -6472,7 +6472,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:22:17.425067",
+    "extracted_at": "2026-09-08T08:34:28.561987",
     "row": 84
   },
   {
@@ -6566,7 +6566,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:22:50.285926",
+    "extracted_at": "2026-09-08T08:34:31.395661",
     "row": 90
   },
   {
@@ -6582,7 +6582,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:22:53.018236",
+    "extracted_at": "2026-09-08T08:34:34.252174",
     "row": 91
   },
   {
@@ -6662,7 +6662,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:23:10.759227",
+    "extracted_at": "2026-09-08T08:34:37.022264",
     "row": 95
   },
   {
@@ -6694,7 +6694,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:23:24.073721",
+    "extracted_at": "2026-09-08T08:34:43.828335",
     "row": 98
   },
   {
@@ -10076,7 +10076,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:16:22.747093",
+    "extracted_at": "2026-09-08T08:32:18.696876",
     "row": 9
   },
   {
@@ -10092,7 +10092,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:16:25.417040",
+    "extracted_at": "2026-09-08T08:32:21.463416",
     "row": 10
   },
   {
@@ -10124,7 +10124,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:17:00.077778",
+    "extracted_at": "2026-09-08T08:32:48.352105",
     "row": 19
   },
   {
@@ -10140,7 +10140,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:17:08.515734",
+    "extracted_at": "2026-09-08T08:32:56.912661",
     "row": 22
   },
   {
@@ -10156,7 +10156,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:17:11.159093",
+    "extracted_at": "2026-09-08T08:32:59.620241",
     "row": 23
   },
   {
@@ -10180,15 +10180,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7676390718834773278?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "Ashamed to wear sandals because of this? 🩴 We’ve been there. This changes everything.#nailcare #nailtreatment #onychomycosis #glowup #tiktokmademebuyit ",
-    "original_text": "[提取失败] Download/ffmpeg error: ffmpeg failed: ffmpeg versi",
-    "translated_text": "",
-    "language": "",
+    "original_text": "a ver soy Carlos y la neta no creía que se me va a quitar el omo de las unas, pero ya llevo un año así limpio se los cuento que Ok esa unia marilla y gruesa todavía tiene arreglo, pero si la dejas así el hongo se va a comer de cuatro a cinco milímetros dentro de tu unia y no estoy exagerando Yo batalla con hongos de las unias por como diez años y provee de todo, vinagre, aceite de árbol de a ti, de todo nada funcionó hasta que mi podrólogo me recomendo esto si hayan te dice que el hongo no tiene remedio, es porque no ha probado lo correcto Este es el suero doctor Bill Ripper, lo usan en clínicas de podología de verdad y está certificado por la FDA Se absorben las zonas afectadas en 10 segundos y de verdad se siente que está funcionando Para el día siete se calma la irritación, para el día 14 empieza a desaparecer lo amarillo y para el día 21 mis unias ya se veían normales otra vez Se lo juro, no deses que empeore y termine gastando miles de dólares en una cirugía para quitarte la unia Lo desuna el carrito a la izquierda, compra lo ahora, tiene 50% de descuentos y compra 2 y es 100% original garantizado",
+    "translated_text": "让我们看看，我是卡洛斯，老实说我不认为真菌会从我的指甲上脱落，但我已经干净一年了，我会告诉你，好吧，黄色和厚厚的乌尼亚仍然可以修复，但如果你像这样留下它，真菌会吃掉你指甲内的四到五毫米，我并不夸张。我已经与灰指甲作斗争了大约十年，我提供了一切，醋，树油，一切，但没有任何效果，直到我的足病医生推荐我。如果他们告诉你真菌没有治疗方法，那是因为他们没有尝试正确的方法。这是 Bill Ripper 博士的血清，他们在真正的足病诊所中使用它，并且经过 FDA 认证。它会在 10 秒内吸收受影响的区域，并且您会真正感觉到它正在起作用。到了第 7 天，刺激就会平静下来，到第 14 天，黄色开始消失，到第 21 天，我的指甲看起来又恢复正常了。我发誓，不要希望情况变得更糟，最后你会在去除指甲的手术中花费数千美元。左边购物车里拿出来，现在买，有50%折扣，买2个，100%正品保证",
+    "language": "es",
     "duration": "60s",
-    "status": "error",
-    "error_message": "Download/ffmpeg error: ffmpeg failed: ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers\n  built with gcc 13 (Ubuntu 13.2.0-23ubuntu3)\n  configuration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened -",
-    "video_type": "",
-    "video_structure": "",
-    "extracted_at": "2026-09-08T08:17:43.662841",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:33:11.480722",
     "row": 28
   },
   {
@@ -10236,7 +10236,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:19:28.550358",
+    "extracted_at": "2026-09-08T08:33:35.253702",
     "row": 46
   },
   {
@@ -10268,7 +10268,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:21:49.929068",
+    "extracted_at": "2026-09-08T08:34:22.939952",
     "row": 79
   },
   {
@@ -10300,7 +10300,391 @@
     "error_message": "Download/ffmpeg error: ffmpeg failed: ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers\n  built with gcc 13 (Ubuntu 13.2.0-23ubuntu3)\n  configuration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened -",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:23:21.413438",
+    "extracted_at": "2026-09-08T08:34:40.973926",
     "row": 97
+  },
+  {
+    "video_id": "7678807571557387527",
+    "url": "https://www.tiktok.com/@anker_uk/video/7678807571557387527?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "#RegresoAClasesConTikTokShop #SprayBucal #Menta #CuidadoBucal #AlientoFresco ",
+    "original_text": "Los espalzos que ales más divertidos y más deliciosos que vas a encontrar aquí en Tik Tok Shop con un super descuento, lleva a 2 con un descuentazo y envio gratis. Dale clic en el carrito nada en jaun de vice tienda para que veas todos los sabores disponibles. Están deliciosos y represcan tu boca de una manera única y deliciosa. Corle porque la parta termina de esta noche y aproceje en el carrito nada en jaun.",
+    "translated_text": "最搞笑、最美味的背影，你都可以在抖音店找到，超级折扣，折扣买 2 个，免运费。单击副商店中的购物车，这样您就可以看到所有可用的口味。它们味道鲜美，以独特美味的方式让您的口腔焕然一新。跑吧，因为比赛今晚结束，在 jaun 中不要将任何东西放入购物车。",
+    "language": "es",
+    "duration": "24s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:34:49.388366",
+    "row": 101
+  },
+  {
+    "video_id": "7679214517666057480",
+    "url": "https://www.tiktok.com/@anker_uk/video/7679214517666057480?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "#RegresoAClasesConTikTokShop #dientesblancos #sonrisa    Desclaimer: la promoción mencionada es vigente al momento de la grabación y puede cambiar dentro de tiktokshop",
+    "original_text": "Te presento las tiras blanca doras que han mejorado muchísimo mis sonrisa, son super sencillas de aplicar y en 30 minutos verás la diferencia. Si quieres las tuyas de aleclica aquí en el carrito naraja, para que aproveches ese super precio y decidas y cumbras una, dos, a hasta 3 cajitas. Pero no lo pienso es mucho porque ese descuento pueda acabar de pronto.",
+    "translated_text": "我向您展示白金条，它极大地改善了我的笑容，它们非常容易涂抹，30 分钟后您就会看到差异。如果您想在橙色购物车中购买 Aleclica 的产品，那么您可以利用超级价格，决定购买一盒、两盒、最多 3 盒。但我认为这并不算太多，因为折扣可能会突然结束。",
+    "language": "es",
+    "duration": "22s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:34:53.458051",
+    "row": 102
+  },
+  {
+    "video_id": "7680247971790851336",
+    "url": "https://www.tiktok.com/@anker_uk/video/7680247971790851336?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "#RegresoAClasesConTikTokShop ",
+    "original_text": "Con un super descuente con envío gratis y se van a por llevarliado y estas mascarillas en tales y lo único que necesitan hacer es adquirir la rápidamente de mi carrito naranja, que espera.",
+    "translated_text": "有了超级折扣和免费送货，他们会变得很忙，这些口罩如此，他们所需要做的就是快速从我正在等待的橙色购物车中购买一个。",
+    "language": "es",
+    "duration": "8s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:34:57.725168",
+    "row": 103
+  },
+  {
+    "video_id": "7680556443895942418",
+    "url": "https://www.tiktok.com/@anker_uk/video/7680556443895942418?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "¿Qué esperan para aprovechar las ofertas?  #HotSaleEnTikTokShopMX #fyppppppppppppppppppppppp #tiktokshop #toyocare",
+    "original_text": "Solo hoy es el último día para comprarlo este precio increíble. Si lo quieres, agrega a lo primero al carrito de compra si continuaste a la página de pago, ya que TikTok aplicara.",
+    "translated_text": "今天是以如此令人难以置信的价格购买它的最后一天。如果您想要它，请先将其添加到购物车（如果您继续进入付款页面），因为 TikTok 将适用。",
+    "language": "es",
+    "duration": "7s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:35:01.560984",
+    "row": 104
+  },
+  {
+    "video_id": "7680323820233706773",
+    "url": "https://www.tiktok.com/@anker_uk/video/7680323820233706773?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "#lizaty#tirasblnauqadoras ",
+    "original_text": "Y llegaron estas tiras blanqueadoras, y pues vamos a ver si si funcionan. Les enseñó el antes para que vean la diferencia. Y no está difícil de aplicar, son moraditas, y no tienen mal sabor. Y pues yo soy la diferencia, y traí ocho paquetitos para que te apliques 8 veces el tratamiento y veas mejores resultados.",
+    "translated_text": "这些美白贴片到了，好吧，让我们看看它们是否有效。他向他们展示了之前的情况，以便他们能够看到差异。而且涂抹起来也不难，是紫色的，而且味道也不差。好吧，我就是与众不同，我带来了八包，这样您就可以进行 8 次治疗，并看到更好的效果。",
+    "language": "es",
+    "duration": "20s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:35:05.564499",
+    "row": 105
+  },
+  {
+    "video_id": "7679339924541230354",
+    "url": "https://www.tiktok.com/@anker_uk/video/7679339924541230354?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "¿Qué esperan para aprovechar las ofertas?  #HotSaleEnTikTokShopMX #fyppppppppppppppppppppppp #tiktokshop #toyocare",
+    "original_text": "Hoy es el último día para comprarlo este precio de locura. Si lo quieres asegurarte de agregarlo a tu carrero y finalizarla con práora mismo, porque tiktok aplicar automáticamente tus cupones y...",
+    "translated_text": "今天是以如此疯狂的价格购买它的最后一天。如果您想要，请确保将其添加到购物车并立即完成，因为抖音会自动应用您的优惠券并...",
+    "language": "es",
+    "duration": "7s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:35:08.662962",
+    "row": 106
+  },
+  {
+    "video_id": "7679215029333396754",
+    "url": "https://www.tiktok.com/@anker_uk/video/7679215029333396754?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "#ventaquincenal #RegresoAClasesConTikTokShop ",
+    "original_text": "Volvieron a bajar de precios tracilitas, blanque, adoras, corre el botón titón arranca que está arriba de mi nombre, checa del precios que te están dando por estas tiras. Fíjate si tienes que ponerse descuento y envió gratis para que aprovechas la promoción y te los lleves hoy mismo. Ah, presurate porque el descuento se acaba, hoy no va a estar disponible todo el día, esperando a que tú te decidas si los quieres o no. Aprovecha el precios especial que trae el día de hoy y lleva te los llamismo, te los dejo en el botón titón arranja arriba de mi nombre.",
+    "translated_text": "他们再次降低了价格，白色的小东西，你喜欢它们，运行我名字上方的 titon 启动按钮，查看他们为这些条带提供的价格。看看您是否需要获得折扣和免费送货，以便您可以利用促销活动并立即购买。噢，要快点，因为折扣已经结束了，今天全天都没有，等你决定要不要。利用今天带来的特价并将它们带给您，我会打电话给他们，我会将它们留在我名字上方的 titon aranja 按钮中。",
+    "language": "es",
+    "duration": "25s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:35:13.492847",
+    "row": 107
+  },
+  {
+    "video_id": "7678646200609934613",
+    "url": "https://www.tiktok.com/@anker_uk/video/7678646200609934613?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "#parati #ofertas#tiktoshop #tiktoklive #fyp #fypppppppppppppp #tiktok #shop",
+    "original_text": "Hoy es el último día para comprarlo a un precio tan loco, que si también lo quieres, lo agregas al carrito de la compra y lo paga, tiktok aplicará automáticamente el cupol. El tratamiento definitivo de pasta dental morada blanchadora, resultados visibles desde los primeros usos y al mejor precio del mercado.",
+    "translated_text": "今天是最后一天以如此疯狂的价格购买它，如果你也想要它，将其添加到购物车并付款，tiktok 会自动应用 coupol。终极紫色美白牙膏，首次使用即可见效，并且价格处于市场上最优惠的价格。",
+    "language": "es",
+    "duration": "15s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:35:17.014396",
+    "row": 108
+  },
+  {
+    "video_id": "7678630998149483796",
+    "url": "https://www.tiktok.com/@anker_uk/video/7678630998149483796?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "Dúo de spray bucal de sabores con probióticos que cuidan tu salud bucal Mentiktokshop #ceelikespray #spraybucal #ceelikeprobioticoralspray #malolordeboca ",
+    "original_text": "Te apesta la boca, un chicle ya no es suficiente y tienes que ir a ver a tu amorcito. Este es priorar es tu salvación en momentos inesperados, solo una rociada en tu boca y tendrás un aliento fresco, rico y besable. Es un tamaño perfecto para llevarlo y usarlo en cualquier lugar. Perfecto para después de echarte tus taquitos con cebolla. Deja una sensación fresca y limpia en tu boca. Así que dile a Dios a los momentos incómodos y corre por el tuyo. Aquí abajo en el carrito naranja de TikTok Shop.",
+    "translated_text": "你的嘴很臭，一块口香糖已经不够了，你必须去看你的爱人。这优先是你在意想不到的时刻的救赎，只需一喷在嘴里，你就会拥有清新、浓郁、令人亲吻的呼吸。它的尺寸非常适合携带和在任何地方使用。非常适合在吃完洋葱玉米饼后享用。给您的口腔留下清新干净的感觉。所以，告诉上帝那些不舒服的时刻，并回顾一下你的时刻。在橙色 TikTok 商店购物车中。",
+    "language": "es",
+    "duration": "28s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:35:20.996546",
+    "row": 109
+  },
+  {
+    "video_id": "7678216077993692424",
+    "url": "https://www.tiktok.com/@anker_uk/video/7678216077993692424?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "Si tienes mal aliento, prueba este increíble producto! Perfecto para unos buenos besos o estar con muchas personas con toda la seguridad y confianza de que no te olerá mal la boca! #spraybucal #higiene #malolor #tiktokshop #bucal",
+    "original_text": "Lleva T12 es pride por el precio de 1, aprovecha que tiene el 65% de descuento y con envío gratis, frescura duradera y cuidado oral, con saboramente, realmente vale en la pena y más por el precio, 100% recomendado, para darle un toque final después de la parte los dientes, si tú quieres tupa que te puedes atirirlo aquí, en el carrito naranja.",
+    "translated_text": "就拿T12来说，1个的价格很自豪，利用65%的折扣，而且免运费，持久的新鲜度和口腔护理，有味道，真的很值得，更物有所值，100%推荐，在牙齿部分后做最后的润色，如果你想要的话可​​以在这里，在橙色的推车里得到。",
+    "language": "es",
+    "duration": "22s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:35:25.837758",
+    "row": 110
+  },
+  {
+    "video_id": "7681236170642132231",
+    "url": "https://www.tiktok.com/@anker_uk/video/7681236170642132231?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "Haz clic en el botón inferior izquierdo para comprar y obtén el descuento#flypシ🤗❤️🙏 #fpy #fpyシ #fyp #foryou",
+    "original_text": "Solo hoy es el último día para comprarlo este precio increíble. Si lo quieres, agrega lo primero al carrito de compra si continúa hasta la página de pago, ya que TikTok aplicará automáticamente tu scupón.",
+    "translated_text": "今天是以如此令人难以置信的价格购买它的最后一天。如果您需要，请在继续结帐页面时将第一个添加到购物车，因为 TikTok 会自动应用您的优惠券。",
+    "language": "es",
+    "duration": "8s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:35:28.460223",
+    "row": 111
+  },
+  {
+    "video_id": "7678793482613411080",
+    "url": "https://www.tiktok.com/@anker_uk/video/7678793482613411080?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "#RegresoAClasesConTikTokShop #backtoschool2026 #regresoaclases #ventaquincenal #backtoschool ",
+    "original_text": "que te recorden por todo, pero no por un mal aliento, y es que me encantan estos es práis bucales de selic que tienen probióticos con dos disparos, te duran más o menos 3 a 4 horas, ya te lo estoy dejando en el carito naranja, hay varios sabores, a mí me gustó este que es de limón y este de pepino, pero tú escoger que me esta guste a aprovecharlos.",
+    "translated_text": "他们会记住你的一切，但不会记住口臭，我喜欢这些含有益生菌的 Selic 口腔喷雾剂，注射两次，它们的持续时间大约为 3 到 4 小时，我已经把它留在你的橙色脸上了，有几种口味，我喜欢这个是柠檬味的，这个是黄瓜味的，但你可以选择你喜欢的一种并利用它们。",
+    "language": "es",
+    "duration": "20s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:35:32.282579",
+    "row": 112
+  },
+  {
+    "video_id": "7677927714267090197",
+    "url": "https://www.tiktok.com/@anker_uk/video/7677927714267090197?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "#HogarYVida #dicasparacasa #productosparaelcabello #VidaEnCasa #aaa",
+    "original_text": "Lo bien tiktok y tuve que pedirlo mirada a nada más, estas que estendenta el eslicitido de una corregil color y realiza en el brillo natural de tu sonrisa. Son fácil de usar y perfectas para el cuidado vocal diario.",
+    "translated_text": "抖音的好处，我不得不要求它就是不看别的，这些都是色彩校正的亮点，并实现你微笑的自然光泽。它们易于使用，非常适合日常声音护理。",
+    "language": "es",
+    "duration": "10s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:35:36.574879",
+    "row": 113
+  },
+  {
+    "video_id": "7679888968715898130",
+    "url": "https://www.tiktok.com/@anker_uk/video/7679888968715898130?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "#ventaquincenal #RegresoAClasesConTikTokShop ",
+    "original_text": "Este es la razón, por la que siempre te digo que es muy importante que leas las reseñas de un producto antes de comprar lo chiqui. JPD, esta pasta de dientes convertidos y no sabes estoy encantada. Además, si no preciais hoy, llegue a tocar tu naranja y ve el porcentaje descuento que tiene los acupones envió gratis y además aquí en Tintoyop es compras segura chiqui. Hasta la puerta de tu casa me encanta porque además te pueden ver a tener un aliento todavía más fresco, también te puede ayudar con las manchas de café, con los dientes amarillos, pero la verdad es que a mí me gustó mucho, así que te le recomiendo. Aprovecha porque la promo se termina pronto y ya te la dije aquí abajo en el carto naranja arriba y mi nombre.",
+    "translated_text": "这就是为什么我总是告诉你，在购买小东西之前阅读产品评论非常重要。 JPD，这款经过改造的牙膏，你不知道我很高兴。另外，如果你今天不买，可以摸摸你的橙子，看看优惠券免运费的百分比折扣，而且在 Tintoyop 购物也很安全，小孩子们。即使在你家门口我也喜欢它，因为他们也可以看到你有更清新的口气，它还可以帮助你去除咖啡渍、黄牙，但事实是我非常喜欢它，所以我推荐它。请充分利用，因为促销活动即将结束，我已经在上面的橙色卡片中告诉了您我的名字。",
+    "language": "es",
+    "duration": "36s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:35:42.379008",
+    "row": 114
+  },
+  {
+    "video_id": "7680501588602965269",
+    "url": "https://www.tiktok.com/@anker_uk/video/7680501588602965269?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "¿Qué esperan para aprovechar las ofertas? 🤩💚🫠#HotSaleEnTikTokShopMX#fyppppppppppppppppppppppp#tiktokshop#toyocare#fyp#fryou#beauty",
+    "original_text": "Solo hoy es el último día para comprarlo este precio increíble. Si lo quieres, agrega lo primero al carrito de compra si continúa hasta la página de pago, ya que TikTok aplicará automáticamente tu scupón.",
+    "translated_text": "今天是以如此令人难以置信的价格购买它的最后一天。如果您需要，请在继续结帐页面时将第一个添加到购物车，因为 TikTok 会自动应用您的优惠券。",
+    "language": "es",
+    "duration": "8s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:35:45.174024",
+    "row": 115
+  },
+  {
+    "video_id": "7679366137913658642",
+    "url": "https://www.tiktok.com/@anker_uk/video/7679366137913658642?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "iNo lo dudes! Date prisa y compralo mientras no este agotado.",
+    "original_text": "Hoy es el último día para conseguirlo aprecios locos como estos. Si lo quieres, agrega al carrito y veas hasta el checkout.",
+    "translated_text": "今天是获得此类疯狂赞赏的最后一天。如果您需要，请添加到购物车并等待结帐。",
+    "language": "es",
+    "duration": "7s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:35:48.581374",
+    "row": 116
+  },
+  {
+    "video_id": "7677543745155353872",
+    "url": "https://www.tiktok.com/@anker_uk/video/7677543745155353872?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "Dúo de spray bucal de sabores con probióticos que cuidan tu salud bucal #entiktokshop #ceelikespray #spravbucal #ceelikeprobioticoralspray #malolordeboca",
+    "original_text": "Te apesta la boca, un chicle ya no es suficiente, y tienes que ir a ver a tu amorcito. Este es priorar es tu salvación en momentos inesperados, solo una rociada en tu boca, y tendrás un aliento fresco, rico y besable. Es un tamaño perfecto para llevarlo y usarlo en cualquier lugar. Perfecto para después de echarte tus taquitos con cebolla. Deja una sensación fresca y limpia en tu boquita. Así que dile a Dios a los momentos incómodos y corre por el tuyo. Aquí abajo en el carrito...",
+    "translated_text": "你的嘴很臭，一块口香糖已经不够了，你必须去看你的爱人。这优先是你在意想不到的时刻的救赎，只需一喷在嘴里，你就会拥有清新、浓郁、令人亲吻的气息。它的尺寸非常适合携带和在任何地方使用。非常适合在吃完洋葱玉米饼后享用。给您的口腔留下清新干净的感觉。所以，告诉上帝那些不舒服的时刻，并回顾一下你的时刻。就在购物车下面...",
+    "language": "es",
+    "duration": "26s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:35:52.824522",
+    "row": 117
+  },
+  {
+    "video_id": "7680313615714471186",
+    "url": "https://www.tiktok.com/@anker_uk/video/7680313615714471186?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "#tirasblanqueadorasvirales #tirasblanqueadorasdentales #paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii #todosviralesentiktok ",
+    "original_text": "¿Quieres saber si estas tiras manqué en la revolución? Dos provenen y, para ver los resultados, los dejamos 30 minutos, y las tiras moradas, con las tecnologías de extracción de cubo, más con la diferencia de un hotel. Estas tiras son seguras usar todos los días, pero el telas y en esta el comproban por esta. Son ideales para crear una brillante sonrises. He hecho el resultado, y mirando que hay grandes resultados.",
+    "translated_text": "你想知道这些曼克条纹是否参与了革命吗？两个来了，为了查看结果，我们将它们放置 30 分钟，而紫色条带，采用立方体提取技术，更具酒店的差异。这些条带每天都可以安全使用，但布料和这条条带都经过了检查。它们是创造灿烂笑容的理想选择。我已经完成了结果，并且看到了很好的结果。",
+    "language": "es",
+    "duration": "27s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:35:57.135941",
+    "row": 118
+  },
+  {
+    "video_id": "7678943259024035079",
+    "url": "https://www.tiktok.com/@anker_uk/video/7678943259024035079?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "#RegresoAClasesConTikTokShop ",
+    "original_text": "Con un increíble descuento te puedo llevar líado y estas mascarillas dentales y lo único que necesitas hacer es adquirirla rápidamente de mi carrito naranja para obtener los descuento de inmediato que espera.",
+    "translated_text": "我可以以令人难以置信的折扣为您带来这些牙科口罩，您所需要做的就是快速从我的橙色购物车中购买它们，即可立即获得您期望的折扣。",
+    "language": "es",
+    "duration": "9s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:36:00.643870",
+    "row": 119
+  },
+  {
+    "video_id": "7675929246254026005",
+    "url": "https://www.tiktok.com/@anker_uk/video/7675929246254026005?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "¡Dile adiós a los dientes amarillosen segundos#PastaDeDientes #PastaBlanqueadora #SonrisaBlanca #DientesAmarillos #BlanqueamientoDental #DientesBlancos",
+    "original_text": "Si tienes un hueco con el diente o cariés, si tu aliento vuelve mal y tus dientes están amarillos, no te saces el diente. La Igroxyapatita es un material natural del esmal de edental, a ayudar a rellenar las crietas y los huecos, y a reparar el esmal de dañado. No contiene fluer, está formulado por dentistas profesionales, y es ideal para personas con cariés y dientes sensibles. Es seguro y efectivo. Si siempre te dole el diente, no puedes dormir por la noche y tienes huecos en los dientes, lo necesitas. Usalo dos veces al día por la mañana y por la noche, su boca se mantendra fresca, y tus dientes se verán más blancos.",
+    "translated_text": "如果您的牙齿或蛀牙有缝隙、口臭、牙齿发黄，请勿拔牙。 Igroxyapatite 是一种天然牙釉质材料，有助于填充裂缝和间隙，并修复受损的牙釉质。它不含fluer，由专业牙医配制，非常适合有蛀牙和敏感牙齿的人。它安全有效。如果你的牙齿总是痛、晚上睡不着、牙齿有缝隙，你就需要这个。每天早晚使用两次，您的口腔会保持清新，牙齿也会看起来更洁白。",
+    "language": "es",
+    "duration": "33s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:36:06.768079",
+    "row": 120
+  },
+  {
+    "video_id": "7678757089950338324",
+    "url": "https://www.tiktok.com/@anker_uk/video/7678757089950338324?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "Refreseher para mejorar el aliento ",
+    "original_text": "¿Qué le digo? ¿Quién la maquilló y encima se molesta? Pero ¿qué clase de maquillaje? ¿Como es algo no más porque eso es mi vida y te va a decir esto? No, es que creo que te voy a un poco la boca. ¿Me conviene un sandillado de tu madre? No, me voy. Me corte mi aparad eso. ¿Encontré esto en TikTok show? ¿Ohh, es superfuso mi aguero? Dos tatillas, dos tatillas, dos y vida más a ayudar. A ver, ves a ver. ¡Ahh! ¡Aje, no, no!",
+    "translated_text": "我告诉你什么？谁给她化妆了，谁生气了？但什么样的妆容呢？这是怎么回事，因为这就是我的生活，我要告诉你这个？不，我只是觉得我要破坏你的嘴了。你妈妈做的三明治适合我吗？不，我要走了。这切断了我的设备。我在 TikTok 节目上找到这个了吗？哦，我的预兆是不是太模糊了？两个塔提拉，两个塔提拉，两条甚至更多的生命需要帮助。让我们看看，去看看。啊！啊哈，不，不！",
+    "language": "es",
+    "duration": "27s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:36:15.127369",
+    "row": 121
+  },
+  {
+    "video_id": "7679368391190220053",
+    "url": "https://www.tiktok.com/@anker_uk/video/7679368391190220053?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "Dúo de spray bucal de sabores con probióticos que cuidan tu salud bucal Mentiktokshop #ceelikespray #spraybucal #ceelikeprobioticoralspray #malolordeboca ",
+    "original_text": "Te apesta la boca, un chicle ya no es suficiente y tienes que ir a ver a tu amorcito. Este es priorar es tu salvación en momentos inesperados, solo una rociada en tu boca y tendrás un aliento fresco, rico y besable. Es un tamaño perfecto para llevarlo y usarlo en cualquier lugar. Perfecto para después de echarte tus taquitos con cebolla. Deja una sensación fresca y limpia en tu boca. Así que dile a Dios a los momentos incómodos y corre por el tuyo. Aquí abajo en el carrito naranja de TikTok Shop.",
+    "translated_text": "你的嘴很臭，一块口香糖已经不够了，你必须去看你的爱人。这优先是你在意想不到的时刻的救赎，只需一喷在嘴里，你就会拥有清新、浓郁、令人亲吻的呼吸。它的尺寸非常适合携带和在任何地方使用。非常适合在吃完洋葱玉米饼后享用。给您的口腔留下清新干净的感觉。所以，告诉上帝那些不舒服的时刻，并回顾一下你的时刻。在橙色 TikTok 商店购物车中。",
+    "language": "es",
+    "duration": "28s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:36:19.152370",
+    "row": 122
+  },
+  {
+    "video_id": "7679857744244968722",
+    "url": "https://www.tiktok.com/@anker_uk/video/7679857744244968722?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "Refresca tu boca estés donde estés 💨✨ Spray bucal CEELIKE en práctico formato portátil, sin azúcar y con ingredientes de origen vegetal. 🌿 Fácil de llevar en la bolsa y perfecto para usar cuando quieras sentir un aliento más fresco. ¡Además, el pack incluye 2! 😍 #ceelike #spraybucal #alientofresco #RegresoAClasesConTikTokShop ",
+    "original_text": "",
+    "translated_text": "",
+    "language": "nn",
+    "duration": "14s",
+    "status": "no_audio_detected",
+    "error_message": "",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-09-08T08:36:21.146411",
+    "row": 123
+  },
+  {
+    "video_id": "7680634358457191701",
+    "url": "https://www.tiktok.com/@anker_uk/video/7680634358457191701?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "#dentista #dientesblancos #dientesperfectos #odontologia #fyp",
+    "original_text": "Si estás harto de los dientes amarillos que te hija el café, o realmente 35 como con tus dientes, hoy te voy a traer estas tiras blanqueadoras que el avabad está increíble, te las tienes que aplicar en los dientitos superiores e inferiores durante 30 minutos y después de eso te la vas la boquita como normalmente lo haces y, bueno, como magia, en verdad tus dientes cambian de color a un tono más blanco de los dientes a los anote, puedo asegurar que quieren superiores blancos porque también depende de color del dientito es que tan blanco va a quedar, pero si estás seguro que más blancos va a quedar Así que te lo voy a dejar aquí en el carito de una enje de TikTok Shop para que consiguen los estudios Sembrados tan superiores",
+    "translated_text": "如果你厌倦了咖啡引起的黄牙，或者真的像你的牙齿35一样，今天我要给你带来这些美白牙贴，阿瓦巴德是不可思议的，你必须将它们涂在上下牙上30分钟，然后你像平常一样擦嘴，好吧，就像魔术一样，你的牙齿实际上从牙齿到音符变成了更白的色调，我可以向你保证，他们想要白色的上牙，因为这也取决于颜色，小牙有多白是的，但如果你确定它会更白，那么我要把它留在这里，面对来自 TikTok 商店的 enje，这样他们就可以得到如此优越的 Sembrados 研究",
+    "language": "es",
+    "duration": "51s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-08T08:36:27.292160",
+    "row": 124
   }
 ]
