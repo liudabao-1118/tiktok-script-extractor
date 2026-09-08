@@ -5327,10 +5327,10 @@
     "language": "",
     "duration": "64s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/owgfW3AQyiFzcHTqAKQ9E9IXfpEWQBEVmBwRli/?a=1988&bti=ODszNWYuMDE6&&bt=893&ft=aEeq8qT0mIoPD124b-KI3wUijqAbMeF~O5&mime_type=video_mp4&rc=N2UzZDU1Njc1NDQ0PGc6NEBpMzllN2o5cmp5ZDMzaTczNEBeLzQxMWIvXzYxLS1jYF8tYSMyY3JiMmRjNl9hLS1kMTJzcw%3D%3D&expire=1789027660&l=20260908080636EAE993BEAA8EBF0FA0A5&ply_type=2&policy=2&signature=6a90a442183e6d9558aa08c2aad85816&tk=tt_chain_token&btag=e00090000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/owgfW3AQyiFzcHTqAKQ9E9IXfpEWQBEVmBwRli/?a=1988&bti=ODszNWYuMDE6&&bt=893&ft=4KJMyMzm8Zmo0MekGa4jV-qeQpWrKsd.&mime_type=video_mp4&rc=N2UzZDU1Njc1NDQ0PGc6NEBpMzllN2o5cmp5ZDMzaTczNEBeLzQxMWIvXzYxLS1jYF8tYSMyY3JiMmRjNl9hLS1kMTJzcw%3D%3D&expire=1789027953&l=20260908081129F93D14EB8A7CB10CDB20&ply_type=2&policy=2&signature=40036f1294d1666ade93531cee4d37d4&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:06:36.612683",
+    "extracted_at": "2026-09-08T08:11:29.706523",
     "row": 55
   },
   {
@@ -5696,7 +5696,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:06:19.877054",
+    "extracted_at": "2026-09-08T08:11:12.596624",
     "row": 35
   },
   {
@@ -7104,7 +7104,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:06:14.822171",
+    "extracted_at": "2026-09-08T08:11:07.191792",
     "row": 26
   },
   {
@@ -7136,7 +7136,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:06:17.031868",
+    "extracted_at": "2026-09-08T08:11:09.759839",
     "row": 27
   },
   {
@@ -7452,7 +7452,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:06:20.835127",
+    "extracted_at": "2026-09-08T08:11:13.559056",
     "row": 36
   },
   {
@@ -7656,7 +7656,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:06:26.384205",
+    "extracted_at": "2026-09-08T08:11:19.102166",
     "row": 41
   },
   {
@@ -7830,7 +7830,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:06:29.214690",
+    "extracted_at": "2026-09-08T08:11:22.169525",
     "row": 46
   },
   {
@@ -7942,7 +7942,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:06:30.083222",
+    "extracted_at": "2026-09-08T08:11:23.134126",
     "row": 50
   },
   {
@@ -8348,7 +8348,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:06:37.862931",
+    "extracted_at": "2026-09-08T08:11:31.460231",
     "row": 56
   },
   {
@@ -9012,7 +9012,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:06:38.819834",
+    "extracted_at": "2026-09-08T08:11:32.507841",
     "row": 75
   },
   {
@@ -9520,7 +9520,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:06:42.314443",
+    "extracted_at": "2026-09-08T08:11:33.623796",
     "row": 88
   },
   {
@@ -9658,7 +9658,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:06:47.912588",
+    "extracted_at": "2026-09-08T08:11:36.344593",
     "row": 93
   },
   {
@@ -9674,7 +9674,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:06:11.821548",
+    "extracted_at": "2026-09-08T08:11:04.180837",
     "row": 21
   },
   {
@@ -9778,7 +9778,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-08T08:06:48.892808",
+    "extracted_at": "2026-09-08T08:11:37.480678",
     "row": 96
   },
   {
