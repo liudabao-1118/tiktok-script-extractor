@@ -10697,10 +10697,10 @@
     "language": "",
     "duration": "30s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/osWqIXTBYvQGaioAMEgKKAYAaDlt7I7XaiV6k/?a=1988&bti=ODszNWYuMDE6&&bt=867&ft=aEeq8qT0mIoPD12abz7I3wUX-zAbMeF~O5&mime_type=video_mp4&rc=aTpoZDtmOjxoNjg6Zzo0ZUBpM3FpOXU5cmRlZDMzODgzNEAvLTU2NWBjNi0xNS4yYDVjYSNgaGZmMmRray5hLS1kLzFzcw%3D%3D&expire=1789207880&l=202609101010502EEC865274330A01FB28&ply_type=2&policy=2&signature=89a4ed07f19c84152008e5f041c11599&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/osWqIXTBYvQGaioAMEgKKAYAaDlt7I7XaiV6k/?a=1988&bti=ODszNWYuMDE6&&bt=867&ft=4KJMyMzm8Zmo0Y73-a4jV7JkdpWrKsd.&mime_type=video_mp4&rc=aTpoZDtmOjxoNjg6Zzo0ZUBpM3FpOXU5cmRlZDMzODgzNEAvLTU2NWBjNi0xNS4yYDVjYSNgaGZmMmRray5hLS1kLzFzcw%3D%3D&expire=1789208184&l=202609101015541510F3A7B274A901FEDD&ply_type=2&policy=2&signature=91db94a6fd4f81900c8deea60e934c37&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-10T10:10:51.036945",
+    "extracted_at": "2026-09-10T10:15:54.443480",
     "row": 2
   },
   {
@@ -10716,7 +10716,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7675206267354287382: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-10T10:10:51.382128",
+    "extracted_at": "2026-09-10T10:15:54.823363",
     "row": 3
   },
   {
@@ -10729,10 +10729,10 @@
     "language": "",
     "duration": "65s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oYiRotEFw2INOtBPBgfHiCAkQ0IpXEw4FegqRE/?a=1988&bti=ODszNWYuMDE6&&bt=526&ft=aEeq8qT0mIoPD12Cbz7I3wUUK4AbMeF~O5&mime_type=video_mp4&rc=MzhlOzxnNWhlOGc5OTdkPEBpajwzNmo5cnZ3ZDMzbzczNUA2MmBgL14uNS4xLS01XmMxYSMwc2EuMmRjaC5hLS1kMTFzcw%3D%3D&expire=1789207916&l=202609101010512789C3A9065FB3023870&ply_type=2&policy=2&signature=30c94cc990cd38640537745089604097&tk=tt_chain_token&btag=e00090000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oYiRotEFw2INOtBPBgfHiCAkQ0IpXEw4FegqRE/?a=1988&bti=ODszNWYuMDE6&&bt=526&ft=4KJMyMzm8Zmo0R73-a4jVY1OdpWrKsd.&mime_type=video_mp4&rc=MzhlOzxnNWhlOGc5OTdkPEBpajwzNmo5cnZ3ZDMzbzczNUA2MmBgL14uNS4xLS01XmMxYSMwc2EuMmRjaC5hLS1kMTFzcw%3D%3D&expire=1789208220&l=202609101015553541B204F42BDE0260DD&ply_type=2&policy=2&signature=ab833b604bebfe2701ae4a8a03b74cc3&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-10T10:10:51.788328",
+    "extracted_at": "2026-09-10T10:15:55.362260",
     "row": 4
   },
   {
@@ -10745,10 +10745,10 @@
     "language": "",
     "duration": "51s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oMQ3IVHIVD6FTAjllfIAsLILafG0HBgBme0TnI/?a=1988&bti=ODszNWYuMDE6&&bt=471&ft=aEeq8qT0mIoPD12Pbz7I3wUX0KAbMeF~O5&mime_type=video_mp4&rc=NTU6MzYzZWc3NzU6OTRmZkBpMzZ4dHM5cmx3ZDMzbzczNUA2XzU0XzU2Xl8xYS1jMS81YSNxNF9gMmRjMy5hLS1kMTFzcw%3D%3D&expire=1789207903&l=202609101010518461C6552C8FDD0244B4&ply_type=2&policy=2&signature=53b47e5accedd6b4e097b36ab9e8f20e&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oMQ3IVHIVD6FTAjllfIAsLILafG0HBgBme0TnI/?a=1988&bti=ODszNWYuMDE6&&bt=471&ft=aEeq8qT0mIoPD12dHz7I3wUAxcAbMeF~O5&mime_type=video_mp4&rc=NTU6MzYzZWc3NzU6OTRmZkBpMzZ4dHM5cmx3ZDMzbzczNUA2XzU0XzU2Xl8xYS1jMS81YSNxNF9gMmRjMy5hLS1kMTFzcw%3D%3D&expire=1789208206&l=20260910101555AD7010DEC5ACA9028E4F&ply_type=2&policy=2&signature=3deffa935ca7bdac6aa174472e4fe24d&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-10T10:10:52.183209",
+    "extracted_at": "2026-09-10T10:15:55.859761",
     "row": 5
   },
   {
@@ -10761,10 +10761,10 @@
     "language": "",
     "duration": "30s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/o4fJP4IABgBEstgH7uDEUqIybQG3ehV3EFGCUl/?a=1988&bti=ODszNWYuMDE6&&bt=910&ft=aEeq8qT0mIoPD12Pbz7I3wUnTRAbMeF~O5&mime_type=video_mp4&rc=NzozNzw6OGY5NDRkOzo4aEBpajVtdnc5cmw3PDMzODgzNEA2NWBfLmIzNV4xMy8xXy5eYSMuYWhlMmQ0b2phLS1kLzFzcw%3D%3D&expire=1789207882&l=202609101010522B4B1752E86DEF0260FE&ply_type=2&policy=2&signature=93239d36f26d796c28491dcedbd66974&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/o4fJP4IABgBEstgH7uDEUqIybQG3ehV3EFGCUl/?a=1988&bti=ODszNWYuMDE6&&bt=910&ft=aEeq8qT0mIoPD12wHz7I3wUcEtAbMeF~O5&mime_type=video_mp4&rc=NzozNzw6OGY5NDRkOzo4aEBpajVtdnc5cmw3PDMzODgzNEA2NWBfLmIzNV4xMy8xXy5eYSMuYWhlMmQ0b2phLS1kLzFzcw%3D%3D&expire=1789208186&l=2026091010155539083F8BF09C1102CE89&ply_type=2&policy=2&signature=fdd330d90b1bd646ab0202ee8fbaae2f&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-10T10:10:52.615693",
+    "extracted_at": "2026-09-10T10:15:56.350552",
     "row": 6
   },
   {
@@ -10777,10 +10777,10 @@
     "language": "",
     "duration": "75s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oQAgf2gGQEKX2GKLqIVINDJDCIemIGCfAA6Fcj/?a=1988&bti=ODszNWYuMDE6&&bt=546&ft=aEeq8qT0mIoPD12Pbz7I3wU5bOAbMeF~O5&mime_type=video_mp4&rc=aGdmNTg0ZDhlM2ZpaTg1ZUBpajhobnU5cnJvZDMzbzczNUAtM2A1YmA0XmIxMmIyLzQ0YSMuM21iMmQ0Yy9hLS1kMTFzcw%3D%3D&expire=1789207927&l=202609101010520261CC9724E50E020C4C&ply_type=2&policy=2&signature=cff86eff205657613b5bfc58c3576264&tk=tt_chain_token&btag=e00090000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/ocIDVCg2SXgqIDG6wLfLtGeAEiIOFKEQmAfFjW/?a=1988&bti=ODszNWYuMDE6&&bt=269&ft=4KJMyMzm8Zmo0j73-a4jVW5OdpWrKsd.&mime_type=video_mp4&rc=NTZoMzo0aTZnZzRoNjRlNkBpajhobnU5cnJvZDMzbzczNUAvNTQwYGJgXy0xYTM1MzItYSMuM21iMmQ0Yy9hLS1kMTFzcw%3D%3D&expire=1789208231&l=2026091010155616F5B96712F10D02398C&ply_type=2&policy=2&signature=bdf524f77d7caf60dfb842541578b62d&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-10T10:10:53.068855",
+    "extracted_at": "2026-09-10T10:15:56.886361",
     "row": 7
   },
   {
@@ -10793,10 +10793,10 @@
     "language": "",
     "duration": "36s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/owEFnIVCQBAf1IeJgqUghsNXpBFFaJhDsR9mxm/?a=1988&bti=ODszNWYuMDE6&&bt=947&ft=4KJMyMzm8Zmo0Ui3-a4jVXJadpWrKsd.&mime_type=video_mp4&rc=Z2hkNjk7N2lmaTk7O2UzZUBpM2doZm05cnNmZDMzODgzNUAxYWA2YjQ2NWExLmAtL2AwYSNfazMwMmRrLzBhLS1kLzZzcw%3D%3D&expire=1789207889&l=2026091010105398A6486E37B2EB021F35&ply_type=2&policy=2&signature=fd3a2178402d62a6a8cf07c1f0bdbaec&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/owEFnIVCQBAf1IeJgqUghsNXpBFFaJhDsR9mxm/?a=1988&bti=ODszNWYuMDE6&&bt=947&ft=4KJMyMzm8Zmo0m73-a4jVl2.dpWrKsd.&mime_type=video_mp4&rc=Z2hkNjk7N2lmaTk7O2UzZUBpM2doZm05cnNmZDMzODgzNUAxYWA2YjQ2NWExLmAtL2AwYSNfazMwMmRrLzBhLS1kLzZzcw%3D%3D&expire=1789208193&l=20260910101556EF6629E3865CA40277EF&ply_type=2&policy=2&signature=c27659d7764d2e965f895722fdb86ff3&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-10T10:10:53.506713",
+    "extracted_at": "2026-09-10T10:15:58.003809",
     "row": 8
   },
   {
@@ -10809,10 +10809,10 @@
     "language": "",
     "duration": "29s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oIQJIgBmVJOiAiDqyFejf87JClkCDEGgUPAiBI/?a=1988&bti=ODszNWYuMDE6&&bt=922&ft=aEeq8qT0mIoPD12ubz7I3wUEuRAbMeF~O5&mime_type=video_mp4&rc=N2YzZjs8aTkzOGhpPDtnN0Bpanh2a2w5cmozZDMzODgzNEBiNDE0X2MuXzYxNC00MjZgYSMtYzFgMmRzZjFhLS1kLzFzcw%3D%3D&expire=1789207882&l=2026091010105366DF333801ABA9024450&ply_type=2&policy=2&signature=e897e956952994d77d50ee25a87f88b8&tk=tt_chain_token&btag=e000b8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oIQJIgBmVJOiAiDqyFejf87JClkCDEGgUPAiBI/?a=1988&bti=ODszNWYuMDE6&&bt=922&ft=4KJMyMzm8Zmo0C73-a4jVFI.dpWrKsd.&mime_type=video_mp4&rc=N2YzZjs8aTkzOGhpPDtnN0Bpanh2a2w5cmozZDMzODgzNEBiNDE0X2MuXzYxNC00MjZgYSMtYzFgMmRzZjFhLS1kLzFzcw%3D%3D&expire=1789208187&l=2026091010155814B9621C4FA27101F4C6&ply_type=2&policy=2&signature=b6c4aed6bdd89cadbbe52358d135b5fe&tk=tt_chain_token&btag=e000b8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-10T10:10:53.969314",
+    "extracted_at": "2026-09-10T10:15:58.465362",
     "row": 9
   },
   {
@@ -10825,10 +10825,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/o4BxAdohGFMEICmgQqEDkffWI3GXgC11BUN8CV/?a=1988&bti=ODszNWYuMDE6&&bt=599&ft=aEeq8qT0mIoPD120bz7I3wUNhyAbMeF~O5&mime_type=video_mp4&rc=aWc0NWdlZWRkOzY1ZGhnZkBpam5kOWw5cmk5ZDMzODgzNEA0XzE1Ly5fXl4xXzE0NF5hYSMyL2svMmQ0LjBhLS1kLzFzcw%3D%3D&expire=1789207887&l=2026091010105451D2B16F76480702162C&ply_type=2&policy=2&signature=6bb0e96360adeecab51af381f27987d7&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/o4BxAdohGFMEICmgQqEDkffWI3GXgC11BUN8CV/?a=1988&bti=ODszNWYuMDE6&&bt=599&ft=aEeq8qT0mIoPD12SHz7I3wUIzyAbMeF~O5&mime_type=video_mp4&rc=aWc0NWdlZWRkOzY1ZGhnZkBpam5kOWw5cmk5ZDMzODgzNEA0XzE1Ly5fXl4xXzE0NF5hYSMyL2svMmQ0LjBhLS1kLzFzcw%3D%3D&expire=1789208191&l=202609101015584D2622630F3BD10246DB&ply_type=2&policy=2&signature=f0230ce51e96d638635273b13124abbc&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-10T10:10:54.395947",
+    "extracted_at": "2026-09-10T10:15:58.909457",
     "row": 10
   },
   {
@@ -10844,7 +10844,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7676433915711671559: Your IP address is blocked from accessing this post",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-10T10:10:54.740012",
+    "extracted_at": "2026-09-10T10:15:59.343119",
     "row": 11
   }
 ]
