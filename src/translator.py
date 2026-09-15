@@ -94,16 +94,20 @@ class Translator:
     # engine orchestration
     # ------------------------------------------------------------------
     def _safe_translate(self, text):
-        if not self._google_tripped:
-            result = self._via_google(text)
-            if result:
-                self.engine_stats["google"] += 1
-                return result
-
+        # The gtx endpoint goes first: in production the translate.google.com/m
+        # endpoint used by deep_translator gets rate-limited from GitHub runner
+        # IPs, while translate.googleapis.com keeps answering. Trying gtx first
+        # avoids ~10s of doomed retries at the start of every run.
         if not self._gtx_tripped:
             result = self._via_gtx(text)
             if result:
                 self.engine_stats["gtx"] += 1
+                return result
+
+        if not self._google_tripped:
+            result = self._via_google(text)
+            if result:
+                self.engine_stats["google"] += 1
                 return result
 
         result = self._via_mymemory(text)
@@ -150,7 +154,7 @@ class Translator:
     # ------------------------------------------------------------------
     def _via_gtx(self, text):
         url = "https://translate.googleapis.com/translate_a/single"
-        for attempt in range(2):
+        for attempt in range(3):
             self._throttle("_last_gtx", self.GTX_MIN_INTERVAL)
             try:
                 params = urllib.parse.urlencode(
@@ -173,8 +177,8 @@ class Translator:
             except Exception as e:
                 message = str(e)
                 if self._is_rate_limited(message):
-                    if attempt == 0:
-                        time.sleep(2.0)
+                    if attempt < 2:
+                        time.sleep(1.5 * (attempt + 1))
                         continue
                     self._gtx_tripped = True
                     print("  Google gtx endpoint throttled too - using MyMemory")
