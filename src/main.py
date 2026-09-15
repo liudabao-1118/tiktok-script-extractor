@@ -56,8 +56,11 @@ def send_feishu_notification(summary):
         f"待处理：{summary.get('pending', 0)} 行",
         f"已处理：{summary.get('processed', 0)} 行",
         f"成功：{summary.get('succeeded', 0)} 行",
+        f"已翻译：{summary.get('translated', 0)} 行",
         f"失败：{summary.get('failed', 0)} 行",
     ]
+    if summary.get("succeeded", 0) > summary.get("translated", 0):
+        lines.append(f"待补翻译：{summary['succeeded'] - summary['translated']} 行（下次自动重试）")
     if summary.get("written_cells"):
         lines.append(f"写回飞书：{summary['written_cells']} 个单元格")
     if summary.get("failed", 0) > 0:
@@ -140,7 +143,14 @@ def run_feishu_mode(feishu, extractor, translator):
     pending = feishu.collect_pending()
     print(f"Pending rows (need extract/translate/analyze): {len(pending)}")
 
-    summary = {"pending": len(pending), "processed": 0, "succeeded": 0, "failed": 0, "written_cells": 0}
+    summary = {
+        "pending": len(pending),
+        "processed": 0,
+        "succeeded": 0,
+        "translated": 0,
+        "failed": 0,
+        "written_cells": 0,
+    }
 
     if not pending:
         print("Nothing to do. All rows are up to date.")
@@ -173,12 +183,20 @@ def run_feishu_mode(feishu, extractor, translator):
             summary["succeeded"] += 1
         else:
             summary["failed"] += 1
+        if result.get("translated_text"):
+            summary["translated"] += 1
         print(f"  Status: {result['status']}")
         if result["original_text"]:
             print(f"  Original: {result['original_text'][:80]}...")
         if result["translated_text"]:
             print(f"  Translated: {result['translated_text'][:80]}...")
         results_to_write.append(result)
+
+    # Report which translation engine ended up doing the work
+    print(f"\n  {translator.stats_line()}")
+    if summary["translated"] < summary["succeeded"]:
+        missing = summary["succeeded"] - summary["translated"]
+        print(f"  {missing} row(s) extracted but not translated yet — retried next run")
 
     print("\nWriting results back to Feishu...")
     resp = feishu.write_back(results_to_write)
@@ -268,7 +286,15 @@ def main():
             summary = run_feishu_mode(feishu, extractor, translator)
         except Exception as e:
             print(f"Feishu mode error: {e}")
-            summary = {"pending": 0, "processed": 0, "succeeded": 0, "failed": 1, "written_cells": 0, "error": str(e)}
+            summary = {
+                "pending": 0,
+                "processed": 0,
+                "succeeded": 0,
+                "translated": 0,
+                "failed": 1,
+                "written_cells": 0,
+                "error": str(e),
+            }
             if os.path.exists(INPUT_CSV):
                 print("Falling back to CSV mode.")
                 run_csv_mode(extractor, translator)
