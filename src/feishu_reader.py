@@ -29,6 +29,8 @@ NOTE on cell format: a TikTok URL cell is returned as a *rich-text array*
 
 import os
 import re
+import time
+
 import requests
 
 BASE = "https://open.feishu.cn/open-apis"
@@ -164,6 +166,39 @@ class FeishuClient:
         )
         return r.json()
 
+    def batch_update(self, value_ranges, attempts=4):
+        """Update many ranges in ONE request.
+
+        Writing cell-by-cell (one PUT per cell) blows through Feishu's rate
+        limit: a 100-row run needs ~500 requests and the API answers
+        "too many request". The batch endpoint carries all of them at once.
+
+        value_ranges: list of {"range": "<sheetId>!B2:B4", "values": [[v], ...]}
+        """
+        if not self.sheet_id:
+            self._find_sheet_id()
+        url = f"{BASE}/sheets/v2/spreadsheets/{self.spreadsheet_token}/values_batch_update"
+        body = {"valueRanges": value_ranges}
+
+        last = {}
+        for attempt in range(attempts):
+            r = requests.post(url, headers=self._headers(), json=body, timeout=60)
+            try:
+                d = r.json()
+            except ValueError:
+                d = {"code": -1, "msg": f"non-JSON response ({r.status_code})"}
+            if d.get("code") == 0:
+                return d
+            last = d
+            message = str(d.get("msg") or "").lower()
+            if "too many" in message or "limit" in message or r.status_code == 429:
+                delay = 1.5 * (attempt + 1)
+                print(f"  Feishu rate limited, retrying in {delay:.1f}s")
+                time.sleep(delay)
+                continue
+            return d
+        return last
+
     # ---------- high-level helpers ----------
     def read_table(self):
         """Read A:F and return list of dicts (skips header & non-link rows)."""
@@ -217,41 +252,80 @@ class FeishuClient:
                 pending.append(item)
         return pending
 
-    def write_back(self, results):
+    def write_back(self, results, batch_size=25):
         """Write video_id / original / translation / video_type / video_structure
-        back as individual cell PUTs.
+        back to the sheet using batched range updates.
 
         results: list of dicts with 'row', 'video_id', 'original_text',
-        'translated_text', 'video_type', 'video_structure'. Only non-empty
-        values are written; existing good content is never overwritten. Each
-        cell is written individually to avoid gaps overwriting existing content
-        with empty strings.
+        'translated_text', 'video_type', 'video_structure'.
 
-        Returns a status dict. If the app lacks write permission (HTTP 403),
-        returns {'code': 403, ...} so the caller can fall back to CSV-only.
+        Only non-empty values are written, so existing content is never
+        overwritten with blanks. Values are grouped per column into contiguous
+        row runs (a hole in the middle starts a new range) and pushed through
+        the batch endpoint -- one request per 25 ranges instead of one request
+        per cell, which is what kept tripping Feishu's rate limit.
+
+        Returns a status dict. If the app lacks write permission (403), returns
+        {'code': 403, ...} so the caller can fall back to CSV-only.
         """
         columns = {"B": "original_text", "C": "translated_text",
                    "D": "video_id", "E": "video_type", "F": "video_structure"}
-        total = 0
+
+        # column -> {row: value}
+        by_column = {col: {} for col in columns}
         for r in results:
             row = r.get("row")
             if not row:
                 continue
             for col, key in columns.items():
                 val = (r.get(key) or "").strip()
-                if not val:
+                if val:
+                    by_column[col][row] = val
+
+        # Collapse each column into contiguous row runs
+        runs = []  # (col, start_row, end_row, mapping)
+        for col, mapping in by_column.items():
+            if not mapping:
+                continue
+            rows = sorted(mapping)
+            start = prev = rows[0]
+            for row in rows[1:]:
+                if row == prev + 1:
+                    prev = row
                     continue
-                rng = f"{col}{row}:{col}{row}"
-                resp = self.write_range(rng, [[val]])
-                rc = resp.get("code")
-                if rc not in (0, None):
-                    msg = str(resp.get("msg", ""))
-                    if rc == 403 or "forbidden" in msg.lower() or "permission" in msg.lower():
-                        return {"code": 403,
-                                "msg": "app lacks write permission to the sheet",
-                                "detail": resp}
-                    return {"code": rc, "msg": msg, "detail": resp}
-                total += 1
+                runs.append((col, start, prev, mapping))
+                start = prev = row
+            runs.append((col, start, prev, mapping))
+
+        if not runs:
+            return {"code": 0, "msg": "wrote 0 cells"}
+
+        if not self.sheet_id:
+            self._find_sheet_id()
+
+        total = 0
+        for i in range(0, len(runs), batch_size):
+            chunk = runs[i : i + batch_size]
+            value_ranges = [
+                {
+                    "range": f"{self.sheet_id}!{col}{start}:{col}{end}",
+                    "values": [[mapping[row]] for row in range(start, end + 1)],
+                }
+                for col, start, end, mapping in chunk
+            ]
+
+            resp = self.batch_update(value_ranges)
+            rc = resp.get("code")
+            if rc not in (0, None):
+                msg = str(resp.get("msg", ""))
+                if rc == 403 or "forbidden" in msg.lower() or "permission" in msg.lower():
+                    return {"code": 403,
+                            "msg": "app lacks write permission to the sheet",
+                            "detail": resp}
+                return {"code": rc, "msg": msg, "detail": resp}
+
+            total += sum(len(vr["values"]) for vr in value_ranges)
+
         return {"code": 0, "msg": f"wrote {total} cells"}
 
 
