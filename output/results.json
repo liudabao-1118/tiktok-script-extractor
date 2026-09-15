@@ -5327,10 +5327,10 @@
     "language": "",
     "duration": "64s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/owgfW3AQyiFzcHTqAKQ9E9IXfpEWQBEVmBwRli/?a=1988&bti=ODszNWYuMDE6&&bt=893&ft=aEeq8qT0mIoPD12MG6-I3wUI0KAbMeF~O5&mime_type=video_mp4&rc=N2UzZDU1Njc1NDQ0PGc6NEBpMzllN2o5cmp5ZDMzaTczNEBeLzQxMWIvXzYxLS1jYF8tYSMyY3JiMmRjNl9hLS1kMTJzcw%3D%3D&expire=1789625040&l=20260915060256FDFB11C9431FB7349BC5&ply_type=2&policy=2&signature=2ca4558b655b80033ece124dd9345a94&tk=tt_chain_token&btag=e00090000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/owgfW3AQyiFzcHTqAKQ9E9IXfpEWQBEVmBwRli/?a=1988&bti=ODszNWYuMDE6&&bt=893&ft=aEeq8qT0mIoPD12_HV-I3wU-woAbMeF~O5&mime_type=video_mp4&rc=N2UzZDU1Njc1NDQ0PGc6NEBpMzllN2o5cmp5ZDMzaTczNEBeLzQxMWIvXzYxLS1jYF8tYSMyY3JiMmRjNl9hLS1kMTJzcw%3D%3D&expire=1789625985&l=202609150618413BD4BCA2CE7C8D4156E1&ply_type=2&policy=2&signature=ce3e03297fa8c420b188f3d112d72352&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:02:56.850370",
+    "extracted_at": "2026-09-15T06:18:41.697204",
     "row": 84
   },
   {
@@ -10860,7 +10860,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:01:14.399389",
+    "extracted_at": "2026-09-15T06:16:24.602981",
     "row": 2
   },
   {
@@ -10876,7 +10876,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:01:17.322221",
+    "extracted_at": "2026-09-15T06:16:27.580114",
     "row": 3
   },
   {
@@ -10892,7 +10892,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:01:20.202950",
+    "extracted_at": "2026-09-15T06:16:30.645756",
     "row": 4
   },
   {
@@ -10901,12 +10901,12 @@
     "author": "",
     "description": "",
     "original_text": "y les voy a aplicar algo, ya tengo un año sin esas emurroides feas y pues se lo quiero contar. Ok, es arturico, me son alrededor del ano, todavía tiene manejo, pero si lo dejas así, esas emurroides se van a seguir inflamando y va a empezar, y no estoy exagerando. Yo batallaé, compróte de morroides por años y provee de todo, baño de asiento, tu hallitas de todo, nada funcionó de verdad hasta que encontré esto, si alguien te dice que las emurroides no se pueden controlar sin cirugía, es porque no aprobado lo correcto. Esta es la crema Dr. Bill Raper, quien el lido caína, mentol, aloe vera y aceite de clavo. Y esta certificada por la FDA, llegan a la zona afectada en 10 segundos y de verdad se siente como calma el ardor y la comisión casi al instante. Para el día 7 empieza a bajar la inflamación, para el día 14, la molestía ya casi desaparece y para el día 21 me sentí completamente normal otra vez, se los juro. No dejes que en peor y terminé gastando mil a de dólares en una cirugía. Lo dejo en el carrito a la izquierda, compra lo ahora, tienen 50% de descuento, se compran dos y es 100% original carantizado.",
-    "translated_text": "",
+    "translated_text": "我要对你应用一些东西，我已经摆脱那些丑陋的emurroids一年了，我想告诉你这件事。好吧，这是亚瑟王，它们在我的肛门周围，它仍然有控制，但如果你像这样离开它，那些emurroids将继续发炎并且它会开始，我并没有夸大其词。我挣扎了好几年，买了emurroids，提供了一切，坐浴，你的小大厅，一切，没有什么真正有效，直到我发现这个，如果有人告诉你，emurroids不能通过手术来控制，那是因为他们没有批准正确的事情。这是 Dr. Bill Raper 霜，含有卡因、薄荷醇、芦荟和丁香油。而且它经过 FDA 认证，它们在 10 秒内到达受影响的区域，感觉它几乎可以立即平息燃烧和委员会。到了第 7 天，炎症开始消退，到了第 14 天，不适感几乎消失了，到了第 21 天，我发誓，我感觉又完全正常了。我没有让它变得更糟，最后我花了一千美元做手术。我把它放在左边的购物车里，现在就买，他们有 50% 的折扣，你买两个，它是 100% 原装认证的。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:01:20.745030",
+    "extracted_at": "2026-09-15T06:16:38.157719",
     "row": 5
   },
   {
@@ -10915,12 +10915,12 @@
     "author": "",
     "description": "",
     "original_text": "Imagina hacerte una cortada profunda con un cuchillo, y luego echarle jugo de limón y sal directo en la carne viva. Así es, cuando el cirujano te reban a un pedazo del paladar para cocerlo en tus sencillas muertas por la jimgivitis, el ardor y el dolor son 10 veces peores que eso. Reacciona, cabron, si escupes sangre todos los días y ves que tus sencillas están encogiendo, te estás yendo directo al quirófano a que te rebanen. Deja de frotarte con pastas baratas y hasta una desinfectión profunda. Y la mayoría de los dentistas en Japón usan esto. Aura nexa, una bomba nuclear oral con 10 billones de probióticos activos. Esta madre es una revolución. Mastica una. Deja que la espuma fervesente se expanda por tus sencillas en grandes, asgargarás y escupes todo el veneno. Nada de tragar. Es como meter todo tu oscico en una maldita lavadora. Los factores del empieza a expulsar a los parásitos y obligarán a tu carne a sanar como si tuvieras pinches encias de acero. Aprovecha que el carrito todavía tiene el dil, vei compra ya, lo juro. Si no sirve, regresa si me partes la madre.",
-    "translated_text": "",
+    "translated_text": "想象一下用刀切一个深口，然后将柠檬汁和盐直接倒入生肉中。没错，当外科医生切下你的一块上颚，把它煮进你得了吉姆吉维炎的死傻瓜时，烧灼感和疼痛感比这还要严重十倍。反应吧，混蛋，如果你每天都吐血，看到你的简单的在缩小，你就直接进手术室被切片了。不要再用廉价的膏体擦拭自己，甚至不要进行深度消毒。日本的大多数牙医都使用这个。 Aura nexa，一颗口服核弹，含有100亿活性益生菌。这位母亲是一场革命。咀嚼一颗。让炽热的泡沫在你的肺部大量膨胀，你就会抓住并吐出所有的毒物。没有吞咽。这就像把你所有的 oscico 放进该死的洗衣机里。这些因素开始驱逐寄生虫，并迫使你的肉体愈合，就像你有他妈的钢牙龈一样。利用购物车里还有迪尔的事实，现在就去买吧，我发誓。如果实在不行的话，杀了我就回来吧。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:01:21.236357",
+    "extracted_at": "2026-09-15T06:16:40.384977",
     "row": 6
   },
   {
@@ -10929,12 +10929,12 @@
     "author": "",
     "description": "",
     "original_text": "After using this mouthwash, I can honestly say your bad breath will be gone for good. This is a professional grade cooling mouthwash specifically formulated for oral issues targeting bad breath tonsils stones, ginger-vitis, canker-sours, and plaque buildup. Especially with tonsils stones, the smell they produce as foul, yet so many people can't resist popping them out just to smell them. The key active ingredient is zero. 12% clorexidine, a widely used antibacterial compound in the medical field. It effectively cuts down oral bacteria, eliminates bad breath and helps soften and clear out tonsils stones, while also soothing, ginger-vitis, gum problems, and general oral discomfort. All you need is one quick pump of aid or rinse with. Dentists recommended, in fact, by thousands of five-star reviews, tap the yellow-carpalode to grab ears at 50% off before stock runs out.",
-    "translated_text": "",
+    "translated_text": "使用这款漱口水后，我可以诚实地说，您的口臭将永远消失。这是一款专业级清凉漱口水，专门针对口臭、扁桃体结石、生姜葡萄球菌、口腔溃疡和牙菌斑积聚等口腔问题而配制。尤其是扁桃体结石，它们产生的气味非常难闻，但很多人还是忍不住把它们掏出来闻一闻。关键活性成分为零。 12%氯昔定，一种在医学领域广泛使用的抗菌化合物。它能有效减少口腔细菌，消除口臭，帮助软化和清除扁桃体结石，同时还能舒缓姜汁玻璃炎、牙龈问题和一般口腔不适。您所需要的只是快速泵一泵辅助剂或冲洗剂。事实上，根据数千条五星级评论，牙医们建议，在库存售完之前，轻拍黄色卡帕洛德来抓住耳朵，可享受 50% 的折扣。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:01:21.872041",
+    "extracted_at": "2026-09-15T06:16:40.941268",
     "row": 7
   },
   {
@@ -10943,12 +10943,12 @@
     "author": "",
     "description": "",
     "original_text": "If you happen to try this toothpaste, you'll notice your teeth start to regrow. This is no joke. They can actually grow back. This revolutionary product is made in Japan. It naturally stimulates tooth regrowth, fills fine cracks and tiny pits in your teeth, and regenerates both your gums and teeth. The first time you use it, the inflammation and blood in the sink disappear. The second time, the barrier around your exposed roots begins to rebuild. On the seventh day, those shaky teeth will lock into your jaw bones solid as a rock. Believe it or not, the more advanced you're gummed decay. Fast or you see the change. I am one of the most respected cosmetic dentists in New York, and I swear by this, it destroys 99% of gummeding bacteria in one week flat. Anyone who says brushing can't fix gums has untouched authentic active hydroxy appetite. I chow down on hard shellfish and almonds daily, and my smile hasn't weakened a bit. This is the real deal. It's engineered with a 10 fold concentration of hydroxy appetite plus natural antibacterial plants, making it 10 times healthier to plaque than regular paced. Holding an official ADA certification, this was strictly developed to target loose teeth, severe gum bleeding, receding gums, and sharp pain. Riskary trial, full refund if you're not amazed. You will never have to sit in an expensive dental chair for gum surgery again. Click below for a strictly limited 50% discount, guaranteed original formula.",
-    "translated_text": "",
+    "translated_text": "如果您碰巧尝试这种牙膏，您会发现您的牙齿开始重新生长。这不是玩笑。它们实际上可以重新生长。这款革命性产品是日本制造的。它自然地刺激牙齿再生，填充牙齿上的细裂和小凹坑，并使牙龈和牙齿再生。第一次使用时，水槽里的炎症和血迹就会消失。第二次，暴露的根部周围的屏障开始重建。第七天，那些摇摇欲坠的牙齿就会像岩石一样牢牢地锁在你的颌骨里。不管你信不信，你的腐烂程度越高。快点，否则你就会看到变化。我是纽约最受尊敬的美容牙医之一，我发誓，它可以在一周内消灭 99% 的牙龈细菌。任何说刷牙不能修复牙龈的人都没有触及真正活跃的羟基食欲。我每天都吃着硬贝和杏仁，笑容却没有丝毫减弱。这是真正的交易。它采用 10 倍浓度的羟基食欲加上天然抗菌植物进行设计，使其比常规节奏更健康 10 倍。该产品拥有 ADA 官方认证，专门针对牙齿松动、牙龈严重出血、牙龈萎缩和剧烈疼痛而开发。有风险的试用，如果您不感到惊讶，则全额退款。您再也不用坐在昂贵的牙科椅上进行牙龈手术了。单击下面可享受严格限制的 50% 折扣，保证原装配方。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:01:22.357582",
+    "extracted_at": "2026-09-15T06:16:42.105446",
     "row": 8
   },
   {
@@ -10964,7 +10964,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:01:25.483669",
+    "extracted_at": "2026-09-15T06:16:45.424537",
     "row": 9
   },
   {
@@ -10980,7 +10980,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:01:28.697744",
+    "extracted_at": "2026-09-15T06:16:48.312182",
     "row": 10
   },
   {
@@ -10989,12 +10989,12 @@
     "author": "",
     "description": "",
     "original_text": "that white coating on your tongue can disappear permanently. And no, you do not need expensive mouthwashers that only work for an hour. I know you scrape it off every morning and by lunch it is that like someone painted your tongue white again. You close your mouth mid-conversation because you can see it yourself when you talk. Every morning after brushing your teeth, use this foaming oral mousse. It's rich foam helps reduce build up support oral balance and keep your mouth feeling cleaner for longer because your mouth often reflects what's happening inside your oral environment for every day. The experience tap the cart down below first or you will miss out my friend.",
-    "translated_text": "",
+    "translated_text": "舌头上的白色苔藓可能会永久消失。不，您不需要只能工作一个小时的昂贵漱口水。我知道你每天早上都会把它刮掉，到了午餐的时候，就像有人又把你的舌头涂白了一样。你在谈话中闭上嘴，因为当你说话时你自己可以看到它。每天早上刷牙后，使用这款起泡口腔摩丝。它丰富的泡沫有助于减少堆积，支持口腔平衡，并让您的口腔感觉更长时间清洁，因为您的口腔经常反映每天口腔环境中发生的情况。体验先点击下面的购物车不然你会错过我的朋友。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:01:29.180935",
+    "extracted_at": "2026-09-15T06:16:48.725474",
     "row": 11
   },
   {
@@ -11010,7 +11010,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:01:32.168476",
+    "extracted_at": "2026-09-15T06:16:51.865214",
     "row": 12
   },
   {
@@ -11026,7 +11026,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:01:34.991121",
+    "extracted_at": "2026-09-15T06:16:55.091123",
     "row": 13
   },
   {
@@ -11042,7 +11042,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:01:37.870027",
+    "extracted_at": "2026-09-15T06:16:57.883790",
     "row": 14
   },
   {
@@ -11058,7 +11058,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:01:40.677374",
+    "extracted_at": "2026-09-15T06:17:00.686355",
     "row": 15
   },
   {
@@ -11074,7 +11074,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:01:43.588517",
+    "extracted_at": "2026-09-15T06:17:03.683398",
     "row": 16
   },
   {
@@ -11083,12 +11083,12 @@
     "author": "",
     "description": "",
     "original_text": "Ok, esa artorico me son alrededor del ano todavía tiene manejo, pero si lo dejas así, esas hemorroides se van a seguir inflamando y van peorar, y no estoy exagerando. Yo batallaé con brotez de morroides por años, y provee de todo, baño de asiento, toallitas de todo, nada funciona de verdad hasta que encontré esto. Si alguien te dice que las hemorroides no se pueden controlar sin cirugía, es porque no ha probado lo correcto. Esta es la crema doctorville repair, tiene lido caina, mentol, aloe vera y aceite de clavo, y esta certificada por la FDA. Llega la zona afectada en 10 segundos, y de verdad se siente como calma el ardor y la comisión casi al instante. Para el día 7 empieza a bajar la inflamación, para el día 14 la molestía ya casi desaparece, y para el día 21 me sentí completamente normal otra vez, se los juro, no dejas que el peoré, y termines gastando milete dólares en una cirugía, lo dejo en el carrito la izquierda, compraló ahora, tienen 50 por cento de descuentos y comprados, y es 100 por cento original, garantizado. Si las molestias por hemorroides te hacen sentir incómodo al sentarte durante tu rutina diaria, no tienes por que ignorar como te sientes. Muchas personas buscan formas de cuidar y calmar la zona perianal como parte de su rutina diaria, yo también había probado diferentes opciones antes de encontrar una crema que me resultara como de usar, esta es Dr. Vilker Cream, una crema diseñada para el cuidado de la zona perianal, su fórmula contiene ingredientes como lido caina, mentol, aloebera y aceite de clavo, la sensación refrescantica al mante la convierte en una opción práctica para incluir en tu rutina de cuidado personal, simplemente aplica una pequeña cantidad siguiendo las instrucciones del producto, y usa la de forma constante según se han necesario. Muchas personas prefieren utilizar este tipo de crema como parte de su rutina de confort diario. Si buscas una opción de cuidado para mantener temas como durante el día, puedes conocer más sobre Dr. Vilker Cream en el enlace del producto. Haz clic en el enlace de abajo para ver la oferta disponible por tiempo limitado.",
-    "translated_text": "",
+    "translated_text": "好吧，我肛门周围的关节炎仍然可以控制，但如果你就这样放着不管，那些痔疮会继续发炎并变得更糟，我并没有夸大其词。我与莫罗病毒的爆发斗争了很多年，并提供了一切，坐浴，湿巾，一切，没有什么真正有效，直到我发现这个。如果有人告诉您不进行手术就无法控制痔疮，那是因为他们没有尝试正确的方法。这是doctorville修复霜，它含有利多卡因、薄荷醇、芦荟和丁香油，并且是经过FDA认证的。它在 10 秒内到达受影响的区域，真的感觉它几乎立即平息了燃烧和调试。到了第7天，炎症开始消退，到了第14天，不适感几乎消失了，到了第21天，我又感觉完全正常了，我发誓，你不要让它变得更糟，结果你花了一千美元做手术，我把它放在左边的购物车里，现在买了，他们有50%的折扣，买了，而且是100%原装的，有保证。如果痔疮不适让您在日常生活中坐着感觉不舒服，您不必忽视自己的感觉。许多人将护理和舒缓肛周区域的方法作为日常生活的一部分。在找到一种我觉得用起来舒服的面霜之前，我也尝试过不同的选择。这是 Dr. Vilker Cream，一款专为护理肛周区域而设计的乳霜。其配方含有利多卡因、薄荷醇、芦荟和丁香油等成分。产品，并根据需要持续使用它。许多人喜欢使用这种类型的面霜作为日常舒适护理的一部分。如果您正在寻找一种护理选项来维持白天等主题，您可以在产品链接中了解有关 Dr. Vilker Cream 的更多信息。单击下面的链接查看限时优惠。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:01:44.184342",
+    "extracted_at": "2026-09-15T06:17:04.793743",
     "row": 17
   },
   {
@@ -11097,12 +11097,12 @@
     "author": "",
     "description": "",
     "original_text": "If you happen to try this toothpaste, you'll notice your teeth start to regrow. This is no joke. They can actually grow back. This revolutionary product is made in Japan. It naturally stimulates tooth regrowth, fills fine cracks and tiny pits in your teeth, and regenerates both your gums and teeth. The first time you use it, the inflammation and blood in the sink disappear. The second time, the barrier around your exposed roots begins to rebuild. On the seventh day, those shaky teeth will lock into your jaw bones solid as a rock. Believe it or not, the more advanced you're gummed decay. Fast or you see the change. I am one of the most respected cosmetic dentists in New York, and I swear by this, it destroys 99% of gummeding bacteria in one week flat. Anyone who says brushing can't fix gums has entouched authentic active hydroxy appetite. I chow down on hard shellfish and almonds daily, and my smile hasn't weakened a bit. This is the real deal. It's engineered with a tenfold concentration of hydroxy appetite plus natural antibacterial plants, making it ten times daily or to plaque than regular paced. Holding an official ADA certification, this was strictly developed to target loose teeth, severe gum bleeding, receding gums, and sharp pain. Riskary trial, full refund if you're not amazed. You will never have to sit in an expensive dental chair for gum surgery again. Click below for a strictly limited 50% discount, guaranteed original formula.",
-    "translated_text": "",
+    "translated_text": "如果您碰巧尝试这种牙膏，您会发现您的牙齿开始重新生长。这不是玩笑。它们实际上可以重新生长。这款革命性产品是日本制造的。它自然地刺激牙齿再生，填充牙齿上的细裂和小凹坑，并使牙龈和牙齿再生。第一次使用时，水槽里的炎症和血迹就会消失。第二次，暴露的根部周围的屏障开始重建。第七天，那些摇摇欲坠的牙齿就会像岩石一样牢牢地锁在你的颌骨里。不管你信不信，你的腐烂程度越高。快点，否则你就会看到变化。我是纽约最受尊敬的美容牙医之一，我发誓，它可以在一周内消灭 99% 的牙龈细菌。那些说刷牙不能修复牙龈的人已经触动了真正活跃的羟基食欲。我每天都吃着硬贝和杏仁，笑容却没有丝毫减弱。这是真正的交易。它采用十倍浓度的羟基食欲加上天然抗菌植物进行设计，使其每天十次或比常规节奏更有效地去除牙菌斑。该产品拥有 ADA 官方认证，专门针对牙齿松动、牙龈严重出血、牙龈萎缩和剧烈疼痛而开发。有风险的试用，如果您不感到惊讶，则全额退款。您再也不用坐在昂贵的牙科椅上进行牙龈手术了。单击下面可享受严格限制的 50% 折扣，保证原装配方。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:01:44.694181",
+    "extracted_at": "2026-09-15T06:17:05.535205",
     "row": 18
   },
   {
@@ -11118,7 +11118,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:01:47.672453",
+    "extracted_at": "2026-09-15T06:17:08.647014",
     "row": 19
   },
   {
@@ -11127,12 +11127,12 @@
     "author": "",
     "description": "",
     "original_text": "Si tu dolor de moelas ya es difícil de soportar, esto puede ser una buena opción para ti. ayuda a aliviar el dolor de forma rápida y muchas personas sienten mejoría en poco tiempo. Es muy fácil de usar. Solo tienes que aplicarlo directamente sobre el diente o en la zona donde sienten molestias. Espera unos 2 a 5 minutos y podrías notar un cambio gradual. Puede que el sabor no sea el mejor, pero el efecto se siente bastante rápido. Si estás lidiando con dolor dental, esto puede ayudar de a aliviar la incomodidad, como sensibilidad o molestias en ensías odientes. Si que si llevas tiempo buscando algo para el dolor de moelas, puedes darle una oportunidad alivio rápido. Resultados que puedes notar.",
-    "translated_text": "",
+    "translated_text": "如果您的牙痛已经难以忍受，这对您来说可能是一个不错的选择。它有助于快速缓解疼痛，许多人在短时间内感觉有所改善。它非常容易使用。您只需将其直接涂抹在牙齿上或您感到不适的区域即可。等待大约 2 到 5 分钟，您可能会注意到逐渐的变化。味道可能不是最好的，但效果很快就能感受到。如果您正在治疗牙痛，这可以帮助缓解不适，例如敏感或牙龈酸痛。是的，如果您一段时间以来一直在寻找治疗牙痛的药物，您可以尝试一下以快速缓解牙痛。您可以注意到结果。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:01:48.198473",
+    "extracted_at": "2026-09-15T06:17:09.588416",
     "row": 20
   },
   {
@@ -11148,7 +11148,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:01:51.356125",
+    "extracted_at": "2026-09-15T06:17:12.310662",
     "row": 21
   },
   {
@@ -11157,12 +11157,12 @@
     "author": "",
     "description": "",
     "original_text": "Unless you really plan to spend the rest of your life suffering from bad breath and keeping your distance whenever you talk to the opposite sex, otherwise if you have this problem you absolutely have to try this product. Even if you've been suffering from bad breath for 10 years you can see a change in just 30 seconds. No matter how severe your bad breath is, whether your mouth smells especially bad when you wake up in the morning, you have an unpleasant odor when speaking, smell comes back shortly after brushing your teeth or you also have a thick coating on your tongue, bad breath, dumb discomfort and always feel afraid to get too close when talking to other people as long as you're under 80 years old you can still use it. No complicated treatment and no medication or needed. Just use it once a day and you can feel it working deep inside your mouth. We focus on oral care and overall oral health. If you're not satisfied with the results we offer a 100% money-back guarantee. Many people are using this product so it is already sold out several times. As long as this link is still active it means there is still stock available. There is currently a limited time promotion with a huge discount and the offer last for only three days don't miss it. I guarantee you won't be disappointed. If it doesn't work you'll get a full refund. It's selling extremely well in the TikTok shop.",
-    "translated_text": "",
+    "translated_text": "除非你真的打算一辈子忍受口臭的折磨，并且每次和异性说话都要保持距离，否则如果你有这个问题，你绝对必须尝试这个产品。即使您已经被口臭困扰了 10 年，您也可以在短短 30 秒内看到变化。不管你的口臭有多严重，无论你早上起床时嘴里有特别难闻的味道，说话时有难闻的气味，刷牙后不久又闻到气味，还是舌头上有厚厚的苔藓，口臭，哑巴不适，总是害怕与别人说话太近，只要你在80岁以下，你仍然可以使用它。没有复杂的治疗，也不需要药物。只需每天使用一次，您就能感觉到它在口腔深处发挥作用。我们专注于口腔护理和整体口腔健康。如果您对结果不满意，我们提供 100% 退款保证。很多人都在使用这个产品，所以它已经多次售空。只要此链接仍然有效，就意味着仍然有库存。目前正在限时促销，超值折扣，优惠仅持续三天，不要错过。我保证你不会失望的。如果不起作用，您将获得全额退款。它在 TikTok 商店里卖得非常好。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:01:52.000722",
+    "extracted_at": "2026-09-15T06:17:13.049027",
     "row": 22
   },
   {
@@ -11178,7 +11178,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:01:55.074759",
+    "extracted_at": "2026-09-15T06:17:16.596748",
     "row": 23
   },
   {
@@ -11194,7 +11194,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:01:58.035031",
+    "extracted_at": "2026-09-15T06:17:19.895465",
     "row": 24
   },
   {
@@ -11203,12 +11203,12 @@
     "author": "",
     "description": "",
     "original_text": "Why is it that people outside of America have white teeth naturally? But people inside of America have to get veneers to achieve that whiteness, okay? In Japan, in Canada, they use hydroxy appetite in the toothpaste. Here in America, we use fluoride, right? So I did some digging and it turns out that your teeth are made up of hydroxy appetite. 96% to be exact. So hydroxy appetite is commonly used in toothpaste to support a mammal remineralization. It's an ingredient designed to support and care for your enamel. That's why I started paying more attention to hydroxy appetite in my oral care routine. And I also wanted something that helps my teeth look brighter and cleaner. And that's when it clicked for me, okay? So I started using 7 pro toothpaste. This is my teeth right now. As you can see, these things are as white as my shirt. I've just been using 7 pro toothpaste as part of my oral care routine. I'll put it in the cart. I think it might be running out of the last four, actually. So if you see it, you better go grab it.",
-    "translated_text": "",
+    "translated_text": "为什么美国以外的人天生就拥有洁白的牙齿？但美国境内的人们必须贴面才能达到洁白的效果，好吗？在日本、加拿大，他们在牙膏中使用羟基食欲。在美国，我们使用氟化物，对吧？所以我做了一些挖掘，结果发现你的牙齿是由羟基食欲组成的。准确地说是96%。因此，羟基食欲通常用于牙膏中以支持哺乳动物的再矿化。它是一种旨在支持和护理牙釉质的成分。这就是为什么我开始在日常口腔护理中更加关注羟基食欲。我还想要一些可以帮助我的牙齿看起来更亮更干净的东西。就在那时我突然灵光一闪，好吗？所以我开始使用7 pro牙膏。这是我现在的牙齿。正如你所看到的，这些东西和我的衬衫一样白。我刚刚使用 7 Pro 牙膏作为日常口腔护理的一部分。我会把它放入购物车。事实上，我认为最后四个可能已经用完了。所以，如果你看到它，你最好去抓住它。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:01:58.609727",
+    "extracted_at": "2026-09-15T06:17:20.481329",
     "row": 25
   },
   {
@@ -11224,7 +11224,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:02:01.534516",
+    "extracted_at": "2026-09-15T06:17:23.318313",
     "row": 26
   },
   {
@@ -11233,12 +11233,12 @@
     "author": "",
     "description": "",
     "original_text": "Amman, Ed is, Amman, Amman, Ed is, Amman, Ed is, Amman, Ed is, Amman.",
-    "translated_text": "",
+    "translated_text": "安曼，艾德是，安曼，安曼，艾德是，安曼，艾德是，安曼，艾德是，安曼。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:01.948843",
+    "extracted_at": "2026-09-15T06:17:24.086367",
     "row": 27
   },
   {
@@ -11254,7 +11254,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:02:04.992492",
+    "extracted_at": "2026-09-15T06:17:27.064083",
     "row": 28
   },
   {
@@ -11263,12 +11263,12 @@
     "author": "",
     "description": "",
     "original_text": "The first time you use it, the inflammation and blood in the sink disappear. The second time, the barrier around your exposed roots begins to rebuild. On the seventh day, those shaky teeth will lock into your jaw bones solid as a rock. Believe it or not, the more advanced you're gummed decay, the faster you see the change. I am one of the most respected cosmetic dentists in New York, and I swear by this, it destroys 99% of gummed eating bacteria in one week flat. Anyone who says brushing can't fix gums hasn't touched authentic active hydroxy appetite. I chow down on hard shellfish and almonds daily, and my smile hasn't weakened a bit. This is the real deal. It's engineered with a 10-fold concentration of hydroxy appetite plus natural antibacterial plants, making it 10 times deadlier to plaque than regular paced. Holding an official ADA certification, this was strictly developed to target loose teeth, severe gum bleeding, receding gums, and sharp pain. Risk free trial, full refund if you're not amazed. You will never have to sit in an expensive dental chair for gum surgery again. Click below for a strictly limited 50% discount, guaranteed original formula. Jump this to this, in 60 seconds, and no, you don't need to go to the dentist, or buy expensive products that cost you money. You only need this. This is actually said and proven by Korean dentist. So yes, you can trust me. I'm sharing my seven-day Korean body care challenge, and today, yellow teeth. Watch to the end if you don't want others to think that you don't brush your teeth when smiling. Step one, prepare a banana, but not with the like green and like light yellow one, you have to prepare one with this kind of banana. Step two, you're going to wash the surface of the banana. I should. Because we don't want any dirt in our mouth. Step three, peel off the banana like this, and make it as a size of your mouth. Step four, you're going to massage your teeth with this banana peel. But before you massage it, you have to brush your teeth first. Okay, grab this, and you're going to swipe it. Right, left, right, left, left.",
-    "translated_text": "",
+    "translated_text": "第一次使用时，水槽里的炎症和血迹就会消失。第二次，暴露的根部周围的屏障开始重建。第七天，那些摇摇欲坠的牙齿就会像岩石一样牢牢地锁在你的颌骨里。不管你信不信，你的腐烂程度越深，你看到变化的速度就越快。我是纽约最受尊敬的美容牙医之一，我发誓，它可以在一周内消灭 99% 的吃口香糖的细菌。任何说刷牙不能修复牙龈的人都没有触及真正的活性羟基食欲。我每天都吃着硬贝和杏仁，笑容却没有丝毫减弱。这是真正的交易。它采用 10 倍浓度的羟基食欲加上天然抗菌植物进行设计，使其对牙菌斑的致命性比常规节奏高 10 倍。该产品拥有 ADA 官方认证，专门针对牙齿松动、牙龈严重出血、牙龈萎缩和剧烈疼痛而开发。无风险试用，如果您不感到惊讶，可全额退款。您再也不用坐在昂贵的牙科椅上进行牙龈手术了。单击下面可享受严格限制的 50% 折扣，保证原装配方。 60 秒内跳到这个，不，您不需要去看牙医，也不需要购买昂贵的产品。你只需要这个。这是韩国牙医确实说过并证明的。所以是的，你可以相信我。我正在分享我的七天韩国身体护理挑战，今天是黄牙。如果你不想让别人认为你微笑时不刷牙，请一定要看到最后。第一步，准备一根香蕉，但不要用像绿色的，像淡黄色的，你必须用这种香蕉准备一根。第二步，清洗香蕉表面。我应该。因为我们不希望嘴里有任何污垢。第三步，像这样把香蕉剥下来，做成嘴巴大小。第四步，你要用香蕉皮按摩牙齿。但在按摩之前，你必须先刷牙。好吧，抓住这个，你就可以刷它了。右，左，右，左，左。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:05.431914",
+    "extracted_at": "2026-09-15T06:17:27.794295",
     "row": 29
   },
   {
@@ -11284,7 +11284,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:02:08.325593",
+    "extracted_at": "2026-09-15T06:17:30.563535",
     "row": 30
   },
   {
@@ -11293,12 +11293,12 @@
     "author": "",
     "description": "",
     "original_text": "Don't do this too often, because if you do, I can save all of your tea. If you see blood in the sink, your ginger virus is already really bad. Bacteria are eating away at your bone. You won't have to spend thousands of dollars in that terrible dental chair. Brush once and your gums will no longer be red, swollen or bleeding. Brush twice and your two throats will no longer be exposed. The receded gums will gradually repair. After seven times your loose teeth will become as solid as a rock. The more severe your period until inflammation is, the better the effect. I am the most trustworthy dentist in New York, and I can even guarantee to you that this product can block 99% of period until bacteria in seven days. If anyone says brushing teeth is ineffective, it is because they have never tried real hydroxy appetite toothpaste. I still eat crabs and nuts as usual, and my teeth are in this condition. This shows that it is really not snake oil. It contains 10 times concentrated hydroxy appetite and natural antibacterial herbal ingredients with effects, 10 times that of ordinary toothpaste. This product is certified by the American Dental Association, and specially developed for people with gum disease, loose teeth, gum bleeding or sensitivity and discomfort. No effect, full refund, no worries. You will permanently say goodbye to expensive chairs. Click the link below. Banyuan product guaranteed.",
-    "translated_text": "",
+    "translated_text": "不要经常这样做，因为如果你这样做，我可以节省你所有的茶。如果你看到水槽里有血，那么你的生姜病毒就已经很严重了。细菌正在侵蚀你的骨头。您不必花费数千美元在那张可怕的牙科椅上。刷一次，牙龈就不再红肿、出血。刷两遍，你的两个喉咙就不再暴露了。萎缩的牙龈会逐渐修复。七次之后，松动的牙齿就会变得坚如磐​​石。炎症越严重，效果就越好。我是纽约最值得信赖的牙医，我什至可以向你保证，这款产品可以在7天内阻断99%的月经直至细菌。如果有人说刷牙没有效果，那是因为他们从未尝试过真正的羟基食欲牙膏。我还是像平常一样吃螃蟹和坚果，牙齿也是这个状态。由此可见，它确实不是万金油。它含有10倍浓缩羟基食欲和天然抗菌草本成分，功效是普通牙膏的10倍。该产品经美国牙科协会认证，专为牙龈疾病、牙齿松动、牙龈出血或敏感不适的人士开发。没有效果，全额退款，无后顾之忧。您将永远告别昂贵的椅子。单击下面的链接。伴源产品有保障。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:08.725949",
+    "extracted_at": "2026-09-15T06:17:31.183013",
     "row": 31
   },
   {
@@ -11314,7 +11314,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:02:11.513455",
+    "extracted_at": "2026-09-15T06:17:34.090278",
     "row": 32
   },
   {
@@ -11323,12 +11323,12 @@
     "author": "",
     "description": "",
     "original_text": "Those little white things in your throat, do you think they are food particles? They are actually tonsils stones and they smell terrible. Even if you cough until your throat hurts, you still cannot cough them out. Gargling with salt water is useless. Tonsils stones have already taken root deep in the throat, creating a breeding place for bacteria and causing bad breath. I have a simple method here, no need to go to the hospital, take medicine or have surgery. In just three days, it can help reduce bad breath and make it less likely to come back. One bottle is enough and it works quickly. This is a product specially designed for tonsils stones in deep oral odor, simply gargle once a day. The herbal ingredients can deeply clean the mouth and tonsils gats. Help dissolve stones, reduce buildup and inhibit bacteria, reducing bad breath from the source. There is a special discount available now, click the link below to place your order. If you miss this opportunity, you may have to wait another year.",
-    "translated_text": "",
+    "translated_text": "喉咙里那些白色的小东西，你以为是食物残渣吗？它们实际上是扁桃体结石，而且闻起来很难闻。即使咳嗽到喉咙痛，也还是咳不出来。用盐水漱口是没有用的。扁桃体结石已经在喉咙深处扎根，成为细菌滋生的场所，导致口臭。我这里有一个简单的方法，不用去医院，不用吃药，不用做手术。只需三天，它就可以帮助减少口臭并使其不易复发。一瓶就够了，而且见效很快。这是专门针对口腔异味较深的扁桃体结石而设计的产品，只需每天漱口一次即可。草药成分可以深层清洁口腔和扁桃体。帮助溶解结石、减少堆积并抑制细菌，从源头上减少口臭。现在有特别折扣，点击下面的链接下订单。如果错过这个机会，可能还要再等一年。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:12.043653",
+    "extracted_at": "2026-09-15T06:17:34.598975",
     "row": 33
   },
   {
@@ -11337,12 +11337,12 @@
     "author": "",
     "description": "",
     "original_text": "I is at that, people outside of America have white teeth naturally, but people inside of America have to get veneers to achieve that whiteness, okay? In Japan and Canada, they use hydroxyappetite in a toothpaste. Here in America, we use fluoride, all right? So I did some digging and it turns out that your teeth are made up of hydroxyappetite 96% to be exact. So when you use a hydroxyappetite toothpaste, it'll re-mentalizes your teeth, it fills in all the microscopic holes and cracks you have in your enamel, allowing it to build itself stronger, build itself thicker, the thicker your enamel is, the whiteness you need. That's when they click for me, okay? So I started using Snows Nano Hydroxyappetite toothpaste, this is the whiteness you can wait now. Right? As you can see, these things are as well. I design a shirt, and this is what they work seven days ago. Okay, it's crazy, okay? All I do is switch to hydroxyappetite toothpaste, I'll put it in the cart, I think it might be running black Friday sales or something on this. I know they're sold out of the two pack I ordered the last four actually, so if you see it, you better go grab it.",
-    "translated_text": "",
+    "translated_text": "我的意思是，美国以外的人天生就拥有洁白的牙齿，但美国境内的人必须通过贴面才能达到这种白度，好吗？在日本和加拿大，他们在牙膏中使用羟基食欲素。在美国，我们使用氟化物，好吗？所以我做了一些挖掘，结果发现，准确地说，你的牙齿 96% 是由羟基食欲组成的。因此，当您使用羟基食欲牙膏时，它会重新使您的牙齿精神化，它会填充牙釉质中的所有微小孔洞和裂缝，使其自身变得更坚固，变得更厚，牙釉质越厚，您需要的白度就越高。那时他们就会为我点击，好吗？所以我开始使用雪之纳米羟基食欲牙膏，这就是你现在可以等待的白度。正确的？正如你所看到的，这些事情也是如此。我设计了一件衬衫，这就是他们 7 天前的工作。好吧，这太疯狂了，好吗？我所做的就是改用羟基胃口牙膏，我会把它放进购物车，我想它可能会进行黑色星期五销售或类似的东西。我知道实际上我订购的最后四包两包已经卖完了，所以如果你看到它，你最好去买它。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:12.436758",
+    "extracted_at": "2026-09-15T06:17:35.223778",
     "row": 34
   },
   {
@@ -11358,7 +11358,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:02:15.259900",
+    "extracted_at": "2026-09-15T06:17:38.079447",
     "row": 35
   },
   {
@@ -11367,12 +11367,12 @@
     "author": "",
     "description": "",
     "original_text": "Okay, let's go",
-    "translated_text": "",
+    "translated_text": "好吧，我们走吧",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "混剪",
-    "extracted_at": "2026-09-15T06:02:15.662572",
+    "extracted_at": "2026-09-15T06:17:38.180242",
     "row": 36
   },
   {
@@ -11381,12 +11381,12 @@
     "author": "",
     "description": "",
     "original_text": "If the back of your teeth look like this, don't panic, it's just calculus build up. Brush once and your gums will no longer be red swollen or bleeding. Brush twice and your tooth roots will no longer be exposed. The receded gums will gradually repair. I am the most trustworthy dentist in New York. If anyone says brushing teeth is ineffective, it is because they have never tried real hydroxyapatite toothpaste. I still eat crabs and nuts as usual and my teeth are in this condition. This shows that it is really not snake oil. It contains 10 times concentrated hydroxyapatite and natural antibacterial herbal ingredients with effects 10 times that of ordinary toothpaste. This product is certified by the American dental association and specially developed for people with gum disease, loose teeth, gum bleeding or sensitivity and discomfort. Click the link below. Limited time 50% off discount genuine product guaranteed.",
-    "translated_text": "",
+    "translated_text": "如果您的牙齿背面看起来像这样，请不要惊慌，这只是牙结石的堆积。刷一次，牙龈就不再红肿、出血。刷两遍，牙根就不会再暴露了。萎缩的牙龈会逐渐修复。我是纽约最值得信赖的牙医。如果有人说刷牙没有效果，那是因为他们从未尝试过真正的羟基磷灰石牙膏。我还是像平常一样吃螃蟹和坚果，我的牙齿也是这个状态。由此可见，它确实不是万金油。含有10倍浓缩羟基磷灰石和天然抗菌草本成分，功效是普通牙膏的10倍。该产品经美国牙科协会认证，专为牙龈疾病、牙齿松动、牙龈出血或敏感不适的人士开发。单击下面的链接。限时 50% 折扣，保证正品。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:16.301753",
+    "extracted_at": "2026-09-15T06:17:39.679097",
     "row": 37
   },
   {
@@ -11395,12 +11395,12 @@
     "author": "",
     "description": "",
     "original_text": "¿Por qué parece que a las chicas coreanas no les preocupan mucho las arrugas? Porque tienen esta crema de cuidado con calcio y colágeno. Gracias a su fórmula multi-efecto, ayuda a hidratar la piel, mejorar su firmeza, dejándola con una apariencia más suave, y al mismo tiempo consigue un tono de piel más luminoso. Se puede usar tanto antes como después del maquillaje. El enlace de compra está en el pequeño recuadro naranja barra en el carrito de compras. Es realmente sorprendente.",
-    "translated_text": "",
+    "translated_text": "为什么韩国女孩似乎不太在意皱纹？因为他们有这款含有钙和胶原蛋白的护理霜。凭借其多效配方，它有助于滋润肌肤，提高肌肤紧致度，使肌肤看起来更加柔软，同时实现更亮丽的肤色。化妆前和化妆后均可使用。购买链接位于购物车中的橙色小条框中。真是令人惊讶。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:16.946866",
+    "extracted_at": "2026-09-15T06:17:41.219921",
     "row": 38
   },
   {
@@ -11409,12 +11409,12 @@
     "author": "",
     "description": "",
     "original_text": "Como eliminar la capa blanquecina de la lengua, evita usar un cepillo de dientes ya que puede alterar el equilibrio natural de tobóca. Aplica este gel limpiador Bodie Axel, junto con el raspador lingual para obtener resultados óptimos. Eliminas suavemente las bacterias de todas las superficies, dejando tu aliento fresco durante horas. Con el uso constante, los manos olores desaparecerán con el tiempo. Disfruta de un 30% de descuento al comprar uno. lleva a dos unidades a mitad de precio.",
-    "translated_text": "",
+    "translated_text": "要去除舌头上的白色涂层，请避免使用牙刷，因为它会改变舌头的自然平衡。使用 Bodie Axel 清洁凝胶和刮舌器，以获得最佳效果。您可以轻轻地去除所有表面上的细菌，让您的口气保持数小时清新。持续使用，手臭会随着时间的推移而消失。购买一件可享受 30% 的折扣。导致两件半价。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:17.496719",
+    "extracted_at": "2026-09-15T06:17:42.402870",
     "row": 39
   },
   {
@@ -11423,12 +11423,12 @@
     "author": "",
     "description": "",
     "original_text": "In 2026, we are officially saying goodbye to false eyelashes. This mascara makes your natural eyelashes look as if they have just come out of a beauty salon. Even if you have short eyelashes, it's fiber-infused formula helps lengthen them and delivers a more wide-open effect, like sunflower petals, making your eyes look bigger and more defined. Best of all, it does not stick to the skin. Leaves no smudges and you can apply multiple coats without clumping. What's more, it is water and sweat resistant. So your eyelashes stay perfect all day long. It looks like you are wearing lash extensions, yet you only used mascara. I've added it to your cart.",
-    "translated_text": "",
+    "translated_text": "2026年，我们正式告别假睫毛。这款睫毛膏让您的自然睫毛看起来就像刚从美容院出来一样。即使您的睫毛很短，它的纤维配方也能帮助它们变长，并带来像向日葵花瓣一样张开的效果，让您的眼睛看起来更大、更清晰。最重要的是，它不会粘在皮肤上。不会留下污迹，您可以涂抹多层而不会结块。更重要的是，它防水、防汗。让您的睫毛一整天保持完美。看起来你戴着睫毛增长液，但你只用了睫毛膏。我已将其添加到您的购物车。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:17.937606",
+    "extracted_at": "2026-09-15T06:17:43.188658",
     "row": 40
   },
   {
@@ -11437,12 +11437,12 @@
     "author": "",
     "description": "",
     "original_text": "Brush once and your gums will no longer be red swollen or bleeding, brush twice and your two throats will no longer be exposed. The receded gums will gradually repair. I am the most trustworthy dentist in New York. If anyone says brushing teeth is ineffective, it is because they have never tried real hydroxy appetizers. Two couples are still at the ground, there's not a good usual situation. It's not a good option. It shows that it is really not snake oil. It contains ten times concentrated hydroxy appetite and natural antibacterial herbal ingredients with effects ten times that of ordinary toothpaste. This product is certified by the American dental association and specially developed for people with gum disease, loose teeth, gum bleeding or sensitivity and discomfort. Click the link below. Limited time 50% off discount, genuine product guaranteed.",
-    "translated_text": "",
+    "translated_text": "刷一次，牙龈就不再红肿、出血，刷两遍，两个喉咙就不再外露。萎缩的牙龈会逐渐修复。我是纽约最值得信赖的牙医。如果有人说刷牙没有效果，那是因为他们从未尝试过真正的羟基开胃菜。两对夫妇还在地上，情况不太像往常。这不是一个好的选择。说明它确实不是万金油。含有十倍浓缩羟基食欲和天然抗菌草本成分，功效是普通牙膏的十倍。该产品经美国牙科协会认证，专为牙龈疾病、牙齿松动、牙龈出血或敏感不适的人士开发。单击下面的链接。限时50%折扣，正品保证。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:18.362021",
+    "extracted_at": "2026-09-15T06:17:43.741200",
     "row": 41
   },
   {
@@ -11458,7 +11458,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:02:21.161258",
+    "extracted_at": "2026-09-15T06:17:46.691033",
     "row": 42
   },
   {
@@ -11467,12 +11467,12 @@
     "author": "",
     "description": "",
     "original_text": "Every smile is unique. That's why we create custom partial dentures solutions, designed specifically for you. From your dental impression to the final result, Evidentile is carefully crafted for a natural looking and comfortable fit.",
-    "translated_text": "",
+    "translated_text": "每一个微笑都是独一无二的。这就是我们创建专为您设计的定制局部义齿解决方案的原因。从您的牙齿印模到最终结果，Evidentile 都经过精心制作，以实现自然的外观和舒适的贴合。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:21.801571",
+    "extracted_at": "2026-09-15T06:17:47.111184",
     "row": 43
   },
   {
@@ -11485,10 +11485,10 @@
     "language": "",
     "duration": "64s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/ogigrDfEegmJqWwSaIB4B5EuRNQXFLwQD1UpP1/?a=1988&bti=ODszNWYuMDE6&&bt=1100&ft=aEeq8qT0mIoPD12Lq6-I3wUOdqAbMeF~O5&mime_type=video_mp4&rc=aThnOWc3aDM3O2U2Z2k7NUBpM29xa3Q5cjg8ZDQzZzM2NEBgLzM2NTEtX14xNi02MGI0YSNwbWhqMmRrcGFhLS1kLS9zcw%3D%3D&expire=1789625011&l=202609150602269830D8C93A4C5A33E7B1&ply_type=2&policy=2&signature=e48ab1a4d617783c9d77991fa5d7ef76&tk=tt_chain_token&btag=e000d0000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/ogigrDfEegmJqWwSaIB4B5EuRNQXFLwQD1UpP1/?a=1988&bti=ODszNWYuMDE6&&bt=1100&ft=aEeq8qT0mIoPD12vkV-I3wU9dgAbMeF~O5&mime_type=video_mp4&rc=aThnOWc3aDM3O2U2Z2k7NUBpM29xa3Q5cjg8ZDQzZzM2NEBgLzM2NTEtX14xNi02MGI0YSNwbWhqMmRrcGFhLS1kLS9zcw%3D%3D&expire=1789625934&l=2026091506175079E76622F5839734D9FD&ply_type=2&policy=2&signature=388f022206cc1b82e3514ffad92191ba&tk=tt_chain_token&btag=e000d0000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:02:27.235554",
+    "extracted_at": "2026-09-15T06:17:51.143865",
     "row": 44
   },
   {
@@ -11497,12 +11497,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentistas nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad. vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto. Pasta dental con hidróxia patita de astra globo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clica en la cella mientras siguen descuento.",
-    "translated_text": "",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是披萨，真的。它们再次直接从日本生长。这种革命性的东西让牙齿自然形成。看看这个。牙膏与 Hydroxia astra 地球腿。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。所以，你还在等什么，趁折扣还在继续，点击cella吧。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:27.828738",
+    "extracted_at": "2026-09-15T06:17:52.804285",
     "row": 45
   },
   {
@@ -11511,12 +11511,12 @@
     "author": "",
     "description": "",
     "original_text": "Y, por eso te apesta la boca, no esos de americanos, ves que no salió nada, y mira, usa este de astralia, se es como una idad de entista en bote, apontélo en la boca como te gusta, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez, o, ir a tu lo que te saco, no manchí, asco, eso funciona porque tiene hydrogen pero raksa y que te ayudas para los intereses, rápido, por si tomas mucho café, o estás, todo el día, abre tu boca, o mi gaj, nunca le habéis visto tan refrescante limpia, sí, esto se está meniendo bien rápido, si tienes suerte de velcanito naranja aquí, significa que todavía hay lo deberías de har antes de que se ha voto.",
-    "translated_text": "",
+    "translated_text": "而且，这就是为什么你的嘴很臭，不是那些美国的，你看到什么也没有出来，看，使用这个来自澳大利亚的，就像船上的实体，把它放在你的嘴里，随你喜欢，一，二，三，四，五，六，七，八，九，十，或者，去你的，我从你那里得到的，没有manchi，恶心，它有效，因为它有氢，但是raksa，它可以帮助你兴趣，快点，万一你喝了很多咖啡，还是你整天张开嘴，还是我的gaj，你从来没有见过他如此清爽干净，是的，这下降得很快，如果你幸运地在这里有橙色velcanito，这意味着在投票之前你还有应该做的事情。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:28.416778",
+    "extracted_at": "2026-09-15T06:17:53.743109",
     "row": 46
   },
   {
@@ -11525,12 +11525,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentista nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad, vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto, pasta dental con hidróxia patita de astraglovo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clic al enlace ya mientras siguen descuento.",
-    "translated_text": "",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:28.908658",
+    "extracted_at": "2026-09-15T06:17:54.424656",
     "row": 47
   },
   {
@@ -11539,12 +11539,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentistas nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad. vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto. Pasta dental con hidróxia patita de astra globo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clica en la cella mientras siguen descuento.",
-    "translated_text": "",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是披萨，真的。它们再次直接从日本生长。这种革命性的东西让牙齿自然形成。看看这个。牙膏与 Hydroxia astra 地球腿。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。所以，你还在等什么，趁折扣还在继续，点击cella吧。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:29.481826",
+    "extracted_at": "2026-09-15T06:17:54.605710",
     "row": 48
   },
   {
@@ -11553,12 +11553,12 @@
     "author": "",
     "description": "",
     "original_text": "de eso se me quitó lo morado o le voy a enseñar a mi primo estos dos productos que me encantan de primero te vas a poner este bombsick y es para las arrugas tracolágeno wow es super hidrata este verdad si pero esperate paso número dos es esta crema para los ojos no es maquillaje luego te te vas a poner así esta como gel así ve eso sabes que me gusta que no te deja como maquillaje",
-    "translated_text": "",
+    "translated_text": "这就是为什么紫色消失了，或者我要向我的表弟展示我喜欢的这两种产品。首先，你要戴上这件重磅产品，它是为了消除皱纹。哇，它超级保湿，这个是真的，是的，但是等等，第二步是这款眼霜，它不是化妆品。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:29.900564",
+    "extracted_at": "2026-09-15T06:17:56.382307",
     "row": 49
   },
   {
@@ -11567,12 +11567,12 @@
     "author": "",
     "description": "",
     "original_text": "Si te despierta si tu boca huele culero, y después de se pillarte sigue ese pinche olor apescado, ya valiste madre, fuck, cuando hablas ya incomodas a la gente, ni se diga pesar a tu parejabro. El problema no es que no te cepíyes, el maudwas y el chicle no sirven, ya estás infectado, no es broma. Un chingo de streptococos mutans están en tu boca comiendo buffet, se pillarte no sirven y madres. Necesitas matar esas bacterias, necesita una invasión de extracto activo de agave, un ejército de extracto activo de agave. Que entre, y exterminé a las que se comen la base de tus dientes, o cotaps, pasta dental de agave, 10 millones de extracto activo de agave, una bomba nuclear para la boca. Te cepíyes una vez, que espera 10 segundos y la espuma explota, disuelve la mubre como baño público, y saca todo el olor escondido sin dejar ni madre, siete días, dos veces al día, tu boca cambia por completo. Antes de noquear a tu pareja, dale click al carrito naranja.",
-    "translated_text": "",
+    "translated_text": "如果你嘴里有屎味他就叫醒你，他抓住你之后那股腥味还在，你就值得了，混蛋，你说话就已经让人不舒服了，别打扰你的伴侣了兄弟。问题不在于你不刷牙，刷牙和嚼口香糖不起作用，你已经被感染了，这不是开玩笑。吃自助餐的时候嘴里有很多变形链球菌，它们是没用的，妈妈们。你需要杀死这些细菌，你需要活性龙舌兰提取物的入侵，一支活性龙舌兰提取物的军队。让它进来，消灭那些吃你牙根的东西，或者说科塔普，龙舌兰牙膏，一千万活性龙舌兰提取物，口腔的核弹。你刷一次，等10秒，泡沫爆炸，像公厕一样溶解污垢，把所有隐藏的气味去除不留痕迹，7天，每天两次，你的口腔彻底改变。在击败你的搭档之前，请点击橙色购物车。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:30.337818",
+    "extracted_at": "2026-09-15T06:17:58.190961",
     "row": 50
   },
   {
@@ -11581,12 +11581,12 @@
     "author": "",
     "description": "",
     "original_text": "Si te despierta si tu boca huele culero, y después de se pillarte sigue ese pinche olor apescado, ya valiste madre, fuck, cuando hablas ya incomodas a la gente, ni se diga pesar a tu parejabro. El problema no es que no te cepíyes, el maudwas y el chicle no sirven, ya estás infectado, no es broma. Un chingo de streptococos mutans están en tu boca comiendo buffet, se pillarte no sirven y madres. Necesitas matar esas bacterias, necesita una invasión de extracto activo de agave, un ejército de extracto activo de agave. Que entre, y exterminé a las que se comen la base de tus dientes, o cotaps, pasta dental de agave, 10 millones de extracto activo de agave, una bomba nuclear para la boca. Te cepíyes una vez, que espera 10 segundos y la espuma explota, disuelve la mubre como baño público, y saca todo el olor escondido sin dejar ni madre, siete días, dos veces al día, tu boca cambia por completo. Antes de noquear a tu pareja, dale click al carrito naranja.",
-    "translated_text": "",
+    "translated_text": "如果你嘴里有屎味他就叫醒你，他抓住你之后那股腥味还在，你就值得了，混蛋，你说话就已经让人不舒服了，别打扰你的伴侣了兄弟。问题不在于你不刷牙，刷牙和嚼口香糖不起作用，你已经被感染了，这不是开玩笑。吃自助餐的时候嘴里有很多变形链球菌，它们是没用的，妈妈们。你需要杀死这些细菌，你需要活性龙舌兰提取物的入侵，一支活性龙舌兰提取物的军队。让它进来，消灭那些吃你牙根的东西，或者说科塔普，龙舌兰牙膏，一千万活性龙舌兰提取物，口腔的核弹。你刷一次，等10秒，泡沫爆炸，像公厕一样溶解污垢，把所有隐藏的气味去除不留痕迹，7天，每天两次，你的口腔彻底改变。在击败你的搭档之前，请点击橙色购物车。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:30.897728",
+    "extracted_at": "2026-09-15T06:17:58.368142",
     "row": 51
   },
   {
@@ -11595,12 +11595,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentistas nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad, vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto. Pasta dental con hidróxia patita de astraglovo. Reconstruye tu microbioma oral, rellena huecos, y hasta reverte carias y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clica en la cella mientras siguen descuento.",
-    "translated_text": "",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个。黄芪含氧牙膏。重建您的口腔微生物组、填补空白，甚至逆转蛀牙和敏感性。这简直是​​打在牙医脸上的一记耳光。所以，你还在等什么，趁折扣还在继续，点击cella吧。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:31.348838",
+    "extracted_at": "2026-09-15T06:17:59.594802",
     "row": 52
   },
   {
@@ -11609,12 +11609,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentista nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad, vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto, pasta dental con hidróxia patita de astraglovo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clic al enlace ya mientras siguen descuento.",
-    "translated_text": "",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:31.828957",
+    "extracted_at": "2026-09-15T06:17:59.774419",
     "row": 53
   },
   {
@@ -11623,12 +11623,12 @@
     "author": "",
     "description": "",
     "original_text": "Y te da pena son reír porque tienes los dientes amarillos, tienes que probar esta pasta con tecnología de ensimas, no es la pasta morada que solo maquilla, esta te ayuda a neutralizar el tono amarillento desde adentro, te deja los dientes bonitos, aliento fresco, y no las tima el esmalte, te la dejo en el carrito besitos.",
-    "translated_text": "",
+    "translated_text": "而你因为牙齿黄而不好意思笑，你一定要尝试一下这款带有enimas技术的膏体，它不是那种只能化妆的紫色膏体，它可以帮助你从内部中和黄色调，让你的牙齿美丽，口气清新，而且不伤害你的牙釉质，我把它放在你的购物车里，亲。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:32.534257",
+    "extracted_at": "2026-09-15T06:18:01.319598",
     "row": 54
   },
   {
@@ -11637,12 +11637,12 @@
     "author": "",
     "description": "",
     "original_text": "No sé si que toques equivocó con el precio que onda, pero esto era una joya total, el que no lo he aprobado nunca sabrá lo efectivo que es. Corre a comprar el tuyo antes de que se acabe.",
-    "translated_text": "",
+    "translated_text": "我不知道现在的价格是否有什么问题，但这绝对是一个宝石，任何没有批准它的人永远不会知道它有多有效。赶快在售完之前购买吧。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:33.004236",
+    "extracted_at": "2026-09-15T06:18:02.234073",
     "row": 55
   },
   {
@@ -11651,12 +11651,12 @@
     "author": "",
     "description": "",
     "original_text": "nunca compres nada a Cantic Top Chop. Cuando no tienen ofertas porque el día de hoy por la compra de estos tres te van a llegar cinco. No necesitas creer mi amizo, lo tienes que picar el carito naranja y chequear el precio. Es el lenguaje vocal que está súper vital porque te ayuda con el blanqueamiento de los dientes, te ayuda a sacar el carro a prazca la bacteria y también te ayuda con el pueblo. Lo único malo como con todas las ofertas es que es por tiempo limitado, así que si ves el carito naranja es porque todavía lo tienen disponible.",
-    "translated_text": "",
+    "translated_text": "切勿从 Cantic Top Chop 购买任何东西。当他们没有报价时，因为今天购买这三个，您将获得五个。你不需要相信我的朋友，你必须咬着橘子看看价格。这是非常重要的声音语言，因为它可以帮助你美白牙齿，它可以帮助你把汽车开开，还可以帮助你在城里。与所有优惠一样，唯一的缺点是它的时间有限，所以如果您看到橙色汽车，那是因为他们仍然有可用的。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:33.655360",
+    "extracted_at": "2026-09-15T06:18:03.717919",
     "row": 56
   },
   {
@@ -11672,7 +11672,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:02:36.600315",
+    "extracted_at": "2026-09-15T06:18:06.595939",
     "row": 57
   },
   {
@@ -11681,12 +11681,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentistas nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad. vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto. Pasta dental con hidróxia patita de astra globo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clica en la cella mientras siguen descuento.",
-    "translated_text": "",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是披萨，真的。它们再次直接从日本生长。这种革命性的东西让牙齿自然形成。看看这个。牙膏与 Hydroxia astra 地球腿。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。所以，你还在等什么，趁折扣还在继续，点击cella吧。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:37.080883",
+    "extracted_at": "2026-09-15T06:18:06.739783",
     "row": 58
   },
   {
@@ -11695,12 +11695,12 @@
     "author": "",
     "description": "",
     "original_text": "agua o cerveza. Uff, está reenido porque ninguna de las dos hacen nada pero agua porque tiene menos calorías. A agua o agua consal. A agua consal. A agua consal, ahí si tienes alguna heredita o llaga te la puedo curar. A agua consal o agua convicargonato. A agua convicargonato siempre que no te has comido una ensalada porque puede hacer en el estómago racción con el vinagre y convulsionos. A agua convicargonato o en jugada de bucaltraicionas. En jugada bucaltraicional desinfecta un pelín y te dejan fresco en la boca durante 5 minutos. En jugada bucaltraicional o en jugada bucaltrajapones. En jugada bucaltrajapones. En jugada bucaltrajapones fresco en infinito desinfecta todo y quita el sarro y encima sin alcohol. No, por eso fue una muestra por supuesto. Ahora simplemente tienes esto en la boca durante 30 segundos y hoy ya ver lo que sale. A ver, no entes de lo de la boca, vale. Hay que moverlo bien, ¿no? A ver. Vale, pona aquí que vale, blanquea, te quita todo el sarro te da fresco y encima no lleva alcohol. Ya voy a estar muy bien, vale. Cuando yo he sabido tiempo, lo he echado ahora y a ver cómo funciona esto. Porque veo que todo el mundo lo estoy utilizando ahora mismo. Sí, sí, sí, sí. ¡Oi, bo! Eso es sarro! Esto es el sarro que viene entre los dientes. ¿Qué maldito azco? De verdad, para la gente que tenga muchos arro intecciones en la boca, esto es vital, encima te da un fresco increíble. Vale, vos para toda la gente que lo quiera conseguir, donde se vuelve conseguir. Pues, a ver, acá voy a llegar a España, pero se haga otra cada dos días. Si, parece un cartero que abajo es que está con ofertas y que aprovechadlo.",
-    "translated_text": "",
+    "translated_text": "水或啤酒。呃，这很有趣，因为他们除了水之外什么都不做，因为水的热量较少。水或盐水。为盐水。用盐水，如果你有什么遗传性的病或者疮，我可以给你治。为 consal 水或 convicargonate 水。没有吃沙拉时就喝水，因为它会引起胃与醋的反应并导致癫痫发作。给 convicargonato 浇水或进行口腔背叛游戏。在口腔传统游戏中，它会起到一点消毒作用，让您的口腔保持 5 分钟清新。在传统的颊移动或日本的颊移动中。以颊日式动作。在无限清新的漱口水中，它可以消毒一切并去除牙垢，而且最重要的是，不含酒精。不，这就是为什么它当然是一个样本。现在，您只需将其放入口中 30 秒，今天您就会看到结果。看看吧，别担心嘴巴的问题，好吧。你必须好好移动它，对吧？让我们来看看。好吧，在这里说一下，没关系，它可以美白，它可以去除所有牙垢，它让你感觉清新，而且最重要的是它不含酒精。我现在会好起来的，好吧。当我有时间的时候，我把它放进去，让我们看看它是如何工作的。因为我看到现在每个人都在使用它。是的，是的，是的，是的。嘿博！那是牙垢！这是牙齿之间的牙垢。我到底在做什么？说真的，对于嘴里有很多油的人来说，这是至关重要的，除此之外，它还能给你带来令人难以置信的新鲜感。好吧，对于所有想要得到它的人来说，你可以在哪里再次得到它。好吧，让我们想想，我即将到达西班牙，但每两天就会进行一次。是的，它看起来像一个邮递员，他提供了下面的优惠并利用它。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:37.528438",
+    "extracted_at": "2026-09-15T06:18:08.508588",
     "row": 59
   },
   {
@@ -11709,12 +11709,12 @@
     "author": "",
     "description": "",
     "original_text": "oye, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, sol ¡Aquí, fah! ¡No, pues hasta el... ¡Ay, era toda la mogulera que te salió! ¿Viste? ¿Viste a lo de aquí? Sí, porque no te limpia bien las de los americanos. Tienes que usar estos de los austreliens. Este es como una visita lentista embote. ¿Cómo funciona? Si una porque tiene hydrogen pero acced que te ayuda a clara a los dientes rápidos, por si tomas mucho café o siempre estás... Y te da... Asco porque la gente no te gusta ver los dientes así de fuego. ¿No lo pondrá? No lo pondrá. Lo puedes encontrar en TikTok Shop a Quisi. Tienes suerte e velcar y tornará, significa que todavía hay lo de varias agarras antes de que se ha votado.",
-    "translated_text": "",
+    "translated_text": "嘿，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独这里，呸！不，呃，甚至……噢，这都是你的胡言乱语！你有没有看到？你在这里看到他了吗？是的，因为它不能很好地清洁美国的。你必须使用来自澳大利亚的这些。这就像一次缓慢而乏味的访问。它是如何运作的？是的，一个是因为它含有氢，但它可以帮助你快速清洁牙齿，以防你喝很多咖啡或总是......它会让你......厌恶，因为人们不喜欢看到你的牙齿那么亮。你不放吗？他不会放的。您可以在 TikTok Shop a Quisi 找到它。你很幸运，你赢了并转身，这意味着在投票之前还有几次尝试。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:38.122621",
+    "extracted_at": "2026-09-15T06:18:09.821411",
     "row": 60
   },
   {
@@ -11723,12 +11723,12 @@
     "author": "",
     "description": "",
     "original_text": "And kick it, kick it, kick it",
-    "translated_text": "",
+    "translated_text": "然后踢它，踢它，踢它",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:38.606836",
+    "extracted_at": "2026-09-15T06:18:10.330912",
     "row": 61
   },
   {
@@ -11737,12 +11737,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentistas nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad. vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto. Pasta dental con hidróxia patita de astra globo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clica en la cella mientras siguen descuento.",
-    "translated_text": "",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是披萨，真的。它们再次直接从日本生长。这种革命性的东西让牙齿自然形成。看看这个。牙膏与 Hydroxia astra 地球腿。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。所以，你还在等什么，趁折扣还在继续，点击cella吧。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:39.118532",
+    "extracted_at": "2026-09-15T06:18:10.516706",
     "row": 62
   },
   {
@@ -11751,12 +11751,12 @@
     "author": "",
     "description": "",
     "original_text": "Es que Upe, es que Upe mi mano. ¿Ah? No ves nada, ¿Dada? No. Exactamente porque está usando eso de americanos, no funciona no sacanada. Era mejor usa de astradias, como si fueras al dentista cada semana irá solo lo abre estrenamente en la boca así como te gusta. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 los Cupes y irá. Y era todo lo que vas aliscincotes sin nada. No, no, manches. En para que veas que los americanos no sirve, o no, o no. O no. O no, o no. O no, o no, o no, o no, o no, o no. Esto funciona porque tiene hydrogen pero acceden. Por si siempre estás tomando muchísimo café. O no, o no, o no. Este lo puedes encontrar en el carrito na na, pero las chicas están otando bien el rapido porque sea me ha levantado si tienes suerte de ver carrito na na. Aquí se le dije que todavía hay.",
-    "translated_text": "",
+    "translated_text": "就是那个Upe，就是那个Upe 我的手。哦？爸爸，你什么也没看到吗？不，正因为他用的是美国的东西，所以它不起作用。最好使用阿斯特拉迪亚，就好像你每周去看牙医一样，你可以按照你喜欢的方式将它放在嘴里。 1、2、3、4、5、6、7、8、9、10 个杯子，它就会消失。这就是你去阿里辛科特时什么都没有的地方。不，不，污渍。所以你可以看到美国人不工作，或者不工作，或者不工作。或不。或不，或不。或不，或不，或不，或不，或不，或不。这是有效的，因为它含有氢，但他们同意。如果你总是喝很多咖啡。或不，或不，或不。你可以在购物车里找到这个，但女孩们正在关注快速的那个，因为如果你幸运地看到购物车，它会让我振奋。在这里我告诉你，还有。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:39.615937",
+    "extracted_at": "2026-09-15T06:18:12.441250",
     "row": 63
   },
   {
@@ -11765,12 +11765,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentista nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad, vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto, pasta dental con hidróxia patita de astraglovo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clic al enlace ya mientras siguen descuento.",
-    "translated_text": "",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:40.270399",
+    "extracted_at": "2026-09-15T06:18:12.671024",
     "row": 64
   },
   {
@@ -11779,12 +11779,12 @@
     "author": "",
     "description": "",
     "original_text": "te mataba se pillándote los dientes y compravas una pasta blanqueadora tras otra, pero esas pinches manchas seguían ahí, mejor prueba estas tiras moradas, el cambio se nota tanto que vas a odiar no a ver las conocido antes. Hoy voy a hacer la prueba más tonter historia, voy a hablar la mitad de mi solrisa para ver cuál es mejor, tirabla que dor moradas o tirabla que dor normal, unico problema con las tirabla que doras es que me arde las encías y no creo que funcionan también, para esta prueba voy a hacer una cada lado y en verdad, pero que sirva porque tengo muchas citas estos días, por ti mis dos tirabla que doras y las puces en cada lado para ver cuál es mejor, y solo la voy a dejar por 30 minutos pues vamos a ver, ok ok ya pasaron los 30 minutos, vamos a ver, ok hay bala normales o miren eso, ok ahora la moradas, no puede ser, miren es uata, fach, miren yo, en verdad funcionaron, espero me voy a seguir rápido porque no puede ser o miren o miren la diferencia, pero lo único mal es que ya quedan bien poquita, pues seguite ver el link para que te las puedas comprar, ahorita que tiene un buen des.",
-    "translated_text": "",
+    "translated_text": "咬住牙齿，买了一个又一个的美白膏，真是要了你的命，但那些该死的污渍仍然在那里，最好试试这些紫色的条子，这种变化是如此明显，你会讨厌看不到你以前认识的那些。今天我要做历史上最愚蠢的测试，我要说一半的solrisa，看看哪个更好，紫色的tirabla que doras还是普通的tirabla que doras，tirabla que doras的唯一问题是它会灼伤我的牙龈，我认为它们也不起作用，对于这个测试，我将在每一侧都做一个，真的，但是让它有所帮助，因为这些天我有很多约会，为了你，我的两个 tirabla que doras 和两边的紫褐色，看看哪个更好，只有我要离开它 30 分钟，所以让我们看看，好吧，30 分钟已经过去了，让我们看看，好吧，有普通的子弹，或者看看那个，好吧，现在是紫色的，它不可能，看它是 uata，fach，看我，他们真的很有效，我希望我能快速前进，因为它不能或看看区别，但唯一不好的是它们很少，所以点击链接就可以购买它们，现在他有一个很好的des。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:40.724462",
+    "extracted_at": "2026-09-15T06:18:13.880728",
     "row": 65
   },
   {
@@ -11793,12 +11793,12 @@
     "author": "",
     "description": "",
     "original_text": "Chute amo por los siglos en los huesos",
-    "translated_text": "",
+    "translated_text": "骨子里的千百年爱恋",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:41.367282",
+    "extracted_at": "2026-09-15T06:18:16.801529",
     "row": 66
   },
   {
@@ -11807,12 +11807,12 @@
     "author": "",
     "description": "",
     "original_text": "tres dos uno ya pues aquí sigo pero a mí mi cosquillas yo aquí tengo completo indecinado a eso era un ataque me estaba haciendo cosquillas hermano te estás cansando tu más que yo a ver y tú quién eres no y ese sos hoy es que pero esto ya es otro nivel de drama espera qué de monio se es eso fuera de aquí perdedor y cuáles tu secreto campeón la verdad es super sencillo yo tengo tecnología patentada que ayuda a eliminar las manchas de forma suave pero potente para que tu sonliza se ve mucho más blanca si tus dientes a calillos ya te tiene arsto dan en clica enlace de abajo y lleve a caca tu sonliza te lo va a agradecer",
-    "translated_text": "",
+    "translated_text": "三二一，我在这里，但我还在这里，我的痒痒的，我对此完全无动于衷，这是一次攻击，他在挠我，兄弟，你比我还累，让我们看看，你是谁，不，这就是你今天的样子，但这又是另一层戏剧，等等，那到底是什么，离开这里，失败者，你的秘密冠军是什么，事实是，这超级简单，我有专利技术帮助以温和而有力的方式去除污渍，让您的笑容看起来更白。如果您的牙齿已经让您发酸，请点击下面的链接，将您的笑容带去便便，她会感谢您的",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:41.842977",
+    "extracted_at": "2026-09-15T06:18:17.784487",
     "row": 67
   },
   {
@@ -11821,12 +11821,12 @@
     "author": "",
     "description": "",
     "original_text": "hay más vemos, primero estuvo muy bravo. Primero se tovida algo, una fieguera de mi beso. Oh, manche. ¿Qué? El castesave la boca. El serio? ¿Le gustó? Pero mucho. ¿Qué es de son chicle, algo? No, no por nada, prima, no. Yo no lo sé, se murero. Yo usó este mira, ponte la moda. Mira, ahora la boca. Es una spraya anal, que a chimera no primas de chacir. Ahí está ahora sí. Como una vez? Es una spraya. Es un spraya. Es un spraya. Es un probiótico que matara la bacteria que causara mal aliento. Sabé también. Pena bastante sabores. Estás de como que demance anita, ¿verdad? No, y también tiene de menta de todo. Primada. No, prima. Como crees? No. No, para nada. De hecho, tiene una oferta, mi nombre te puede llevar hasta 5 por bícico, algo así. No, sí, todo lo que todo el mes también. Pero no puedo comprar entonces. Mira, úsamente si puedes ver carrito de aquí significa que siguen disponibles, pero si no lo ves, ya se ha agotado.",
-    "translated_text": "",
+    "translated_text": "我们看到的还有更多，首先他非常生气。首先他得到了一些东西，一个我的吻的雕像。哦，现货。那？种姓拯救了嘴巴。严重的那个？你喜欢它吗？但很多。口香糖是什么东西？不，不是无缘无故的，表弟，不。我不知道，他死了。我用的是这个造型，很时尚。看，现在是嘴。这是一种肛门喷雾剂，与 chacira 没什么区别。现在是的。就像一次？这是一个喷雾。这是一个喷雾。这是一个喷雾。它是一种益生菌，可以杀死引起口臭的细菌。我也知道。值得尝尝好几种。你对安妮塔要求有点高，对吧？不，它也有一切薄荷。灵长类动物。不，表弟。你觉得怎么样？不，不，一点也不。事实上，他们有一个报价，我的名字可以让你每辆自行车最多 5 美元，类似的东西。不，是的，整个月也是如此。但那时我买不到。你看，通常如果你能在这里看到购物车，就意味着它们仍然有货，但如果你看不到它，那就已经卖完了。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:42.376347",
+    "extracted_at": "2026-09-15T06:18:19.065123",
     "row": 68
   },
   {
@@ -11835,12 +11835,12 @@
     "author": "",
     "description": "",
     "original_text": "No sé si se equivocó con el precio que onda, pero esto era una joya total, el que no ha probado nunca saber a lo efectivo que es, corre con el tuyo antes de que se cabe.",
-    "translated_text": "",
+    "translated_text": "我不知道他现在的价格是否有误，但这绝对是一颗宝石，从未尝试过的人都知道它有多有效，在它消失之前就用你的吧。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:42.876133",
+    "extracted_at": "2026-09-15T06:18:20.743903",
     "row": 69
   },
   {
@@ -11849,12 +11849,12 @@
     "author": "",
     "description": "",
     "original_text": "Vamos perritos, salgamos a pasear.",
-    "translated_text": "",
+    "translated_text": "来吧，狗们，我们去散步吧。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:43.331834",
+    "extracted_at": "2026-09-15T06:18:21.885461",
     "row": 70
   },
   {
@@ -11863,12 +11863,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentista nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad, vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto, pasta dental con hidróxia patita de astraglovo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clic al enlace ya mientras siguen descuento.",
-    "translated_text": "",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:43.869117",
+    "extracted_at": "2026-09-15T06:18:22.175852",
     "row": 71
   },
   {
@@ -11877,12 +11877,12 @@
     "author": "",
     "description": "",
     "original_text": "Yo creo que Hajmao se va a ir a la quiebra, porque no puedo creer que por reprecio de 3 me llegaron 5 jugadores bucales del más viral. Yo tampoco me lo creía, pero piche la carretera naranja y chequeate, el precio que tiene el día de hoy. Este es el lenguaje bucal que te ayudas con el salro, la placa, la batería y con el mal olor. Pero en el comalos que esta es una verdad por tiempo limitado, no va a durar mucho tiempo ahí te lo hayo por si quieres chequearla.",
-    "translated_text": "",
+    "translated_text": "我认为 Hajmao 快要破产了，因为我不敢相信以 3 美元的价格我得到了 5 个最火爆的口头玩家。我也不相信，但走橙色路，看看今天的价格。这是可以帮助您解决盐、车牌、电池和难闻气味的口语。但归根结底，这是一个有限时间的真理，它不会持续太久，如果你想看看的话，就在这里。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:44.601560",
+    "extracted_at": "2026-09-15T06:18:22.856759",
     "row": 72
   },
   {
@@ -11891,12 +11891,12 @@
     "author": "",
     "description": "",
     "original_text": "¿Por qué la gente fuera de México parece tener los dientes naturalmente blancos en Japón y caradad? Este tipo de pasta dental funciona muy bien la gente de allá la usa todo el tiempo mientras que en México seguimos usando pasta dental con fluer. Me puse a investigar de verdad y descubrí que nuestros dientes están formados por hidroxía patita. Para ser más exactos el esmal de dental está compuesto aproximadamente por un 96% de hidroxía patita. Entonces cuando usa una pasta dental con hidroxía patita ayuda a remineralizar los dientes rellena esos pequeños poros y micro guietas de el esmal de así el esmal de se vuelve más fuerte y resistente y los dientes se ven más blancos a simple vista por eso empecé a usar pasta dental con hidroxía patita Mira como se ven mis dientes ahora están tan blancos como mi camiseta es increíble el resultado lo único que hice fue cambiar de pasta dental se me está acabando el tubo así que voy a pedir más para tener reservo",
-    "translated_text": "",
+    "translated_text": "为什么墨西哥以外的人在日本似乎拥有自然洁白的牙齿和脸？这种牙膏效果很好，那里的人一直用它，而在墨西哥我们仍然使用带有fluer的牙膏。我开始真正研究并发现我们的牙齿是由羟基氧化物组成的。更准确地说，牙釉质由大约 96% 的羟基氧化物组成。因此，当您使用含有 Patita Hydroxy 的牙膏时，它有助于牙齿再矿化，填充牙釉质中的小毛孔和微缝隙，从而使牙釉质变得更坚固、更坚固，牙齿肉眼看起来更白。这就是为什么我开始使用含有 Patita Hydroxy 的牙膏。看看我的牙齿现在的样子，它们和我的衬衫一样白。太不可思议了。结果令人难以置信。我唯一做的就是换牙膏。管子已经用完了，所以我要订购更多以进行储备。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:45.235315",
+    "extracted_at": "2026-09-15T06:18:24.081671",
     "row": 73
   },
   {
@@ -11905,12 +11905,12 @@
     "author": "",
     "description": "",
     "original_text": "agarrar uno de estos. Hace esto. Y luego, vuelvelo. Y si eso, vuelve el feo, eso quiere decir que así, vuelve tu aliento. Tu enjuaje bucal, tu se pío de viente, tu pasta dental no estás a canto, todo lo que tienes saturado ahí. Yo antes usaba un enjuaje bucal de sus americanos que puedes encontrar en cualquier tienta y no me funcionaba hasta que encontré este que está hecho por los japoneses. Está diseñado, no no más para blanquear tus dientes para dar tu un aliento fresco, pero también te ayuda con tu ensalud bucal y además te saca tu esisar lo que tienes saturado ahí que tu otro enjuaje bucal no estás a canto. Esto es todo lo que me sacó a mí con un enjuaje de tan solo 30 segundos. Con las zones que siempre se instan bien tientos y todavía miras el carrito a aprovechar descuento.",
-    "translated_text": "",
+    "translated_text": "抓住其中之一。它就是这样做的。然后，把它翻过来。如果那样的话，丑陋又回来了，那就意味着像这样，你的呼吸又回来了。你的漱口水、你的风声、你的牙膏都达不到标准，你拥有的一切都在那里饱和了。我曾经使用他们的美国漱口水，你可以在任何商店找到它，但它对我不起作用，直到我找到了日本制造的这款漱口水。它的设计不仅可以美白牙齿，让您口气清新，还可以帮助您保持口腔健康，并且当您的其他漱口水达不到标准时，还可以带走您已经饱和的口腔物质。我只需要冲洗 30 秒就可以了。对于始终受到鼓励的领域，您仍然会查看购物车以利用折扣。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:45.862786",
+    "extracted_at": "2026-09-15T06:18:26.545918",
     "row": 74
   },
   {
@@ -11919,12 +11919,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentista nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad, vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto, pasta dental con hidróxia patita de astraglovo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clic al enlace ya mientras siguen descuento.",
-    "translated_text": "",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:46.489466",
+    "extracted_at": "2026-09-15T06:18:26.650748",
     "row": 75
   },
   {
@@ -11933,12 +11933,12 @@
     "author": "",
     "description": "",
     "original_text": "No me pujes, todavía no ha conseguido al mío, no sé si tiktok se equivocó con el precio o que onda, pero esto era una joya, tal que no lo ha probado, nunca sabrá lo efectivo que es corre compré el tuyo antes de que se acabes",
-    "translated_text": "",
+    "translated_text": "别跟我出价，你还没拿到我的，我不知道 TikTok 的价格是否有误，或者发生了什么，但这真是一个宝石，你没有尝试过，你永远不知道它有多有效，我在用完之前就买了你的",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:47.208124",
+    "extracted_at": "2026-09-15T06:18:27.697987",
     "row": 76
   },
   {
@@ -11947,12 +11947,12 @@
     "author": "",
     "description": "",
     "original_text": "Tienes un hueco en el diente o cariés, tu aliento huele mal y tus dientes están amarillos, no te los haques. La hidroxia patita es un material natural del esmal de dental, ayuda a rellenar las grietas y los huecos y a reparar el esmal de dañado. No contiene fluor, está formulado por dentistas profesionales y es ideal para personas con cariés y dientes sensibles. Es seguro y efectivo. Si siempre te doy el diente, no puedes dormir por la noche y tienes huecos en los dientes, lo necesitas. La pasta dental hasta a gloo es justo lo que necesitas, usa los dos veces al día por la mañana y por la noche. Tu gocas se mantendra fresca y tus dientes se verán más blancos. Ad clic en el enlace y consigue la ya.",
-    "translated_text": "",
+    "translated_text": "你的牙齿或蛀牙有洞，你的口气有臭味，你的牙齿发黄，不要做这些事情。羟化酶是牙釉质中的天然材料，它有助于填充裂缝和间隙并修复受损的牙釉质。它不含氟化物，由专业牙医配制，非常适合有蛀牙和敏感牙齿的人。它安全有效。如果我总是给你牙齿，你晚上睡不着觉，牙齿有缝隙，你就需要它。即使是 Gloo 牙膏也正是您所需要的，每天早晚使用两次。您的牙龈将保持清新，牙齿也会看起来更白。广告点击链接即可立即获取。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:47.786949",
+    "extracted_at": "2026-09-15T06:18:28.959299",
     "row": 77
   },
   {
@@ -11961,12 +11961,12 @@
     "author": "",
     "description": "",
     "original_text": "ya como cónto te empotarás ok si, pues te espero ¿vale? ¿mante? ¿mante? ah es que buena que tu pergunte gracias, si, no te pergunte dale ok este libro cámara pues te vea ya oigan una pregunta sabe en dónde está esta dirección aquí es que como no soy aquí no con las con no, no, no, no, no es bueno, ocho gracias si te veo sí, grande no es sí, por supuesto ok, gracias bueno, ya está o sea, está con meldos cuadras más que meldos ok, vos meldos ¿qué eres? te puedo acompañar así, me copo en este bueno, esto vamos a bajar y ya le decimos ¡MÚSICA!",
-    "translated_text": "",
+    "translated_text": "现在你会被困多少，好吧，是的，好吧，我会等你，好吗？曼特？曼特？啊，你问的很好，谢谢，是的，我没有问你，好吧，这本书，相机，好吧，看到你，听到，一个问题，你知道这个地址在哪里吗，这里是，因为我不在这里，不与不，不，不，不，不好，八谢谢如果我看到你，是的，大的是没有，是的，当然可以，谢谢你很好，就是这样，我的意思是，有了梅尔多斯更稳定比梅尔多斯好吧，你梅尔多斯，你是什么？我可以这样陪你，我进入这个井，我们要下去，我们会说音乐！",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:48.332202",
+    "extracted_at": "2026-09-15T06:18:30.742311",
     "row": 78
   },
   {
@@ -11975,12 +11975,12 @@
     "author": "",
     "description": "",
     "original_text": "da apenas un reír por el color amarillo de tus dientes ya que toma mucho café refresco o tienes una reunión o simplemente quiere blanquerlo esas son las tiritas que debe de usar ahora entiendo porque muchas personas están usando estas tiritas muradas para blanquer tus dientes y lo que me gusta que es un fácil de usar las vas a poner tus dientes y vas a esperar treita minutos para que atoe muchas veces descuidamos nuestros dientes no estamos atento a como van camiando de color van agarrando así que si te preocupa el aspecto de tus dientes puede usar estas tiritas un día y un día no para que vaya viendo el cambio realmente vale la pena porque aparte te deja súper fresca lo que es tu boca y tus son reisos se va a ir blanquando poco a poco que se gajuzando así que mi amor viene en varios paquetitos en esta cajita por si te ingresa como excelente precio te lo tengo en clado por aquí",
-    "translated_text": "",
+    "translated_text": "你只是嘲笑你的牙齿发黄，因为你喝了很多苏打咖啡，或者你开会，或者你只是想美白牙齿。这些是您应该使用的条带。现在我明白为什么很多人使用这些牙贴来美白牙齿了，我喜欢的是它们易于使用。你要把它们戴在牙齿上，然后等待三十分钟让它们安定下来。很多时候我们都忽视了我们的牙齿。我们没有注意到它们如何改变颜色。他们抓住了。所以，如果你担心你的牙齿外观，你可以一天又一天地使用这些牙条，这样你就可以看到变化，这真的很值得，因为除此之外，它让你超级新鲜，你的嘴是什么，你的儿子会一点一点变白，变成gajuzando，所以我的爱在这个小盒子里有几个小包装，以防万一你以优惠的价格买到它，我在clado这里为你准备了它",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:48.904996",
+    "extracted_at": "2026-09-15T06:18:32.484034",
     "row": 79
   },
   {
@@ -11989,12 +11989,12 @@
     "author": "",
     "description": "",
     "original_text": "Tienes un hueco en el diente o cariés, tu aliento huele mal y tus dientes están amarillos, no te los haques. La hidroxia patita es un material natural del esmal de dental, ayuda a rellenar las grietas y los huecos y a reparar el esmal de dañado. No contiene fluor, está formulado por dentistas profesionales y es ideal para personas con cariés y dientes sensibles. Es seguro y efectivo. Si siempre te doy el diente, no puedes dormir por la noche y tienes huecos en los dientes, lo necesitas. La pasta dental hasta a gloo es justo lo que necesitas, usa los dos veces al día por la mañana y por la noche. Tu gocas se mantendra fresca y tus dientes se verán más blancos. Ad clic en el enlace y consigue la ya.",
-    "translated_text": "",
+    "translated_text": "你的牙齿或蛀牙有洞，你的口气有臭味，你的牙齿发黄，不要做这些事情。羟化酶是牙釉质中的天然材料，它有助于填充裂缝和间隙并修复受损的牙釉质。它不含氟化物，由专业牙医配制，非常适合有蛀牙和敏感牙齿的人。它安全有效。如果我总是给你牙齿，你晚上睡不着觉，牙齿有缝隙，你就需要它。即使是 Gloo 牙膏也正是您所需要的，每天早晚使用两次。您的牙龈将保持清新，牙齿也会看起来更白。广告点击链接即可立即获取。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:49.546750",
+    "extracted_at": "2026-09-15T06:18:32.632489",
     "row": 80
   },
   {
@@ -12010,7 +12010,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:02:51.409849",
+    "extracted_at": "2026-09-15T06:18:35.311600",
     "row": 81
   },
   {
@@ -12019,12 +12019,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentista nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad, vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto, pasta dental con hidróxia patita de astraglovo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clic al enlace ya mientras siguen descuento.",
-    "translated_text": "",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:52.080338",
+    "extracted_at": "2026-09-15T06:18:35.420034",
     "row": 82
   },
   {
@@ -12033,12 +12033,12 @@
     "author": "",
     "description": "",
     "original_text": "¿Qué pasó con ya? ¿Qué pasó con ya? ¿Qué pasó todo bien? ¿Qué acababa que ya habló contigo? ¿Cómo que tu aliento llega como 5 segundos antes de ti? ¿Y por qué me hice eso? Es que no vuelvo muy bien. En serio. No sé por qué nadie te lo vee hecho antes y yo sé que esta conversación es difícil tener. Pero yo te tengo a precio y tengo que decirte. Entonces, es por eso que tu hermana cuando yo me acerco pone cara como si está chupando un limón y seguramente, pero me dejo a recomendar algo. Lo que yo vengo, o sea, utilizando a su un tiempo así que ya. ¿Y qué es lo que hizo después de una comida fuerte? Es una ambientalada para la boca. Es una ambientalada para la boca. Es una ambientalada para una ambientalada para la boca. ¿Tú te garras aquí, te echas dos o tres? ¿A ver? ¿Elico. ¿Uy qué rico? ¿Vuelve verdad? No he probado. ¿Y por favor? Y me encanta el tamaño porque también yo se lo tengo en la campera. ¿Pero sabe, bueno, ¿no? Sí y no solamente vienen de mente. Hay otros sabores también. Lo que lo compre y aprovechan porque lo acaban de poner en descuento aquí en Tik Tok Show.",
-    "translated_text": "",
+    "translated_text": "你怎么了？你怎么了？发生什么事了好吗？他刚才说他已经和你谈过什么了？你的呼吸怎么会比你早5秒？我为什么要这样对自己？只是我回来的不太顺利。哦真的吗。我不知道为什么以前没有人看到这样做，而且我知道这种对话很难进行。但我对你有一个价格，我必须告诉你。所以，这就是为什么当我走近时，你姐姐会做出一副在吮柠檬的表情，当然，但我不愿意推荐一些东西。我的来历，就是用了一段时间所以就这样了。一顿丰盛的饭后他做了什么？它是口腔清新剂。它是口腔清新剂。它是一种口腔清新剂。你要留在这里吗，你要带两个还是三个？让我们来看看？埃利科.哇，多好吃啊？快回来了吧？我没试过。还有请吗？我喜欢这个尺寸，因为我的夹克里也有它。但你知道，好吧，对吧？是或否，它们都只来自头脑。还有其他口味。无论你买什么，都可以利用它，因为他们只是在 Tik Tok Show 上打折。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:52.900635",
+    "extracted_at": "2026-09-15T06:18:38.137087",
     "row": 83
   },
   {
@@ -12047,12 +12047,12 @@
     "author": "",
     "description": "",
     "original_text": "¡Masvac! ¡Cuarto lugar! ¡Sales agarras una rama del árbol y usas eso! El efecto es el mismo. Igual dañe a los dientes, igual no sirve para nada. ¡Segun do lugar! La combinación de 8% de peróxido de carba mida, y 3% de peróxido está reconocida como efectiva. El problema es que estos ingredientes necesitan mucho tiempo para reaccionar con las manchas en 24 horas no va a cambiar nada, pero si funciona eso sí. El tercer lugar, la única razón por la que no es el último es porque existe esa estúpida rama. Tiras moradas de torvió que? Tinduda, el primer lugar. Si tienes una cita mañana, esta estucarta bajo la manga, usan tecnología de correctión purpura, que neutraliza los pigmentos desde la raíz, sin solo cubrirlo en la superficie. Además, incorporan tecnología papé, que no causa sensibilidad dental y proteger el desmalte. El enlace del producto oficial está justo abajo, y ahora tienen descuento para nuevos usuarios. No esperes a que se agote para arrepentirte.",
-    "translated_text": "",
+    "translated_text": "马斯瓦克！第四名！你出去抓住一根树枝并使用它！效果是一样的。也许它会损害牙齿，也许它没有用。亚军！ 8% 过氧化脲和 3% 过氧化物的组合被认为是有效的。问题是这些成分需要很长时间才能与污渍发生反应。 24小时内不会改变任何东西，但确实有效。第三名，它不是最后的唯一原因是因为存在那个愚蠢的分支。托尔维奥的紫色条是什么？廷杜达，第一名。如果你明天有约会，这款膏药是你的袖子，他们使用紫色校正技术，可以中和根部的色素，而不仅仅是覆盖在表面上。此外，它们还采用了纸技术，不会引起牙齿敏感，并能保护指甲油的去除。官方产品链接就在下面，现在他们对新用户有折扣。不要等到用完才后悔。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:57.363202",
+    "extracted_at": "2026-09-15T06:18:43.419616",
     "row": 85
   },
   {
@@ -12061,12 +12061,12 @@
     "author": "",
     "description": "",
     "original_text": "Si tienes esta suciedad blanca en tus dientes que no puedes quitar técnico la oña, siempre que te cepías de los dientes, tienes encias angrantes, o si también tienes carías, todo esto son caros síntomas de que tu boca podría estar sufriendo gengiviti. Por suerte existen juego que al japonés de la marca Halles Mile, que lo que hace eliminar todas las bacterias y la suciedad acumulada en tu boca durante años. Lo único que tienes que hacer es pegarlo un trago y en jugar durante 30 segundos. ¿Qué auténtico has cochicos mirado toda la suciedad que ha conseguido sacar de mi boca en tan solo o 30 segundos? O sea, entiendo porque mi olía tan mal en el aliento mirar todas las bacterias y la suciedad acumulada en mi boca. Pero lo mejor de este juego evuca al es que está libre de alcohol y no continen ninguna sustancia que se ha toxica de pueda ser mala para el esmalte de tus dientes. Así que si te gustaría probarlo te lo voy a estar dejando que abajo la destita naranja, pero eso sí yo de ti me daría mucha prisa porque tiene muy pocas unidades en esto, que se van a votar en tan solo varias horas, así que no te lo pienses mucho.",
-    "translated_text": "",
+    "translated_text": "如果牙齿上有无法清除的白色污垢，每次刷牙时牙龈出血，或者还有蛀牙，这些都是口腔可能患有牙龈炎的重要症状。幸运的是，日本品牌 Halles Mile 推出了一款游戏，可以消除口腔中多年积累的所有细菌和污垢。您所要做的就是喝一杯并玩 30 秒。你们看到他在短短 30 秒内从我嘴里吐出的所有污垢有多真实吗？我的意思是，看看我嘴里积聚的所有细菌和污垢，我明白为什么我的呼吸如此难闻。但这款游戏最好的一点是它不含酒精，也不含有任何可能损害牙釉质的有毒物质。所以如果你想尝试一下，我会用橙​​汁让你失望，但如果我是你，我会很匆忙，因为这里面的单位很少，而且几个小时后就要投票了，所以不要想太多。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:57.969397",
+    "extracted_at": "2026-09-15T06:18:44.573999",
     "row": 86
   },
   {
@@ -12075,12 +12075,12 @@
     "author": "",
     "description": "",
     "original_text": "Thanks for watching, and don't forget to like, share, and subscribe to our channel.",
-    "translated_text": "",
+    "translated_text": "感谢您的观看，不要忘记喜欢、分享和订阅我们的频道。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:58.481249",
+    "extracted_at": "2026-09-15T06:18:45.086404",
     "row": 87
   },
   {
@@ -12089,12 +12089,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentistas nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad. vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto. Pasta dental con hidróxia patita de astra globo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clica en la cella mientras siguen descuento.",
-    "translated_text": "",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是披萨，真的。它们再次直接从日本生长。这种革命性的东西让牙齿自然形成。看看这个。牙膏与 Hydroxia astra 地球腿。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。所以，你还在等什么，趁折扣还在继续，点击cella吧。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:58.993462",
+    "extracted_at": "2026-09-15T06:18:45.366578",
     "row": 88
   },
   {
@@ -12103,12 +12103,12 @@
     "author": "",
     "description": "",
     "original_text": "dos por uno en el enjuo de bucal japonés y es que acaban de activar un doble descuento para este enjuo de bucal japonés y aparte de que está mucho más barato comprando dos te llevarás una unidad grátil así que si te gustaría aprovecharte de esta oferte comprar un dos por uno en este enjuo de bucal japonés te lo voy a estar dejando que abajo la destita en aranja eso sí da, te mucha prisa porque tienen pocas unidades en esto que se van a votar en tan solo varias horas",
-    "translated_text": "",
+    "translated_text": "日本漱口水买二送一，他们刚刚为这款日本漱口水激活了双重折扣，除了购买两个更便宜之外，您还可以免费获得一个单位，所以如果您想利用此优惠，在这款日本漱口水上购买二买一，我将在下面将其以橙色留给您，这一点很重要，要快点，因为他们的单位很少，并且将在几个小时内进行投票",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:02:59.629125",
+    "extracted_at": "2026-09-15T06:18:46.815879",
     "row": 89
   },
   {
@@ -12124,7 +12124,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:03:00.482643",
+    "extracted_at": "2026-09-15T06:18:47.705877",
     "row": 90
   },
   {
@@ -12133,12 +12133,12 @@
     "author": "",
     "description": "",
     "original_text": "El spray Koreano del que todos están adaptando. La media, la media, la media, la media, la media, la media, la media. Es de spray ser un control blanca, está funcionando a todo el que hay mirin. Es de sumo a los antioxidientes más dufos del esquín. funciona con botónico, ser un imis, parmblo, y vea. Lo puedes usar en tu rutina de skin que es como me gratante. Después de tu makeup como se llama. Y hasta disponible en el final.",
-    "translated_text": "",
+    "translated_text": "每个人都在适应的韩国喷雾。平均，平均，平均，平均，平均，平均，平均。它是一种白色对照喷雾，适用于每个有味醂的人。它是滑雪板中最强的抗氧化剂之一。与 botonic 一起工作，成为一个综管系统，paramblo，然后看看。你可以在你的皮肤护理中使用它，这对我来说真的很好。化完妆后，叫什么？甚至最终可用。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:03:01.128951",
+    "extracted_at": "2026-09-15T06:18:48.959007",
     "row": 91
   },
   {
@@ -12147,12 +12147,12 @@
     "author": "",
     "description": "",
     "original_text": "En su precio más bajo y con envío gratis, está hoy la pasta dental con nano hidróxia patita. No es una pasta común, este ingrediente es el mismo mineral del esmalte, y ayuda a rellenar esas micro áreas que causan la sensibilidad al frío o caliente. Por eso no solo limpia, también protege y refuerza el diente desde el cepillado. Si la vez disponible corre al carrito naranja, antes que se acabe.",
-    "translated_text": "",
+    "translated_text": "今天推出的是 Patita 纳米羟基牙膏，价格最低，而且免运费。它不是一种常见的膏体，这种成分与牙釉质是相同的矿物质，它有助于填充那些导致对热或冷敏感的微小区域。这就是为什么它不仅能清洁牙齿，还能保护和强化牙齿，使其免于刷牙。如果时间允许，请在橙色车用完之前跑向它。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:03:01.751139",
+    "extracted_at": "2026-09-15T06:18:50.659498",
     "row": 92
   },
   {
@@ -12161,12 +12161,12 @@
     "author": "",
     "description": "",
     "original_text": "Oh, it's a grave!",
-    "translated_text": "",
+    "translated_text": "噢，这是一座坟墓！",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "混剪",
-    "extracted_at": "2026-09-15T06:03:02.379719",
+    "extracted_at": "2026-09-15T06:18:51.221157",
     "row": 93
   },
   {
@@ -12175,12 +12175,12 @@
     "author": "",
     "description": "",
     "original_text": "tenía que comprobarciar a hacerlo todo lo que se veía en redes de este nuevo aducar coreano porque se ha ido demasiado viral y de además de decirte que si la verdad me impresionó muchísimo te saca cosa que tú ni te imagina porque con el otro release a mi tu te crees que estás acabando y no me amo un aliento frecó y más nada este no contiene alcohol y sin embargo te saco partículas que te quedan entre los tientes que muchas veces el propesa pillo no logras sacarte un solvo de 5 mililitros durante 30 segundos en tu boca y listo te vas a impresionar esta es la misma lo tienen en descuente con el bien incluido y se está vendiendo muchísimo pero también es algo tan rápido si lo que es probar que te lo voy a estar haciendo para que compartir la irritada de mi nombre para que aseguras el estudio.",
-    "translated_text": "",
+    "translated_text": "我必须尝试做在这款新的韩国 aducar 网络上看到的所有内容，因为它已经传播得太广了，除了告诉你事实是它给我留下了深刻的印象之外，它还带来了一些你甚至无法想象的东西，因为在另一个版本中你认为你已经完成了，我不喜欢新鲜的口气，而且这个版本不含酒精，但我得到了你在诱惑之间留下的颗粒，很多次流氓说你买不到 5 毫升solvo 在你嘴里 30 秒，就是这样，你会留下深刻的印象，这是同一个，他们以折扣价与附带的商品一起出售，它卖得很多，但它也太快了，如果它的意思是证明我要对你这样做，这样我就可以分享我的名字的刺激，这样你就可以确保研究的安全。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:03:03.039409",
+    "extracted_at": "2026-09-15T06:18:52.706401",
     "row": 94
   },
   {
@@ -12189,12 +12189,12 @@
     "author": "",
     "description": "",
     "original_text": "Sólo paso a recomendar este enfuayo vocal de Gismile que la verdad me está ayudando bastante con el blanquemento de mis dientes. Lo utilizó después de cada comida que me la bolos dientes y así veo mejores resultados. El sabor es bueno, no te pica y el precio wow, checa lo aquí.",
-    "translated_text": "",
+    "translated_text": "我只想推荐 Gismile 的这款声音亮点，它对我的​​牙齿美白确实有很大帮助。我在每顿饭后咀嚼后使用它，我看到了更好的效果。味道不错，不刺痛，价格也很便宜，来这里看看。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:03:04.475023",
+    "extracted_at": "2026-09-15T06:18:53.474321",
     "row": 95
   },
   {
@@ -12203,12 +12203,12 @@
     "author": "",
     "description": "",
     "original_text": "Lo que despierta a quien duerme atulado no es la alarma sino tu mal aliento ni se pillarte los dientes ni beber agua logran eliminar ese olor Usa este gel impiador de lengua con unas ligeras pasadas sobre la superficie la lengua que dará limpia y el mal aliento desaparecerán naturalmente Además tras el uso no tarán un recuaroma durasno en su boca",
-    "translated_text": "",
+    "translated_text": "叫醒睡眠者的不是闹钟，而是你的口臭。咬牙或喝水都无法消除这种气味。使用这款舌头清洁凝胶，在表面轻轻擦拭几下，即可清洁舌头，口臭自然消失。另外，使用后口腔中不会有刺鼻的余味。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:03:04.884938",
+    "extracted_at": "2026-09-15T06:18:55.373020",
     "row": 96
   },
   {
@@ -12217,12 +12217,12 @@
     "author": "",
     "description": "",
     "original_text": "Como eliminar la capa blanca de la lengua, no las epillas con un cepillo de dientes, ya que su alteraría el equilibrio natural. Utiliza este gel junto con el raspador diseñado para limpiar la lengua, eliminar eficazmente las bacterias de todos dos rincones y mantiene la boca fresca durante todo el día. Si lo usas de forma constante durante un tiempo, el malaliento desaparecerá gradualmente. Optén.",
-    "translated_text": "",
+    "translated_text": "如何去除舌头上的白色涂层，不要用牙刷刷，因为这会破坏自然平衡。将这款凝胶与专为清洁舌头而设计的刮刀一起使用，有效消除各个角落的细菌，让口腔保持一整天清新。如果坚持使用一段时间，口臭就会逐渐消失。选择。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:03:05.313433",
+    "extracted_at": "2026-09-15T06:18:56.590094",
     "row": 97
   },
   {
@@ -12231,12 +12231,12 @@
     "author": "",
     "description": "",
     "original_text": "Si te despierta si tu boca huele culero, y después de se pillarte sigue ese pinche olor apescado, ya valiste madre, fuck, cuando hablas ya incomodas a la gente, ni se diga pesar a tu parejabro. El problema no es que no te cepíyes, el maudwas y el chicle no sirven, ya estás infectado, no es broma. Un chingo de streptococos mutans están en tu boca comiendo buffet, se pillarte no sirven y madres. Necesitas matar esas bacterias, necesita una invasión de extracto activo de agave, un ejército de extracto activo de agave. Que entre, y exterminé a las que se comen la base de tus dientes, o cotaps, pasta dental de agave, 10 millones de extracto activo de agave, una bomba nuclear para la boca. Te cepíyes una vez, que espera 10 segundos y la espuma explota, disuelve la mubre como baño público, y saca todo el olor escondido sin dejar ni madre, siete días, dos veces al día, tu boca cambia por completo. Antes de noquear a tu pareja, dale click al carrito naranja.",
-    "translated_text": "",
+    "translated_text": "如果你嘴里有屎味他就叫醒你，他抓住你之后那股腥味还在，你就值得了，混蛋，你说话就已经让人不舒服了，别打扰你的伴侣了兄弟。问题不在于你不刷牙，刷牙和嚼口香糖不起作用，你已经被感染了，这不是开玩笑。吃自助餐的时候嘴里有很多变形链球菌，它们是没用的，妈妈们。你需要杀死这些细菌，你需要活性龙舌兰提取物的入侵，一支活性龙舌兰提取物的军队。让它进来，消灭那些吃你牙根的东西，或者说科塔普，龙舌兰牙膏，一千万活性龙舌兰提取物，口腔的核弹。你刷一次，等10秒，泡沫爆炸，像公厕一样溶解污垢，把所有隐藏的气味去除不留痕迹，7天，每天两次，你的口腔彻底改变。在击败你的搭档之前，请点击橙色购物车。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:03:05.942680",
+    "extracted_at": "2026-09-15T06:18:56.765835",
     "row": 98
   },
   {
@@ -12245,12 +12245,12 @@
     "author": "",
     "description": "",
     "original_text": "Yo lo voy a tomerar en las redes que tenía que probarlo y se trata el famoso nuevo calcoriano. Y sí, un sobo de 5 mil litros, 30 segundos en la boca y listo vas a por ser coseta que ni tú imaginas, todas esas semanas, todas esos videos son reales. Y yo no te voy a mostrar aquí porque creo que es algo innecesario. No contiene al col y vas a tener un aliento más fresco, diente, más limpios y más blanco, también. Pero voy trabajando para que a compartir la revita de mi nombre por si quieres ir por el caramismo lo tienen en descuento y con el blanco.",
-    "translated_text": "",
+    "translated_text": "我要把它放到网络上，因为我必须尝试一下，它是著名的新 Calcorian。是的，一个 5000 升的 sobo，在你嘴里呆 30 秒，就这样，你将成为你无法想象的东西，所有那些星期，所有这些视频都是真实的。我不会在这里向您展示，因为我认为这是没有必要的。它不含卷心菜，让您口气更清新、牙齿更干净、更洁白。但我正在努力分享我的名片，以防万一你想买焦糖色，他们有折扣，而且是白色的。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:03:06.424661",
+    "extracted_at": "2026-09-15T06:18:57.945935",
     "row": 99
   },
   {
@@ -12259,12 +12259,12 @@
     "author": "",
     "description": "",
     "original_text": "Thank you.",
-    "translated_text": "",
+    "translated_text": "谢谢。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "混剪",
-    "extracted_at": "2026-09-15T06:03:07.020468",
+    "extracted_at": "2026-09-15T06:18:58.062709",
     "row": 100
   },
   {
@@ -12280,7 +12280,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:03:07.824274",
+    "extracted_at": "2026-09-15T06:18:58.996618",
     "row": 101
   }
 ]
