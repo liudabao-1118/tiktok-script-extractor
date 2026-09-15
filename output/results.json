@@ -5327,10 +5327,10 @@
     "language": "",
     "duration": "64s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/owgfW3AQyiFzcHTqAKQ9E9IXfpEWQBEVmBwRli/?a=1988&bti=ODszNWYuMDE6&&bt=893&ft=aEeq8qT0mIoPD12lH6-I3wUgEtAbMeF~O5&mime_type=video_mp4&rc=N2UzZDU1Njc1NDQ0PGc6NEBpMzllN2o5cmp5ZDMzaTczNEBeLzQxMWIvXzYxLS1jYF8tYSMyY3JiMmRjNl9hLS1kMTJzcw%3D%3D&expire=1789621951&l=20260915051127FA7B43816CD6E037509C&ply_type=2&policy=2&signature=d08afd60eda2d04488f6a253271614da&tk=tt_chain_token&btag=e00090000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/owgfW3AQyiFzcHTqAKQ9E9IXfpEWQBEVmBwRli/?a=1988&bti=ODszNWYuMDE6&&bt=893&ft=4KJMyMzm8Zmo0vvTka4jVySOdpWrKsd.&mime_type=video_mp4&rc=N2UzZDU1Njc1NDQ0PGc6NEBpMzllN2o5cmp5ZDMzaTczNEBeLzQxMWIvXzYxLS1jYF8tYSMyY3JiMmRjNl9hLS1kMTJzcw%3D%3D&expire=1789622629&l=20260915052245D0FF6E65EB7AC632B59B&ply_type=2&policy=2&signature=898227c54fe788111a1b2cffb270a566&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:11:27.921089",
+    "extracted_at": "2026-09-15T05:22:45.970810",
     "row": 84
   },
   {
@@ -10852,15 +10852,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7683953147810811167?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7683953147810811167",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7683953147810811167: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:10:52.187454",
+    "extracted_at": "2026-09-15T05:20:55.497756",
     "row": 2
   },
   {
@@ -10868,15 +10868,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7682768342599470350?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7682768342599470350",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7682768342599470350: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:10:52.667106",
+    "extracted_at": "2026-09-15T05:20:59.214959",
     "row": 3
   },
   {
@@ -10884,15 +10884,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7683528572618722590?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7683528572618722590",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7683528572618722590: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:10:53.160798",
+    "extracted_at": "2026-09-15T05:21:03.376958",
     "row": 4
   },
   {
@@ -10906,7 +10906,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:10:53.456959",
+    "extracted_at": "2026-09-15T05:21:03.846840",
     "row": 5
   },
   {
@@ -10920,7 +10920,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:10:53.747909",
+    "extracted_at": "2026-09-15T05:21:04.415206",
     "row": 6
   },
   {
@@ -10934,7 +10934,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:10:54.111129",
+    "extracted_at": "2026-09-15T05:21:04.769778",
     "row": 7
   },
   {
@@ -10948,7 +10948,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:10:54.518820",
+    "extracted_at": "2026-09-15T05:21:05.290351",
     "row": 8
   },
   {
@@ -10956,15 +10956,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7681269185799834894?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7681269185799834894",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7681269185799834894: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:10:54.979565",
+    "extracted_at": "2026-09-15T05:21:09.050405",
     "row": 9
   },
   {
@@ -10972,15 +10972,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7683047829379583263?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7683047829379583263",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7683047829379583263: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:10:55.541091",
+    "extracted_at": "2026-09-15T05:21:12.574606",
     "row": 10
   },
   {
@@ -10994,7 +10994,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:10:56.012394",
+    "extracted_at": "2026-09-15T05:21:12.912066",
     "row": 11
   },
   {
@@ -11002,15 +11002,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7682022534123883789?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7682022534123883789",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7682022534123883789: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:10:56.505064",
+    "extracted_at": "2026-09-15T05:21:16.186657",
     "row": 12
   },
   {
@@ -11018,15 +11018,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7682726104112581918?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7682726104112581918",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7682726104112581918: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:10:57.001307",
+    "extracted_at": "2026-09-15T05:21:19.929461",
     "row": 13
   },
   {
@@ -11034,15 +11034,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7682000359279168782?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7682000359279168782",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7682000359279168782: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:10:57.433423",
+    "extracted_at": "2026-09-15T05:21:23.449527",
     "row": 14
   },
   {
@@ -11050,15 +11050,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7683918000159771917?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7683918000159771917",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7683918000159771917: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:10:57.970564",
+    "extracted_at": "2026-09-15T05:21:27.743179",
     "row": 15
   },
   {
@@ -11066,15 +11066,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7684282279811665166?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7684282279811665166",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7684282279811665166: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:10:58.615337",
+    "extracted_at": "2026-09-15T05:21:31.000095",
     "row": 16
   },
   {
@@ -11088,7 +11088,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:10:58.957068",
+    "extracted_at": "2026-09-15T05:21:31.480054",
     "row": 17
   },
   {
@@ -11102,7 +11102,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:10:59.374600",
+    "extracted_at": "2026-09-15T05:21:31.939404",
     "row": 18
   },
   {
@@ -11110,15 +11110,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7679278971002817822?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7679278971002817822",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7679278971002817822: Your IP address is blocked from accessing this post",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:10:59.917971",
+    "extracted_at": "2026-09-15T05:21:35.826065",
     "row": 19
   },
   {
@@ -11132,7 +11132,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:00.439629",
+    "extracted_at": "2026-09-15T05:21:36.433404",
     "row": 20
   },
   {
@@ -11140,15 +11140,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7682021052049870094?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7682021052049870094",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7682021052049870094: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:11:01.032669",
+    "extracted_at": "2026-09-15T05:21:39.889868",
     "row": 21
   },
   {
@@ -11162,7 +11162,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:01.375057",
+    "extracted_at": "2026-09-15T05:21:40.503207",
     "row": 22
   },
   {
@@ -11170,15 +11170,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7683262654856645918?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7683262654856645918",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7683262654856645918: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:11:01.848260",
+    "extracted_at": "2026-09-15T05:21:43.870362",
     "row": 23
   },
   {
@@ -11186,15 +11186,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7682768069197925645?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7682768069197925645",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7682768069197925645: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:11:02.493940",
+    "extracted_at": "2026-09-15T05:21:47.052209",
     "row": 24
   },
   {
@@ -11208,7 +11208,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:03.060888",
+    "extracted_at": "2026-09-15T05:21:47.608566",
     "row": 25
   },
   {
@@ -11216,15 +11216,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7683866505322220813?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7683866505322220813",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7683866505322220813: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:11:03.565129",
+    "extracted_at": "2026-09-15T05:21:51.159336",
     "row": 26
   },
   {
@@ -11238,7 +11238,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:04.052228",
+    "extracted_at": "2026-09-15T05:21:51.484609",
     "row": 27
   },
   {
@@ -11246,15 +11246,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7683526937507056927?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7683526937507056927",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7683526937507056927: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:11:04.492182",
+    "extracted_at": "2026-09-15T05:21:54.963938",
     "row": 28
   },
   {
@@ -11268,7 +11268,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:05.047284",
+    "extracted_at": "2026-09-15T05:21:55.492575",
     "row": 29
   },
   {
@@ -11276,15 +11276,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7680886896305736990?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7680886896305736990",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7680886896305736990: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:11:05.470724",
+    "extracted_at": "2026-09-15T05:21:58.730202",
     "row": 30
   },
   {
@@ -11298,7 +11298,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:05.943986",
+    "extracted_at": "2026-09-15T05:21:59.305225",
     "row": 31
   },
   {
@@ -11306,15 +11306,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7678662496634359071?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7678662496634359071",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7678662496634359071: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:11:06.444418",
+    "extracted_at": "2026-09-15T05:22:02.932634",
     "row": 32
   },
   {
@@ -11328,7 +11328,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:06.787367",
+    "extracted_at": "2026-09-15T05:22:03.539451",
     "row": 33
   },
   {
@@ -11342,7 +11342,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:07.124209",
+    "extracted_at": "2026-09-15T05:22:04.141786",
     "row": 34
   },
   {
@@ -11350,15 +11350,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7683952280667720990?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7683952280667720990",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7683952280667720990: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:11:07.535995",
+    "extracted_at": "2026-09-15T05:22:07.686726",
     "row": 35
   },
   {
@@ -11372,7 +11372,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "混剪",
-    "extracted_at": "2026-09-15T05:11:07.959788",
+    "extracted_at": "2026-09-15T05:22:08.285986",
     "row": 36
   },
   {
@@ -11386,7 +11386,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:08.312624",
+    "extracted_at": "2026-09-15T05:22:08.764663",
     "row": 37
   },
   {
@@ -11400,7 +11400,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:08.707761",
+    "extracted_at": "2026-09-15T05:22:09.321878",
     "row": 38
   },
   {
@@ -11414,7 +11414,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:09.040143",
+    "extracted_at": "2026-09-15T05:22:09.841456",
     "row": 39
   },
   {
@@ -11428,7 +11428,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:09.374576",
+    "extracted_at": "2026-09-15T05:22:10.387303",
     "row": 40
   },
   {
@@ -11442,7 +11442,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:09.729958",
+    "extracted_at": "2026-09-15T05:22:10.820742",
     "row": 41
   },
   {
@@ -11450,15 +11450,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7684277265189915935?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7684277265189915935",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7684277265189915935: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:11:10.205389",
+    "extracted_at": "2026-09-15T05:22:13.820516",
     "row": 42
   },
   {
@@ -11472,7 +11472,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:10.637390",
+    "extracted_at": "2026-09-15T05:22:14.181963",
     "row": 43
   },
   {
@@ -11485,10 +11485,10 @@
     "language": "",
     "duration": "64s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/ogigrDfEegmJqWwSaIB4B5EuRNQXFLwQD1UpP1/?a=1988&bti=ODszNWYuMDE6&&bt=1100&ft=aEeq8qT0mIoPD12HH6-I3wUyeRAbMeF~O5&mime_type=video_mp4&rc=aThnOWc3aDM3O2U2Z2k7NUBpM29xa3Q5cjg8ZDQzZzM2NEBgLzM2NTEtX14xNi02MGI0YSNwbWhqMmRrcGFhLS1kLS9zcw%3D%3D&expire=1789621935&l=2026091505111072972D49E66F56319054&ply_type=2&policy=2&signature=3f0f703b2ad69daba23bf00d003a30f0&tk=tt_chain_token&btag=e000d0000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/ogigrDfEegmJqWwSaIB4B5EuRNQXFLwQD1UpP1/?a=1988&bti=ODszNWYuMDE6&&bt=1100&ft=4KJMyMzm8Zmo0fvTka4jVbJvdpWrKsd.&mime_type=video_mp4&rc=aThnOWc3aDM3O2U2Z2k7NUBpM29xa3Q5cjg8ZDQzZzM2NEBgLzM2NTEtX14xNi02MGI0YSNwbWhqMmRrcGFhLS1kLS9zcw%3D%3D&expire=1789622603&l=20260915052219AA00F01C2326793E1C5B&ply_type=2&policy=2&signature=b6880d5863449435030e7ba595c68205&tk=tt_chain_token&btag=e000d0000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:11:11.165448",
+    "extracted_at": "2026-09-15T05:22:19.511076",
     "row": 44
   },
   {
@@ -11502,7 +11502,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:11.528055",
+    "extracted_at": "2026-09-15T05:22:20.071262",
     "row": 45
   },
   {
@@ -11516,7 +11516,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:11.893878",
+    "extracted_at": "2026-09-15T05:22:20.437074",
     "row": 46
   },
   {
@@ -11530,7 +11530,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:12.241474",
+    "extracted_at": "2026-09-15T05:22:20.902168",
     "row": 47
   },
   {
@@ -11544,7 +11544,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:12.704945",
+    "extracted_at": "2026-09-15T05:22:21.254096",
     "row": 48
   },
   {
@@ -11558,7 +11558,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:13.103427",
+    "extracted_at": "2026-09-15T05:22:21.785011",
     "row": 49
   },
   {
@@ -11572,7 +11572,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:13.632106",
+    "extracted_at": "2026-09-15T05:22:22.348961",
     "row": 50
   },
   {
@@ -11586,7 +11586,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:14.007913",
+    "extracted_at": "2026-09-15T05:22:22.696928",
     "row": 51
   },
   {
@@ -11600,7 +11600,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:14.309619",
+    "extracted_at": "2026-09-15T05:22:23.105849",
     "row": 52
   },
   {
@@ -11614,7 +11614,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:14.615854",
+    "extracted_at": "2026-09-15T05:22:23.711935",
     "row": 53
   },
   {
@@ -11628,7 +11628,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:15.046033",
+    "extracted_at": "2026-09-15T05:22:24.101878",
     "row": 54
   },
   {
@@ -11642,7 +11642,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:15.552169",
+    "extracted_at": "2026-09-15T05:22:24.428594",
     "row": 55
   },
   {
@@ -11656,7 +11656,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:15.823523",
+    "extracted_at": "2026-09-15T05:22:24.991187",
     "row": 56
   },
   {
@@ -11664,15 +11664,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7684170697513487634?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7684170697513487634",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7684170697513487634: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+    "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:11:16.442108",
+    "extracted_at": "2026-09-15T05:22:28.017590",
     "row": 57
   },
   {
@@ -11686,7 +11686,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:16.977403",
+    "extracted_at": "2026-09-15T05:22:28.402154",
     "row": 58
   },
   {
@@ -11700,7 +11700,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:17.534301",
+    "extracted_at": "2026-09-15T05:22:28.835519",
     "row": 59
   },
   {
@@ -11714,7 +11714,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:18.016682",
+    "extracted_at": "2026-09-15T05:22:29.362777",
     "row": 60
   },
   {
@@ -11728,7 +11728,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:18.419210",
+    "extracted_at": "2026-09-15T05:22:29.927058",
     "row": 61
   },
   {
@@ -11742,7 +11742,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:18.771801",
+    "extracted_at": "2026-09-15T05:22:30.354961",
     "row": 62
   },
   {
@@ -11756,7 +11756,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:19.299283",
+    "extracted_at": "2026-09-15T05:22:30.924662",
     "row": 63
   },
   {
@@ -11770,7 +11770,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:19.832901",
+    "extracted_at": "2026-09-15T05:22:31.320104",
     "row": 64
   },
   {
@@ -11784,7 +11784,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:20.154281",
+    "extracted_at": "2026-09-15T05:22:31.645051",
     "row": 65
   },
   {
@@ -11798,7 +11798,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:20.464549",
+    "extracted_at": "2026-09-15T05:22:31.971603",
     "row": 66
   },
   {
@@ -11812,7 +11812,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:20.875167",
+    "extracted_at": "2026-09-15T05:22:32.328664",
     "row": 67
   },
   {
@@ -11826,7 +11826,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:21.183461",
+    "extracted_at": "2026-09-15T05:22:32.757839",
     "row": 68
   },
   {
@@ -11840,7 +11840,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:21.529304",
+    "extracted_at": "2026-09-15T05:22:33.324436",
     "row": 69
   },
   {
@@ -11854,7 +11854,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:21.950483",
+    "extracted_at": "2026-09-15T05:22:33.929167",
     "row": 70
   },
   {
@@ -11868,7 +11868,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:22.450874",
+    "extracted_at": "2026-09-15T05:22:34.479803",
     "row": 71
   },
   {
@@ -11882,7 +11882,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:22.945164",
+    "extracted_at": "2026-09-15T05:22:34.944713",
     "row": 72
   },
   {
@@ -11896,7 +11896,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:23.275686",
+    "extracted_at": "2026-09-15T05:22:35.559868",
     "row": 73
   },
   {
@@ -11910,7 +11910,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:23.804641",
+    "extracted_at": "2026-09-15T05:22:35.958357",
     "row": 74
   },
   {
@@ -11924,7 +11924,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:24.117472",
+    "extracted_at": "2026-09-15T05:22:36.557728",
     "row": 75
   },
   {
@@ -11938,7 +11938,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:24.558064",
+    "extracted_at": "2026-09-15T05:22:36.966836",
     "row": 76
   },
   {
@@ -11952,7 +11952,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:25.020897",
+    "extracted_at": "2026-09-15T05:22:37.402117",
     "row": 77
   },
   {
@@ -11966,7 +11966,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:25.499935",
+    "extracted_at": "2026-09-15T05:22:37.738834",
     "row": 78
   },
   {
@@ -11980,7 +11980,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:25.771883",
+    "extracted_at": "2026-09-15T05:22:38.192166",
     "row": 79
   },
   {
@@ -11994,23 +11994,23 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:26.040211",
+    "extracted_at": "2026-09-15T05:22:38.686111",
     "row": 80
   },
   {
     "video_id": "7682275326256237844",
     "url": "https://www.tiktok.com/@anker_uk/video/7682275326256237844?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "Adiós al café en los dientes, estas tiras moradas limpian de verdad#b...",
-    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "description": "Adiós al café en los dientes, estas tiras moradas limpian de verdad#blanqueamientodental#dientesamarillos#tirasblanqueadoras#drbiocare 260906",
+    "original_text": "",
     "translated_text": "",
-    "language": "",
+    "language": "en",
     "duration": "9s",
-    "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-ve-4863-sg/ospe9TiixmLZ4dUlvIZMssgIBfEBiBKNqBZ1nE/?a=1988&bti=ODszNWYuMDE6&&bt=543&ft=4KJMyMzm8Zmo0A7Tka4jV-zNdpWrKsd.&mime_type=video_mp4&rc=aTRnNjlnOTg5ZjpmZ2g1ZUBpamc5bHc5cjloZDQzOGk1NEBhLzQtMTRgXzIxY2EuLzA0YSNoaDMyMmRjbWJhLS1kYzFzcw%3D%3D&expire=1789621895&l=20260915051126DDC3FB87A21AA6385673&ply_type=2&policy=2&signature=637ff819109954703a728c6f7d23d66b&tk=tt_chain_token&btag=e000b0000",
+    "status": "no_audio_detected",
+    "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:11:26.514105",
+    "extracted_at": "2026-09-15T05:22:40.965844",
     "row": 81
   },
   {
@@ -12024,7 +12024,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:26.969625",
+    "extracted_at": "2026-09-15T05:22:41.502860",
     "row": 82
   },
   {
@@ -12038,7 +12038,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:27.432713",
+    "extracted_at": "2026-09-15T05:22:42.092717",
     "row": 83
   },
   {
@@ -12052,7 +12052,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:28.412760",
+    "extracted_at": "2026-09-15T05:22:46.382032",
     "row": 85
   },
   {
@@ -12066,7 +12066,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:28.725778",
+    "extracted_at": "2026-09-15T05:22:46.743158",
     "row": 86
   },
   {
@@ -12080,7 +12080,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:29.277171",
+    "extracted_at": "2026-09-15T05:22:47.306725",
     "row": 87
   },
   {
@@ -12094,7 +12094,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:29.764906",
+    "extracted_at": "2026-09-15T05:22:47.890865",
     "row": 88
   },
   {
@@ -12108,23 +12108,23 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:30.036430",
+    "extracted_at": "2026-09-15T05:22:48.261336",
     "row": 89
   },
   {
     "video_id": "7683717507252849940",
     "url": "https://www.tiktok.com/@anker_uk/video/7683717507252849940?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "​¿Una mascarilla que desaparece en tu piel? 🤯✨ No es magia, es la fam...",
-    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "description": "​¿Una mascarilla que desaparece en tu piel? 🤯✨ No es magia, es la famosa Bio-Collagen Mask . Tu piel absorbe hasta la última gota de colágeno mientras duermes, dejándote un efecto \"Glass Skin\" real al despertar. 🧪🌙 ​🚨 ¡Pocas unidades disponibles en stock! #sheetmask #pore #poresize #reducepores #skincare #SelfCare#Facial mask#Mascarilla facial#collagenmask #glassskin #skincare #facemask#biodance#mascarilladecolageno#skincarecoreano#pielsana",
+    "original_text": "",
     "translated_text": "",
-    "language": "",
+    "language": "en",
     "duration": "11s",
-    "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oYiqjYN2asPgIWVgNzLAAGqWET8MivBIBP8iE/?a=1988&bti=ODszNWYuMDE6&&bt=695&ft=aEeq8qT0mIoPD122j6-I3wU6PyAbMeF~O5&mime_type=video_mp4&rc=NDk7O2k0ZGU7PDY0Mzs7OkBpM2lnO3Y5cm0zZDMzODczNEBfNTZfMTFeNjQxMTVfMjJeYSNqYC5yMmRrbGVhLS1kMTFzcw%3D%3D&expire=1789621901&l=202609150511302935DABB314802329D06&ply_type=2&policy=2&signature=dc3381ad0c0bddab654aefedd47bb85d&tk=tt_chain_token&btag=e000f0000",
+    "status": "no_audio_detected",
+    "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:11:30.668074",
+    "extracted_at": "2026-09-15T05:22:49.373373",
     "row": 90
   },
   {
@@ -12138,7 +12138,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:31.134293",
+    "extracted_at": "2026-09-15T05:22:49.949697",
     "row": 91
   },
   {
@@ -12152,7 +12152,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:31.476250",
+    "extracted_at": "2026-09-15T05:22:50.510698",
     "row": 92
   },
   {
@@ -12166,7 +12166,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "混剪",
-    "extracted_at": "2026-09-15T05:11:32.006230",
+    "extracted_at": "2026-09-15T05:22:51.116868",
     "row": 93
   },
   {
@@ -12180,7 +12180,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:32.403847",
+    "extracted_at": "2026-09-15T05:22:51.629964",
     "row": 94
   },
   {
@@ -12194,7 +12194,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:32.865876",
+    "extracted_at": "2026-09-15T05:22:52.205036",
     "row": 95
   },
   {
@@ -12208,7 +12208,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:33.234905",
+    "extracted_at": "2026-09-15T05:22:52.558898",
     "row": 96
   },
   {
@@ -12222,7 +12222,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:33.666678",
+    "extracted_at": "2026-09-15T05:22:53.063918",
     "row": 97
   },
   {
@@ -12236,7 +12236,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:34.153429",
+    "extracted_at": "2026-09-15T05:22:53.602954",
     "row": 98
   },
   {
@@ -12250,7 +12250,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:11:34.650955",
+    "extracted_at": "2026-09-15T05:22:54.026512",
     "row": 99
   },
   {
@@ -12264,23 +12264,23 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "混剪",
-    "extracted_at": "2026-09-15T05:11:35.028708",
+    "extracted_at": "2026-09-15T05:22:54.378003",
     "row": 100
   },
   {
     "video_id": "7681878113533365511",
     "url": "https://www.tiktok.com/@anker_uk/video/7681878113533365511?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "Llevo usándolas una semana y ya noto la diferencia, las tiras moradas...",
-    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "description": "Llevo usándolas una semana y ya noto la diferencia, las tiras moradas valen mucho la pena#blanqueamientodental#dientesamarillos#tirasblanqueadoras#drbiocare 260905",
+    "original_text": "",
     "translated_text": "",
-    "language": "",
+    "language": "en",
     "duration": "15s",
-    "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-ve-4863-sg/ooCOQPgDBgKaiJHXcbi4u8I2pA0Epzswy7fbDC/?a=1988&bti=ODszNWYuMDE6&&bt=1164&ft=4KJMyMzm8Zmo0r1Tka4jVySOdpWrKsd.&mime_type=video_mp4&rc=ZTU6NzM5ZGU7ZWk6ZjdkNUBpajN4amw5cnZyZDQzOGk1NUAxYTMyM2FfNTExYjAyLTZiYSNtbWxoMmQ0M2FhLS1kYzZzcw%3D%3D&expire=1789621910&l=2026091505113575284D532C4B0B379569&ply_type=2&policy=2&signature=abe6f79fc25f0598c21839c1d113773a&tk=tt_chain_token&btag=e000b8000",
+    "status": "no_audio_detected",
+    "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:11:35.809459",
+    "extracted_at": "2026-09-15T05:22:55.353927",
     "row": 101
   }
 ]
