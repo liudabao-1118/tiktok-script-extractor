@@ -5327,10 +5327,10 @@
     "language": "",
     "duration": "64s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/owgfW3AQyiFzcHTqAKQ9E9IXfpEWQBEVmBwRli/?a=1988&bti=ODszNWYuMDE6&&bt=893&ft=4KJMyMzm8Zmo0vvTka4jVySOdpWrKsd.&mime_type=video_mp4&rc=N2UzZDU1Njc1NDQ0PGc6NEBpMzllN2o5cmp5ZDMzaTczNEBeLzQxMWIvXzYxLS1jYF8tYSMyY3JiMmRjNl9hLS1kMTJzcw%3D%3D&expire=1789622629&l=20260915052245D0FF6E65EB7AC632B59B&ply_type=2&policy=2&signature=898227c54fe788111a1b2cffb270a566&tk=tt_chain_token&btag=e00090000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/owgfW3AQyiFzcHTqAKQ9E9IXfpEWQBEVmBwRli/?a=1988&bti=ODszNWYuMDE6&&bt=893&ft=4KJMyMzm8Zmo00wTka4jVirkQpWrKsd.&mime_type=video_mp4&rc=N2UzZDU1Njc1NDQ0PGc6NEBpMzllN2o5cmp5ZDMzaTczNEBeLzQxMWIvXzYxLS1jYF8tYSMyY3JiMmRjNl9hLS1kMTJzcw%3D%3D&expire=1789623234&l=2026091505325081987005A98FA32A43BF&ply_type=2&policy=2&signature=9b5f9ca23a16cff204e81be59c9121e5&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:22:45.970810",
+    "extracted_at": "2026-09-15T05:32:50.764627",
     "row": 84
   },
   {
@@ -10860,7 +10860,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:20:55.497756",
+    "extracted_at": "2026-09-15T05:31:12.968536",
     "row": 2
   },
   {
@@ -10876,7 +10876,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:20:59.214959",
+    "extracted_at": "2026-09-15T05:31:15.861395",
     "row": 3
   },
   {
@@ -10892,7 +10892,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:21:03.376958",
+    "extracted_at": "2026-09-15T05:31:18.805493",
     "row": 4
   },
   {
@@ -10906,7 +10906,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:21:03.846840",
+    "extracted_at": "2026-09-15T05:31:19.392888",
     "row": 5
   },
   {
@@ -10920,7 +10920,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:21:04.415206",
+    "extracted_at": "2026-09-15T05:31:19.836558",
     "row": 6
   },
   {
@@ -10934,7 +10934,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:21:04.769778",
+    "extracted_at": "2026-09-15T05:31:20.196623",
     "row": 7
   },
   {
@@ -10948,7 +10948,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:21:05.290351",
+    "extracted_at": "2026-09-15T05:31:20.720987",
     "row": 8
   },
   {
@@ -10964,7 +10964,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:21:09.050405",
+    "extracted_at": "2026-09-15T05:31:23.591219",
     "row": 9
   },
   {
@@ -10980,7 +10980,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:21:12.574606",
+    "extracted_at": "2026-09-15T05:31:26.504351",
     "row": 10
   },
   {
@@ -10994,7 +10994,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:21:12.912066",
+    "extracted_at": "2026-09-15T05:31:26.930739",
     "row": 11
   },
   {
@@ -11010,7 +11010,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:21:16.186657",
+    "extracted_at": "2026-09-15T05:31:30.228017",
     "row": 12
   },
   {
@@ -11026,7 +11026,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:21:19.929461",
+    "extracted_at": "2026-09-15T05:31:33.487731",
     "row": 13
   },
   {
@@ -11042,7 +11042,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:21:23.449527",
+    "extracted_at": "2026-09-15T05:31:36.579302",
     "row": 14
   },
   {
@@ -11058,7 +11058,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:21:27.743179",
+    "extracted_at": "2026-09-15T05:31:39.611503",
     "row": 15
   },
   {
@@ -11074,7 +11074,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:21:31.000095",
+    "extracted_at": "2026-09-15T05:31:42.594128",
     "row": 16
   },
   {
@@ -11088,7 +11088,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:21:31.480054",
+    "extracted_at": "2026-09-15T05:31:43.099078",
     "row": 17
   },
   {
@@ -11102,7 +11102,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:21:31.939404",
+    "extracted_at": "2026-09-15T05:31:43.653985",
     "row": 18
   },
   {
@@ -11118,7 +11118,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:21:35.826065",
+    "extracted_at": "2026-09-15T05:31:47.006557",
     "row": 19
   },
   {
@@ -11132,7 +11132,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:21:36.433404",
+    "extracted_at": "2026-09-15T05:31:47.384193",
     "row": 20
   },
   {
@@ -11148,7 +11148,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:21:39.889868",
+    "extracted_at": "2026-09-15T05:31:50.138500",
     "row": 21
   },
   {
@@ -11162,7 +11162,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:21:40.503207",
+    "extracted_at": "2026-09-15T05:31:50.555883",
     "row": 22
   },
   {
@@ -11178,7 +11178,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:21:43.870362",
+    "extracted_at": "2026-09-15T05:31:53.689257",
     "row": 23
   },
   {
@@ -11194,7 +11194,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:21:47.052209",
+    "extracted_at": "2026-09-15T05:31:56.473921",
     "row": 24
   },
   {
@@ -11208,7 +11208,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:21:47.608566",
+    "extracted_at": "2026-09-15T05:31:56.841621",
     "row": 25
   },
   {
@@ -11224,7 +11224,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:21:51.159336",
+    "extracted_at": "2026-09-15T05:31:59.727484",
     "row": 26
   },
   {
@@ -11238,7 +11238,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:21:51.484609",
+    "extracted_at": "2026-09-15T05:32:00.171688",
     "row": 27
   },
   {
@@ -11254,7 +11254,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:21:54.963938",
+    "extracted_at": "2026-09-15T05:32:03.067272",
     "row": 28
   },
   {
@@ -11268,7 +11268,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:21:55.492575",
+    "extracted_at": "2026-09-15T05:32:03.550043",
     "row": 29
   },
   {
@@ -11284,7 +11284,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:21:58.730202",
+    "extracted_at": "2026-09-15T05:32:06.431665",
     "row": 30
   },
   {
@@ -11298,7 +11298,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:21:59.305225",
+    "extracted_at": "2026-09-15T05:32:06.890679",
     "row": 31
   },
   {
@@ -11314,7 +11314,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:22:02.932634",
+    "extracted_at": "2026-09-15T05:32:09.700100",
     "row": 32
   },
   {
@@ -11328,7 +11328,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:03.539451",
+    "extracted_at": "2026-09-15T05:32:10.262819",
     "row": 33
   },
   {
@@ -11342,7 +11342,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:04.141786",
+    "extracted_at": "2026-09-15T05:32:10.782552",
     "row": 34
   },
   {
@@ -11358,7 +11358,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:22:07.686726",
+    "extracted_at": "2026-09-15T05:32:13.635086",
     "row": 35
   },
   {
@@ -11372,7 +11372,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "混剪",
-    "extracted_at": "2026-09-15T05:22:08.285986",
+    "extracted_at": "2026-09-15T05:32:13.997797",
     "row": 36
   },
   {
@@ -11386,7 +11386,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:08.764663",
+    "extracted_at": "2026-09-15T05:32:14.453955",
     "row": 37
   },
   {
@@ -11400,7 +11400,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:09.321878",
+    "extracted_at": "2026-09-15T05:32:14.846160",
     "row": 38
   },
   {
@@ -11414,7 +11414,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:09.841456",
+    "extracted_at": "2026-09-15T05:32:15.311534",
     "row": 39
   },
   {
@@ -11428,7 +11428,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:10.387303",
+    "extracted_at": "2026-09-15T05:32:15.817132",
     "row": 40
   },
   {
@@ -11442,7 +11442,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:10.820742",
+    "extracted_at": "2026-09-15T05:32:16.163349",
     "row": 41
   },
   {
@@ -11458,7 +11458,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:22:13.820516",
+    "extracted_at": "2026-09-15T05:32:19.170696",
     "row": 42
   },
   {
@@ -11472,7 +11472,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:14.181963",
+    "extracted_at": "2026-09-15T05:32:19.765709",
     "row": 43
   },
   {
@@ -11485,10 +11485,10 @@
     "language": "",
     "duration": "64s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/ogigrDfEegmJqWwSaIB4B5EuRNQXFLwQD1UpP1/?a=1988&bti=ODszNWYuMDE6&&bt=1100&ft=4KJMyMzm8Zmo0fvTka4jVbJvdpWrKsd.&mime_type=video_mp4&rc=aThnOWc3aDM3O2U2Z2k7NUBpM29xa3Q5cjg8ZDQzZzM2NEBgLzM2NTEtX14xNi02MGI0YSNwbWhqMmRrcGFhLS1kLS9zcw%3D%3D&expire=1789622603&l=20260915052219AA00F01C2326793E1C5B&ply_type=2&policy=2&signature=b6880d5863449435030e7ba595c68205&tk=tt_chain_token&btag=e000d0000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/ogigrDfEegmJqWwSaIB4B5EuRNQXFLwQD1UpP1/?a=1988&bti=ODszNWYuMDE6&&bt=1100&ft=aEeq8qT0mIoPD12bE6-I3wUDECAbMeF~O5&mime_type=video_mp4&rc=aThnOWc3aDM3O2U2Z2k7NUBpM29xa3Q5cjg8ZDQzZzM2NEBgLzM2NTEtX14xNi02MGI0YSNwbWhqMmRrcGFhLS1kLS9zcw%3D%3D&expire=1789623207&l=202609150532230EC6ED4C2151AF2AF5D1&ply_type=2&policy=2&signature=d4fd2212449165130beb32c58a497f5d&tk=tt_chain_token&btag=e000d0000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:22:19.511076",
+    "extracted_at": "2026-09-15T05:32:24.486404",
     "row": 44
   },
   {
@@ -11502,7 +11502,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:20.071262",
+    "extracted_at": "2026-09-15T05:32:24.843441",
     "row": 45
   },
   {
@@ -11516,7 +11516,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:20.437074",
+    "extracted_at": "2026-09-15T05:32:25.299569",
     "row": 46
   },
   {
@@ -11530,7 +11530,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:20.902168",
+    "extracted_at": "2026-09-15T05:32:25.831936",
     "row": 47
   },
   {
@@ -11544,7 +11544,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:21.254096",
+    "extracted_at": "2026-09-15T05:32:26.170110",
     "row": 48
   },
   {
@@ -11558,7 +11558,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:21.785011",
+    "extracted_at": "2026-09-15T05:32:26.770627",
     "row": 49
   },
   {
@@ -11572,7 +11572,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:22.348961",
+    "extracted_at": "2026-09-15T05:32:27.214003",
     "row": 50
   },
   {
@@ -11586,7 +11586,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:22.696928",
+    "extracted_at": "2026-09-15T05:32:27.891934",
     "row": 51
   },
   {
@@ -11600,7 +11600,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:23.105849",
+    "extracted_at": "2026-09-15T05:32:28.246410",
     "row": 52
   },
   {
@@ -11614,7 +11614,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:23.711935",
+    "extracted_at": "2026-09-15T05:32:28.763957",
     "row": 53
   },
   {
@@ -11628,7 +11628,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:24.101878",
+    "extracted_at": "2026-09-15T05:32:29.360511",
     "row": 54
   },
   {
@@ -11642,7 +11642,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:24.428594",
+    "extracted_at": "2026-09-15T05:32:29.702528",
     "row": 55
   },
   {
@@ -11656,7 +11656,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:24.991187",
+    "extracted_at": "2026-09-15T05:32:30.165872",
     "row": 56
   },
   {
@@ -11672,7 +11672,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:22:28.017590",
+    "extracted_at": "2026-09-15T05:32:33.599420",
     "row": 57
   },
   {
@@ -11686,7 +11686,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:28.402154",
+    "extracted_at": "2026-09-15T05:32:34.187959",
     "row": 58
   },
   {
@@ -11700,7 +11700,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:28.835519",
+    "extracted_at": "2026-09-15T05:32:34.660935",
     "row": 59
   },
   {
@@ -11714,7 +11714,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:29.362777",
+    "extracted_at": "2026-09-15T05:32:35.240698",
     "row": 60
   },
   {
@@ -11728,7 +11728,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:29.927058",
+    "extracted_at": "2026-09-15T05:32:35.672277",
     "row": 61
   },
   {
@@ -11742,7 +11742,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:30.354961",
+    "extracted_at": "2026-09-15T05:32:36.137172",
     "row": 62
   },
   {
@@ -11756,7 +11756,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:30.924662",
+    "extracted_at": "2026-09-15T05:32:36.497221",
     "row": 63
   },
   {
@@ -11770,7 +11770,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:31.320104",
+    "extracted_at": "2026-09-15T05:32:36.832325",
     "row": 64
   },
   {
@@ -11784,7 +11784,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:31.645051",
+    "extracted_at": "2026-09-15T05:32:37.330755",
     "row": 65
   },
   {
@@ -11798,7 +11798,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:31.971603",
+    "extracted_at": "2026-09-15T05:32:37.812038",
     "row": 66
   },
   {
@@ -11812,7 +11812,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:32.328664",
+    "extracted_at": "2026-09-15T05:32:38.346565",
     "row": 67
   },
   {
@@ -11826,7 +11826,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:32.757839",
+    "extracted_at": "2026-09-15T05:32:38.893890",
     "row": 68
   },
   {
@@ -11840,7 +11840,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:33.324436",
+    "extracted_at": "2026-09-15T05:32:39.443704",
     "row": 69
   },
   {
@@ -11854,7 +11854,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:33.929167",
+    "extracted_at": "2026-09-15T05:32:39.837450",
     "row": 70
   },
   {
@@ -11868,7 +11868,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:34.479803",
+    "extracted_at": "2026-09-15T05:32:40.214956",
     "row": 71
   },
   {
@@ -11882,7 +11882,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:34.944713",
+    "extracted_at": "2026-09-15T05:32:40.643222",
     "row": 72
   },
   {
@@ -11896,7 +11896,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:35.559868",
+    "extracted_at": "2026-09-15T05:32:41.112021",
     "row": 73
   },
   {
@@ -11910,7 +11910,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:35.958357",
+    "extracted_at": "2026-09-15T05:32:41.627223",
     "row": 74
   },
   {
@@ -11924,7 +11924,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:36.557728",
+    "extracted_at": "2026-09-15T05:32:42.081407",
     "row": 75
   },
   {
@@ -11938,7 +11938,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:36.966836",
+    "extracted_at": "2026-09-15T05:32:42.560302",
     "row": 76
   },
   {
@@ -11952,7 +11952,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:37.402117",
+    "extracted_at": "2026-09-15T05:32:43.151235",
     "row": 77
   },
   {
@@ -11966,7 +11966,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:37.738834",
+    "extracted_at": "2026-09-15T05:32:43.549896",
     "row": 78
   },
   {
@@ -11980,7 +11980,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:38.192166",
+    "extracted_at": "2026-09-15T05:32:43.899750",
     "row": 79
   },
   {
@@ -11994,7 +11994,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:38.686111",
+    "extracted_at": "2026-09-15T05:32:44.368515",
     "row": 80
   },
   {
@@ -12010,7 +12010,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:22:40.965844",
+    "extracted_at": "2026-09-15T05:32:46.350173",
     "row": 81
   },
   {
@@ -12024,7 +12024,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:41.502860",
+    "extracted_at": "2026-09-15T05:32:46.789824",
     "row": 82
   },
   {
@@ -12038,7 +12038,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:42.092717",
+    "extracted_at": "2026-09-15T05:32:47.372930",
     "row": 83
   },
   {
@@ -12052,7 +12052,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:46.382032",
+    "extracted_at": "2026-09-15T05:32:51.358434",
     "row": 85
   },
   {
@@ -12066,7 +12066,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:46.743158",
+    "extracted_at": "2026-09-15T05:32:51.859456",
     "row": 86
   },
   {
@@ -12080,7 +12080,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:47.306725",
+    "extracted_at": "2026-09-15T05:32:52.465474",
     "row": 87
   },
   {
@@ -12094,7 +12094,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:47.890865",
+    "extracted_at": "2026-09-15T05:32:52.810712",
     "row": 88
   },
   {
@@ -12108,7 +12108,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:48.261336",
+    "extracted_at": "2026-09-15T05:32:53.289364",
     "row": 89
   },
   {
@@ -12124,7 +12124,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:22:49.373373",
+    "extracted_at": "2026-09-15T05:32:54.388855",
     "row": 90
   },
   {
@@ -12138,7 +12138,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:49.949697",
+    "extracted_at": "2026-09-15T05:32:54.767752",
     "row": 91
   },
   {
@@ -12152,7 +12152,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:50.510698",
+    "extracted_at": "2026-09-15T05:32:55.097056",
     "row": 92
   },
   {
@@ -12166,7 +12166,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "混剪",
-    "extracted_at": "2026-09-15T05:22:51.116868",
+    "extracted_at": "2026-09-15T05:32:55.600859",
     "row": 93
   },
   {
@@ -12180,7 +12180,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:51.629964",
+    "extracted_at": "2026-09-15T05:32:55.938522",
     "row": 94
   },
   {
@@ -12194,7 +12194,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:52.205036",
+    "extracted_at": "2026-09-15T05:32:56.424660",
     "row": 95
   },
   {
@@ -12208,7 +12208,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:52.558898",
+    "extracted_at": "2026-09-15T05:32:56.780514",
     "row": 96
   },
   {
@@ -12222,7 +12222,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:53.063918",
+    "extracted_at": "2026-09-15T05:32:57.209251",
     "row": 97
   },
   {
@@ -12236,7 +12236,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:53.602954",
+    "extracted_at": "2026-09-15T05:32:57.579322",
     "row": 98
   },
   {
@@ -12250,7 +12250,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T05:22:54.026512",
+    "extracted_at": "2026-09-15T05:32:58.097623",
     "row": 99
   },
   {
@@ -12264,7 +12264,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "混剪",
-    "extracted_at": "2026-09-15T05:22:54.378003",
+    "extracted_at": "2026-09-15T05:32:58.714308",
     "row": 100
   },
   {
@@ -12280,7 +12280,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T05:22:55.353927",
+    "extracted_at": "2026-09-15T05:33:00.007370",
     "row": 101
   }
 ]
