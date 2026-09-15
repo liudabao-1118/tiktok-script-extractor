@@ -5327,10 +5327,10 @@
     "language": "",
     "duration": "64s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/owgfW3AQyiFzcHTqAKQ9E9IXfpEWQBEVmBwRli/?a=1988&bti=ODszNWYuMDE6&&bt=893&ft=aEeq8qT0mIoPD12qJV-I3wUHoSAbMeF~O5&mime_type=video_mp4&rc=N2UzZDU1Njc1NDQ0PGc6NEBpMzllN2o5cmp5ZDMzaTczNEBeLzQxMWIvXzYxLS1jYF8tYSMyY3JiMmRjNl9hLS1kMTJzcw%3D%3D&expire=1789626416&l=20260915062552A46970C6047B9B31F6EA&ply_type=2&policy=2&signature=ad856fb1200f1196dc8569e42efc8850&tk=tt_chain_token&btag=e00090000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/owgfW3AQyiFzcHTqAKQ9E9IXfpEWQBEVmBwRli/?a=1988&bti=ODszNWYuMDE6&&bt=893&ft=aEeq8qT0mIoPD12YiV-I3wUa2RAbMeF~O5&mime_type=video_mp4&rc=N2UzZDU1Njc1NDQ0PGc6NEBpMzllN2o5cmp5ZDMzaTczNEBeLzQxMWIvXzYxLS1jYF8tYSMyY3JiMmRjNl9hLS1kMTJzcw%3D%3D&expire=1789626821&l=202609150632373EAFA4B1E2E844351468&ply_type=2&policy=2&signature=08567ad24e11c9ca4698a46682e3db21&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:52.748188",
+    "extracted_at": "2026-09-15T06:32:37.859686",
     "row": 84
   },
   {
@@ -10860,7 +10860,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:24:44.868324",
+    "extracted_at": "2026-09-15T06:31:29.899499",
     "row": 2
   },
   {
@@ -10876,7 +10876,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:24:48.011593",
+    "extracted_at": "2026-09-15T06:31:32.932983",
     "row": 3
   },
   {
@@ -10892,7 +10892,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:24:50.881067",
+    "extracted_at": "2026-09-15T06:31:35.721410",
     "row": 4
   },
   {
@@ -10906,7 +10906,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:16:38.157719",
+    "extracted_at": "2026-09-15T06:31:35.721479",
     "row": 5
   },
   {
@@ -10920,7 +10920,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:16:40.384977",
+    "extracted_at": "2026-09-15T06:31:35.721515",
     "row": 6
   },
   {
@@ -10934,7 +10934,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:16:40.941268",
+    "extracted_at": "2026-09-15T06:31:35.721536",
     "row": 7
   },
   {
@@ -10948,7 +10948,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:16:42.105446",
+    "extracted_at": "2026-09-15T06:31:35.721571",
     "row": 8
   },
   {
@@ -10964,7 +10964,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:24:54.152646",
+    "extracted_at": "2026-09-15T06:31:38.548691",
     "row": 9
   },
   {
@@ -10980,7 +10980,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:24:56.833076",
+    "extracted_at": "2026-09-15T06:31:41.468405",
     "row": 10
   },
   {
@@ -10994,7 +10994,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:16:48.725474",
+    "extracted_at": "2026-09-15T06:31:41.468454",
     "row": 11
   },
   {
@@ -11010,7 +11010,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:24:59.871849",
+    "extracted_at": "2026-09-15T06:31:44.244953",
     "row": 12
   },
   {
@@ -11026,7 +11026,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:02.807950",
+    "extracted_at": "2026-09-15T06:31:46.963315",
     "row": 13
   },
   {
@@ -11042,7 +11042,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:05.571792",
+    "extracted_at": "2026-09-15T06:31:49.722260",
     "row": 14
   },
   {
@@ -11058,7 +11058,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:08.486927",
+    "extracted_at": "2026-09-15T06:31:52.383556",
     "row": 15
   },
   {
@@ -11074,7 +11074,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:11.181929",
+    "extracted_at": "2026-09-15T06:31:55.163451",
     "row": 16
   },
   {
@@ -11088,7 +11088,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:04.793743",
+    "extracted_at": "2026-09-15T06:31:55.163531",
     "row": 17
   },
   {
@@ -11102,7 +11102,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:05.535205",
+    "extracted_at": "2026-09-15T06:31:55.163557",
     "row": 18
   },
   {
@@ -11118,7 +11118,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:14.140080",
+    "extracted_at": "2026-09-15T06:31:58.011432",
     "row": 19
   },
   {
@@ -11132,7 +11132,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:09.588416",
+    "extracted_at": "2026-09-15T06:31:58.011492",
     "row": 20
   },
   {
@@ -11148,7 +11148,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:17.049791",
+    "extracted_at": "2026-09-15T06:32:00.712832",
     "row": 21
   },
   {
@@ -11162,7 +11162,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:13.049027",
+    "extracted_at": "2026-09-15T06:32:00.712882",
     "row": 22
   },
   {
@@ -11178,7 +11178,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:19.959284",
+    "extracted_at": "2026-09-15T06:32:03.562105",
     "row": 23
   },
   {
@@ -11194,7 +11194,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:22.616627",
+    "extracted_at": "2026-09-15T06:32:07.052587",
     "row": 24
   },
   {
@@ -11208,7 +11208,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:20.481329",
+    "extracted_at": "2026-09-15T06:32:07.052665",
     "row": 25
   },
   {
@@ -11224,7 +11224,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:25.444619",
+    "extracted_at": "2026-09-15T06:32:09.934808",
     "row": 26
   },
   {
@@ -11238,7 +11238,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:24.086367",
+    "extracted_at": "2026-09-15T06:32:09.934851",
     "row": 27
   },
   {
@@ -11254,7 +11254,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:28.331701",
+    "extracted_at": "2026-09-15T06:32:12.914873",
     "row": 28
   },
   {
@@ -11268,7 +11268,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:27.794295",
+    "extracted_at": "2026-09-15T06:32:12.914926",
     "row": 29
   },
   {
@@ -11284,7 +11284,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:31.322493",
+    "extracted_at": "2026-09-15T06:32:15.729539",
     "row": 30
   },
   {
@@ -11298,7 +11298,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:31.183013",
+    "extracted_at": "2026-09-15T06:32:15.729588",
     "row": 31
   },
   {
@@ -11314,7 +11314,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:34.283636",
+    "extracted_at": "2026-09-15T06:32:18.564860",
     "row": 32
   },
   {
@@ -11328,7 +11328,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:34.598975",
+    "extracted_at": "2026-09-15T06:32:18.564908",
     "row": 33
   },
   {
@@ -11342,7 +11342,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:35.223778",
+    "extracted_at": "2026-09-15T06:32:18.564931",
     "row": 34
   },
   {
@@ -11358,7 +11358,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:37.298094",
+    "extracted_at": "2026-09-15T06:32:22.367799",
     "row": 35
   },
   {
@@ -11372,7 +11372,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "混剪",
-    "extracted_at": "2026-09-15T06:17:38.180242",
+    "extracted_at": "2026-09-15T06:32:22.367839",
     "row": 36
   },
   {
@@ -11386,7 +11386,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:39.679097",
+    "extracted_at": "2026-09-15T06:32:22.367861",
     "row": 37
   },
   {
@@ -11400,7 +11400,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:41.219921",
+    "extracted_at": "2026-09-15T06:32:22.367886",
     "row": 38
   },
   {
@@ -11414,7 +11414,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:42.402870",
+    "extracted_at": "2026-09-15T06:32:22.367908",
     "row": 39
   },
   {
@@ -11428,7 +11428,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:43.188658",
+    "extracted_at": "2026-09-15T06:32:22.367925",
     "row": 40
   },
   {
@@ -11442,7 +11442,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:43.741200",
+    "extracted_at": "2026-09-15T06:32:22.367943",
     "row": 41
   },
   {
@@ -11458,7 +11458,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:39.985001",
+    "extracted_at": "2026-09-15T06:32:25.259949",
     "row": 42
   },
   {
@@ -11472,7 +11472,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:47.111184",
+    "extracted_at": "2026-09-15T06:32:25.259990",
     "row": 43
   },
   {
@@ -11485,10 +11485,10 @@
     "language": "",
     "duration": "64s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/ogigrDfEegmJqWwSaIB4B5EuRNQXFLwQD1UpP1/?a=1988&bti=ODszNWYuMDE6&&bt=1100&ft=4KJMyMzm8Zmo0ib2ka4jVFxeQpWrKsd.&mime_type=video_mp4&rc=aThnOWc3aDM3O2U2Z2k7NUBpM29xa3Q5cjg8ZDQzZzM2NEBgLzM2NTEtX14xNi02MGI0YSNwbWhqMmRrcGFhLS1kLS9zcw%3D%3D&expire=1789626407&l=20260915062543B6420E58F56A262C2AAD&ply_type=2&policy=2&signature=7b0d2832f5f0696c59f660ce16087d92&tk=tt_chain_token&btag=e000d0000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/ogigrDfEegmJqWwSaIB4B5EuRNQXFLwQD1UpP1/?a=1988&bti=ODszNWYuMDE6&&bt=1100&ft=aEeq8qT0mIoPD12y-V-I3wUT5tAbMeF~O5&mime_type=video_mp4&rc=aThnOWc3aDM3O2U2Z2k7NUBpM29xa3Q5cjg8ZDQzZzM2NEBgLzM2NTEtX14xNi02MGI0YSNwbWhqMmRrcGFhLS1kLS9zcw%3D%3D&expire=1789626813&l=20260915063228693CAF63D5677F4167B7&ply_type=2&policy=2&signature=41486c56e6d3fa8c792f5028d19a0daa&tk=tt_chain_token&btag=e000d0000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:43.842016",
+    "extracted_at": "2026-09-15T06:32:29.235245",
     "row": 44
   },
   {
@@ -11502,7 +11502,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:52.804285",
+    "extracted_at": "2026-09-15T06:32:29.235297",
     "row": 45
   },
   {
@@ -11516,7 +11516,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:53.743109",
+    "extracted_at": "2026-09-15T06:32:29.235325",
     "row": 46
   },
   {
@@ -11525,12 +11525,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentista nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad, vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto, pasta dental con hidróxia patita de astraglovo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clic al enlace ya mientras siguen descuento.",
-    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物群，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:54.424656",
+    "extracted_at": "2026-09-15T06:32:29.235374",
     "row": 47
   },
   {
@@ -11539,12 +11539,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentistas nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad. vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto. Pasta dental con hidróxia patita de astra globo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clica en la cella mientras siguen descuento.",
-    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是披萨，真的。它们再次直接从日本生长。这种革命性的东西让牙齿自然形成。看看这个。牙膏与 Hydroxia astra 地球腿。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。所以，你还在等什么，趁折扣还在继续，点击cella吧。",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是披萨，真的。它们再次直接从日本生长。这种革命性的东西让牙齿自然形成。看看这个。牙膏与 Hydroxia astra 地球腿。重建您的口腔微生物群，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。所以，你还在等什么，趁折扣还在继续，点击cella吧。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:54.605710",
+    "extracted_at": "2026-09-15T06:32:29.235396",
     "row": 48
   },
   {
@@ -11558,7 +11558,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:56.382307",
+    "extracted_at": "2026-09-15T06:32:29.235414",
     "row": 49
   },
   {
@@ -11572,7 +11572,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:58.190961",
+    "extracted_at": "2026-09-15T06:32:29.235463",
     "row": 50
   },
   {
@@ -11586,7 +11586,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:58.368142",
+    "extracted_at": "2026-09-15T06:32:29.235499",
     "row": 51
   },
   {
@@ -11600,7 +11600,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:59.594802",
+    "extracted_at": "2026-09-15T06:32:29.235531",
     "row": 52
   },
   {
@@ -11609,12 +11609,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentista nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad, vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto, pasta dental con hidróxia patita de astraglovo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clic al enlace ya mientras siguen descuento.",
-    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物群，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:17:59.774419",
+    "extracted_at": "2026-09-15T06:32:29.235562",
     "row": 53
   },
   {
@@ -11628,7 +11628,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:01.319598",
+    "extracted_at": "2026-09-15T06:32:29.235587",
     "row": 54
   },
   {
@@ -11642,7 +11642,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:02.234073",
+    "extracted_at": "2026-09-15T06:32:29.235611",
     "row": 55
   },
   {
@@ -11656,7 +11656,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:03.717919",
+    "extracted_at": "2026-09-15T06:32:29.235644",
     "row": 56
   },
   {
@@ -11672,7 +11672,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:46.740987",
+    "extracted_at": "2026-09-15T06:32:31.988976",
     "row": 57
   },
   {
@@ -11681,12 +11681,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentistas nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad. vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto. Pasta dental con hidróxia patita de astra globo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clica en la cella mientras siguen descuento.",
-    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是披萨，真的。它们再次直接从日本生长。这种革命性的东西让牙齿自然形成。看看这个。牙膏与 Hydroxia astra 地球腿。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。所以，你还在等什么，趁折扣还在继续，点击cella吧。",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是披萨，真的。它们再次直接从日本生长。这种革命性的东西让牙齿自然形成。看看这个。牙膏与 Hydroxia astra 地球腿。重建您的口腔微生物群，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。所以，你还在等什么，趁折扣还在继续，点击cella吧。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:06.739783",
+    "extracted_at": "2026-09-15T06:32:31.989031",
     "row": 58
   },
   {
@@ -11700,7 +11700,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:08.508588",
+    "extracted_at": "2026-09-15T06:32:31.989078",
     "row": 59
   },
   {
@@ -11714,7 +11714,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:09.821411",
+    "extracted_at": "2026-09-15T06:32:31.989111",
     "row": 60
   },
   {
@@ -11728,7 +11728,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:10.330912",
+    "extracted_at": "2026-09-15T06:32:31.989124",
     "row": 61
   },
   {
@@ -11737,12 +11737,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentistas nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad. vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto. Pasta dental con hidróxia patita de astra globo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clica en la cella mientras siguen descuento.",
-    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是披萨，真的。它们再次直接从日本生长。这种革命性的东西让牙齿自然形成。看看这个。牙膏与 Hydroxia astra 地球腿。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。所以，你还在等什么，趁折扣还在继续，点击cella吧。",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是披萨，真的。它们再次直接从日本生长。这种革命性的东西让牙齿自然形成。看看这个。牙膏与 Hydroxia astra 地球腿。重建您的口腔微生物群，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。所以，你还在等什么，趁折扣还在继续，点击cella吧。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:10.516706",
+    "extracted_at": "2026-09-15T06:32:31.989146",
     "row": 62
   },
   {
@@ -11751,12 +11751,12 @@
     "author": "",
     "description": "",
     "original_text": "Es que Upe, es que Upe mi mano. ¿Ah? No ves nada, ¿Dada? No. Exactamente porque está usando eso de americanos, no funciona no sacanada. Era mejor usa de astradias, como si fueras al dentista cada semana irá solo lo abre estrenamente en la boca así como te gusta. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 los Cupes y irá. Y era todo lo que vas aliscincotes sin nada. No, no, manches. En para que veas que los americanos no sirve, o no, o no. O no. O no, o no. O no, o no, o no, o no, o no, o no. Esto funciona porque tiene hydrogen pero acceden. Por si siempre estás tomando muchísimo café. O no, o no, o no. Este lo puedes encontrar en el carrito na na, pero las chicas están otando bien el rapido porque sea me ha levantado si tienes suerte de ver carrito na na. Aquí se le dije que todavía hay.",
-    "translated_text": "就是那个Upe，就是那个Upe 我的手。哦？爸爸，你什么也没看到吗？不，正因为他用的是美国的东西，所以它不起作用。最好使用阿斯特拉迪亚，就好像你每周去看牙医一样，你可以按照你喜欢的方式将它放在嘴里。 1、2、3、4、5、6、7、8、9、10 个杯子，它就会消失。这就是你去阿里辛科特时什么都没有的地方。不，不，污渍。所以你可以看到美国人不工作，或者不工作，或者不工作。或不。或不，或不。或不，或不，或不，或不，或不，或不。这是有效的，因为它含有氢，但他们同意。如果你总是喝很多咖啡。或不，或不，或不。你可以在购物车里找到这个，但女孩们正在关注快速的那个，因为如果你幸运地看到购物车，它会让我振奋。在这里我告诉你，还有。",
+    "translated_text": "就是那个Upe，就是那个Upe 我的手。哦？爸爸，你什么也没看到吗？不，正因为他用的是美国的东西，所以它不起作用。最好使用阿斯特拉迪亚，就好像你每周去看牙医一样，你可以按照你喜欢的方式将它放在嘴里。 1、2、3、4、5、6、7、8、9、10 个杯子，它就会消失。这就是你去阿里辛科特时的一切。不，不，污渍。所以你可以看到美国人不工作，或者不工作，或者不工作。或不。或不，或不。或不，或不，或不，或不，或不，或不。这是有效的，因为它含有氢，但他们同意。如果你总是喝很多咖啡。或不，或不，或不。你可以在购物车里找到这个，但女孩们正在关注快速的那个，因为如果你幸运地看到购物车，它会让我振奋。在这里我告诉你，还有。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:12.441250",
+    "extracted_at": "2026-09-15T06:32:31.989171",
     "row": 63
   },
   {
@@ -11765,12 +11765,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentista nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad, vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto, pasta dental con hidróxia patita de astraglovo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clic al enlace ya mientras siguen descuento.",
-    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物群，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:12.671024",
+    "extracted_at": "2026-09-15T06:32:31.989193",
     "row": 64
   },
   {
@@ -11784,7 +11784,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:13.880728",
+    "extracted_at": "2026-09-15T06:32:31.989224",
     "row": 65
   },
   {
@@ -11798,7 +11798,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:16.801529",
+    "extracted_at": "2026-09-15T06:32:31.989260",
     "row": 66
   },
   {
@@ -11812,7 +11812,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:17.784487",
+    "extracted_at": "2026-09-15T06:32:31.989284",
     "row": 67
   },
   {
@@ -11821,12 +11821,12 @@
     "author": "",
     "description": "",
     "original_text": "hay más vemos, primero estuvo muy bravo. Primero se tovida algo, una fieguera de mi beso. Oh, manche. ¿Qué? El castesave la boca. El serio? ¿Le gustó? Pero mucho. ¿Qué es de son chicle, algo? No, no por nada, prima, no. Yo no lo sé, se murero. Yo usó este mira, ponte la moda. Mira, ahora la boca. Es una spraya anal, que a chimera no primas de chacir. Ahí está ahora sí. Como una vez? Es una spraya. Es un spraya. Es un spraya. Es un probiótico que matara la bacteria que causara mal aliento. Sabé también. Pena bastante sabores. Estás de como que demance anita, ¿verdad? No, y también tiene de menta de todo. Primada. No, prima. Como crees? No. No, para nada. De hecho, tiene una oferta, mi nombre te puede llevar hasta 5 por bícico, algo así. No, sí, todo lo que todo el mes también. Pero no puedo comprar entonces. Mira, úsamente si puedes ver carrito de aquí significa que siguen disponibles, pero si no lo ves, ya se ha agotado.",
-    "translated_text": "我们看到的还有更多，首先他非常生气。首先他得到了一些东西，一个我的吻的雕像。哦，现货。那？种姓拯救了嘴巴。严重的那个？你喜欢它吗？但很多。口香糖是什么东西？不，不是无缘无故的，表弟，不。我不知道，他死了。我用的是这个造型，很时尚。看，现在是嘴。这是一种肛门喷雾剂，与 chacira 没什么区别。现在是的。就像一次？这是一个喷雾。这是一个喷雾。这是一个喷雾。它是一种益生菌，可以杀死引起口臭的细菌。我也知道。值得尝尝好几种。你对安妮塔要求有点高，对吧？不，它也有一切薄荷。灵长类动物。不，表弟。你觉得怎么样？不，不，一点也不。事实上，他们有一个报价，我的名字可以让你每辆自行车最多 5 美元，类似的东西。不，是的，整个月也是如此。但那时我买不到。你看，通常如果你能在这里看到购物车，就意味着它们仍然有货，但如果你看不到它，那就已经卖完了。",
+    "translated_text": "我们看到的还有更多，首先他非常生气。首先他得到了一些东西，一个我的吻的雕像。哦，现货。那？种姓拯救了嘴巴。严重的那个？你喜欢它吗？但很多。口香糖是什么东西？不，不是无缘无故的，表弟，不。我不知道，他死了。我用的是这个造型，很时尚。看，现在是嘴。这是一种肛门喷雾剂，与 chacira 没什么区别。现在是的。就像一次？这是一个喷雾。这是一个喷雾。这是一个喷雾。它是一种益生菌，可以杀死引起口臭的细菌。我也知道。值得尝尝好几种。你对安妮塔要求有点高，对吧？不，它也有一切薄荷。灵长类动物。不，表弟。你觉得怎么样？不，不，一点也不。事实上，他们有一个报价，我的名字可以让你每辆自行车最多 5 美元，类似的东西。不，是的，整个月也是如此。但那时我买不到。看，通常如果你能在这里看到购物车，就意味着它们仍然有货，但如果你看不到它，那就已经卖完了。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:19.065123",
+    "extracted_at": "2026-09-15T06:32:31.989314",
     "row": 68
   },
   {
@@ -11840,7 +11840,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:20.743903",
+    "extracted_at": "2026-09-15T06:32:31.989330",
     "row": 69
   },
   {
@@ -11854,7 +11854,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:21.885461",
+    "extracted_at": "2026-09-15T06:32:31.989342",
     "row": 70
   },
   {
@@ -11863,12 +11863,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentista nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad, vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto, pasta dental con hidróxia patita de astraglovo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clic al enlace ya mientras siguen descuento.",
-    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物群，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:22.175852",
+    "extracted_at": "2026-09-15T06:32:31.989374",
     "row": 71
   },
   {
@@ -11882,7 +11882,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:22.856759",
+    "extracted_at": "2026-09-15T06:32:31.989404",
     "row": 72
   },
   {
@@ -11891,12 +11891,12 @@
     "author": "",
     "description": "",
     "original_text": "¿Por qué la gente fuera de México parece tener los dientes naturalmente blancos en Japón y caradad? Este tipo de pasta dental funciona muy bien la gente de allá la usa todo el tiempo mientras que en México seguimos usando pasta dental con fluer. Me puse a investigar de verdad y descubrí que nuestros dientes están formados por hidroxía patita. Para ser más exactos el esmal de dental está compuesto aproximadamente por un 96% de hidroxía patita. Entonces cuando usa una pasta dental con hidroxía patita ayuda a remineralizar los dientes rellena esos pequeños poros y micro guietas de el esmal de así el esmal de se vuelve más fuerte y resistente y los dientes se ven más blancos a simple vista por eso empecé a usar pasta dental con hidroxía patita Mira como se ven mis dientes ahora están tan blancos como mi camiseta es increíble el resultado lo único que hice fue cambiar de pasta dental se me está acabando el tubo así que voy a pedir más para tener reservo",
-    "translated_text": "为什么墨西哥以外的人在日本似乎拥有自然洁白的牙齿和脸？这种牙膏效果很好，那里的人一直用它，而在墨西哥我们仍然使用带有fluer的牙膏。我开始真正研究并发现我们的牙齿是由羟基氧化物组成的。更准确地说，牙釉质由大约 96% 的羟基氧化物组成。因此，当您使用含有 Patita Hydroxy 的牙膏时，它有助于牙齿再矿化，填充牙釉质中的小毛孔和微缝隙，从而使牙釉质变得更坚固、更坚固，牙齿肉眼看起来更白。这就是为什么我开始使用含有 Patita Hydroxy 的牙膏。看看我的牙齿现在的样子，它们和我的衬衫一样白。太不可思议了。结果令人难以置信。我唯一做的就是换牙膏。管子已经用完了，所以我要订购更多以进行储备。",
+    "translated_text": "为什么墨西哥以外的人在日本似乎拥有自然洁白的牙齿和脸？这种牙膏效果很好，那里的人一直用它，而在墨西哥我们仍然使用带有fluer的牙膏。我开始真正研究并发现我们的牙齿是由羟基氧化物组成的。更准确地说，牙釉质由大约 96% 的羟基氧化物组成。因此，当您使用含有 Patita 羟基的牙膏时，它有助于牙齿再矿化，填充牙釉质中的小毛孔和微缝隙，从而使牙釉质变得更坚固、更耐用，肉眼看起来牙齿更白。这就是为什么我开始使用含有 Patita 羟基的牙膏。看看我的牙齿现在的样子，它们和我的衬衫一样白。太不可思议了。结果令人难以置信。我唯一做的就是换牙膏。我的管子快用完了，所以我要订购更多以进行储备。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:24.081671",
+    "extracted_at": "2026-09-15T06:32:31.989451",
     "row": 73
   },
   {
@@ -11910,7 +11910,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:26.545918",
+    "extracted_at": "2026-09-15T06:32:31.989486",
     "row": 74
   },
   {
@@ -11919,12 +11919,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentista nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad, vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto, pasta dental con hidróxia patita de astraglovo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clic al enlace ya mientras siguen descuento.",
-    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物群，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:26.650748",
+    "extracted_at": "2026-09-15T06:32:31.989518",
     "row": 75
   },
   {
@@ -11938,7 +11938,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:27.697987",
+    "extracted_at": "2026-09-15T06:32:31.989542",
     "row": 76
   },
   {
@@ -11952,7 +11952,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:28.959299",
+    "extracted_at": "2026-09-15T06:32:31.989578",
     "row": 77
   },
   {
@@ -11961,12 +11961,12 @@
     "author": "",
     "description": "",
     "original_text": "ya como cónto te empotarás ok si, pues te espero ¿vale? ¿mante? ¿mante? ah es que buena que tu pergunte gracias, si, no te pergunte dale ok este libro cámara pues te vea ya oigan una pregunta sabe en dónde está esta dirección aquí es que como no soy aquí no con las con no, no, no, no, no es bueno, ocho gracias si te veo sí, grande no es sí, por supuesto ok, gracias bueno, ya está o sea, está con meldos cuadras más que meldos ok, vos meldos ¿qué eres? te puedo acompañar así, me copo en este bueno, esto vamos a bajar y ya le decimos ¡MÚSICA!",
-    "translated_text": "现在你会被困多少，好吧，是的，好吧，我会等你，好吗？曼特？曼特？啊，你问的很好，谢谢，是的，我没有问你，好吧，这本书，相机，好吧，看到你，听到，一个问题，你知道这个地址在哪里吗，这里是，因为我不在这里，不与不，不，不，不，不好，八谢谢如果我看到你，是的，大的是没有，是的，当然可以，谢谢你很好，就是这样，我的意思是，有了梅尔多斯更稳定比梅尔多斯好吧，你梅尔多斯，你是什么？我可以这样陪你，我进入这个井，我们要下去，我们会说音乐！",
+    "translated_text": "现在你会被困多少，好吧，是的，好吧，我会等你，好吗？曼特？曼特？啊，还好你问了，谢谢，是的，我没问你，好吧，这本书，相机，好，看到你，听到，一个问题，你知道这个地址在哪里吗，这里是，因为我不在这里，不与与，不，不，不，不，不好，八谢谢如果我看到你，是的，大不是，当然可以，谢谢你好，就这样，我的意思是，有了梅尔多斯更稳定比梅尔多斯好吧，你梅尔多斯，你是什么？我可以这样陪你，我进入这个井，我们要下去，我们会说音乐！",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:30.742311",
+    "extracted_at": "2026-09-15T06:32:31.989613",
     "row": 78
   },
   {
@@ -11975,12 +11975,12 @@
     "author": "",
     "description": "",
     "original_text": "da apenas un reír por el color amarillo de tus dientes ya que toma mucho café refresco o tienes una reunión o simplemente quiere blanquerlo esas son las tiritas que debe de usar ahora entiendo porque muchas personas están usando estas tiritas muradas para blanquer tus dientes y lo que me gusta que es un fácil de usar las vas a poner tus dientes y vas a esperar treita minutos para que atoe muchas veces descuidamos nuestros dientes no estamos atento a como van camiando de color van agarrando así que si te preocupa el aspecto de tus dientes puede usar estas tiritas un día y un día no para que vaya viendo el cambio realmente vale la pena porque aparte te deja súper fresca lo que es tu boca y tus son reisos se va a ir blanquando poco a poco que se gajuzando así que mi amor viene en varios paquetitos en esta cajita por si te ingresa como excelente precio te lo tengo en clado por aquí",
-    "translated_text": "你只是嘲笑你的牙齿发黄，因为你喝了很多苏打咖啡，或者你开会，或者你只是想美白牙齿。这些是您应该使用的条带。现在我明白为什么很多人使用这些牙贴来美白牙齿了，我喜欢的是它们易于使用。你要把它们戴在牙齿上，然后等待三十分钟让它们安定下来。很多时候我们都忽视了我们的牙齿。我们没有注意到它们如何改变颜色。他们抓住了。所以，如果你担心你的牙齿外观，你可以一天又一天地使用这些牙条，这样你就可以看到变化，这真的很值得，因为除此之外，它让你超级新鲜，你的嘴是什么，你的儿子会一点一点变白，变成gajuzando，所以我的爱在这个小盒子里有几个小包装，以防万一你以优惠的价格买到它，我在clado这里为你准备了它",
+    "translated_text": "你只是嘲笑你的牙齿发黄，因为你喝了很多苏打咖啡，或者你开会，或者你只是想美白牙齿。这些是您应该使用的条带。现在我明白为什么很多人使用这些牙贴来美白牙齿了，我喜欢的是它们易于使用。你要把它们戴在牙齿上，然后等待三十分钟让它们安定下来。很多时候我们都忽视了我们的牙齿。我们没有注意到它们如何改变颜色。他们抓住了。因此，如果您担心牙齿的外观，您可以一天又一天地使用这些牙条，这样您就可以看到变化，这真的很值得，因为除此之外，它让您超级新鲜，您的嘴是什么，您的儿子会一点一点变白，变成gajuzando，所以我的爱在这个小盒子里有几个小包装，以防万一它以优惠的价格进入您，我在clado这里有它",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:32.484034",
+    "extracted_at": "2026-09-15T06:32:31.989642",
     "row": 79
   },
   {
@@ -11994,7 +11994,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:32.632489",
+    "extracted_at": "2026-09-15T06:32:31.989664",
     "row": 80
   },
   {
@@ -12010,7 +12010,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:49.245871",
+    "extracted_at": "2026-09-15T06:32:34.160945",
     "row": 81
   },
   {
@@ -12019,12 +12019,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentista nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad, vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto, pasta dental con hidróxia patita de astraglovo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clic al enlace ya mientras siguen descuento.",
-    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物群，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:35.420034",
+    "extracted_at": "2026-09-15T06:32:34.161000",
     "row": 82
   },
   {
@@ -12033,12 +12033,12 @@
     "author": "",
     "description": "",
     "original_text": "¿Qué pasó con ya? ¿Qué pasó con ya? ¿Qué pasó todo bien? ¿Qué acababa que ya habló contigo? ¿Cómo que tu aliento llega como 5 segundos antes de ti? ¿Y por qué me hice eso? Es que no vuelvo muy bien. En serio. No sé por qué nadie te lo vee hecho antes y yo sé que esta conversación es difícil tener. Pero yo te tengo a precio y tengo que decirte. Entonces, es por eso que tu hermana cuando yo me acerco pone cara como si está chupando un limón y seguramente, pero me dejo a recomendar algo. Lo que yo vengo, o sea, utilizando a su un tiempo así que ya. ¿Y qué es lo que hizo después de una comida fuerte? Es una ambientalada para la boca. Es una ambientalada para la boca. Es una ambientalada para una ambientalada para la boca. ¿Tú te garras aquí, te echas dos o tres? ¿A ver? ¿Elico. ¿Uy qué rico? ¿Vuelve verdad? No he probado. ¿Y por favor? Y me encanta el tamaño porque también yo se lo tengo en la campera. ¿Pero sabe, bueno, ¿no? Sí y no solamente vienen de mente. Hay otros sabores también. Lo que lo compre y aprovechan porque lo acaban de poner en descuento aquí en Tik Tok Show.",
-    "translated_text": "你怎么了？你怎么了？发生什么事了好吗？他刚才说他已经和你谈过什么了？你的呼吸怎么会比你早5秒？我为什么要这样对自己？只是我回来的不太顺利。哦真的吗。我不知道为什么以前没有人看到这样做，而且我知道这种对话很难进行。但我对你有一个价格，我必须告诉你。所以，这就是为什么当我走近时，你姐姐会做出一副在吮柠檬的表情，当然，但我不愿意推荐一些东西。我的来历，就是用了一段时间所以就这样了。一顿丰盛的饭后他做了什么？它是口腔清新剂。它是口腔清新剂。它是一种口腔清新剂。你要留在这里吗，你要带两个还是三个？让我们来看看？埃利科.哇，多好吃啊？快回来了吧？我没试过。还有请吗？我喜欢这个尺寸，因为我的夹克里也有它。但你知道，好吧，对吧？是或否，它们都只来自头脑。还有其他口味。无论你买什么，都可以利用它，因为他们只是在 Tik Tok Show 上打折。",
+    "translated_text": "你怎么了？你怎么了？发生什么事了好吗？他刚才说他已经和你谈过什么了？你的呼吸怎么会比你早5秒？我为什么要这样对自己？只是我回来的不太顺利。哦真的吗。我不知道为什么以前没有人看到这样做，而且我知道这种对话很难进行。但我对你有一个价格，我必须告诉你。所以，这就是为什么当我走近时，你姐姐会做出一副在吮柠檬的表情，当然，但我不愿意推荐一些东西。我的来历，就是用了一段时间所以就这样了。一顿丰盛的饭后他做了什么？它是口腔清新剂。它是口腔清新剂。它是一种口腔清新剂。你要留在这里吗，你要带两个还是三个？让我们来看看？埃利科？哇，多好吃啊？快回来了吧？我没试过。还有请吗？我喜欢这个尺寸，因为我的夹克里也有它。但你知道，好吧，对吧？是或否，它们都只来自头脑。还有其他口味。无论你买什么，都可以利用它，因为他们只是在 Tik Tok Show 上打折。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:38.137087",
+    "extracted_at": "2026-09-15T06:32:34.161036",
     "row": 83
   },
   {
@@ -12052,7 +12052,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:43.419616",
+    "extracted_at": "2026-09-15T06:32:37.859747",
     "row": 85
   },
   {
@@ -12066,7 +12066,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:44.573999",
+    "extracted_at": "2026-09-15T06:32:37.859808",
     "row": 86
   },
   {
@@ -12080,7 +12080,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:45.086404",
+    "extracted_at": "2026-09-15T06:32:37.859823",
     "row": 87
   },
   {
@@ -12089,12 +12089,12 @@
     "author": "",
     "description": "",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentistas nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad. vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto. Pasta dental con hidróxia patita de astra globo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clica en la cella mientras siguen descuento.",
-    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是披萨，真的。它们再次直接从日本生长。这种革命性的东西让牙齿自然形成。看看这个。牙膏与 Hydroxia astra 地球腿。重建您的口腔微生物组，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。所以，你还在等什么，趁折扣还在继续，点击cella吧。",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是披萨，真的。它们再次直接从日本生长。这种革命性的东西让牙齿自然形成。看看这个。牙膏与 Hydroxia astra 地球腿。重建您的口腔微生物群，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。所以，你还在等什么，趁折扣还在继续，点击cella吧。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:45.366578",
+    "extracted_at": "2026-09-15T06:32:37.859849",
     "row": 88
   },
   {
@@ -12103,12 +12103,12 @@
     "author": "",
     "description": "",
     "original_text": "dos por uno en el enjuo de bucal japonés y es que acaban de activar un doble descuento para este enjuo de bucal japonés y aparte de que está mucho más barato comprando dos te llevarás una unidad grátil así que si te gustaría aprovecharte de esta oferte comprar un dos por uno en este enjuo de bucal japonés te lo voy a estar dejando que abajo la destita en aranja eso sí da, te mucha prisa porque tienen pocas unidades en esto que se van a votar en tan solo varias horas",
-    "translated_text": "日本漱口水买二送一，他们刚刚为这款日本漱口水激活了双重折扣，除了购买两个更便宜之外，您还可以免费获得一个单位，所以如果您想利用此优惠，在这款日本漱口水上购买二买一，我将在下面将其以橙色留给您，这一点很重要，要快点，因为他们的单位很少，并且将在几个小时内进行投票",
+    "translated_text": "日本漱口水买二送一，他们刚刚为这款日本漱口水激活了双重折扣，除了购买两个更便宜之外，您还可以免费获得一个单位，所以如果您想利用此优惠，在这款日本漱口水上购买二买一，我会让您失望地用橙色蒸馏它，这一点很重要，要快点，因为他们的单位很少，并且将在短短几个小时内进行投票",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:46.815879",
+    "extracted_at": "2026-09-15T06:32:37.859872",
     "row": 89
   },
   {
@@ -12124,7 +12124,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:53.841379",
+    "extracted_at": "2026-09-15T06:32:38.961006",
     "row": 90
   },
   {
@@ -12133,12 +12133,12 @@
     "author": "",
     "description": "",
     "original_text": "El spray Koreano del que todos están adaptando. La media, la media, la media, la media, la media, la media, la media. Es de spray ser un control blanca, está funcionando a todo el que hay mirin. Es de sumo a los antioxidientes más dufos del esquín. funciona con botónico, ser un imis, parmblo, y vea. Lo puedes usar en tu rutina de skin que es como me gratante. Después de tu makeup como se llama. Y hasta disponible en el final.",
-    "translated_text": "每个人都在适应的韩国喷雾。平均，平均，平均，平均，平均，平均，平均。它是一种白色对照喷雾，适用于每个有味醂的人。它是滑雪板中最强的抗氧化剂之一。与 botonic 一起工作，成为一个综管系统，paramblo，然后看看。你可以在你的皮肤护理中使用它，这对我来说真的很好。化完妆后，叫什么？甚至最终可用。",
+    "translated_text": "The Korean spray that everyone is adapting from.平均，平均，平均，平均，平均，平均，平均。它是一种白色对照喷雾，适用于每个有味醂的人。 It is one of the strongest antioxidants in skis.与 botonic 一起工作，成为一个综管系统，paramblo，然后看看。你可以在你的皮肤护理中使用它，这对我来说真的很好。 After your makeup, what's it called? And even available in the end.",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:48.959007",
+    "extracted_at": "2026-09-15T06:32:38.961061",
     "row": 91
   },
   {
@@ -12152,7 +12152,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:50.659498",
+    "extracted_at": "2026-09-15T06:32:38.961088",
     "row": 92
   },
   {
@@ -12166,7 +12166,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "混剪",
-    "extracted_at": "2026-09-15T06:18:51.221157",
+    "extracted_at": "2026-09-15T06:32:38.961104",
     "row": 93
   },
   {
@@ -12180,7 +12180,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:52.706401",
+    "extracted_at": "2026-09-15T06:32:38.961132",
     "row": 94
   },
   {
@@ -12194,7 +12194,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:53.474321",
+    "extracted_at": "2026-09-15T06:32:38.961152",
     "row": 95
   },
   {
@@ -12208,7 +12208,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:55.373020",
+    "extracted_at": "2026-09-15T06:32:38.961172",
     "row": 96
   },
   {
@@ -12222,7 +12222,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:56.590094",
+    "extracted_at": "2026-09-15T06:32:38.961191",
     "row": 97
   },
   {
@@ -12236,7 +12236,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:56.765835",
+    "extracted_at": "2026-09-15T06:32:38.961222",
     "row": 98
   },
   {
@@ -12245,12 +12245,12 @@
     "author": "",
     "description": "",
     "original_text": "Yo lo voy a tomerar en las redes que tenía que probarlo y se trata el famoso nuevo calcoriano. Y sí, un sobo de 5 mil litros, 30 segundos en la boca y listo vas a por ser coseta que ni tú imaginas, todas esas semanas, todas esos videos son reales. Y yo no te voy a mostrar aquí porque creo que es algo innecesario. No contiene al col y vas a tener un aliento más fresco, diente, más limpios y más blanco, también. Pero voy trabajando para que a compartir la revita de mi nombre por si quieres ir por el caramismo lo tienen en descuento y con el blanco.",
-    "translated_text": "我要把它放到网络上，因为我必须尝试一下，它是著名的新 Calcorian。是的，一个 5000 升的 sobo，在你嘴里呆 30 秒，就这样，你将成为你无法想象的东西，所有那些星期，所有这些视频都是真实的。我不会在这里向您展示，因为我认为这是没有必要的。它不含卷心菜，让您口气更清新、牙齿更干净、更洁白。但我正在努力分享我的名片，以防万一你想买焦糖色，他们有折扣，而且是白色的。",
+    "translated_text": "我要把它放到网络上，因为我必须尝试一下，它就是著名的新 Calcorian。是的，一个 5000 升的 sobo，在你嘴里呆 30 秒，就这样，你将成为你无法想象的东西，所有那些星期，所有这些视频都是真实的。我不会在这里向您展示，因为我认为这是没有必要的。它不含卷心菜，让您口气更清新、牙齿更干净、更洁白。但我正在努力分享我的名片，以防万一你想买焦糖色，他们有折扣，而且是白色的。",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:18:57.945935",
+    "extracted_at": "2026-09-15T06:32:38.961246",
     "row": 99
   },
   {
@@ -12264,7 +12264,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "混剪",
-    "extracted_at": "2026-09-15T06:18:58.062709",
+    "extracted_at": "2026-09-15T06:32:38.961258",
     "row": 100
   },
   {
@@ -12280,7 +12280,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:25:54.817714",
+    "extracted_at": "2026-09-15T06:32:39.987154",
     "row": 101
   }
 ]
