@@ -5321,16 +5321,16 @@
     "video_id": "7680877379379629342",
     "url": "https://www.tiktok.com/@anker_uk/video/7680877379379629342?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "Tener un ambiente bucal más saludable",
-    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "description": "",
+    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7680877379379629342",
     "translated_text": "",
     "language": "",
-    "duration": "64s",
+    "duration": "",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/owgfW3AQyiFzcHTqAKQ9E9IXfpEWQBEVmBwRli/?a=1988&bti=ODszNWYuMDE6&&bt=893&ft=aEeq8qT0mIoPD12JZ~-I3wUgTjAbMeF~O5&mime_type=video_mp4&rc=N2UzZDU1Njc1NDQ0PGc6NEBpMzllN2o5cmp5ZDMzaTczNEBeLzQxMWIvXzYxLS1jYF8tYSMyY3JiMmRjNl9hLS1kMTJzcw%3D%3D&expire=1789614177&l=2026091503015373B01893EFA9762E32C9&ply_type=2&policy=2&signature=5e4b72a63911cf0af0103408e0b5354b&tk=tt_chain_token&btag=e00090000",
+    "error_message": "yt-dlp failed: ERROR: [TikTok] 7680877379379629342: Your IP address is blocked from accessing this post",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:53.881660",
+    "extracted_at": "2026-09-15T03:11:56.616858",
     "row": 84
   },
   {
@@ -10860,7 +10860,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7683953147810811167: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:09.906274",
+    "extracted_at": "2026-09-15T03:11:10.745213",
     "row": 2
   },
   {
@@ -10876,7 +10876,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7682768342599470350: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:10.480984",
+    "extracted_at": "2026-09-15T03:11:11.507740",
     "row": 3
   },
   {
@@ -10892,7 +10892,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7683528572618722590: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:11.126086",
+    "extracted_at": "2026-09-15T03:11:12.208901",
     "row": 4
   },
   {
@@ -10906,7 +10906,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:11.613600",
+    "extracted_at": "2026-09-15T03:11:12.749093",
     "row": 5
   },
   {
@@ -10920,7 +10920,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:12.040910",
+    "extracted_at": "2026-09-15T03:11:13.092647",
     "row": 6
   },
   {
@@ -10934,7 +10934,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:12.481706",
+    "extracted_at": "2026-09-15T03:11:13.487806",
     "row": 7
   },
   {
@@ -10947,10 +10947,10 @@
     "language": "",
     "duration": "64s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c002-tx2/oUviweef2ADNGVgRA9LIAZKo5gfLgjeiUFZ0Yp/?a=1988&bti=ODszNWYuMDE6&&bt=1034&ft=4KJMyMzm8Zmo01bska4jVpZbdpWrKsd.&mime_type=video_mp4&rc=NTc1ZmdpaWk4Nmc8Zjw0aUBpMzR3bGw5cmV5ZDMzaTczNEBeXy9gLjJjNjQxNmFiYjEyYSNibzJyMmQ0M2NhLS1kMTJzcw%3D%3D&expire=1789614137&l=202609150301126C1CB66DED63C5298575&ply_type=2&policy=2&signature=f8e5fd263f5feb648515ac1e5ffe5a63&tk=tt_chain_token&btag=e00090000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-pve-0068-tx2/oArQhiPiYATp1Lcq9EAzIdAEGIIGivCRByyfni/?a=1988&bti=ODszNWYuMDE6&&bt=802&ft=4KJMyMzm8Zmo02oska4jVVuldpWrKsd.&mime_type=video_mp4&rc=OGczPGY3M2VpN2ZlZGY2PEBpMzR3bGw5cmV5ZDMzaTczNEBfMTIvMDQ0NmAxY14uX15gYSNibzJyMmQ0M2NhLS1kMTJzcw%3D%3D&expire=1789614738&l=202609150311130B20A6C1A47F4A344400&ply_type=2&policy=2&signature=f653714bad96bccb36d596e701d159c1&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:13.209987",
+    "extracted_at": "2026-09-15T03:11:14.357252",
     "row": 8
   },
   {
@@ -10966,7 +10966,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7681269185799834894: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:13.759126",
+    "extracted_at": "2026-09-15T03:11:15.070100",
     "row": 9
   },
   {
@@ -10982,7 +10982,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7683047829379583263: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:14.678319",
+    "extracted_at": "2026-09-15T03:11:15.804610",
     "row": 10
   },
   {
@@ -10996,7 +10996,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:15.265534",
+    "extracted_at": "2026-09-15T03:11:16.247080",
     "row": 11
   },
   {
@@ -11012,7 +11012,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7682022534123883789: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:15.909951",
+    "extracted_at": "2026-09-15T03:11:16.896212",
     "row": 12
   },
   {
@@ -11028,7 +11028,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7682726104112581918: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:16.700574",
+    "extracted_at": "2026-09-15T03:11:17.513392",
     "row": 13
   },
   {
@@ -11044,7 +11044,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7682000359279168782: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:17.845485",
+    "extracted_at": "2026-09-15T03:11:18.264611",
     "row": 14
   },
   {
@@ -11060,7 +11060,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7683918000159771917: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:18.519478",
+    "extracted_at": "2026-09-15T03:11:19.056225",
     "row": 15
   },
   {
@@ -11076,7 +11076,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7684282279811665166: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:19.334824",
+    "extracted_at": "2026-09-15T03:11:19.658079",
     "row": 16
   },
   {
@@ -11090,7 +11090,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:19.902946",
+    "extracted_at": "2026-09-15T03:11:20.005299",
     "row": 17
   },
   {
@@ -11104,7 +11104,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:20.469732",
+    "extracted_at": "2026-09-15T03:11:20.547396",
     "row": 18
   },
   {
@@ -11120,7 +11120,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7679278971002817822: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:21.186700",
+    "extracted_at": "2026-09-15T03:11:21.367497",
     "row": 19
   },
   {
@@ -11134,7 +11134,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:21.740150",
+    "extracted_at": "2026-09-15T03:11:21.972304",
     "row": 20
   },
   {
@@ -11150,7 +11150,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7682021052049870094: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:22.358337",
+    "extracted_at": "2026-09-15T03:11:22.602790",
     "row": 21
   },
   {
@@ -11164,7 +11164,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:22.807198",
+    "extracted_at": "2026-09-15T03:11:22.939621",
     "row": 22
   },
   {
@@ -11180,7 +11180,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7683262654856645918: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:23.401688",
+    "extracted_at": "2026-09-15T03:11:23.599237",
     "row": 23
   },
   {
@@ -11196,7 +11196,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7682768069197925645: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:23.911630",
+    "extracted_at": "2026-09-15T03:11:24.298431",
     "row": 24
   },
   {
@@ -11210,7 +11210,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:24.477732",
+    "extracted_at": "2026-09-15T03:11:24.813091",
     "row": 25
   },
   {
@@ -11226,7 +11226,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7683866505322220813: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:24.994202",
+    "extracted_at": "2026-09-15T03:11:26.033023",
     "row": 26
   },
   {
@@ -11240,7 +11240,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:25.453223",
+    "extracted_at": "2026-09-15T03:11:26.460287",
     "row": 27
   },
   {
@@ -11256,7 +11256,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7683526937507056927: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:25.949427",
+    "extracted_at": "2026-09-15T03:11:27.657303",
     "row": 28
   },
   {
@@ -11270,7 +11270,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:26.374584",
+    "extracted_at": "2026-09-15T03:11:28.201725",
     "row": 29
   },
   {
@@ -11286,7 +11286,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7680886896305736990: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:27.625631",
+    "extracted_at": "2026-09-15T03:11:29.044908",
     "row": 30
   },
   {
@@ -11300,7 +11300,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:28.188831",
+    "extracted_at": "2026-09-15T03:11:29.541640",
     "row": 31
   },
   {
@@ -11316,7 +11316,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7678662496634359071: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:29.286750",
+    "extracted_at": "2026-09-15T03:11:30.275444",
     "row": 32
   },
   {
@@ -11330,7 +11330,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:29.806369",
+    "extracted_at": "2026-09-15T03:11:30.857290",
     "row": 33
   },
   {
@@ -11344,7 +11344,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:30.143804",
+    "extracted_at": "2026-09-15T03:11:31.373719",
     "row": 34
   },
   {
@@ -11360,7 +11360,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7683952280667720990: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:30.695315",
+    "extracted_at": "2026-09-15T03:11:31.960306",
     "row": 35
   },
   {
@@ -11374,7 +11374,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "混剪",
-    "extracted_at": "2026-09-15T03:01:31.112994",
+    "extracted_at": "2026-09-15T03:11:32.278032",
     "row": 36
   },
   {
@@ -11388,7 +11388,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:31.690086",
+    "extracted_at": "2026-09-15T03:11:32.803427",
     "row": 37
   },
   {
@@ -11402,7 +11402,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:32.078885",
+    "extracted_at": "2026-09-15T03:11:33.195756",
     "row": 38
   },
   {
@@ -11416,7 +11416,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:32.643573",
+    "extracted_at": "2026-09-15T03:11:33.718350",
     "row": 39
   },
   {
@@ -11430,7 +11430,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:33.039228",
+    "extracted_at": "2026-09-15T03:11:34.330524",
     "row": 40
   },
   {
@@ -11444,7 +11444,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:33.629251",
+    "extracted_at": "2026-09-15T03:11:34.850786",
     "row": 41
   },
   {
@@ -11460,7 +11460,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7684277265189915935: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:34.299281",
+    "extracted_at": "2026-09-15T03:11:35.552681",
     "row": 42
   },
   {
@@ -11474,7 +11474,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:34.662235",
+    "extracted_at": "2026-09-15T03:11:36.058530",
     "row": 43
   },
   {
@@ -11487,10 +11487,10 @@
     "language": "",
     "duration": "64s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/ogigrDfEegmJqWwSaIB4B5EuRNQXFLwQD1UpP1/?a=1988&bti=ODszNWYuMDE6&&bt=1100&ft=aEeq8qT0mIoPD12zZ~-I3wU1sqAbMeF~O5&mime_type=video_mp4&rc=aThnOWc3aDM3O2U2Z2k7NUBpM29xa3Q5cjg8ZDQzZzM2NEBgLzM2NTEtX14xNi02MGI0YSNwbWhqMmRrcGFhLS1kLS9zcw%3D%3D&expire=1789614159&l=202609150301346DE1EFC5503AD72A297F&ply_type=2&policy=2&signature=f565bfbcd13ef02470d63c6558689b73&tk=tt_chain_token&btag=e000d0000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/ogigrDfEegmJqWwSaIB4B5EuRNQXFLwQD1UpP1/?a=1988&bti=ODszNWYuMDE6&&bt=1100&ft=4KJMyMzm8Zmo0aoska4jVU2OdpWrKsd.&mime_type=video_mp4&rc=aThnOWc3aDM3O2U2Z2k7NUBpM29xa3Q5cjg8ZDQzZzM2NEBgLzM2NTEtX14xNi02MGI0YSNwbWhqMmRrcGFhLS1kLS9zcw%3D%3D&expire=1789614760&l=20260915031136DBAAFA4AE557052B3669&ply_type=2&policy=2&signature=6efc769e1577bff173ac769eb0e5f635&tk=tt_chain_token&btag=e000d0000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:35.252197",
+    "extracted_at": "2026-09-15T03:11:36.737846",
     "row": 44
   },
   {
@@ -11504,7 +11504,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:35.649593",
+    "extracted_at": "2026-09-15T03:11:37.135523",
     "row": 45
   },
   {
@@ -11518,7 +11518,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:36.027851",
+    "extracted_at": "2026-09-15T03:11:37.625142",
     "row": 46
   },
   {
@@ -11532,7 +11532,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:36.522629",
+    "extracted_at": "2026-09-15T03:11:37.986882",
     "row": 47
   },
   {
@@ -11546,7 +11546,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:36.977807",
+    "extracted_at": "2026-09-15T03:11:38.508244",
     "row": 48
   },
   {
@@ -11560,7 +11560,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:37.549626",
+    "extracted_at": "2026-09-15T03:11:38.947037",
     "row": 49
   },
   {
@@ -11574,7 +11574,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:38.141482",
+    "extracted_at": "2026-09-15T03:11:39.299309",
     "row": 50
   },
   {
@@ -11588,7 +11588,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:38.497903",
+    "extracted_at": "2026-09-15T03:11:39.637497",
     "row": 51
   },
   {
@@ -11602,7 +11602,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:38.819330",
+    "extracted_at": "2026-09-15T03:11:40.230953",
     "row": 52
   },
   {
@@ -11616,7 +11616,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:39.342704",
+    "extracted_at": "2026-09-15T03:11:40.824548",
     "row": 53
   },
   {
@@ -11630,7 +11630,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:39.747841",
+    "extracted_at": "2026-09-15T03:11:41.355117",
     "row": 54
   },
   {
@@ -11644,7 +11644,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:40.061792",
+    "extracted_at": "2026-09-15T03:11:41.927344",
     "row": 55
   },
   {
@@ -11658,7 +11658,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:40.578838",
+    "extracted_at": "2026-09-15T03:11:42.512142",
     "row": 56
   },
   {
@@ -11674,7 +11674,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7684170697513487634: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:41.223367",
+    "extracted_at": "2026-09-15T03:11:43.084028",
     "row": 57
   },
   {
@@ -11688,7 +11688,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:41.680397",
+    "extracted_at": "2026-09-15T03:11:43.453987",
     "row": 58
   },
   {
@@ -11702,7 +11702,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:42.218564",
+    "extracted_at": "2026-09-15T03:11:43.776161",
     "row": 59
   },
   {
@@ -11716,7 +11716,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:42.578529",
+    "extracted_at": "2026-09-15T03:11:44.309493",
     "row": 60
   },
   {
@@ -11730,7 +11730,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:43.067393",
+    "extracted_at": "2026-09-15T03:11:44.664431",
     "row": 61
   },
   {
@@ -11744,7 +11744,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:43.541333",
+    "extracted_at": "2026-09-15T03:11:45.234335",
     "row": 62
   },
   {
@@ -11758,7 +11758,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:43.872296",
+    "extracted_at": "2026-09-15T03:11:45.612956",
     "row": 63
   },
   {
@@ -11772,7 +11772,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:44.331057",
+    "extracted_at": "2026-09-15T03:11:46.088749",
     "row": 64
   },
   {
@@ -11786,7 +11786,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:44.885772",
+    "extracted_at": "2026-09-15T03:11:46.659442",
     "row": 65
   },
   {
@@ -11800,7 +11800,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:45.187132",
+    "extracted_at": "2026-09-15T03:11:47.077520",
     "row": 66
   },
   {
@@ -11814,7 +11814,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:45.769843",
+    "extracted_at": "2026-09-15T03:11:47.496918",
     "row": 67
   },
   {
@@ -11828,7 +11828,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:46.348032",
+    "extracted_at": "2026-09-15T03:11:48.040844",
     "row": 68
   },
   {
@@ -11842,7 +11842,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:46.709834",
+    "extracted_at": "2026-09-15T03:11:48.489047",
     "row": 69
   },
   {
@@ -11856,7 +11856,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:47.297897",
+    "extracted_at": "2026-09-15T03:11:48.958788",
     "row": 70
   },
   {
@@ -11870,7 +11870,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:47.689337",
+    "extracted_at": "2026-09-15T03:11:49.489168",
     "row": 71
   },
   {
@@ -11884,7 +11884,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:48.278574",
+    "extracted_at": "2026-09-15T03:11:49.835827",
     "row": 72
   },
   {
@@ -11898,7 +11898,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:48.793884",
+    "extracted_at": "2026-09-15T03:11:50.238076",
     "row": 73
   },
   {
@@ -11912,7 +11912,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:49.328251",
+    "extracted_at": "2026-09-15T03:11:50.697754",
     "row": 74
   },
   {
@@ -11926,7 +11926,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:49.775304",
+    "extracted_at": "2026-09-15T03:11:51.061774",
     "row": 75
   },
   {
@@ -11940,7 +11940,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:50.170261",
+    "extracted_at": "2026-09-15T03:11:51.640706",
     "row": 76
   },
   {
@@ -11954,7 +11954,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:50.551894",
+    "extracted_at": "2026-09-15T03:11:52.226437",
     "row": 77
   },
   {
@@ -11968,7 +11968,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:50.897681",
+    "extracted_at": "2026-09-15T03:11:52.763034",
     "row": 78
   },
   {
@@ -11982,7 +11982,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:51.240707",
+    "extracted_at": "2026-09-15T03:11:53.211565",
     "row": 79
   },
   {
@@ -11996,7 +11996,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:51.611446",
+    "extracted_at": "2026-09-15T03:11:53.711056",
     "row": 80
   },
   {
@@ -12009,10 +12009,10 @@
     "language": "",
     "duration": "9s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-ve-4863-sg/ospe9TiixmLZ4dUlvIZMssgIBfEBiBKNqBZ1nE/?a=1988&bti=ODszNWYuMDE6&&bt=543&ft=4KJMyMzm8Zmo0lMska4jVU2OdpWrKsd.&mime_type=video_mp4&rc=aTRnNjlnOTg5ZjpmZ2g1ZUBpamc5bHc5cjloZDQzOGk1NEBhLzQtMTRgXzIxY2EuLzA0YSNoaDMyMmRjbWJhLS1kYzFzcw%3D%3D&expire=1789614121&l=20260915030151F39B79096B91FC2EED70&ply_type=2&policy=2&signature=07a8dd6f67fdb2b68adcbe041f05a4c8&tk=tt_chain_token&btag=e000b0000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-ve-4863-sg/ospe9TiixmLZ4dUlvIZMssgIBfEBiBKNqBZ1nE/?a=1988&bti=ODszNWYuMDE6&&bt=543&ft=aEeq8qT0mIoPD12F1~-I3wU6aqAbMeF~O5&mime_type=video_mp4&rc=aTRnNjlnOTg5ZjpmZ2g1ZUBpamc5bHc5cjloZDQzOGk1NEBhLzQtMTRgXzIxY2EuLzA0YSNoaDMyMmRjbWJhLS1kYzFzcw%3D%3D&expire=1789614723&l=20260915031153BC90E7F5B9ACF0331196&ply_type=2&policy=2&signature=f6b17b19fb5b48b817d37aede0b75328&tk=tt_chain_token&btag=e000b0000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:52.469039",
+    "extracted_at": "2026-09-15T03:11:54.359561",
     "row": 81
   },
   {
@@ -12026,7 +12026,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:52.929091",
+    "extracted_at": "2026-09-15T03:11:54.731951",
     "row": 82
   },
   {
@@ -12040,7 +12040,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:53.250506",
+    "extracted_at": "2026-09-15T03:11:55.316984",
     "row": 83
   },
   {
@@ -12054,7 +12054,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:54.262368",
+    "extracted_at": "2026-09-15T03:11:56.984620",
     "row": 85
   },
   {
@@ -12068,7 +12068,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:54.781190",
+    "extracted_at": "2026-09-15T03:11:57.469212",
     "row": 86
   },
   {
@@ -12082,7 +12082,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:55.365031",
+    "extracted_at": "2026-09-15T03:11:57.852273",
     "row": 87
   },
   {
@@ -12096,7 +12096,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:55.763476",
+    "extracted_at": "2026-09-15T03:11:58.291602",
     "row": 88
   },
   {
@@ -12110,7 +12110,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:56.246283",
+    "extracted_at": "2026-09-15T03:11:58.842443",
     "row": 89
   },
   {
@@ -12123,10 +12123,10 @@
     "language": "",
     "duration": "11s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oYiqjYN2asPgIWVgNzLAAGqWET8MivBIBP8iE/?a=1988&bti=ODszNWYuMDE6&&bt=695&ft=aEeq8qT0mIoPD12AZ~-I3wUQIyAbMeF~O5&mime_type=video_mp4&rc=NDk7O2k0ZGU7PDY0Mzs7OkBpM2lnO3Y5cm0zZDMzODczNEBfNTZfMTFeNjQxMTVfMjJeYSNqYC5yMmRrbGVhLS1kMTFzcw%3D%3D&expire=1789614127&l=20260915030156677A31C882903E340E29&ply_type=2&policy=2&signature=08b1d95d84b5af05e751184fb701f77e&tk=tt_chain_token&btag=e000f0000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oYiqjYN2asPgIWVgNzLAAGqWET8MivBIBP8iE/?a=1988&bti=ODszNWYuMDE6&&bt=695&ft=aEeq8qT0mIoPD12UY~-I3wUlVzAbMeF~O5&mime_type=video_mp4&rc=NDk7O2k0ZGU7PDY0Mzs7OkBpM2lnO3Y5cm0zZDMzODczNEBfNTZfMTFeNjQxMTVfMjJeYSNqYC5yMmRrbGVhLS1kMTFzcw%3D%3D&expire=1789614731&l=202609150311594B25CC295E0BF82F229E&ply_type=2&policy=2&signature=3b1167576b5d4a444298b6a03dd3f372&tk=tt_chain_token&btag=e000f0000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:01:56.939309",
+    "extracted_at": "2026-09-15T03:12:00.438469",
     "row": 90
   },
   {
@@ -12140,7 +12140,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:57.524302",
+    "extracted_at": "2026-09-15T03:12:00.921111",
     "row": 91
   },
   {
@@ -12154,7 +12154,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:57.979024",
+    "extracted_at": "2026-09-15T03:12:01.523783",
     "row": 92
   },
   {
@@ -12168,7 +12168,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "混剪",
-    "extracted_at": "2026-09-15T03:01:58.373061",
+    "extracted_at": "2026-09-15T03:12:01.879947",
     "row": 93
   },
   {
@@ -12182,7 +12182,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:58.885663",
+    "extracted_at": "2026-09-15T03:12:02.222849",
     "row": 94
   },
   {
@@ -12196,7 +12196,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:59.376091",
+    "extracted_at": "2026-09-15T03:12:02.586019",
     "row": 95
   },
   {
@@ -12210,7 +12210,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:01:59.815971",
+    "extracted_at": "2026-09-15T03:12:02.923236",
     "row": 96
   },
   {
@@ -12224,7 +12224,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:02:00.300132",
+    "extracted_at": "2026-09-15T03:12:03.302161",
     "row": 97
   },
   {
@@ -12238,7 +12238,7 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:02:00.889978",
+    "extracted_at": "2026-09-15T03:12:03.817267",
     "row": 98
   },
   {
@@ -12252,23 +12252,21 @@
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T03:02:01.266748",
+    "extracted_at": "2026-09-15T03:12:04.189684",
     "row": 99
   },
   {
     "video_id": "7681499019213966613",
     "url": "https://www.tiktok.com/@anker_uk/video/7681499019213966613?lang=en&is_copy_url=1&is_from_webapp=v1",
-    "author": "@anker_uk",
-    "description": "Dientes blancos sin sensibilidad con estas tiras#blanqueamientodental...",
-    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "author": "",
+    "description": "",
+    "original_text": "Thank you.",
     "translated_text": "",
-    "language": "",
-    "duration": "9s",
-    "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-ve-4863-sg/oIeIAE7Y7UZQVSifaLYN2FbYFCbDfFFfwJzG6S/?a=1988&bti=ODszNWYuMDE6&&bt=701&ft=aEeq8qT0mIoPD12xZ~-I3wUYZRAbMeF~O5&mime_type=video_mp4&rc=Zzs3ZDo7ZTNpNTk6OWhnOEBpMzRsO3c5cjo1ZDQzOGk1NEA0YS0zYTIuX18xNS0zY2IuYSMzZmlmMmRzaWFhLS1kY2Bzcw%3D%3D&expire=1789614130&l=20260915030201C54D414269E37A29C353&ply_type=2&policy=2&signature=a879ed035bdd25bbdc5b641885ca17df&tk=tt_chain_token&btag=e000b0000",
-    "video_type": "",
-    "video_structure": "",
-    "extracted_at": "2026-09-15T03:02:01.856379",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "混剪",
+    "extracted_at": "2026-09-15T03:12:04.729263",
     "row": 100
   },
   {
@@ -12281,10 +12279,10 @@
     "language": "",
     "duration": "15s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-ve-4863-sg/ooCOQPgDBgKaiJHXcbi4u8I2pA0Epzswy7fbDC/?a=1988&bti=ODszNWYuMDE6&&bt=1164&ft=4KJMyMzm8Zmo0FMska4jVVuldpWrKsd.&mime_type=video_mp4&rc=ZTU6NzM5ZGU7ZWk6ZjdkNUBpajN4amw5cnZyZDQzOGk1NUAxYTMyM2FfNTExYjAyLTZiYSNtbWxoMmQ0M2FhLS1kYzZzcw%3D%3D&expire=1789614137&l=20260915030201D0DE048C9978C52DE853&ply_type=2&policy=2&signature=e510cc107b58e21a769dadbef5a28b58&tk=tt_chain_token&btag=e000b8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-ve-4863-sg/ooCOQPgDBgKaiJHXcbi4u8I2pA0Epzswy7fbDC/?a=1988&bti=ODszNWYuMDE6&&bt=1164&ft=aEeq8qT0mIoPD12YY~-I3wU0nRAbMeF~O5&mime_type=video_mp4&rc=ZTU6NzM5ZGU7ZWk6ZjdkNUBpajN4amw5cnZyZDQzOGk1NUAxYTMyM2FfNTExYjAyLTZiYSNtbWxoMmQ0M2FhLS1kYzZzcw%3D%3D&expire=1789614740&l=202609150312049565B9AB6F07472ED6A4&ply_type=2&policy=2&signature=b0c8821a4934b490432d513e46ee5434&tk=tt_chain_token&btag=e000b8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T03:02:02.707737",
+    "extracted_at": "2026-09-15T03:12:05.540547",
     "row": 101
   }
 ]
