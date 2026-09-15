@@ -12600,7 +12600,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:50:05.046314",
+    "extracted_at": "2026-09-15T06:55:54.238593",
     "row": 21
   },
   {
@@ -12656,15 +12656,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7683879704197188877?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "Tener un ambiente bucal más saludable#Restauracióndelesmaltedental #Aliviarlasensibilidaddental #Blanqueamientodental#Summervibes#DealsForYouDays",
-    "original_text": "[提取失败] Download/ffmpeg error: ffmpeg failed: ffmpeg versi",
-    "translated_text": "",
-    "language": "",
+    "original_text": "¿Recuerdas cuando te hacían la prueba del COVID y te metían un isopo por la nariza hasta casi picarte el maldito cerebro? Así es, cuando te tienen que rebanar las amigadas en un quirófano porque están llenas de piedras podridas, la recuperación duele 20 veces más y no puedes ni tragar agua. Reacciona, Huey, si dos es bolitas blancas que vuelen a muerte y trata de sacar las rascando con el dedo, te estás destrozando la garganta gratis. Deja de mutilarte y hace una desinfectión biológica profunda, y la mayoría de los entistas en Japón usan esto. Aura nexa, una bomba nuclear oral con 10 millones de probióticos activos. Esta madre es la solución, mas tica una en la mañana y otra en la noche, que la espuma en un del fondo de tu garganta, azgargaras y escupé todo ese desmadre tóxico, y no te la trages. Es como meter todo tu osico en una maldita lavadora. Los probióticos van a derretir esas rocas de puos y a desgarrar a las bacterias yjas de perra que las fabrican 7 días y tu garganta estará blindada. Provecha que el carrito todavía tiene el dil, vei compra ya. Si te miento, regresa si me partes la madre.",
+    "translated_text": "你还记得当他们对你进行新冠病毒检测时，他们会把棉签塞进你的鼻子，直到它几乎刺痛你那该死的大脑吗？没错，当你的朋友因为里面装满了腐烂的石头而不得不在手术室里被切开时，恢复过程中的疼痛会增加20倍，而且你甚至无法吞咽水。休伊，反应一下，如果两个白球飞向死亡，而你试图用手指刮擦它们来将它们移走，那么你就是在免费毁掉你的喉咙。它会停止残害你，并进行深层生物消毒，日本的大多数医生都使用它。 Aura nexa，口服核弹，含有 1000 万活性益生菌。这位母亲就是解决方案，不仅仅是早上一个，晚上另一个，比你喉咙后面的泡沫、azgargaras 和吐出所有有毒的混乱，而你不会吞下它。这就像把你的全部物品放进该死的洗衣机里一样。益生菌会融化这些拳头岩石，撕碎细菌和母狗的下巴，让它们持续 7 天，你的喉咙就会穿上铠甲。趁着购物车里还有dil，赶紧去买吧。如果我骗了你，你杀了我就回来。",
+    "language": "es",
     "duration": "64s",
-    "status": "error",
-    "error_message": "Download/ffmpeg error: ffmpeg failed: ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers\n  built with gcc 13 (Ubuntu 13.2.0-23ubuntu3)\n  configuration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened -",
-    "video_type": "",
-    "video_structure": "",
-    "extracted_at": "2026-09-15T06:50:25.114807",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-15T06:56:06.119862",
     "row": 25
   },
   {
@@ -12696,7 +12696,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:50:53.886028",
+    "extracted_at": "2026-09-15T06:56:07.763511",
     "row": 27
   },
   {
@@ -12712,7 +12712,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:50:58.655187",
+    "extracted_at": "2026-09-15T06:56:09.138985",
     "row": 28
   },
   {
@@ -12904,7 +12904,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-15T06:52:19.704738",
+    "extracted_at": "2026-09-15T06:56:11.874488",
     "row": 40
   }
 ]
