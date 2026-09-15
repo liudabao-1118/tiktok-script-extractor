@@ -201,8 +201,13 @@ class FeishuClient:
 
     # ---------- high-level helpers ----------
     def read_table(self):
-        """Read A:F and return list of dicts (skips header & non-link rows)."""
-        rows = self.read_range(f"A1:F{self.max_rows}")
+        """Read A:G and return list of dicts (skips header & non-link rows).
+
+        Column layout in the sheet:
+            A=视频链接  B=脚本提取原文  C=译文  D=视频ID
+            E=视频类型  F=国家  G=视频结构
+        """
+        rows = self.read_range(f"A1:G{self.max_rows}")
         out = []
         for i, row in enumerate(rows, start=1):
             g = lambda idx: (row[idx] if idx < len(row) else "") or ""
@@ -218,7 +223,8 @@ class FeishuClient:
                 "translation": g(2).strip(),
                 "video_id": g(3).strip(),
                 "video_type": g(4).strip(),
-                "video_structure": g(5).strip(),
+                "country": g(5).strip(),
+                "video_structure": g(6).strip(),
             })
         return out
 
@@ -268,8 +274,9 @@ class FeishuClient:
         Returns a status dict. If the app lacks write permission (403), returns
         {'code': 403, ...} so the caller can fall back to CSV-only.
         """
+        # NOTE: F is the user's 国家 (country) column — video_structure goes to G.
         columns = {"B": "original_text", "C": "translated_text",
-                   "D": "video_id", "E": "video_type", "F": "video_structure"}
+                   "D": "video_id", "E": "video_type", "G": "video_structure"}
 
         # column -> {row: value}
         by_column = {col: {} for col in columns}
