@@ -38,6 +38,13 @@ BASE = "https://open.feishu.cn/open-apis"
 FAILED_MARKERS = ("[download_failed]", "[analysis_failed]", "[unavailable]", "[提取失败]")
 URL_RE = re.compile(r"https?://(www\.|vm\.|vt\.|m\.)?tiktok\.com", re.I)
 
+# Values the analyzer can produce for the structure column (column E).
+# Anything else in that cell (empty, or a legacy 达人视频/自制视频 value) means
+# the row still needs (re)classification.
+STRUCTURE_VALUES = frozenset(
+    {"达人口播", "AI生成", "混剪", "图文", "剧情", "测评"}
+)
+
 
 def flatten_cell(v):
     """Convert a Feishu cell value into a plain string.
@@ -205,9 +212,12 @@ class FeishuClient:
 
         Column layout in the sheet:
             A=视频链接  B=脚本提取原文  C=译文  D=视频ID
-            E=视频类型  F=国家  G=视频结构
+            E=视频结构(structure)  F=国家  G=素材分类2  H=Shop Name
+
+        Column E holds the structure label (达人口播 / AI生成 / 混剪 / 图文 /
+        剧情 / 测评), which is what the user asked to see there.
         """
-        rows = self.read_range(f"A1:G{self.max_rows}")
+        rows = self.read_range(f"A1:F{self.max_rows}")
         out = []
         for i, row in enumerate(rows, start=1):
             g = lambda idx: (row[idx] if idx < len(row) else "") or ""
@@ -222,9 +232,8 @@ class FeishuClient:
                 "original": g(1).strip(),
                 "translation": g(2).strip(),
                 "video_id": g(3).strip(),
-                "video_type": g(4).strip(),
+                "video_structure": g(4).strip(),
                 "country": g(5).strip(),
-                "video_structure": g(6).strip(),
             })
         return out
 
@@ -233,8 +242,9 @@ class FeishuClient:
 
         No rows are permanently skipped — every video gets retried each run
         until it succeeds. Previously failed markers are treated as pending.
-        Rows that already have a translation but no video_type yet are picked
-        up too, so the new analysis columns get backfilled without re-download.
+        Rows that already have a translation but no structure label yet (or a
+        stale one) are picked up too, so column E gets (re)filled without
+        re-downloading the video.
         """
         rows = self.read_table()
         print(f"  [debug] read_table returned {len(rows)} link rows")
@@ -253,7 +263,10 @@ class FeishuClient:
             orig = item["original"]
             is_failed = (orig in FAILED_MARKERS) or (not orig)
             needs_extract = is_failed or not item["translation"]
-            needs_analysis = bool(item["translation"]) and not item["video_type"]
+            needs_analysis = (
+                bool(item["translation"])
+                and item["video_structure"] not in STRUCTURE_VALUES
+            )
             if needs_extract or needs_analysis:
                 pending.append(item)
         return pending
@@ -274,9 +287,10 @@ class FeishuClient:
         Returns a status dict. If the app lacks write permission (403), returns
         {'code': 403, ...} so the caller can fall back to CSV-only.
         """
-        # NOTE: F is the user's 国家 (country) column — video_structure goes to G.
+        # E carries the structure label (what the user wants to see there).
+        # F is the user's 国家 column and is never written by us.
         columns = {"B": "original_text", "C": "translated_text",
-                   "D": "video_id", "E": "video_type", "G": "video_structure"}
+                   "D": "video_id", "E": "video_structure"}
 
         # column -> {row: value}
         by_column = {col: {} for col in columns}
