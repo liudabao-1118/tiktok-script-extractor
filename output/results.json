@@ -14540,7 +14540,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T08:11:08.680764",
+    "extracted_at": "2026-09-22T08:15:57.696420",
     "row": 4
   },
   {
@@ -14588,7 +14588,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T08:11:22.620511",
+    "extracted_at": "2026-09-22T08:16:00.469162",
     "row": 7
   },
   {
@@ -14604,7 +14604,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T08:11:25.474543",
+    "extracted_at": "2026-09-22T08:16:03.476968",
     "row": 8
   },
   {
@@ -14652,7 +14652,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T08:11:50.070588",
+    "extracted_at": "2026-09-22T08:16:06.312738",
     "row": 13
   },
   {
@@ -14700,7 +14700,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T08:12:28.808986",
+    "extracted_at": "2026-09-22T08:16:09.070479",
     "row": 17
   },
   {
@@ -14732,7 +14732,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T08:12:58.994073",
+    "extracted_at": "2026-09-22T08:16:11.830856",
     "row": 22
   },
   {
@@ -14755,16 +14755,16 @@
     "video_id": "7676285511203376398",
     "url": "https://www.tiktok.com/@anker_uk/video/7676285511203376398?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "",
-    "original_text": "[提取失败] Url parsing is failed! Please check url.",
-    "translated_text": "",
-    "language": "",
-    "duration": "",
-    "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
-    "video_type": "",
-    "video_structure": "",
-    "extracted_at": "2026-09-22T08:13:29.814066",
+    "description": "¡Dile adiós a los dientes amarillos en segundos",
+    "original_text": "Si tienes un hueco en el diente o cariés, si tu aliento vuelen mal y tus dientes están amarillos, no te saces el diente. La Igroxyapatita es un material natural del esmal de edental, ayudar a rellenar las crietas y los huecos, y a reparar el esmal de dañado. No contiene flore, está formulado por dentistas profesionales, y es ideal para personas con cariés y dientes sensibles. Es seguro y efectivo. Si siempre te dole el diente, no puedes dormir por la noche y tienes huecos en los dientes, lo necesitas. Usalo dos veces al día por la mañana y por la noche su boca se mantendra fresca y tus dientes se verán más blancos.",
+    "translated_text": "如果您的牙齿或蛀牙有缝隙，如果您的口气不好并且牙齿发黄，请不要拔牙。 Igroxyapatite 是一种天然的牙釉质材料，有助于填充裂缝和间隙，并修复受损的牙釉质。它不含菌群，由专业牙医配制，非常适合有蛀牙和敏感牙齿的人。它安全有效。如果你的牙齿总是痛、晚上睡不着、牙齿有缝隙，你就需要这个。每天早上和晚上使用两次，您的口腔会保持清新，牙齿也会看起来更白。",
+    "language": "es",
+    "duration": "33s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-22T08:16:21.150794",
     "row": 28
   },
   {
@@ -14780,7 +14780,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T08:13:32.703403",
+    "extracted_at": "2026-09-22T08:16:23.965963",
     "row": 29
   },
   {
