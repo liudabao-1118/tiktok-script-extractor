@@ -5042,7 +5042,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7679391386113821965: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:15:57.198013",
+    "extracted_at": "2026-09-22T02:31:16.445737",
     "row": 4
   },
   {
@@ -5074,7 +5074,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7680981650423024926: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:15:58.492389",
+    "extracted_at": "2026-09-22T02:31:17.066501",
     "row": 5
   },
   {
@@ -5090,7 +5090,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7679391441172335885: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:02.451825",
+    "extracted_at": "2026-09-22T02:31:21.221320",
     "row": 12
   },
   {
@@ -5106,7 +5106,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7681271565996018974: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:03.046556",
+    "extracted_at": "2026-09-22T02:31:21.892904",
     "row": 13
   },
   {
@@ -5122,7 +5122,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7680975224652746014: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:03.998151",
+    "extracted_at": "2026-09-22T02:31:22.628481",
     "row": 15
   },
   {
@@ -5154,7 +5154,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7678724228597779725: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:05.932671",
+    "extracted_at": "2026-09-22T02:31:23.916313",
     "row": 17
   },
   {
@@ -5186,7 +5186,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7678317420120968478: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:08.608514",
+    "extracted_at": "2026-09-22T02:31:24.602939",
     "row": 18
   },
   {
@@ -5202,7 +5202,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7680519384443538718: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:22.389716",
+    "extracted_at": "2026-09-22T02:31:32.172624",
     "row": 28
   },
   {
@@ -5266,7 +5266,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7679070411836886286: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:39.497536",
+    "extracted_at": "2026-09-22T02:31:46.722772",
     "row": 52
   },
   {
@@ -5321,16 +5321,16 @@
     "video_id": "7680877379379629342",
     "url": "https://www.tiktok.com/@anker_uk/video/7680877379379629342?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7680877379379629342",
+    "description": "Tener un ambiente bucal más saludable",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
     "translated_text": "",
     "language": "",
-    "duration": "",
+    "duration": "64s",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7680877379379629342: Your IP address is blocked from accessing this post",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/owgfW3AQyiFzcHTqAKQ9E9IXfpEWQBEVmBwRli/?a=1988&bti=ODszNWYuMDE6&&bt=893&ft=4KJMyMzm8Zmo0NwO0a4jVxpuQpWrKsd.&mime_type=video_mp4&rc=N2UzZDU1Njc1NDQ0PGc6NEBpMzllN2o5cmp5ZDMzaTczNEBeLzQxMWIvXzYxLS1jYF8tYSMyY3JiMmRjNl9hLS1kMTJzcw%3D%3D&expire=1790217176&l=20260922023151885ADDCE25026E2D88FA&ply_type=2&policy=2&signature=572a3bc688f5f14e78b6b28a3fb2e230&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:48.677626",
+    "extracted_at": "2026-09-22T02:31:52.217589",
     "row": 64
   },
   {
@@ -5346,7 +5346,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7678649219615395086: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:49.221175",
+    "extracted_at": "2026-09-22T02:31:52.887404",
     "row": 65
   },
   {
@@ -5410,7 +5410,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7680981133873499423: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:06.443707",
+    "extracted_at": "2026-09-22T02:32:05.095967",
     "row": 87
   },
   {
@@ -5426,7 +5426,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7679070640850144526: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:07.169596",
+    "extracted_at": "2026-09-22T02:32:05.820336",
     "row": 88
   },
   {
@@ -5490,7 +5490,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7680524090028870942: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:09.888033",
+    "extracted_at": "2026-09-22T02:31:25.995895",
     "row": 20
   },
   {
@@ -5762,7 +5762,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7677614196724354318: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:35.790433",
+    "extracted_at": "2026-09-22T02:31:43.350432",
     "row": 47
   },
   {
@@ -6062,7 +6062,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7681250187288923406: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:15:59.766793",
+    "extracted_at": "2026-09-22T02:31:18.318043",
     "row": 7
   },
   {
@@ -6582,7 +6582,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7680206282875211039: Your IP address is blocked from accessing this post",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:07.910276",
+    "extracted_at": "2026-09-22T02:32:06.482446",
     "row": 89
   },
   {
@@ -6803,10 +6803,10 @@
     "language": "",
     "duration": "79s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oEOYIkED4qfFMfcQcqXaEKAE4FF9GRAmylBWSg/?a=1988&bti=ODszNWYuMDE6&&bt=602&ft=aEeq8qT0mIoPD129Zl2I3wUkx_AbMeF~O5&mime_type=video_mp4&rc=ODRpOGYzNTQ2Zzk1Nmc8ZUBpM2Q7NHk5cjxxZDMzbzczNUAuYDZiM2JfNTYxXjY1X2EuYSMtbGppMmRjYGBhLS1kMTFzcw%3D%3D&expire=1790216308&l=20260922021708B8D60511E5A4AC3C96C5&ply_type=2&policy=2&signature=4f7d09ade215a5a3bec878b63877f82b&tk=tt_chain_token&btag=e00090000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oEOYIkED4qfFMfcQcqXaEKAE4FF9GRAmylBWSg/?a=1988&bti=ODszNWYuMDE6&&bt=602&ft=aEeq8qT0mIoPD12bfl2I3wUEMJAbMeF~O5&mime_type=video_mp4&rc=ODRpOGYzNTQ2Zzk1Nmc8ZUBpM2Q7NHk5cjxxZDMzbzczNUAuYDZiM2JfNTYxXjY1X2EuYSMtbGppMmRjYGBhLS1kMTFzcw%3D%3D&expire=1790217206&l=20260922023207142EE316CB7AD52DCDD8&ply_type=2&policy=2&signature=19f980e0658ab0f6f52dc10033671eb1&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:09.268292",
+    "extracted_at": "2026-09-22T02:32:07.915402",
     "row": 102
   },
   {
@@ -6819,10 +6819,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/o0AiFEoqkizQCR5ESlYfBiHlKB7aZeIzaJdPLg/?a=1988&bti=ODszNWYuMDE6&&bt=628&ft=4KJMyMzm8Zmo07MO0a4jV9vVdpWrKsd.&mime_type=video_mp4&rc=NjdoZjs7OmVlN2U6Ojo0OUBpanR3bG05cnN2ZDMzbzczNUBhYWI2Y18zNmExNF4xYTMtYSNmbm1gMmRzZl9hLS1kMTFzcw%3D%3D&expire=1790216272&l=20260922021719C8A852DCB59E233B788B&ply_type=2&policy=2&signature=19f55d2d2c58b6fd0e9392c6ee02bf7a&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/o0AiFEoqkizQCR5ESlYfBiHlKB7aZeIzaJdPLg/?a=1988&bti=ODszNWYuMDE6&&bt=628&ft=aEeq8qT0mIoPD12Hfl2I3wUo.BAbMeF~O5&mime_type=video_mp4&rc=NjdoZjs7OmVlN2U6Ojo0OUBpanR3bG05cnN2ZDMzbzczNUBhYWI2Y18zNmExNF4xYTMtYSNmbm1gMmRzZl9hLS1kMTFzcw%3D%3D&expire=1790217168&l=2026092202321580B0A0C3A506212990AC&ply_type=2&policy=2&signature=6c14760953d081628a11277134651c9d&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:20.064165",
+    "extracted_at": "2026-09-22T02:32:16.132050",
     "row": 113
   },
   {
@@ -6835,10 +6835,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oUi6yl8iCSptKdaBIZMY79vQ5XEBQZBW0pEkA/?a=1988&bti=ODszNWYuMDE6&&bt=588&ft=aEeq8qT0mIoPD12qZl2I3wUm0_AbMeF~O5&mime_type=video_mp4&rc=Z2c3OmU5OzRnaTc4NjU4OUBpM2o5PHM5cnU3ZDMzbzczNUBhMi1fNDRiX18xNTFeNDUvYSMzbjJyMmRraV9hLS1kMTFzcw%3D%3D&expire=1790216273&l=20260922021720FDE2859CF4DDB23B9EB9&ply_type=2&policy=2&signature=57beb1b06a2dc09f817738680ad4fe2f&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oUi6yl8iCSptKdaBIZMY79vQ5XEBQZBW0pEkA/?a=1988&bti=ODszNWYuMDE6&&bt=588&ft=4KJMyMzm8Zmo06wO0a4jVlSeQpWrKsd.&mime_type=video_mp4&rc=Z2c3OmU5OzRnaTc4NjU4OUBpM2o5PHM5cnU3ZDMzbzczNUBhMi1fNDRiX18xNTFeNDUvYSMzbjJyMmRraV9hLS1kMTFzcw%3D%3D&expire=1790217169&l=20260922023216F1D508703C1A2E3A1068&ply_type=2&policy=2&signature=b8c06f4fa593b27b9e717badb506bdca&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:21.333794",
+    "extracted_at": "2026-09-22T02:32:17.111031",
     "row": 114
   },
   {
@@ -6851,10 +6851,10 @@
     "language": "",
     "duration": "55s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oM7VagglfAIl0ACtQDRqdYBluEFkFE4EaRFErf/?a=1988&bti=ODszNWYuMDE6&&bt=866&ft=aEeq8qT0mIoPD12TZl2I3wUI0zAbMeF~O5&mime_type=video_mp4&rc=NDlpMzc3NjM7PGc6aTc6NkBpajNmOnk5cjlrZDMzbzczNUBhYS1hYmAzXjExLjI2XjViYSNmNmNhMmRrLV5hLS1kMTFzcw%3D%3D&expire=1790216300&l=20260922021724850EC723FBC9ED4129D0&ply_type=2&policy=2&signature=6dd1206978319f89ade250781aad1ef3&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oM7VagglfAIl0ACtQDRqdYBluEFkFE4EaRFErf/?a=1988&bti=ODszNWYuMDE6&&bt=866&ft=4KJMyMzm8Zmo0XwO0a4jV8BhQpWrKsd.&mime_type=video_mp4&rc=NDlpMzc3NjM7PGc6aTc6NkBpajNmOnk5cjlrZDMzbzczNUBhYS1hYmAzXjExLjI2XjViYSNmNmNhMmRrLV5hLS1kMTFzcw%3D%3D&expire=1790217194&l=20260922023219E0C592DC73246B2DE5D1&ply_type=2&policy=2&signature=2181c0f602403ecce826b79610c04995&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:25.670459",
+    "extracted_at": "2026-09-22T02:32:20.014311",
     "row": 118
   },
   {
@@ -6867,10 +6867,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/ogdOFjfBkIzdRTqEA14Talz8XBHApiJhiQCfEg/?a=1988&bti=ODszNWYuMDE6&&bt=625&ft=aEeq8qT0mIoPD12hZl2I3wUIvRAbMeF~O5&mime_type=video_mp4&rc=ODo6ZmdkaWk3NzszNGY0NEBpam1nNm05cnl2ZDMzbzczNUAvY15jNmAvXy8xNi1eMTNiYSM2NGgtMmRzMV9hLS1kMTFzcw%3D%3D&expire=1790216279&l=20260922021726FBA3FB75532A6B4265B4&ply_type=2&policy=2&signature=fff33d1cffb45f521ea0d87ed5467ab7&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/ogdOFjfBkIzdRTqEA14Talz8XBHApiJhiQCfEg/?a=1988&bti=ODszNWYuMDE6&&bt=625&ft=aEeq8qT0mIoPD12Tfl2I3wU9LBAbMeF~O5&mime_type=video_mp4&rc=ODo6ZmdkaWk3NzszNGY0NEBpam1nNm05cnl2ZDMzbzczNUAvY15jNmAvXy8xNi1eMTNiYSM2NGgtMmRzMV9hLS1kMTFzcw%3D%3D&expire=1790217174&l=20260922023220588510BF7D4FC42A5C86&ply_type=2&policy=2&signature=2a983b9a386c29c77b742471777d6338&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:27.104426",
+    "extracted_at": "2026-09-22T02:32:21.672800",
     "row": 120
   },
   {
@@ -7001,10 +7001,10 @@
     "language": "",
     "duration": "76s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oMiVE5Ea5CiczlBgBgfui9AUQeITHGJTBNmqNC/?a=1988&bti=ODszNWYuMDE6&&bt=726&ft=aEeq8qT0mIoPD12nZl2I3wUWV4AbMeF~O5&mime_type=video_mp4&rc=NjxoOTs4Ojk2ZmhoNmk3Z0BpM21scXM5cjxnZDMzODgzNEBgYDQtYi0tXjAxLmAzY19eYSNrLS1yMmRzcmBhLS1kLzFzcw%3D%3D&expire=1790216320&l=202609220217235B47C4227C3B5B42ACFE&ply_type=2&policy=2&signature=03f633d32ddfc659f77f3615fb3d5066&tk=tt_chain_token&btag=e00090000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oMiVE5Ea5CiczlBgBgfui9AUQeITHGJTBNmqNC/?a=1988&bti=ODszNWYuMDE6&&bt=726&ft=4KJMyMzm8Zmo0XwO0a4jVwtkQpWrKsd.&mime_type=video_mp4&rc=NjxoOTs4Ojk2ZmhoNmk3Z0BpM21scXM5cjxnZDMzODgzNEBgYDQtYi0tXjAxLmAzY19eYSNrLS1yMmRzcmBhLS1kLzFzcw%3D%3D&expire=1790217215&l=202609220232187219827B93008F3931D4&ply_type=2&policy=2&signature=78ec8f3ba621d4a7ea708fefe867c426&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:24.714214",
+    "extracted_at": "2026-09-22T02:32:19.281860",
     "row": 117
   },
   {
@@ -7401,10 +7401,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oEvki0qEufQiMEWVA8gIjd9FufENfsIILDcDAg/?a=1988&bti=ODszNWYuMDE6&&bt=562&ft=aEeq8qT0mIoPD12rZl2I3wUQ8zAbMeF~O5&mime_type=video_mp4&rc=NWdoM2c1MzhoO2lmN2VmZ0BpM2s8OnE5cnFxZDMzbzczNUAuMWBiMS5fNTExXmJfNS9eYSM0LWpzMmRzXmBhLS1kMTFzcw%3D%3D&expire=1790216284&l=20260922021731C4B91044CA31783C3D01&ply_type=2&policy=2&signature=e9496c0d877d8db8f5297021b92765e0&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oEvki0qEufQiMEWVA8gIjd9FufENfsIILDcDAg/?a=1988&bti=ODszNWYuMDE6&&bt=562&ft=aEeq8qT0mIoPD12Xfl2I3wUeLJAbMeF~O5&mime_type=video_mp4&rc=NWdoM2c1MzhoO2lmN2VmZ0BpM2s8OnE5cnFxZDMzbzczNUAuMWBiMS5fNTExXmJfNS9eYSM0LWpzMmRzXmBhLS1kMTFzcw%3D%3D&expire=1790217176&l=2026092202322335248E7F2861F92E5889&ply_type=2&policy=2&signature=d670ad86bf6c72ec168a0942d2ec5971&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:32.101772",
+    "extracted_at": "2026-09-22T02:32:23.769852",
     "row": 123
   },
   {
@@ -10098,7 +10098,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7678648881973939469: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:20.863870",
+    "extracted_at": "2026-09-22T02:31:30.569873",
     "row": 26
   },
   {
@@ -10114,7 +10114,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7675680466409655566: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:09.347085",
+    "extracted_at": "2026-09-22T02:31:25.330254",
     "row": 19
   },
   {
@@ -10130,7 +10130,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7676090169539317006: Your IP address is blocked from accessing this post",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:01.854855",
+    "extracted_at": "2026-09-22T02:31:20.456849",
     "row": 11
   },
   {
@@ -10146,7 +10146,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7677930733985369358: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:59.139059",
+    "extracted_at": "2026-09-22T02:32:00.102077",
     "row": 79
   },
   {
@@ -10162,7 +10162,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7677213163326065934: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:15.116452",
+    "extracted_at": "2026-09-22T02:31:28.819413",
     "row": 24
   },
   {
@@ -10258,7 +10258,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7676449402856246542: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:11.931324",
+    "extracted_at": "2026-09-22T02:31:27.441277",
     "row": 22
   },
   {
@@ -10313,16 +10313,16 @@
     "video_id": "7676015445723401503",
     "url": "https://www.tiktok.com/@anker_uk/video/7676015445723401503?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7676015445723401503",
+    "description": "Ashamed to wear sandals because of this? 🩴 We’ve been there. This cha...",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
     "translated_text": "",
     "language": "",
-    "duration": "",
+    "duration": "130s",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7676015445723401503: Your IP address is blocked from accessing this post",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-pve-0068-tx2/oIOdIqiBuOfib76Qs11GCBwEAPiVXIAQpZA5lA/?a=1988&bti=ODszNWYuMDE6&&bt=984&ft=4KJMyMzm8Zmo09wO0a4jVlBhQpWrKsd.&mime_type=video_mp4&rc=OTdlOjg2NDtmNDo4aWVoZkBpMzQ4OHU5cmZkZDMzaTczNEAuMGBiYF9hNmMxYWNjY19gYSNsanE0MmRzcTBhLS1kMTJzcw%3D%3D&expire=1790217252&l=202609220232026673627E4A849A2EC236&ply_type=2&policy=2&signature=17bf29ed9c93ac232fc626dbf61a7c91&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:02.389497",
+    "extracted_at": "2026-09-22T02:32:03.059524",
     "row": 85
   },
   {
@@ -10898,7 +10898,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7682768342599470350: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:00.575938",
+    "extracted_at": "2026-09-22T02:31:19.077214",
     "row": 9
   },
   {
@@ -10914,23 +10914,23 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7683528572618722590: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:13.632340",
+    "extracted_at": "2026-09-22T02:31:28.132430",
     "row": 23
   },
   {
     "video_id": "7681989810281663775",
     "url": "https://www.tiktok.com/@anker_uk/video/7681989810281663775?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7681989810281663775",
+    "description": "If you also have hemorrhoids problems, try this small blue tube. It w...",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
     "translated_text": "",
     "language": "",
-    "duration": "",
+    "duration": "70s",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7681989810281663775: Your IP address is blocked from accessing this post",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-pve-0068-tx2/owZKgqIGCweIz0eAIV90IBwROcLePjANLBCuTA/?a=1988&bti=ODszNWYuMDE6&&bt=816&ft=4KJMyMzm8Zmo0xwO0a4jVSWuQpWrKsd.&mime_type=video_mp4&rc=aTQ8ZDU1ZzU4OTk1ZmU4N0BpM2plM3c5cmp4ZDMzaTczNEBfMTUvMWMyNi0xMTNjLTMwYSNibXIzMmQ0ZmFhLS1kMTJzcw%3D%3D&expire=1790217164&l=202609220231343AC585A93189AA2D0510&ply_type=2&policy=2&signature=60297a13fa41dc26c46bfb10b5739cb6&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:26.066317",
+    "extracted_at": "2026-09-22T02:31:35.274301",
     "row": 32
   },
   {
@@ -10946,7 +10946,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7683478754890370318: Your IP address is blocked from accessing this post",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:26.740017",
+    "extracted_at": "2026-09-22T02:31:35.909742",
     "row": 33
   },
   {
@@ -10994,7 +10994,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7681269185799834894: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:35.037370",
+    "extracted_at": "2026-09-22T02:31:42.733818",
     "row": 46
   },
   {
@@ -11010,7 +11010,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7683047829379583263: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:24.820262",
+    "extracted_at": "2026-09-22T02:31:34.347350",
     "row": 31
   },
   {
@@ -11042,7 +11042,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7682022534123883789: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:49.750313",
+    "extracted_at": "2026-09-22T02:31:53.924540",
     "row": 66
   },
   {
@@ -11058,7 +11058,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7682726104112581918: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:30.777558",
+    "extracted_at": "2026-09-22T02:31:40.115685",
     "row": 41
   },
   {
@@ -11074,7 +11074,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7682000359279168782: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:51.248913",
+    "extracted_at": "2026-09-22T02:31:55.450547",
     "row": 68
   },
   {
@@ -11090,7 +11090,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7683918000159771917: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:01.252957",
+    "extracted_at": "2026-09-22T02:32:02.210312",
     "row": 84
   },
   {
@@ -11106,23 +11106,23 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7684282279811665166: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:52.854874",
+    "extracted_at": "2026-09-22T02:31:56.761491",
     "row": 72
   },
   {
     "video_id": "7684222552117382431",
     "url": "https://www.tiktok.com/@anker_uk/video/7684222552117382431?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7684222552117382431",
+    "description": "If you also have hemorrhoids problems, try this small blue tube. It w...",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
     "translated_text": "",
     "language": "",
-    "duration": "",
+    "duration": "119s",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7684222552117382431: Your IP address is blocked from accessing this post",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/oAgtjE0fjVETdqI2CcDJTeF6sMWRAAhQOe7XII/?a=1988&bti=ODszNWYuMDE6&&bt=810&ft=aEeq8qT0mIoPD12Ofl2I3wUda5AbMeF~O5&mime_type=video_mp4&rc=OmRoNDRpOmg2NTNnNmg6PEBpM3Bybmo5cjR3ZDMzaTczNEA1Xi0tYDJjXmAxYWJfX19hYSNxZ2FnMmQ0Y2VhLS1kMTJzcw%3D%3D&expire=1790217216&l=202609220231371C594BD7A5F05E2D848D&ply_type=2&policy=2&signature=3a9770003a5864bfaac3c907be96d7e3&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:28.673242",
+    "extracted_at": "2026-09-22T02:31:38.009161",
     "row": 36
   },
   {
@@ -11496,7 +11496,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7684277265189915935: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:40.260059",
+    "extracted_at": "2026-09-22T02:31:47.377850",
     "row": 53
   },
   {
@@ -11539,10 +11539,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oU6EAogl4FmIABkdMqxXR4gF8EQ2fFCDIHnZwe/?a=1988&bti=ODszNWYuMDE6&&bt=677&ft=aEeq8qT0mIoPD12aZl2I3wU0j_AbMeF~O5&mime_type=video_mp4&rc=OzRkN2VlaGY2Z2U7NDw0O0BpMzRzM3I5cjh0ZDMzbzczNUBjYmAxXi40XzYxX180MGIzYSMvMy1yMmRzcmVhLS1kMTFzcw%3D%3D&expire=1790216267&l=202609220217139AB3775C33D62F42DAA9&ply_type=2&policy=2&signature=4ade91c32702e2cd97b45af710baae27&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oU6EAogl4FmIABkdMqxXR4gF8EQ2fFCDIHnZwe/?a=1988&bti=ODszNWYuMDE6&&bt=677&ft=aEeq8qT0mIoPD12Cfl2I3wUYhBAbMeF~O5&mime_type=video_mp4&rc=OzRkN2VlaGY2Z2U7NDw0O0BpMzRzM3I5cjh0ZDMzbzczNUBjYmAxXi40XzYxX180MGIzYSMvMy1yMmRzcmVhLS1kMTFzcw%3D%3D&expire=1790217164&l=20260922023211A8DA9F8F5C93C428DC51&ply_type=2&policy=2&signature=8f7ba7adbff5c0a73d011cded3c67f3e&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:14.132927",
+    "extracted_at": "2026-09-22T02:32:11.659878",
     "row": 107
   },
   {
@@ -11555,10 +11555,10 @@
     "language": "",
     "duration": "53s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oc7Q9EK9YPVAey8oVoQoCXLIjDIMeADoKI864f/?a=1988&bti=ODszNWYuMDE6&&bt=1665&ft=aEeq8qT0mIoPD12PZl2I3wUdIgAbMeF~O5&mime_type=video_mp4&rc=O2Y1OTQ6NGVoaDg1ZjVoZEBpM2lkc3M5cnl4ZDMzODczNEBeYjIwYDBhNjExL2JgLTItYSNzcF5zMmRrZF9hLS1kMTFzcw%3D%3D&expire=1790216289&l=202609220217153E47D8472C04FF3C17D3&ply_type=2&policy=2&signature=3e156719ba32a8d2aff5dd0ee579ea91&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oc7Q9EK9YPVAey8oVoQoCXLIjDIMeADoKI864f/?a=1988&bti=ODszNWYuMDE6&&bt=1665&ft=4KJMyMzm8Zmo0ZwO0a4jV2WhQpWrKsd.&mime_type=video_mp4&rc=O2Y1OTQ6NGVoaDg1ZjVoZEBpM2lkc3M5cnl4ZDMzODczNEBeYjIwYDBhNjExL2JgLTItYSNzcF5zMmRrZF9hLS1kMTFzcw%3D%3D&expire=1790217185&l=202609220232128B6482EB75C4842E1B4B&ply_type=2&policy=2&signature=48bee8623078258e6fdc370d2d9a1104&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:16.249057",
+    "extracted_at": "2026-09-22T02:32:13.206227",
     "row": 109
   },
   {
@@ -11571,10 +11571,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oIQjIfpfjVEvuILJDQDhSmFhmhDQAAfICrVCEI/?a=1988&bti=ODszNWYuMDE6&&bt=646&ft=aEeq8qT0mIoPD12uZl2I3wURO_AbMeF~O5&mime_type=video_mp4&rc=OWg4ZzM0NmY7ZmQ1aWVoZUBpajY0NXk5cnFqZDMzbzczNUBhNi41NGJeXmIxNWBiLi8xYSNoMi8uMmRzbWRhLS1kMTFzcw%3D%3D&expire=1790216270&l=20260922021717E9CF933495A3EB3C2E10&ply_type=2&policy=2&signature=7d41bc08e4f6dfd2647074ac2cd36911&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oIQjIfpfjVEvuILJDQDhSmFhmhDQAAfICrVCEI/?a=1988&bti=ODszNWYuMDE6&&bt=646&ft=aEeq8qT0mIoPD120fl2I3wUVCBAbMeF~O5&mime_type=video_mp4&rc=OWg4ZzM0NmY7ZmQ1aWVoZUBpajY0NXk5cnFqZDMzbzczNUBhNi41NGJeXmIxNWBiLi8xYSNoMi8uMmRzbWRhLS1kMTFzcw%3D%3D&expire=1790217167&l=202609220232143491354016550E28E299&ply_type=2&policy=2&signature=6c6d7f473d5f4a4ef5a47017776fcc8a&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:18.212700",
+    "extracted_at": "2026-09-22T02:32:14.790072",
     "row": 111
   },
   {
@@ -11587,10 +11587,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oIYcEBi5zBOBUAC6vDigvjIQiBpiaE3QZY9KP/?a=1988&bti=ODszNWYuMDE6&&bt=628&ft=aEeq8qT0mIoPD12XZl2I3wU.C2AbMeF~O5&mime_type=video_mp4&rc=OGloZjs4NzY6OzZpaDY8OUBpM3NmNnQ5cmpxZDMzbzczNUBgMTNjXzU0NmExNi5gNF9eYSM0MGxiMmRrM2NhLS1kMTFzcw%3D%3D&expire=1790216280&l=20260922021727ABD606003FCFF436B45E&ply_type=2&policy=2&signature=977f012b9b1498ba26bfccaf8ed47342&tk=tt_chain_token&btag=e000c8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oIYcEBi5zBOBUAC6vDigvjIQiBpiaE3QZY9KP/?a=1988&bti=ODszNWYuMDE6&&bt=628&ft=4KJMyMzm8Zmo0nwO0a4jVwXjQpWrKsd.&mime_type=video_mp4&rc=OGloZjs4NzY6OzZpaDY8OUBpM3NmNnQ5cmpxZDMzbzczNUBgMTNjXzU0NmExNi5gNF9eYSM0MGxiMmRrM2NhLS1kMTFzcw%3D%3D&expire=1790217175&l=20260922023221BAFD62BE2AD55C29807A&ply_type=2&policy=2&signature=d3bc4fd9ddd4411595b739b14ef43d52&tk=tt_chain_token&btag=e000c8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:27.864978",
+    "extracted_at": "2026-09-22T02:32:22.345140",
     "row": 121
   },
   {
@@ -11603,10 +11603,10 @@
     "language": "",
     "duration": "42s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o0Kg4BfEDgkbqxCUBIBSRZAtIuQDFLEhDmeBCR/?a=1988&bti=ODszNWYuMDE6&&bt=820&ft=aEeq8qT0mIoPD12gZl2I3wUm0_AbMeF~O5&mime_type=video_mp4&rc=Njo7MzQ5OjllZGZlPDo4OEBpanZwZ205cmY0ZDMzODczNEBfLzJfY2IyNS8xMTY0NmM1YSMtbWwtMmRjNjVhLS1kMTFzcw%3D%3D&expire=1790216294&l=20260922021732D7EE7A97C3203036174A&ply_type=2&policy=2&signature=255a761cca1139eca1418377dc275256&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o0Kg4BfEDgkbqxCUBIBSRZAtIuQDFLEhDmeBCR/?a=1988&bti=ODszNWYuMDE6&&bt=820&ft=aEeq8qT0mIoPD12cfl2I3wUg2BAbMeF~O5&mime_type=video_mp4&rc=Njo7MzQ5OjllZGZlPDo4OEBpanZwZ205cmY0ZDMzODczNEBfLzJfY2IyNS8xMTY0NmM1YSMtbWwtMmRjNjVhLS1kMTFzcw%3D%3D&expire=1790217186&l=20260922023223B12FBD076F0C3F2DF18F&ply_type=2&policy=2&signature=36307442a299d04d6a939d7e0b58b99e&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:32.885433",
+    "extracted_at": "2026-09-22T02:32:24.430868",
     "row": 124
   },
   {
@@ -11619,10 +11619,10 @@
     "language": "",
     "duration": "55s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oYIYJDQAIFALII2vsAjfuPeJLjGkLDKI1gnVIf/?a=1988&bti=ODszNWYuMDE6&&bt=751&ft=aEeq8qT0mIoPD12yZl2I3wUpNzAbMeF~O5&mime_type=video_mp4&rc=OGlnODZnM2VpNTtnMzk3OUBpM3lyM3U5cnJ1ZDMzbzczNUBfLzBfLy02NmIxLTU1NWE2YSNmbmZlMmRjNWNhLS1kMTFzcw%3D%3D&expire=1790216308&l=20260922021732A20EBC7FE8D1C33A720F&ply_type=2&policy=2&signature=f6c832e11394bab450d9fa366fc0a4f3&tk=tt_chain_token&btag=e000c8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oYIYJDQAIFALII2vsAjfuPeJLjGkLDKI1gnVIf/?a=1988&bti=ODszNWYuMDE6&&bt=751&ft=aEeq8qT0mIoPD12cfl2I3wUv2JAbMeF~O5&mime_type=video_mp4&rc=OGlnODZnM2VpNTtnMzk3OUBpM3lyM3U5cnJ1ZDMzbzczNUBfLzBfLy02NmIxLTU1NWE2YSNmbmZlMmRjNWNhLS1kMTFzcw%3D%3D&expire=1790217199&l=202609220232243649BE2D9E4A662D559E&ply_type=2&policy=2&signature=ae760b0c051c6470923ee4f7a6be104b&tk=tt_chain_token&btag=e000c8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:33.536073",
+    "extracted_at": "2026-09-22T02:32:25.116208",
     "row": 125
   },
   {
@@ -11670,16 +11670,18 @@
   {
     "video_id": "7681237437758131464",
     "url": "https://www.tiktok.com/@anker_uk/video/7681237437758131464?lang=en&is_copy_url=1&is_from_webapp=v1",
-    "author": "",
-    "description": "",
-    "original_text": "Y te da pena son reír porque tienes los dientes amarillos, tienes que probar esta pasta con tecnología de ensimas, no es la pasta morada que solo maquilla, esta te ayuda a neutralizar el tono amarillento desde adentro, te deja los dientes bonitos, aliento fresco, y no las tima el esmalte, te la dejo en el carrito besitos.",
-    "translated_text": "而你因为牙齿黄而不好意思笑，你一定要尝试一下这款带有enimas技术的膏体，它不是那种只能化妆的紫色膏体，它可以帮助你从内部中和黄色调，让你的牙齿美丽，口气清新，而且不伤害你的牙釉质，我把它放在你的购物车里，亲。",
-    "status": "success",
-    "error_message": "",
-    "video_type": "达人视频",
-    "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:32:29.235587",
-    "row": 54
+    "author": "@anker_uk",
+    "description": "Si quieres blanquearte los dientes, usa esto.#ReseñaHonesta#toothpast...",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
+    "duration": "20s",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oAE5oUhiPidqlkAqLUQlISBuA0FRYAc5TDipa/?a=1988&bti=ODszNWYuMDE6&&bt=1227&ft=4KJMyMzm8Zmo0KwO0a4jVXWkQpWrKsd.&mime_type=video_mp4&rc=OGhmNDs6ODY6O2U3aGRkNEBpM2xkcXM5cnM0ZDMzODgzNEA1NDVhMzVhNjExNi4tYGJiYSNecDE1MmQ0b2FhLS1kLy1zcw%3D%3D&expire=1790217166&l=2026092202322639005A3EBD933B2DF1D1&ply_type=2&policy=2&signature=8832be6c063d8dd851ad2e5fc4e684e7&tk=tt_chain_token&btag=e000b8000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-09-22T02:32:26.485515",
+    "row": 127
   },
   {
     "video_id": "7682277540001533202",
@@ -12970,7 +12972,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685705757685288205: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:15:55.418766",
+    "extracted_at": "2026-09-22T02:31:15.657017",
     "row": 2
   },
   {
@@ -12986,7 +12988,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685697515269655821: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:15:59.018393",
+    "extracted_at": "2026-09-22T02:31:17.645336",
     "row": 6
   },
   {
@@ -13002,7 +13004,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7684392072140393759: Your IP address is blocked from accessing this post",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:01.216455",
+    "extracted_at": "2026-09-22T02:31:19.777463",
     "row": 10
   },
   {
@@ -13018,7 +13020,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685418100178570510: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:05.087888",
+    "extracted_at": "2026-09-22T02:31:23.246256",
     "row": 16
   },
   {
@@ -13034,7 +13036,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685313102757317901: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:10.537651",
+    "extracted_at": "2026-09-22T02:31:26.791302",
     "row": 21
   },
   {
@@ -13050,7 +13052,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685518463514823967: Your IP address is blocked from accessing this post",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:20.146656",
+    "extracted_at": "2026-09-22T02:31:29.630967",
     "row": 25
   },
   {
@@ -13066,7 +13068,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7684966350934052126: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:21.835712",
+    "extracted_at": "2026-09-22T02:31:31.347414",
     "row": 27
   },
   {
@@ -13082,7 +13084,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7675710671903886622: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:23.106931",
+    "extracted_at": "2026-09-22T02:31:32.920253",
     "row": 29
   },
   {
@@ -13098,7 +13100,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685716970041281822: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:24.287093",
+    "extracted_at": "2026-09-22T02:31:33.687650",
     "row": 30
   },
   {
@@ -13114,7 +13116,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7675002382526254349: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:27.300590",
+    "extracted_at": "2026-09-22T02:31:36.547903",
     "row": 34
   },
   {
@@ -13130,7 +13132,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7674970854316313886: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:27.851686",
+    "extracted_at": "2026-09-22T02:31:37.206541",
     "row": 35
   },
   {
@@ -13146,7 +13148,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7686117310846782750: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:29.336802",
+    "extracted_at": "2026-09-22T02:31:38.721025",
     "row": 37
   },
   {
@@ -13162,7 +13164,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7684616885756841230: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:30.016842",
+    "extracted_at": "2026-09-22T02:31:39.390105",
     "row": 39
   },
   {
@@ -13194,7 +13196,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685986991846018317: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:31.545030",
+    "extracted_at": "2026-09-22T02:31:40.697715",
     "row": 42
   },
   {
@@ -13210,7 +13212,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7675068139478060309: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:33.437086",
+    "extracted_at": "2026-09-22T02:31:41.391343",
     "row": 43
   },
   {
@@ -13226,7 +13228,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685706802457103629: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:34.327671",
+    "extracted_at": "2026-09-22T02:31:42.074525",
     "row": 45
   },
   {
@@ -13242,7 +13244,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7675850986946088206: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:36.418655",
+    "extracted_at": "2026-09-22T02:31:44.026054",
     "row": 48
   },
   {
@@ -13255,10 +13257,10 @@
     "language": "",
     "duration": "63s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-pve-0068-tx2/oANGfLCjqGVcCzIJeAKSAdAKQeAnwDIIGEIpAg/?a=1988&bti=ODszNWYuMDE6&&bt=687&ft=aEeq8qT0mIoPD12YZl2I3wU29gAbMeF~O5&mime_type=video_mp4&rc=OTlnNDo0ZDY1PGc0ZGhlZUBpajM5NXk5cmYzZDMzaTczNEA2Mi5gM2FjNTYxMzAtY18yYSMuXl9wMmRzLy9hLS1kMTJzcw%3D%3D&expire=1790216260&l=20260922021636FF81997F59FBDF3BD100&ply_type=2&policy=2&signature=99cca3f8f33a7ce27c8e9db830b093ff&tk=tt_chain_token&btag=e00090000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-pve-0068-tx2/oANGfLCjqGVcCzIJeAKSAdAKQeAnwDIIGEIpAg/?a=1988&bti=ODszNWYuMDE6&&bt=687&ft=aEeq8qT0mIoPD12Mfl2I3wU125AbMeF~O5&mime_type=video_mp4&rc=OTlnNDo0ZDY1PGc0ZGhlZUBpajM5NXk5cmYzZDMzaTczNEA2Mi5gM2FjNTYxMzAtY18yYSMuXl9wMmRzLy9hLS1kMTJzcw%3D%3D&expire=1790217167&l=202609220231440AA68BB4704B0C326D5F&ply_type=2&policy=2&signature=d5e9deb2cce9ac711ede8804a3e20ed8&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:37.212811",
+    "extracted_at": "2026-09-22T02:31:44.815844",
     "row": 49
   },
   {
@@ -13274,7 +13276,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685333276592049439: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:38.038430",
+    "extracted_at": "2026-09-22T02:31:45.453573",
     "row": 50
   },
   {
@@ -13290,7 +13292,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7684872725583711519: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:38.677530",
+    "extracted_at": "2026-09-22T02:31:46.024228",
     "row": 51
   },
   {
@@ -13306,23 +13308,23 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7684390404678028564: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:41.400814",
+    "extracted_at": "2026-09-22T02:31:48.005072",
     "row": 54
   },
   {
     "video_id": "7673833244722335007",
     "url": "https://www.tiktok.com/@anker_uk/video/7673833244722335007?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7673833244722335007",
+    "description": "Sks simple daily routine for fresh breath #coolmake #fyp #teeth #mout...",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
     "translated_text": "",
     "language": "",
-    "duration": "",
+    "duration": "72s",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7673833244722335007: Your IP address is blocked from accessing this post",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c001-tx2/okuCHm8fCBuUFIApI6aejOWDAEcIqHQb89fVEF/?a=1988&bti=ODszNWYuMDE6&&bt=799&ft=aEeq8qT0mIoPD128fl2I3wUEcSAbMeF~O5&mime_type=video_mp4&rc=N2Q7ODxoOzk3aGQ1Ojw1N0BpM2V1Nm45cmloPDMzaTczNEBiYTViYmI1NTMxLTY0Xl4xYSNjM2NzMmQ0cXNhLS1kMTJzcw%3D%3D&expire=1790217180&l=20260922023148F801A1D83A3C652DD130&ply_type=2&policy=2&signature=2cfec12eb6a819537cd7be5ea1cb509b&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:42.523380",
+    "extracted_at": "2026-09-22T02:31:48.733700",
     "row": 55
   },
   {
@@ -13335,10 +13337,10 @@
     "language": "",
     "duration": "128s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c002-tx2/o0AgeF0YUfKtD1WjjfoCtdI6AqEOIzCIWUEGQK/?a=1988&bti=ODszNWYuMDE6&&bt=1117&ft=aEeq8qT0mIoPD124Zl2I3wU8LzAbMeF~O5&mime_type=video_mp4&rc=OWhkPDk7NTdmOjw8aTU0Z0BpamVnb3c5cjlnPDMzaTczNEBjMjM0MTJfXzYxXmFfLmM2YSMvaC0vMmQ0XnNhLS1kMTJzcw%3D%3D&expire=1790216332&l=20260922021642F7E2D8D9A2986E427103&ply_type=2&policy=2&signature=46952ff7853d73502c84b795dd6ee8fc&tk=tt_chain_token&btag=e00090000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c002-tx2/o0AgeF0YUfKtD1WjjfoCtdI6AqEOIzCIWUEGQK/?a=1988&bti=ODszNWYuMDE6&&bt=1117&ft=aEeq8qT0mIoPD12Bfl2I3wUEfJAbMeF~O5&mime_type=video_mp4&rc=OWhkPDk7NTdmOjw8aTU0Z0BpamVnb3c5cjlnPDMzaTczNEBjMjM0MTJfXzYxXmFfLmM2YSMvaC0vMmQ0XnNhLS1kMTJzcw%3D%3D&expire=1790217237&l=20260922023148F090E0848160BA2E50DE&ply_type=2&policy=2&signature=afffddf160f532d4eccad9cdc58026a1&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:44.621722",
+    "extracted_at": "2026-09-22T02:31:49.618026",
     "row": 58
   },
   {
@@ -13354,7 +13356,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7676425272677207327: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:45.310378",
+    "extracted_at": "2026-09-22T02:31:50.270596",
     "row": 60
   },
   {
@@ -13370,7 +13372,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7684249155690040589: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:45.991204",
+    "extracted_at": "2026-09-22T02:31:50.946227",
     "row": 61
   },
   {
@@ -13386,7 +13388,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685717490864770334: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:48.181660",
+    "extracted_at": "2026-09-22T02:31:51.506613",
     "row": 63
   },
   {
@@ -13402,7 +13404,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7686461306366332173: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:50.536959",
+    "extracted_at": "2026-09-22T02:31:54.886343",
     "row": 67
   },
   {
@@ -13418,7 +13420,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685717995028548895: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:52.339160",
+    "extracted_at": "2026-09-22T02:31:56.120322",
     "row": 71
   },
   {
@@ -13450,23 +13452,23 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7671944731747781901: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:54.576801",
+    "extracted_at": "2026-09-22T02:31:57.336781",
     "row": 74
   },
   {
     "video_id": "7686870309344922893",
     "url": "https://www.tiktok.com/@anker_uk/video/7686870309344922893?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "No whitening strips needed!Just a good toothpaste that makes your tee...",
-    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "description": "",
+    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7686870309344922893",
     "translated_text": "",
     "language": "",
-    "duration": "59s",
+    "duration": "",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c001-tx/ocAQuFhDfW1rDlwEjfiCnwIyAkEPHGoEbVw3If/?a=1988&bti=ODszNWYuMDE6&&bt=632&ft=4KJMyMzm8Zmo0wMO0a4jV9vVdpWrKsd.&mime_type=video_mp4&rc=Ozo5ZGQzZzxmZWdnZzllZkBpamdpZnM5cmptZDMzZzczNEA1M14yYWNfXjYxNjUzNV9iYSNzLl9hMmRzc2phLS1kMS9zcw%3D%3D&expire=1790216274&l=2026092202165409F462D2B45F3A4A4271&ply_type=2&policy=2&signature=13fd7f7a24ed2de84b89565ad1b02924&tk=tt_chain_token&btag=e00090000",
+    "error_message": "yt-dlp failed: ERROR: [TikTok] 7686870309344922893: Your IP address is blocked from accessing this post",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:55.313647",
+    "extracted_at": "2026-09-22T02:31:57.886033",
     "row": 75
   },
   {
@@ -13482,7 +13484,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7684596830499360014: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:56.834494",
+    "extracted_at": "2026-09-22T02:31:58.531827",
     "row": 76
   },
   {
@@ -13498,7 +13500,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7674900168097008926: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:57.666972",
+    "extracted_at": "2026-09-22T02:31:59.167752",
     "row": 77
   },
   {
@@ -13527,10 +13529,10 @@
     "language": "",
     "duration": "74s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c001-tx2/oYibjFICIiAfbEKJQ1DA715rqAiHD4RBApmIx4/?a=1988&bti=ODszNWYuMDE6&&bt=557&ft=aEeq8qT0mIoPD12dZl2I3wU9nRAbMeF~O5&mime_type=video_mp4&rc=Zmk4ZGQ8ZmlmNTg7OzM8aUBpajZoeHI5cjczZDMzaTczNEAvYDReNS1eXy8xNWAzNmEzYSNuanBwMmRjNDFhLS1kMTJzcw%3D%3D&expire=1790216293&l=202609220216596F91083A08802F42B6B3&ply_type=2&policy=2&signature=467dc52f984f549db1693ac042a5e217&tk=tt_chain_token&btag=e00090000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c001-tx2/oYibjFICIiAfbEKJQ1DA715rqAiHD4RBApmIx4/?a=1988&bti=ODszNWYuMDE6&&bt=557&ft=aEeq8qT0mIoPD12ifl2I3wU_xBAbMeF~O5&mime_type=video_mp4&rc=Zmk4ZGQ8ZmlmNTg7OzM8aUBpajZoeHI5cjczZDMzaTczNEAvYDReNS1eXy8xNWAzNmEzYSNuanBwMmRjNDFhLS1kMTJzcw%3D%3D&expire=1790217194&l=20260922023200A8DA9F8F5C93C428D8BD&ply_type=2&policy=2&signature=b74bbfbc80479814d87283f0fef99a88&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:16:59.740037",
+    "extracted_at": "2026-09-22T02:32:00.810297",
     "row": 80
   },
   {
@@ -13546,7 +13548,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7684282670750207245: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:00.388213",
+    "extracted_at": "2026-09-22T02:32:01.591148",
     "row": 81
   },
   {
@@ -13594,23 +13596,23 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7674918861229002015: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:05.330315",
+    "extracted_at": "2026-09-22T02:32:04.258297",
     "row": 86
   },
   {
     "video_id": "7674921712567323934",
     "url": "https://www.tiktok.com/@anker_uk/video/7674921712567323934?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7674921712567323934",
+    "description": "Ashamed to wear sandals because of this? 🩴 We’ve been there. This cha...",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
     "translated_text": "",
     "language": "",
-    "duration": "",
+    "duration": "79s",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7674921712567323934: Your IP address is blocked from accessing this post",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-pve-0068-tx2/oEjkeItPAI4ImgqVoZqLIkPBQCfenSHTuAGGIO/?a=1988&bti=ODszNWYuMDE6&&bt=972&ft=aEeq8qT0mIoPD12-fl2I3wUF4CAbMeF~O5&mime_type=video_mp4&rc=Nzo1MzM6ZWU4aGZoNTppaEBpM214dWw5cjhmZDMzaTczNEA1YjE0LWAxXzYxMDAxYWNjYSNeY3AuMmRrbS5hLS1kMTJzcw%3D%3D&expire=1790217205&l=20260922023206DE8D7EBAE9E0252E8EE1&ply_type=2&policy=2&signature=d91db0f200ff1560f5c1911a40361ce2&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:08.557878",
+    "extracted_at": "2026-09-22T02:32:07.185299",
     "row": 91
   },
   {
@@ -13703,10 +13705,10 @@
     "language": "",
     "duration": "56s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/ogIp2QCtqqFaWBVrBfFEgqDiEqARkG3EICf7k3/?a=1988&bti=ODszNWYuMDE6&&bt=419&ft=4KJMyMzm8Zmo0vMO0a4jVZWfdpWrKsd.&mime_type=video_mp4&rc=N2c7ODw6PDw0NTpoOWQ6OEBpajRxNXk5cjtxZDMzbzczNUBeMWMzYzNiNWIxYjVgXmJhYSNqai8uMmRraWlhLS1kMTFzcw%3D%3D&expire=1790216285&l=202609220217094288B3A7DFA43D360394&ply_type=2&policy=2&signature=10402fe634f7c411abe1f780df48097b&tk=tt_chain_token&btag=e000c8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/ogIp2QCtqqFaWBVrBfFEgqDiEqARkG3EICf7k3/?a=1988&bti=ODszNWYuMDE6&&bt=419&ft=aEeq8qT0mIoPD12Ifl2I3wUg2BAbMeF~O5&mime_type=video_mp4&rc=N2c7ODw6PDw0NTpoOWQ6OEBpajRxNXk5cjtxZDMzbzczNUBeMWMzYzNiNWIxYjVgXmJhYSNqai8uMmRraWlhLS1kMTFzcw%3D%3D&expire=1790217184&l=202609220232083491354016550E28E08F&ply_type=2&policy=2&signature=084e3c68787d731985e02487b0dd7bc9&tk=tt_chain_token&btag=e000c8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:10.136480",
+    "extracted_at": "2026-09-22T02:32:08.769471",
     "row": 103
   },
   {
@@ -13719,10 +13721,10 @@
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7685244425534033170: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+    "error_message": "yt-dlp failed: ERROR: [TikTok] 7685244425534033170: Your IP address is blocked from accessing this post",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:11.383339",
+    "extracted_at": "2026-09-22T02:32:09.434619",
     "row": 104
   },
   {
@@ -13735,10 +13737,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oQfCEFAFDIauGRQgdNEp8iE1hukVDfOBk8Gq3n/?a=1988&bti=ODszNWYuMDE6&&bt=596&ft=aEeq8qT0mIoPD12IZl2I3wUdxgAbMeF~O5&mime_type=video_mp4&rc=N2dlNGhkZDM6NjtlZTg4ZkBpM3Z2aHE5cjhvZDMzbzczNUAyLS5hYjItXzMxNDE2MjMzYSNrNHM0MmRjZWdhLS1kMTFzcw%3D%3D&expire=1790216265&l=2026092202171176A6F85FA50551427576&ply_type=2&policy=2&signature=3c97566315284e2b9cbf8be3cff343a3&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oQfCEFAFDIauGRQgdNEp8iE1hukVDfOBk8Gq3n/?a=1988&bti=ODszNWYuMDE6&&bt=596&ft=4KJMyMzm8Zmo0FwO0a4jV4MkQpWrKsd.&mime_type=video_mp4&rc=N2dlNGhkZDM6NjtlZTg4ZkBpM3Z2aHE5cjhvZDMzbzczNUAyLS5hYjItXzMxNDE2MjMzYSNrNHM0MmRjZWdhLS1kMTFzcw%3D%3D&expire=1790217163&l=20260922023209670E5004846C7C3999A9&ply_type=2&policy=2&signature=912212889f3bc82360224243ddd2cb3e&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:12.666245",
+    "extracted_at": "2026-09-22T02:32:10.281837",
     "row": 105
   },
   {
@@ -13751,10 +13753,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c004-tx/ooFJbDLCVExAUSkff6IQTGDqhJcFEDvZBguHmh/?a=1988&bti=ODszNWYuMDE6&&bt=871&ft=aEeq8qT0mIoPD12xZl2I3wUKqcAbMeF~O5&mime_type=video_mp4&rc=OzVlPDk1NTk0OWlnNjs3OEBpM3Vybnk5cnVzZDMzZzgzNEBiNF82XzZeNWMxMjM2LjBfYSNiZmxsMmRzMC9hLS1kLy9zcw%3D%3D&expire=1790216266&l=2026092202171222389D04AB1DF63BC1E5&ply_type=2&policy=2&signature=cbf3b01fb5dab3e8d63df0c48d4c7b25&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c004-tx/ooFJbDLCVExAUSkff6IQTGDqhJcFEDvZBguHmh/?a=1988&bti=ODszNWYuMDE6&&bt=871&ft=aEeq8qT0mIoPD12afl2I3wUo3JAbMeF~O5&mime_type=video_mp4&rc=OzVlPDk1NTk0OWlnNjs3OEBpM3Vybnk5cnVzZDMzZzgzNEBiNF82XzZeNWMxMjM2LjBfYSNiZmxsMmRzMC9hLS1kLy9zcw%3D%3D&expire=1790217163&l=202609220232107219827B93008F392E9B&ply_type=2&policy=2&signature=069f95df7cca454e9477d2e0ded9d49e&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:13.231662",
+    "extracted_at": "2026-09-22T02:32:10.955611",
     "row": 106
   },
   {
@@ -13767,10 +13769,10 @@
     "language": "",
     "duration": "55s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oUrIQTg9cFBEADIc0VjfjbAH9EQufL4DIPI5Me/?a=1988&bti=ODszNWYuMDE6&&bt=549&ft=aEeq8qT0mIoPD12aZl2I3wU29gAbMeF~O5&mime_type=video_mp4&rc=ZGQ5ZWg2aWZpOjczZTQzZUBpM3Y7NWs5cmlvZDMzbzczNUA0NjAtLzJhXy0xXzYwXmNgYSMuLjBrMmRzc2dhLS1kMTFzcw%3D%3D&expire=1790216289&l=20260922021714E37A2759A048EC3C0B61&ply_type=2&policy=2&signature=e5d4081961aa8bf8824325ffbe11095d&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oUrIQTg9cFBEADIc0VjfjbAH9EQufL4DIPI5Me/?a=1988&bti=ODszNWYuMDE6&&bt=549&ft=aEeq8qT0mIoPD12Pfl2I3wUshBAbMeF~O5&mime_type=video_mp4&rc=ZGQ5ZWg2aWZpOjczZTQzZUBpM3Y7NWs5cmlvZDMzbzczNUA0NjAtLzJhXy0xXzYwXmNgYSMuLjBrMmRzc2dhLS1kMTFzcw%3D%3D&expire=1790217187&l=202609220232112D92893F3BF86538B434&ply_type=2&policy=2&signature=986372e0e43ad2d029228d8ec7aea100&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:15.537044",
+    "extracted_at": "2026-09-22T02:32:12.441784",
     "row": 108
   },
   {
@@ -13783,10 +13785,10 @@
     "language": "",
     "duration": "61s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o423oLGRjIDoEITHYYIQXSCAfgNAQgTeTVe0ht/?a=1988&bti=ODszNWYuMDE6&&bt=1285&ft=aEeq8qT0mIoPD12uZl2I3wUP7tAbMeF~O5&mime_type=video_mp4&rc=aTg3ODM8aThlZ2RpNzU7aUBpM2p2d3I5cmp1ZDMzODczNEAyNTQwMTJgNmIxMmFfXi8zYSNxYWMzMmRzMWdhLS1kMTFzcw%3D%3D&expire=1790216298&l=202609220217164474B96E46716E41EF4B&ply_type=2&policy=2&signature=fbbcd3bc0c319ce4c230d24986151e88&tk=tt_chain_token&btag=e000d0000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o423oLGRjIDoEITHYYIQXSCAfgNAQgTeTVe0ht/?a=1988&bti=ODszNWYuMDE6&&bt=1285&ft=aEeq8qT0mIoPD12ufl2I3wURO5AbMeF~O5&mime_type=video_mp4&rc=aTg3ODM8aThlZ2RpNzU7aUBpM2p2d3I5cmp1ZDMzODczNEAyNTQwMTJgNmIxMmFfXi8zYSNxYWMzMmRzMWdhLS1kMTFzcw%3D%3D&expire=1790217194&l=202609220232136ACE8205CC5BE1285B16&ply_type=2&policy=2&signature=45ccdf7e6d3e39b06455d68b572e46e1&tk=tt_chain_token&btag=e000d0000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:17.498076",
+    "extracted_at": "2026-09-22T02:32:14.024263",
     "row": 110
   },
   {
@@ -13799,10 +13801,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oseDgGAs3IMaVWQAfnJ1U6E11eK3Y4RFQEBpe2/?a=1988&bti=ODszNWYuMDE6&&bt=788&ft=aEeq8qT0mIoPD12HZl2I3wUKycAbMeF~O5&mime_type=video_mp4&rc=ZDVoPGQ3OTtpNzM3NTY4ZkBpM2R3eWs5cmV3PDMzODgzNEAxNjZjYWFgXmMxLS0wLWMvYSNja3FpMmRjY25hLS1kLzFzcw%3D%3D&expire=1790216272&l=202609220217186414C93260890F3536FC&ply_type=2&policy=2&signature=fc5af861c42e6e32f8b9c6d5a06b46a3&tk=tt_chain_token&btag=e000c8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oseDgGAs3IMaVWQAfnJ1U6E11eK3Y4RFQEBpe2/?a=1988&bti=ODszNWYuMDE6&&bt=788&ft=aEeq8qT0mIoPD12Hfl2I3wU3k5AbMeF~O5&mime_type=video_mp4&rc=ZDVoPGQ3OTtpNzM3NTY4ZkBpM2R3eWs5cmV3PDMzODgzNEAxNjZjYWFgXmMxLS0wLWMvYSNja3FpMmRjY25hLS1kLzFzcw%3D%3D&expire=1790217168&l=20260922023214C3A97CB20798512DEFE1&ply_type=2&policy=2&signature=7a872883127cb55395c680d0add3ff86&tk=tt_chain_token&btag=e000c8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:19.222284",
+    "extracted_at": "2026-09-22T02:32:15.410295",
     "row": 112
   },
   {
@@ -13815,10 +13817,10 @@
     "language": "",
     "duration": "38s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oUPfDe8MoIdcreVERmuiGV8KqCaAoQtPXQDtEA/?a=1988&bti=ODszNWYuMDE6&&bt=693&ft=4KJMyMzm8Zmo0eMO0a4jVmwCdpWrKsd.&mime_type=video_mp4&rc=ZTVoZ2ZnOWU6OzpoOWk6OkBpM3Z3NnU5cmc4ZDMzODgzNEAzNl9iLzUyNl4xXi80NDMxYSNlcXNpMmRrX2lhLS1kLzFzcw%3D%3D&expire=1790216280&l=202609220217214C4F53DE63160836E1CD&ply_type=2&policy=2&signature=42968087a1bb8e94af532fda2e0bc62a&tk=tt_chain_token&btag=e000c8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oUPfDe8MoIdcreVERmuiGV8KqCaAoQtPXQDtEA/?a=1988&bti=ODszNWYuMDE6&&bt=693&ft=aEeq8qT0mIoPD12Zfl2I3wU7SSAbMeF~O5&mime_type=video_mp4&rc=ZTVoZ2ZnOWU6OzpoOWk6OkBpM3Z3NnU5cmc4ZDMzODgzNEAzNl9iLzUyNl4xXi80NDMxYSNlcXNpMmRrX2lhLS1kLzFzcw%3D%3D&expire=1790217175&l=20260922023217371D938C7AF0752E00E5&ply_type=2&policy=2&signature=b04d49fb3572fe6c55b9b8f5488d3e08&tk=tt_chain_token&btag=e000c8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:22.921950",
+    "extracted_at": "2026-09-22T02:32:17.805878",
     "row": 115
   },
   {
@@ -13831,10 +13833,10 @@
     "language": "",
     "duration": "57s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o0ExzXXiPb3FquAqTVQEIdBCB1q4YA3JkIiqa/?a=1988&bti=ODszNWYuMDE6&&bt=1235&ft=4KJMyMzm8Zmo0XMO0a4jVUXNdpWrKsd.&mime_type=video_mp4&rc=NDhoNTg2NGY8ZDo6OGQ7NUBpandmZ2s5cjxpZDMzODczNEAuNmNjLy80NS0xXmEwMjEzYSNfMW9wMmQ0YmphLS1kMTFzcw%3D%3D&expire=1790216300&l=202609220217235936115E3D17E835D9F3&ply_type=2&policy=2&signature=801ae9bbea7ec8cd93127d19f583fda7&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o0ExzXXiPb3FquAqTVQEIdBCB1q4YA3JkIiqa/?a=1988&bti=ODszNWYuMDE6&&bt=1235&ft=aEeq8qT0mIoPD12kfl2I3wUJSBAbMeF~O5&mime_type=video_mp4&rc=NDhoNTg2NGY8ZDo6OGQ7NUBpandmZ2s5cjxpZDMzODczNEAuNmNjLy80NS0xXmEwMjEzYSNfMW9wMmQ0YmphLS1kMTFzcw%3D%3D&expire=1790217195&l=20260922023218A4A1739FFB452F2DD47F&ply_type=2&policy=2&signature=2ef9dd60149594c5b3e5fde16d0d4738&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:23.571919",
+    "extracted_at": "2026-09-22T02:32:18.516956",
     "row": 116
   },
   {
@@ -13850,23 +13852,23 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7673558008269638933: Your IP address is blocked from accessing this post",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:26.213445",
+    "extracted_at": "2026-09-22T02:32:20.778922",
     "row": 119
   },
   {
     "video_id": "7685626937162698006",
     "url": "https://www.tiktok.com/@anker_uk/video/7685626937162698006?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7685626937162698006",
+    "description": "¿Buscas renovar tu rutina dental? 🪥 AstraGlow con nano hidroxiapatita...",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
     "translated_text": "",
     "language": "",
-    "duration": "",
+    "duration": "56s",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7685626937162698006: Your IP address is blocked from accessing this post",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/owjUDfifIEAIEk6xGQVAFDeoIHjaA0vlCLHFD9/?a=1988&bti=ODszNWYuMDE6&&bt=842&ft=aEeq8qT0mIoPD12hfl2I3wUkKBAbMeF~O5&mime_type=video_mp4&rc=Zzw1NTtpZWkzZTo8ZjY4ZEBpamtocWs5cnlnZDMzbzczNUBgMTAwYl8yNmMxNTA1MGJhYSNmc2QuMmRzNWhhLS1kMTFzcw%3D%3D&expire=1790217198&l=20260922023222E592A9E14B22012DB7EF&ply_type=2&policy=2&signature=800fc0e7bb8a94f29808ed0102578493&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:31.379105",
+    "extracted_at": "2026-09-22T02:32:23.070406",
     "row": 122
   },
   {
@@ -13879,10 +13881,26 @@
     "language": "",
     "duration": "38s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oQDHVErQLEhrUFdC5UofSeDo9PDFBVgstqIKAB/?a=1988&bti=ODszNWYuMDE6&&bt=713&ft=aEeq8qT0mIoPD12tZl2I3wUU~gAbMeF~O5&mime_type=video_mp4&rc=OTplZjY5OjlkOWZnOzY1M0BpanNyM285cm9kZDMzODgzNEBgMTZfMDNiXzMxMjMyYDM2YSMvc3NvMmQ0MmphLS1kLzFzcw%3D%3D&expire=1790216292&l=20260922021733FD0562021E86EA42B3F6&ply_type=2&policy=2&signature=4a97b2ea4ed7dc3e364d858a09fe6772&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oQDHVErQLEhrUFdC5UofSeDo9PDFBVgstqIKAB/?a=1988&bti=ODszNWYuMDE6&&bt=713&ft=4KJMyMzm8Zmo01wO0a4jVlJhQpWrKsd.&mime_type=video_mp4&rc=OTplZjY5OjlkOWZnOzY1M0BpanNyM285cm9kZDMzODgzNEBgMTZfMDNiXzMxMjMyYDM2YSMvc3NvMmQ0MmphLS1kLzFzcw%3D%3D&expire=1790217183&l=202609220232251E1433ECEDD9FB29E2D6&ply_type=2&policy=2&signature=af144b9b93891aff3578c4fe4902d975&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:17:34.233013",
+    "extracted_at": "2026-09-22T02:32:25.829378",
     "row": 126
+  },
+  {
+    "video_id": "7675186922846801173",
+    "url": "https://www.tiktok.com/@anker_uk/video/7675186922846801173?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "Si buscas unas que sí funcionen y no te duelan, estas son.#blanqueami...",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
+    "duration": "9s",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-ve-4863-sg/oYiBEcSfd5yIrMverkQ1qQi7woKBhugBES0bFB/?a=1988&bti=ODszNWYuMDE6&&bt=1425&ft=aEeq8qT0mIoPD12rfl2I3wUu4SAbMeF~O5&mime_type=video_mp4&rc=OGZpPDo7ZjRoZWQ0MzNmaEBpM2xnO245cm91ZDQzOGk1NEAzXy9jMjFjXzIxMzReXmAvYSNsMmFpMmRzby5hLS1kY2Bzcw%3D%3D&expire=1790217156&l=20260922023226B01662154A01DB2E78AC&ply_type=2&policy=2&signature=94cbfb28c9a6154b2316bfd9a9fdad3b&tk=tt_chain_token&btag=e000b0000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-09-22T02:32:27.273120",
+    "row": 128
   }
 ]
