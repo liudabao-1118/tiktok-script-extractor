@@ -5042,7 +5042,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:51:06.996544",
+    "extracted_at": "2026-09-22T03:01:23.003407",
     "row": 4
   },
   {
@@ -5074,7 +5074,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:51:10.698073",
+    "extracted_at": "2026-09-22T03:01:27.118167",
     "row": 5
   },
   {
@@ -5090,7 +5090,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:51:34.228118",
+    "extracted_at": "2026-09-22T03:01:48.668924",
     "row": 12
   },
   {
@@ -5106,7 +5106,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:51:38.238623",
+    "extracted_at": "2026-09-22T03:01:52.540493",
     "row": 13
   },
   {
@@ -5122,7 +5122,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:51:42.275278",
+    "extracted_at": "2026-09-22T03:01:56.003081",
     "row": 15
   },
   {
@@ -5154,7 +5154,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:51:49.661509",
+    "extracted_at": "2026-09-22T03:02:03.466514",
     "row": 17
   },
   {
@@ -5186,7 +5186,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:51:53.313902",
+    "extracted_at": "2026-09-22T03:02:06.885760",
     "row": 18
   },
   {
@@ -5202,7 +5202,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:52:32.470124",
+    "extracted_at": "2026-09-22T03:02:43.273551",
     "row": 28
   },
   {
@@ -5266,7 +5266,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:53:39.238067",
+    "extracted_at": "2026-09-22T03:03:50.822469",
     "row": 52
   },
   {
@@ -5330,7 +5330,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:54:10.300354",
+    "extracted_at": "2026-09-22T03:04:21.341323",
     "row": 64
   },
   {
@@ -5346,7 +5346,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:54:14.008036",
+    "extracted_at": "2026-09-22T03:04:24.716413",
     "row": 65
   },
   {
@@ -5410,7 +5410,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:55:04.357542",
+    "extracted_at": "2026-09-22T03:05:20.421812",
     "row": 87
   },
   {
@@ -5426,7 +5426,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:55:07.996044",
+    "extracted_at": "2026-09-22T03:05:23.638929",
     "row": 88
   },
   {
@@ -5490,7 +5490,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:52:00.954405",
+    "extracted_at": "2026-09-22T03:02:14.229026",
     "row": 20
   },
   {
@@ -5762,7 +5762,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:53:23.980845",
+    "extracted_at": "2026-09-22T03:03:35.235345",
     "row": 47
   },
   {
@@ -6062,7 +6062,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:51:19.010032",
+    "extracted_at": "2026-09-22T03:01:34.485381",
     "row": 7
   },
   {
@@ -6582,7 +6582,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:55:11.711425",
+    "extracted_at": "2026-09-22T03:05:27.275098",
     "row": 89
   },
   {
@@ -7020,30 +7020,34 @@
   {
     "video_id": "7680827736658627862",
     "url": "https://www.tiktok.com/@anker_uk/video/7680827736658627862?lang=en&is_copy_url=1&is_from_webapp=v1",
-    "author": "",
-    "description": "",
-    "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentistas nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad. vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto. Pasta dental con hidróxia patita de astraglo. Reconstruye tu microbioma oral, rellena huecos, y hasta revierte carias y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clica en la cella mientras siguen descuento.",
-    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是披萨，真的。它们再次直接从日本生长。这种革命性的东西让牙齿自然形成。看看这个。用黄芪牙膏足缺氧。重建您的口腔微生物组、填补空白，甚至逆转蛀牙和敏感性。这简直是​​打在牙医脸上的一记耳光。所以，你还在等什么，趁折扣还在继续，点击cella吧。",
+    "author": "@anker_uk",
+    "description": "Descubre AstraGlow con nano hidroxiapatita. Una fórmula para el cuidado diario del esmalte que deja una agradable sensación de limpieza y frescura. 🦷 #AstraGlow #NanoHidroxiapatita #CuidadoDelEsmalte #HigieneDental #TikTokShop ",
+    "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentistas nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad, vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto, basta dental con hidróxia patita de astra globo. Reconstruye tu microbioma oral, rellena huecos y hasta revierte carias y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clica en la cella mientras siguen descuento.",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，用气球阿斯特拉腿缺氧足够的牙科。重建您的口腔微生物组，填补空白，甚至逆转蛀牙和敏感性。这简直是​​打在牙医脸上的一记耳光。所以，你还在等什么，趁折扣还在继续，点击cella吧。",
+    "language": "es",
+    "duration": "33s",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-08T07:16:25.637564",
-    "row": 19
+    "extracted_at": "2026-09-22T03:06:36.889229",
+    "row": 163
   },
   {
     "video_id": "7681300379044187414",
     "url": "https://www.tiktok.com/@anker_uk/video/7681300379044187414?lang=en&is_copy_url=1&is_from_webapp=v1",
-    "author": "",
-    "description": "",
-    "original_text": "Si por accidente, justas esta pasta, podrías notar que tus dientes comienzan a regenerarse. No es proma. Realmente pueden volver a crecer. Este producto revolucionario fue desarrollado en Japón y ayuda a estimular el crecimiento dental de forma natural. Es una pasta con extracto verbal de agave, capaz de restaurar el equilibrio de tu microbioma vocal, rellenar grietas y pequeños huecos en los dientes. E incluso, revertir problemas de sensibilidad de carias. Esta tecnología ha sorprendido a muchos dentistas. Entonces, que esperas aprovecha el descuento y da la clica enlace antes de que sea gote.",
-    "translated_text": "如果您不小心使用了这种糊剂，您可能会发现您的牙齿开始再生。这不是普罗玛。他们真的可以重新长出来。这种革命性的产品是在日本开发的，有助于刺激牙齿自然生长。它是一种含有言语龙舌兰提取物的糊剂，能够恢复声音微生物群的平衡，填充牙齿的裂缝和小缝隙。甚至可以逆转牙齿敏感问题。这项技术让许多牙医感到惊讶。那么，您还在等什么，利用折扣并在折扣消失之前点击链接。",
+    "author": "@anker_uk",
+    "description": "Descubre AstraGlow con nano hidroxiapatita. Una fórmula para el cuidado diario del esmalte que deja una agradable sensación de limpieza y frescura. 🦷 #AstraGlow #NanoHidroxiapatita #CuidadoDelEsmalte #HigieneDental #TikTokShop ",
+    "original_text": "Si por accidente, justa se está pasta, podrías notar que tus dientes comienzan a regenerarse. No es proma. Realmente pueden volver a crecer. Este producto revolucionario fue desarrollado en Japón, y ayuda a estimular el crecimiento dental de forma natural. Es una pasta con extracto verbal de agave, capaz de restaurar el equilibrio de tu microbioma bucal, rellenar grietas y pequeños huecos en los dientes, e incluso revertir problemas de sensibilidad de carias. Esta tecnología ha sorprendido a muchos dentistas. Entonces, que esperas aprovecha el descuento y dale clic al enlace antes de que se agote.",
+    "translated_text": "如果您不小心只使用牙膏，您可能会注意到您的牙齿开始再生。这不是普罗玛。他们真的可以重新长出来。这种革命性的产品是在日本开发的，有助于刺激牙齿自然生长。它是一种含有龙舌兰提取物的糊剂，能够恢复口腔微生物群的平衡，填充牙齿的裂缝和小缝隙，甚至逆转牙齿敏感问题。这项技术让许多牙医感到惊讶。那么您还在等什么，利用折扣并在折扣用完之前点击链接。",
+    "language": "es",
+    "duration": "34s",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-08T07:16:27.712757",
-    "row": 20
+    "extracted_at": "2026-09-22T03:06:44.250561",
+    "row": 164
   },
   {
     "video_id": "7679773045388512529",
@@ -7078,30 +7082,34 @@
   {
     "video_id": "7680411482948963606",
     "url": "https://www.tiktok.com/@anker_uk/video/7680411482948963606?lang=en&is_copy_url=1&is_from_webapp=v1",
-    "author": "",
-    "description": "",
-    "original_text": "Mi amigo, quizás la ciencia no puede explicar este fenómeno. Si el aliento de tu esposa es muy malo, quiere besarte, sus dientes están amarillos y su aliento huele a ese, ir al dentista es muy caro. La solución efectiva y económica está en el carrito de compras naranja en la esquina inferior izquierda. Si tus dientes están así, no lo aguantes, es el saro el que está causando el malo lor. Entonces, tira tu pasta de dientes común. Sólo necesitas se pillarte durante 3 minutos, y verifica, si te va bien, tu boca también olerá bien, y la gente que es hablar contigo. Si tienes problemas dentales, prueba esta pasta de dientes. Después tener una boca fresca es maravilloso. Esta empresa promete que si no funciona, te devolverán todo tu dinero. Ahora hay un 50% de descuento, es una oferta excelente. Recuerda decirme cómo te va, que Dios te vendiga y te cuide.",
-    "translated_text": "我的朋友，也许科学无法解释这种现象。如果你妻子的口气很臭，她想吻你，她的牙齿很黄，而且她的口气有股臭味，那么去看牙医会很贵。有效且廉价的解决方案位于左下角的橙色购物车中。如果你的牙齿是这样的，那就别忍受了，是牙垢造成了难闻的气味。所以，扔掉你常用的牙膏。你只需要抓住自己3分钟，然后检查一下，如果顺利的话，你的嘴也会闻起来很香，和你说话的人也会闻起来很香。如果您有牙齿问题，请尝试这款牙膏。之后拥有清新的口腔真是太棒了。该公司承诺，如果不起作用，他们将退还您所有的钱。现在有50%的折扣，真是超值优惠。记得告诉我你过得怎么样，愿上帝保佑你并照顾你。",
+    "author": "@anker_uk",
+    "description": "Tu sonrisa merece una buena rutina. 🦷✨ AstraGlow con nano hidroxiapatita combina limpieza, frescura y cuidado diario en una pasta dental fácil de incorporar a tu día. #AstraGlow #Sonrisa #RutinaDental #CuidadoDental #TikTokMexico ",
+    "original_text": "Mi amigo, quizás la ciencia no puede explicar este fenómeno. Si el aliento de tu esposa es muy malo, quiere besarte, sus dientes están amarillos y su aliento huele a ese, ir al dentista es muy caro. La solución efectiva y económica está en el carrito de compras naranja en la esquina inferior izquierda. Si tus dientes están así, no lo aguantes, es el saro el que está causando el malo lor. Entonces, tira tu pasta de dientes común. Sólo necesitas se pillarte durante tres minutos. Y verifica, si te va bien, tu boca también olerá bien y la gente que rablar contigo. Si tienes problemas dentales, prueba esta pasta de dientes. Después tener una boca fresca es maravilloso. Esta empresa promete que si no funciona, te devolverán todo tu dinero. Ahora, hay un 50% de descuento, es una oferta excelente. Recuerda decirme cómo te va, que Dios te vendiga y te cuide.",
+    "translated_text": "我的朋友，也许科学无法解释这种现象。如果你妻子的口气很臭，她想吻你，她的牙齿很黄，而且她的口气有股臭味，那么去看牙医会很贵。有效且廉价的解决方案位于左下角的橙色购物车中。如果你的牙齿是这样的，那就别忍受了，是牙垢造成了难闻的气味。所以，扔掉你常用的牙膏。你只需要控制住自己三分钟。检查一下，如果进展顺利，你的嘴也会闻起来很香，人们也会和你说话。如果您有牙齿问题，请尝试这款牙膏。之后拥有清新的口腔真是太棒了。该公司承诺，如果不起作用，他们将退还您所有的钱。现在有50%的折扣，非常优惠。记得告诉我你过得怎么样，愿上帝保佑你并照顾你。",
+    "language": "es",
+    "duration": "44s",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-08T07:16:33.036773",
-    "row": 22
+    "extracted_at": "2026-09-22T03:06:56.751783",
+    "row": 166
   },
   {
     "video_id": "7680125427565825298",
     "url": "https://www.tiktok.com/@anker_uk/video/7680125427565825298?lang=en&is_copy_url=1&is_from_webapp=v1",
-    "author": "",
-    "description": "",
-    "original_text": "Si te gusta tener los blanquitos, esto es lo que debes usar. E que onda, hoy ando el esengo a recomendar muchísimo esta pasta dental, que neta está súper chida, es buenísima para blanquer los dientes para fortalecerlos y sobre todo para mejorar también muchísimo lo que es tu aliento. La notés que viene súper buena, ahorita tiene mucho descuento y promoción y la pides aquí en el capítulo de la Naja que aparece justo a arriba de mi nombre. Nos vemos.",
-    "translated_text": "如果您喜欢白色的，那么您应该使用这个。怎么样，今天我在这里强烈推荐这款牙膏，真的超级酷，非常适合美白牙齿，强化牙齿，最重要的是还能大大改善口气。你注意到它非常好，现在它有很多折扣和促销，你可以在我名字上方的 Naja 章节中订购它。再见。",
+    "author": "@anker_uk",
+    "description": "Pasta dental morada#tiktokshop#dientesblancos#dientes#honestreview ",
+    "original_text": "Si te gusta tener los blanquitos, esto es lo que debes usar. E que onda, hoy and hoy les tengo a recomendar muchísimo esta pasta dental, que neta esta superchida es buenísima para arrancar los dientes para fortalecerlos y sobre todo para mejorar también muchísimo lo que es tu aliento. La notés que viene super buena, ahorita tiene mucho descuento y promoción y la pides aquí en el capítulo naranja que aparece justo arriba de mi nombre. Nos vemos.",
+    "translated_text": "如果您喜欢白色的，那么您应该使用这个。怎么样，今天我要强烈推荐这款牙膏，这款超级酷的牙膏非常适合去除牙齿以强化牙齿，最重要的是还能大大改善你的口气。您注意到它非常好，现在有很多折扣和促销，您可以在我名字上方出现的橙色章节中订购。再见。",
+    "language": "es",
+    "duration": "28s",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-08T07:16:34.345189",
-    "row": 23
+    "extracted_at": "2026-09-22T03:07:02.774323",
+    "row": 167
   },
   {
     "video_id": "7681624025503665424",
@@ -7121,17 +7129,17 @@
     "video_id": "7680418403785379094",
     "url": "https://www.tiktok.com/@anker_uk/video/7680418403785379094?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "Nano hidroxiapatita + cuidado diario + sensación fresca. 🦷✨ Descubre ...",
-    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
-    "translated_text": "",
-    "language": "",
+    "description": "Nano hidroxiapatita + cuidado diario + sensación fresca. 🦷✨ Descubre AstraGlow y dale un cambio a tu rutina de cepillado. #AstraGlow #Hidroxiapatita #CuidadoBucal #PastaDeDientes #TikTokShopMX  ",
+    "original_text": "escucha lo que dice. Cuando la profundidad de la bolsa preontal, alcance a los 4, 5 milímetros y indica en enfermedad preontal. Simifica que sus tancias dañinas están erosionando el tejido jigival y propagándose hacia el vuelso violar. Si este producto, astraglo, no cura tus problemas de ancias, prometemos una compensación. Como uno a los dentistas de mayor confianza, puedo decir consecuridad, que incluso los casos más graves de periodontitis y movilidad en tal, podrían resolverse por completo en apenas siete días. Si alguien te dice que la pasta a dientes no sirve, es solo porque nunca han probado una verdadera fórmula de hidroxapatita. Fíjate bien, esta pasta en tal reparadora usa una mezcla de hidroxapatita concentrada 10 veces. Solo se pide de dos veces al día, mañana y noche. Después de siete días de uso continuo, tu raíces dentales estarán notablemente más fuertes y tus sencillas volverán a un estado saludable. Al día 15, mayor fuerza al morder y reducción de la inshison. Al día 30, posiblemente decir adiós para siempre a la periodontitis. Este producto está certificado por la asociación de en tal americana, diseñado para personas con enfermedad periodontal, dientes flogos, encias sangrantes o sensibilidad, si no funciona, obtendrás un rembólso total. No dejes que los problemas bucales empeoren, no necesitas gastar miles en cirugía. Haz clic en el carrito de la izquierda para pedir ahora. Comprados tu voz hoy, con 50% de descuento y envio gratis. Pero el producto genuino garantizado.",
+    "translated_text": "听他说的话。当额前袋深度达到4.5毫米时，表明有额前疾病。这意味着它的有害物质正在侵蚀夹具组织并向背部扩散。如果黄芪这个产品不能治愈您的衰老问题，我们承诺赔偿。作为最值得信赖的牙医之一，我可以有把握地说，即使是最严重的牙周炎病例和这种活动性也可以在短短 7 天内彻底解决。如果有人告诉您牙膏不起作用，那只是因为他们从未尝试过真正的羟基磷灰石配方。仔细一看，这种修复中的膏体使用了10倍浓缩的羟基磷灰石混合物。每天只要求两次，早晚。连续使用7天后，您的牙根会明显坚固，牙齿会恢复健康状态。第15天，咬合时用力更大，inshison减少。第30天，可能就永远告别牙周炎了。该产品经过美国牙科协会认证，专为患有牙周病、牙齿松动、牙龈出血或敏感的人士设计，如果不起作用，您将获得全额退款。不要让口腔问题变得更严重，不需要花几千去手术。点击左侧购物车即可立即订购。今天购买了您的声音，享受 50% 折扣并免运费。但正品保证。",
+    "language": "es",
     "duration": "73s",
-    "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oIpVAgF8VeLc0RIWDLLIAWGHILAj4nrIQeeEIK/?a=1988&bti=ODszNWYuMDE6&&bt=318&ft=4KJMyMzm8Zmo0AtWGa4jVl2.dpWrKsd.&mime_type=video_mp4&rc=MzYzZDQ2MzNlZjQ7aWdmO0BpMztqb2w5cmo4ZDMzbzczNUAwXy1fMjZeXjExYmBgYDJiYSNzMTFzMmRzMl9hLS1kMTFzcw%3D%3D&expire=1788928071&l=20260907042637E2DBEBD8CD24B1D953F2&ply_type=2&policy=2&signature=0b69abf92102a213bcd0b80fdeae9cc5&tk=tt_chain_token&btag=e00090000",
-    "video_type": "",
-    "video_structure": "",
-    "extracted_at": "2026-09-07T04:26:38.205452",
-    "row": 134
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-22T03:08:49.315545",
+    "row": 181
   },
   {
     "video_id": "7680137065287224596",
@@ -9732,7 +9740,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:58:47.045565",
+    "extracted_at": "2026-09-22T03:05:49.244625",
     "row": 155
   },
   {
@@ -9756,16 +9764,16 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7676733552519613718?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "Si quieres blanquear tus dientes, debes ver este vídeo#blanquear los dientes#pasta de dientes blanqueadora#quitar los dientes amarillos#AstraGlow",
-    "original_text": "escucha lo que dice. A veces la ciencia no puede explicar ciertos efectos, pero mira, incluso con 40 años se pillan de usted, los dientes pueden seguir amarillos y el aliento es agradable. La limpieza profesional es cara y dolorosa. Si tus dientes son así, no lo toleres más. La causa del olor, suele ser placa y saro, prueba la pasta astra globo. Después de usarla, tuvo que estar a tan fresca que otros que ran con bersar contigo. Si tienes problemas dentales, considera a probar astra globo. La principio pensé que era engaño, pero es real. Está diseñada específicamente para problemas dentales y mal aliento. No solo combate olores, también limpia profundamente y dejo una frescura sutil. La sensación tras usarla es increíble, de garantizo, si no funciona, reenvolso total. Ahora con 50% de descuento es una gran oferta.",
-    "translated_text": "听他说的话。有时科学无法解释某些效果，但你看，即使你已经40岁了，你的牙齿仍然是黄色的，你的呼吸仍然是愉快的。专业清洁既昂贵又痛苦。如果你的牙齿是这样的，就不要再忍受了。气味的原因通常是牙菌斑和沙罗，尝试使用 Astra Globo 膏。用了之后，一定是酷到别人想亲你。如果您有牙齿问题，请考虑尝试 astra globo。起初我以为这是一个骗局，但它是真的。它是专门针对牙齿问题和口臭而设计的。它不仅能消除异味，还能深层清洁并留下微妙的清新感。使用后的感觉是难以置信的，保证，如果不起作用，完全重新包装。现在有50%的折扣，真是太划算了。",
+    "original_text": "escucha lo que dice. A veces la ciencia no puede explicar ciertos efectos, pero mira, incluso con 40 años se pillan de usted, los dientes pueden seguir amarillos y el aliento es agradable. La limpieza profesional es cara y dolorosa. Si tus dientes son así, no lo toleres más. La causa del dolor, suele ser placa y saro, prueba la pasta astra globo. Después de usarla, tuvo que estar a tan fresca que otros que ran con bersar contigo. Si tienes problemas dentales, considera a probar astra globo. La principio pensé que era engaño, pero es real. Está diseñada específicamente para problemas dentales y mal aliento. No solo combate o lores, también limpia profundamente y dejo una frescura sutil. La sensación tras usarla es increíble. Te garantizo, si no funciona, reenvolso total. Ahora con 50% de descuento es una gran oferta.",
+    "translated_text": "听他说的话。有时科学无法解释某些效果，但你看，即使你已经40岁了，你的牙齿仍然是黄色的，你的呼吸仍然是愉快的。专业清洁既昂贵又痛苦。如果你的牙齿是这样的，就不要再忍受了。疼痛的原因通常是牙菌斑和沙鲁氏菌，尝试使用 Astra Globo 膏。用了之后，一定是酷到别人想亲你。如果您有牙齿问题，请考虑尝试 astra globo。起初我以为这是一个骗局，但它是真的。它是专门针对牙齿问题和口臭而设计的。它不仅可以战斗或传说，还可以深层清洁并留下微妙的清新感。使用后的感觉令人难以置信。我保证，如果不起作用，全额退款。现在有50%的折扣，真是太划算了。",
     "language": "es",
     "duration": "51s",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-08T06:52:39.842284",
-    "row": 42
+    "extracted_at": "2026-09-22T03:08:10.658751",
+    "row": 176
   },
   {
     "video_id": "7676416274921950485",
@@ -10112,7 +10120,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:52:24.090847",
+    "extracted_at": "2026-09-22T03:02:36.245475",
     "row": 26
   },
   {
@@ -10128,7 +10136,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:51:57.607482",
+    "extracted_at": "2026-09-22T03:02:10.838170",
     "row": 19
   },
   {
@@ -10144,7 +10152,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:51:30.274289",
+    "extracted_at": "2026-09-22T03:01:44.872903",
     "row": 11
   },
   {
@@ -10160,7 +10168,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:54:45.445845",
+    "extracted_at": "2026-09-22T03:04:59.241359",
     "row": 79
   },
   {
@@ -10176,7 +10184,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:52:16.337874",
+    "extracted_at": "2026-09-22T03:02:29.091256",
     "row": 24
   },
   {
@@ -10272,7 +10280,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:52:08.214121",
+    "extracted_at": "2026-09-22T03:02:21.420351",
     "row": 22
   },
   {
@@ -10336,7 +10344,7 @@
     "error_message": "Download/ffmpeg error: ffmpeg failed: ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers\n  built with gcc 13 (Ubuntu 13.2.0-23ubuntu3)\n  configuration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened -",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:54:57.186958",
+    "extracted_at": "2026-09-22T03:05:12.564808",
     "row": 85
   },
   {
@@ -10743,17 +10751,17 @@
     "video_id": "7675206267354287382",
     "url": "https://www.tiktok.com/@anker_uk/video/7675206267354287382?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "",
-    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7675206267354287382",
-    "translated_text": "",
-    "language": "",
-    "duration": "",
-    "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7675206267354287382: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
-    "video_type": "",
-    "video_structure": "",
-    "extracted_at": "2026-09-10T10:15:54.823363",
-    "row": 3
+    "description": "Si quieres blanquear tus dientes, debes ver este vídeo#blanquear los dientes#pasta de dientes blanqueadora#quitar los dientes amarillos#AstraGlow",
+    "original_text": "escucha lo que dice, mucha gente no sabe que el malaliento se puede curar su aliento huele a caca y necesita solucionar este problema lo antes posible. Entonces, este poderoso tratamiento es para usted, es esta pasta de dientes proviótica SP8, este no es un aerosol común, contiene seis tipos de provióticos, ya sea que tenga dientes amarillos durante diez años o mal aliento durante cinco años, puede usarlos para eliminar eficazmente el malaliento y ahora habrá una ligera fragancia en su boca. menos por dinero, esta marca está reclutando 100 usuarios de todo Estados Unidos para disfrutar de un 50% de descuento. Si realiza su pedido a través de este enlace de video, disfrutará de una prueba de 30 días, si tiene alguna pregunta, puede obtener una rembolso completa, porque no intentarlo.",
+    "translated_text": "听他说，很多人不知道口臭是可以治愈的——你的口臭闻起来像大便，你需要尽快解决这个问题。那么这个强力治疗适合你，就是这款SP8益生菌牙膏，这不是普通的喷雾剂，它含有六种益生菌，无论你是十年黄牙还是五年口臭，用它们都可以有效消除口臭，现在嘴里会有淡淡的清香。少花钱，这个品牌正在美国各地招募100名用户，享受50%的折扣。如果您通过此视频链接订购，您将享受30天的试用期，如果您有任何问题，可以获得全额退款，何不尝试一下。",
+    "language": "es",
+    "duration": "47s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-22T03:06:29.908924",
+    "row": 162
   },
   {
     "video_id": "7675218661698718998",
@@ -10912,7 +10920,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:51:22.582881",
+    "extracted_at": "2026-09-22T03:01:37.970742",
     "row": 9
   },
   {
@@ -10928,7 +10936,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:52:12.668151",
+    "extracted_at": "2026-09-22T03:02:25.251363",
     "row": 23
   },
   {
@@ -11008,7 +11016,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:53:20.276848",
+    "extracted_at": "2026-09-22T03:03:31.510635",
     "row": 46
   },
   {
@@ -11024,7 +11032,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:52:43.181995",
+    "extracted_at": "2026-09-22T03:02:53.898905",
     "row": 31
   },
   {
@@ -11056,7 +11064,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:54:17.555072",
+    "extracted_at": "2026-09-22T03:04:28.264025",
     "row": 66
   },
   {
@@ -11072,7 +11080,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:53:05.787133",
+    "extracted_at": "2026-09-22T03:03:17.072874",
     "row": 41
   },
   {
@@ -11088,7 +11096,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:54:24.509456",
+    "extracted_at": "2026-09-22T03:04:36.177245",
     "row": 68
   },
   {
@@ -11104,7 +11112,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:54:52.482392",
+    "extracted_at": "2026-09-22T03:05:07.935200",
     "row": 84
   },
   {
@@ -11120,7 +11128,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:54:31.590877",
+    "extracted_at": "2026-09-22T03:04:43.580722",
     "row": 72
   },
   {
@@ -11136,7 +11144,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:52:54.176518",
+    "extracted_at": "2026-09-22T03:03:05.266355",
     "row": 36
   },
   {
@@ -11510,7 +11518,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:53:42.912262",
+    "extracted_at": "2026-09-22T03:03:54.439053",
     "row": 53
   },
   {
@@ -11748,7 +11756,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:58:36.897948",
+    "extracted_at": "2026-09-22T03:05:45.745132",
     "row": 153
   },
   {
@@ -11770,72 +11778,82 @@
   {
     "video_id": "7684178762304425236",
     "url": "https://www.tiktok.com/@anker_uk/video/7684178762304425236?lang=en&is_copy_url=1&is_from_webapp=v1",
-    "author": "",
-    "description": "",
+    "author": "@anker_uk",
+    "description": "🌱Fórmula con aceites esenciales refrescante y efectiva #CosmeticaOral #ProductoNatural #SaludYBelleza ",
     "original_text": "agua o cerveza. Uff, está reenido porque ninguna de las dos hacen nada pero agua porque tiene menos calorías. A agua o agua consal. A agua consal. A agua consal, ahí si tienes alguna heredita o llaga te la puedo curar. A agua consal o agua convicargonato. A agua convicargonato siempre que no te has comido una ensalada porque puede hacer en el estómago racción con el vinagre y convulsionos. A agua convicargonato o en jugada de bucaltraicionas. En jugada bucaltraicional desinfecta un pelín y te dejan fresco en la boca durante 5 minutos. En jugada bucaltraicional o en jugada bucaltrajapones. En jugada bucaltrajapones. En jugada bucaltrajapones fresco en infinito desinfecta todo y quita el sarro y encima sin alcohol. No, por eso fue una muestra por supuesto. Ahora simplemente tienes esto en la boca durante 30 segundos y hoy ya ver lo que sale. A ver, no entes de lo de la boca, vale. Hay que moverlo bien, ¿no? A ver. Vale, pona aquí que vale, blanquea, te quita todo el sarro te da fresco y encima no lleva alcohol. Ya voy a estar muy bien, vale. Cuando yo he sabido tiempo, lo he echado ahora y a ver cómo funciona esto. Porque veo que todo el mundo lo estoy utilizando ahora mismo. Sí, sí, sí, sí. ¡Oi, bo! Eso es sarro! Esto es el sarro que viene entre los dientes. ¿Qué maldito azco? De verdad, para la gente que tenga muchos arro intecciones en la boca, esto es vital, encima te da un fresco increíble. Vale, vos para toda la gente que lo quiera conseguir, donde se vuelve conseguir. Pues, a ver, acá voy a llegar a España, pero se haga otra cada dos días. Si, parece un cartero que abajo es que está con ofertas y que aprovechadlo.",
     "translated_text": "水或啤酒。呃，这很有趣，因为他们除了水之外什么都不做，因为水的热量较少。水或盐水。为盐水。用盐水，如果你有什么遗传性的病或者疮，我可以给你治。为 consal 水或 convicargonate 水。没有吃沙拉时就喝水，因为它会引起胃与醋的反应并导致癫痫发作。给 convicargonato 浇水或进行口腔背叛游戏。在口腔传统游戏中，它会起到一点消毒作用，让您的口腔保持 5 分钟清新。在传统的颊移动或日本的颊移动中。以颊日式动作。在无限清新的漱口水中，它可以消毒一切并去除牙垢，而且最重要的是，不含酒精。不，这就是为什么它当然是一个样本。现在，您只需将其放入口中 30 秒，今天您就会看到结果。看看吧，别担心嘴巴的问题，好吧。你必须好好移动它，对吧？让我们来看看。好吧，在这里说一下，没关系，它可以美白，它可以去除所有牙垢，它让你感觉清新，而且最重要的是它不含酒精。我现在会好起来的，好吧。当我有时间的时候，我把它放进去，让我们看看它是如何工作的。因为我看到现在每个人都在使用它。是的，是的，是的，是的。嘿博！那是牙垢！这是牙齿之间的牙垢。我到底在做什么？说真的，对于嘴里有很多油的人来说，这是至关重要的，除此之外，它还能给你带来令人难以置信的新鲜感。好吧，对于所有想要得到它的人来说，你可以在哪里再次得到它。好吧，让我们想想，我即将到达西班牙，但每两天就会进行一次。是的，它看起来像一个邮递员，他提供了下面的优惠并利用它。",
+    "language": "es",
+    "duration": "72s",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:32:31.989078",
-    "row": 59
+    "extracted_at": "2026-09-22T03:06:18.394910",
+    "row": 160
   },
   {
     "video_id": "7680863699237653780",
     "url": "https://www.tiktok.com/@anker_uk/video/7680863699237653780?lang=en&is_copy_url=1&is_from_webapp=v1",
-    "author": "",
-    "description": "",
-    "original_text": "oye, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, solita, sol ¡Aquí, fah! ¡No, pues hasta el... ¡Ay, era toda la mogulera que te salió! ¿Viste? ¿Viste a lo de aquí? Sí, porque no te limpia bien las de los americanos. Tienes que usar estos de los austreliens. Este es como una visita lentista embote. ¿Cómo funciona? Si una porque tiene hydrogen pero acced que te ayuda a clara a los dientes rápidos, por si tomas mucho café o siempre estás... Y te da... Asco porque la gente no te gusta ver los dientes así de fuego. ¿No lo pondrá? No lo pondrá. Lo puedes encontrar en TikTok Shop a Quisi. Tienes suerte e velcar y tornará, significa que todavía hay lo de varias agarras antes de que se ha votado.",
-    "translated_text": "嘿，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独，单独这里，呸！不，呃，甚至……噢，这都是你的胡言乱语！你有没有看到？你在这里看到他了吗？是的，因为它不能很好地清洁美国的。你必须使用来自澳大利亚的这些。这就像一次缓慢而乏味的访问。它是如何运作的？是的，一个是因为它含有氢，但它可以帮助你快速清洁牙齿，以防你喝很多咖啡或总是......它会让你......厌恶，因为人们不喜欢看到你的牙齿那么亮。你不放吗？他不会放的。您可以在 TikTok Shop a Quisi 找到它。你很幸运，你赢了并转身，这意味着在投票之前还有几次尝试。",
+    "author": "@anker_uk",
+    "description": "💨Aliento fresco todo el día con aceites esenciales naturales #AlientoFresco #SaludBucal #DientesBlancos ",
+    "original_text": "¡Liezo, hiel, sueño! EsGUPE ACYE! ¿Qué ves? Nada, es exactamente por qué usas de estos de los americanos. Esto no funciona de aúsa esté de astralia Ponte lo en la boca, como te roasting millón con uno, dos años... Amonos de la cincla de la manate uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez, Corporal... ¡Aquí, fah! No, pues hasta... ¡Ay, ir a toda la mogulera que te salió! ¿Viste? ¿Pues eso? ¿Ves a lo de aquí? Sí, porque no te limpia bien las de los americanos. Tienes que usar estos de los austreliens. Estes como una visita lentista embote. ¿Cómo funciona? Si una porque tiene hydrogen pero acced que te ayuda a clara a los dientes rápido, por si tomas mucho café o siempre estás... Y te da... Asco porque la gente no te gusta ver los dientes así de fuego. ¿No lo pondré? No lo pondré. No, pues encontré un TikTok shop aquí. Si tienes suerte, evel caritona nada, significa que todavía hay lo deberías agarar antes de que se ha votado.",
+    "translated_text": "莉兹，胆子，梦想！埃斯古佩阿西！你看到了什么？没什么，这就是你使用这些美国产品的原因。这不再起作用了，这个来自阿斯特利亚的把它放在你的嘴里，就像你用一两年烤一百万... Amonos de la cincla de la manate 一、二、三、四、五、六、七、八、九、十，下士... 在这里，fah！不，好吧，直到……哦，去吧，去所有从你身上出来的莫古莱拉吧！你有没有看到？嗯，那个？你看到这里是什么了吗？是的，因为它不能很好地清洁美国的。你必须使用来自澳大利亚的这些。这些就像一次缓慢而乏味的访问。它是如何运作的？是的，一个是因为它含有氢，但它可以帮助您快速清洁牙齿，以防您喝大量咖啡或总是……它会让您……感到厌恶，因为人们不喜欢看到您的牙齿那么亮。我就不放了？我就不贴了不，我在这里发现了一家 TikTok 商店。如果你幸运的话，没有发现任何东西，这意味着在投票之前你仍然应该抓住一些东西。",
+    "language": "es",
+    "duration": "69s",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:32:31.989111",
-    "row": 60
+    "extracted_at": "2026-09-22T03:07:27.691723",
+    "row": 169
   },
   {
     "video_id": "7682275335320145168",
     "url": "https://www.tiktok.com/@anker_uk/video/7682275335320145168?lang=en&is_copy_url=1&is_from_webapp=v1",
-    "author": "",
-    "description": "",
+    "author": "@anker_uk",
+    "description": "Probé muchas marcas y estas tiras moradas son las únicas que me sirvieron#blanqueamientodental#dientesamarillos#tirasblanqueadoras#drbiocare 260906",
     "original_text": "And kick it, kick it, kick it",
     "translated_text": "然后踢它，踢它，踢它",
+    "language": "en",
+    "duration": "13s",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:32:31.989124",
-    "row": 61
+    "extracted_at": "2026-09-22T03:07:30.098120",
+    "row": 170
   },
   {
     "video_id": "7682986055280184598",
     "url": "https://www.tiktok.com/@anker_uk/video/7682986055280184598?lang=en&is_copy_url=1&is_from_webapp=v1",
-    "author": "",
-    "description": "",
+    "author": "@anker_uk",
+    "description": "AstraGlow combina nano hidroxiapatita con una fórmula pensada para tu rutina diaria. Cuida tu esmalte mientras disfrutas de una sensación fresca después del cepillado. ✨ #AstraGlow #Hidroxiapatita #RutinaDental #Dientes #CuidadoDental ",
     "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentistas nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad. vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto. Pasta dental con hidróxia patita de astra globo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clica en la cella mientras siguen descuento.",
     "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是披萨，真的。它们再次直接从日本生长。这种革命性的东西让牙齿自然形成。看看这个。牙膏与 Hydroxia astra 地球腿。重建您的口腔微生物群，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。所以，你还在等什么，趁折扣还在继续，点击cella吧。",
+    "language": "es",
+    "duration": "33s",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:32:31.989146",
-    "row": 62
+    "extracted_at": "2026-09-22T03:07:51.315487",
+    "row": 173
   },
   {
     "video_id": "7680861662483647764",
     "url": "https://www.tiktok.com/@anker_uk/video/7680861662483647764?lang=en&is_copy_url=1&is_from_webapp=v1",
-    "author": "",
-    "description": "",
-    "original_text": "Es que Upe, es que Upe mi mano. ¿Ah? No ves nada, ¿Dada? No. Exactamente porque está usando eso de americanos, no funciona no sacanada. Era mejor usa de astradias, como si fueras al dentista cada semana irá solo lo abre estrenamente en la boca así como te gusta. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 los Cupes y irá. Y era todo lo que vas aliscincotes sin nada. No, no, manches. En para que veas que los americanos no sirve, o no, o no. O no. O no, o no. O no, o no, o no, o no, o no, o no. Esto funciona porque tiene hydrogen pero acceden. Por si siempre estás tomando muchísimo café. O no, o no, o no. Este lo puedes encontrar en el carrito na na, pero las chicas están otando bien el rapido porque sea me ha levantado si tienes suerte de ver carrito na na. Aquí se le dije que todavía hay.",
-    "translated_text": "就是那个Upe，就是那个Upe 我的手。哦？爸爸，你什么也没看到吗？不，正因为他用的是美国的东西，所以它不起作用。最好使用阿斯特拉迪亚，就好像你每周去看牙医一样，你可以按照你喜欢的方式将它放在嘴里。 1、2、3、4、5、6、7、8、9、10 个杯子，它就会消失。这就是你去阿里辛科特时的一切。不，不，污渍。所以你可以看到美国人不工作，或者不工作，或者不工作。或不。或不，或不。或不，或不，或不，或不，或不，或不。这是有效的，因为它含有氢，但他们同意。如果你总是喝很多咖啡。或不，或不，或不。你可以在购物车里找到这个，但女孩们正在关注快速的那个，因为如果你幸运地看到购物车，它会让我振奋。在这里我告诉你，还有。",
+    "author": "@anker_uk",
+    "description": "🦷Enjuague bucal blanqueador quita manchas de café y tabaco  #BlanqueamientoDental #CuidadoBucal #EnjuagueBucal ",
+    "original_text": "¿Es que upen mi mano? ¿No ves nada, ¿de a te? No. Exactamente, porque está usando eso de americanos. No funciona, no sacanada. Era mejor usar de estradias. ¿Cómo se f Ras alentista cada semana? Era solo lo abre, es te lo metes en la boca. Así como te gusta. 1 2 3 4 5 7 8 9 10 los que upes. Irán todo lo que vas a lo y se encorde sin nada. ¡Vamos, Mike. No, manches. en para que veas que lo de americano no sirve o a cada guaca la esto funciona porque tiene hydrogen por acceden por si siempre estás otomando muchísimo café este lo puedes encontrar en carrito nana pero las cicatos están otando bien rápido porque es la mega limitado si tienes suerte de ver carrito nana aquí se liga que todavía hay",
+    "translated_text": "他们在我手里吗？你什么也没看到，是吗？不，没错，因为他用的是美国的东西。这不起作用，这不起作用。最好使用estradias。每周你受到怎样的鼓励？刚打开就放进嘴里了。就是你喜欢的方式。 1 2 3 4 5 7 8 9 10 那些upes的人。他们会去做你想做的一切，但最终却一无所获。来吧，迈克。不，污渍。所以你可以看到美式鳄梨不起作用，或者对每一种鳄梨都有效，因为它含有氢气，所以他们可以在你总是喝大量咖啡的情况下使用它。你可以在娜娜购物车里找到这个，但 cicatos 很快就会注意到，因为它是超级限量的，如果你足够幸运在这里看到娜娜购物车，它会链接到仍然有",
+    "language": "es",
+    "duration": "52s",
     "status": "success",
     "error_message": "",
     "video_type": "达人视频",
     "video_structure": "达人口播",
-    "extracted_at": "2026-09-15T06:32:31.989171",
-    "row": 63
+    "extracted_at": "2026-09-22T03:08:31.778410",
+    "row": 179
   },
   {
     "video_id": "7683725129397832983",
@@ -13000,7 +13018,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:51:03.606856",
+    "extracted_at": "2026-09-22T03:01:19.592465",
     "row": 2
   },
   {
@@ -13016,7 +13034,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:51:15.416350",
+    "extracted_at": "2026-09-22T03:01:31.041329",
     "row": 6
   },
   {
@@ -13032,7 +13050,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:51:26.160709",
+    "extracted_at": "2026-09-22T03:01:41.544026",
     "row": 10
   },
   {
@@ -13048,7 +13066,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:51:46.056642",
+    "extracted_at": "2026-09-22T03:01:59.848944",
     "row": 16
   },
   {
@@ -13064,7 +13082,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:52:04.788989",
+    "extracted_at": "2026-09-22T03:02:17.710597",
     "row": 21
   },
   {
@@ -13080,7 +13098,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:52:20.462155",
+    "extracted_at": "2026-09-22T03:02:32.964986",
     "row": 25
   },
   {
@@ -13096,7 +13114,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:52:28.496738",
+    "extracted_at": "2026-09-22T03:02:39.691177",
     "row": 27
   },
   {
@@ -13112,7 +13130,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:52:35.862090",
+    "extracted_at": "2026-09-22T03:02:46.905002",
     "row": 29
   },
   {
@@ -13128,7 +13146,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:52:39.700763",
+    "extracted_at": "2026-09-22T03:02:50.610734",
     "row": 30
   },
   {
@@ -13144,7 +13162,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:52:46.807185",
+    "extracted_at": "2026-09-22T03:02:57.392704",
     "row": 34
   },
   {
@@ -13160,7 +13178,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:52:50.497126",
+    "extracted_at": "2026-09-22T03:03:01.222304",
     "row": 35
   },
   {
@@ -13176,7 +13194,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:52:57.818550",
+    "extracted_at": "2026-09-22T03:03:08.751329",
     "row": 37
   },
   {
@@ -13192,7 +13210,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:53:01.883166",
+    "extracted_at": "2026-09-22T03:03:12.290350",
     "row": 39
   },
   {
@@ -13224,7 +13242,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:53:09.452942",
+    "extracted_at": "2026-09-22T03:03:20.542464",
     "row": 42
   },
   {
@@ -13240,7 +13258,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:53:13.004010",
+    "extracted_at": "2026-09-22T03:03:24.314001",
     "row": 43
   },
   {
@@ -13256,7 +13274,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:53:16.564298",
+    "extracted_at": "2026-09-22T03:03:28.075984",
     "row": 45
   },
   {
@@ -13272,7 +13290,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:53:27.559492",
+    "extracted_at": "2026-09-22T03:03:39.408618",
     "row": 48
   },
   {
@@ -13304,7 +13322,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:53:31.834380",
+    "extracted_at": "2026-09-22T03:03:43.158596",
     "row": 50
   },
   {
@@ -13320,7 +13338,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:53:35.553599",
+    "extracted_at": "2026-09-22T03:03:47.071698",
     "row": 51
   },
   {
@@ -13336,7 +13354,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:53:46.114946",
+    "extracted_at": "2026-09-22T03:03:58.147996",
     "row": 54
   },
   {
@@ -13352,7 +13370,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:53:49.496439",
+    "extracted_at": "2026-09-22T03:04:01.912111",
     "row": 55
   },
   {
@@ -13368,7 +13386,7 @@
     "error_message": "Download/ffmpeg error: ffmpeg failed: ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers\n  built with gcc 13 (Ubuntu 13.2.0-23ubuntu3)\n  configuration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened -",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:53:54.778197",
+    "extracted_at": "2026-09-22T03:04:06.925652",
     "row": 58
   },
   {
@@ -13384,7 +13402,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:53:58.094752",
+    "extracted_at": "2026-09-22T03:04:10.734632",
     "row": 60
   },
   {
@@ -13400,7 +13418,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:54:01.823246",
+    "extracted_at": "2026-09-22T03:04:14.208442",
     "row": 61
   },
   {
@@ -13416,7 +13434,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:54:05.500946",
+    "extracted_at": "2026-09-22T03:04:17.612158",
     "row": 63
   },
   {
@@ -13432,7 +13450,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:54:21.030485",
+    "extracted_at": "2026-09-22T03:04:32.344929",
     "row": 67
   },
   {
@@ -13448,7 +13466,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:54:27.837201",
+    "extracted_at": "2026-09-22T03:04:39.856140",
     "row": 71
   },
   {
@@ -13480,7 +13498,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:54:35.056369",
+    "extracted_at": "2026-09-22T03:04:48.531406",
     "row": 74
   },
   {
@@ -13512,7 +13530,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:54:38.352887",
+    "extracted_at": "2026-09-22T03:04:51.920526",
     "row": 76
   },
   {
@@ -13528,7 +13546,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:54:41.838564",
+    "extracted_at": "2026-09-22T03:04:55.515161",
     "row": 77
   },
   {
@@ -13576,7 +13594,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:54:49.207621",
+    "extracted_at": "2026-09-22T03:05:04.095305",
     "row": 81
   },
   {
@@ -13624,7 +13642,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:55:00.974448",
+    "extracted_at": "2026-09-22T03:05:16.175697",
     "row": 86
   },
   {
@@ -13752,7 +13770,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:55:30.844088",
+    "extracted_at": "2026-09-22T03:05:30.573240",
     "row": 104
   },
   {
@@ -13880,7 +13898,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:55:34.432527",
+    "extracted_at": "2026-09-22T03:05:34.629400",
     "row": 119
   },
   {
@@ -13976,7 +13994,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:56:04.910901",
+    "extracted_at": "2026-09-22T03:05:38.649580",
     "row": 133
   },
   {
@@ -14072,7 +14090,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:57:38.408047",
+    "extracted_at": "2026-09-22T03:05:42.252715",
     "row": 144
   },
   {
@@ -14120,7 +14138,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:58:50.915413",
+    "extracted_at": "2026-09-22T03:05:53.356182",
     "row": 156
   },
   {
@@ -14136,7 +14154,215 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-22T02:59:03.106742",
+    "extracted_at": "2026-09-22T03:05:57.012531",
     "row": 158
+  },
+  {
+    "video_id": "7674129136000011542",
+    "url": "https://www.tiktok.com/@anker_uk/video/7674129136000011542?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "Si quieres blanquear tus dientes, debes ver este vídeo#blanquear los dientes#pasta de dientes blanqueadora#quitar los dientes amarillos#AstraGlow",
+    "original_text": "Escucha lo que dice. Quizás la ciencia no puede explicar algunos efectos mágicos, pero mira esto. Incluso con 40 años de experiencia se pillándose, los dientes pueden seguir amarillos y con malo-lor. Y la limpieza profesional es cara y dolorosa. Si tus dientes están así, no lo toleres más. Prego a la pasta, astra, gloco, hidroxia patita. Tras tres minutos de se pillado, no solo la superficie dental se blanqueará notablemente, sino que tu boca tendrá un aliento fresco, que hará que otros quieran conversar contigo. Si tienes problemas dentales considera a probar esta pasta, al principio dudaba de su autenticidad, pero está realmente diseñada para personas con problemas como mal aliento. No solo combate los olores, sino que limpia la boca en profundidad. La he usado continuamente y la recomiendo sinceramente. Si no funciona el distribuidor ofrece reenvolso total, ahora con un 50% de descuento es una oportunidad excepcional.",
+    "translated_text": "听听他怎么说。也许科学无法解释一些神奇的效果，但请检查一下。即使有40年的捕捉经验，牙齿仍然会发黄、发臭。而且专业清洁既昂贵又痛苦。如果你的牙齿是这样的，就不要再忍受了。先吃意大利面、阿斯特拉、格洛科、羟基帕蒂塔。被抓住三分钟后，不仅牙齿表面会明显变白，而且你的嘴里也会有新鲜的气息，这会让别人想和你说话。如果您有牙齿问题，请考虑尝试这种牙膏。起初我怀疑它的真实性，但它确实是为有口臭等问题的人设计的。它不仅能消除异味，还能深层清洁口腔。我一直在使用它，并真诚地推荐它。如果不起作用，经销商会提供全额退款，现在还有 50% 的折扣，这是一个绝佳的机会。",
+    "language": "es",
+    "duration": "56s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-22T03:06:07.600144",
+    "row": 159
+  },
+  {
+    "video_id": "7686400994355318038",
+    "url": "https://www.tiktok.com/@anker_uk/video/7686400994355318038?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "Tu sonrisa merece una buena rutina. 🦷✨ AstraGlow con nano hidroxiapatita combina limpieza, frescura y cuidado diario en una pasta dental fácil de incorporar a tu día. #AstraGlow #Sonrisa #RutinaDental #CuidadoDental #TikTokMexico ",
+    "original_text": "escucha lo que dice. Cuando te topas con este video por accidente, ya no vas a necesitar dentistas nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad, vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto. Basta dental con hidróxia patita de astraglo. Reconstruye tu microbioma oral, rellena huecos y hasta revierte carias y sensibilidad. Es una pincha caixa tada en la cara para los dentistas. Entonces, que chingados esperas, dale clica en la cella mientras siguen descuento.",
+    "translated_text": "听他说的话。当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个。 Basta 牙科用黄芪爪缺氧。重建您的口腔微生物组，填补空白，甚至逆转蛀牙和敏感性。对于牙医来说，这确实是一件痛苦的事情。所以，你还在等什么，趁折扣还在继续，点击cella吧。",
+    "language": "es",
+    "duration": "56s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-22T03:06:22.323202",
+    "row": 161
+  },
+  {
+    "video_id": "7685681852362804496",
+    "url": "https://www.tiktok.com/@anker_uk/video/7685681852362804496?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "¡Dile adiós a los dientes amarillosen segundos#PastaBlanqueadora #SonrisaBlanca #DientesAmarillos #BlanqueamientoDental #DientesBlancos #PastaDeDientes",
+    "original_text": "Bebe, si te da pena son reír porque tienes los dientes amarillos, tienes que probar esta pasta con tecnología de ensimas. No es la pasta morada que solo maquilla. Esta te ayuda a neutralizar el tono amarillento desde adentro. Te deja los dientes bonitos, aliento fresco y no las tima el esmante. Te la dejo en el carrito besitos.",
+    "translated_text": "宝贝，如果你因为牙齿黄而不好意思笑，那你一定要尝试一下这款采用 ensimas 技术的意大利面。它不仅仅是化妆的紫色膏体。这可以帮助您中和内部的淡黄色调。它可以让您的牙齿美丽、口气清新，而且抛光剂不会造成伤害。我会把它放在你的购物车里，亲吻。",
+    "language": "es",
+    "duration": "23s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-22T03:06:49.329213",
+    "row": 165
+  },
+  {
+    "video_id": "7686426328320445717",
+    "url": "https://www.tiktok.com/@anker_uk/video/7686426328320445717?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "🦷Resultados visibles: dientes blancos y aliento renovado #BlanqueamientoCasero #CuidadoPersonal #TendenciasBelleza ",
+    "original_text": "todas las chicas con las que duermos por la mañana siempre me preguntan lo mismo. ¿Cómo es posible que no te vuelan mal el aliento por las mañana? Y la verdad que yo siempre le respondo lo mismo. Y ese con el cepillo de dientes no es suficiente para eliminar toda la bacteria acumulada en tu boca. Es por esa razón que tu lengua se ve así de blanca y siempre que te despiertas por la mañana te apesta al aliento. Y eso sí tampoco cometas el error de utilizar este tipo de enjuaciones vocales tradicionales. Así que vamos a hacer una demostración para que puedas ver que no son capaces de eliminar la suciedad acumulada en tu boca. Como puedes ver, no ha sido capaz de eliminar nada y mi boca sigue oliendo igual de mal. Y además, lo peor de todos que continúan un montón de sustancias tóxicas y de alcohol que son malísimas para les malte de tus dientes. Y es que lo que yo personalmente utilizo es este enjuaje vocal japoné, que tiene una fórmula especial que se llevo utilizando durante años para eliminar toda la placa la suciedad y el se arracumulado en tus dientes. Así que lo voy a pegar un trago y enjuado durante 30 segundos. ¡Dua! ¡Dua! ¿Qué auténtico, asco, chicos, o esa mirad, toda la suciedad ha conseguido sacar de mi boca en tan solo 30 segundos. O sea, con razón bien el yetán, mal el aliento por las mañanas, mirad, toda la basura que tenía acumulada. Además, lo mejor de este enjuaje vocal es que está libre de alcohol y no continúan ninguna sustancia que se atóxica y pueda ser mala para les malte de tus dientes. Así que si te gustaría probarlo, te lo voy a estar dejando que abajo la cestita naranja. Pero eso si yo eti me daría mucha prisa, ya que tiene muy pocas unidades en esto, que lo más seguros que se vayan a votar en tan solo varias horas, así que no te lo pienses mucho.",
+    "translated_text": "所有早上和我们一起睡觉的女孩总是问我同样的事情。早上怎么可能呼吸不顺畅呢？事实上，我总是回答同样的问题。而且牙刷不足以消除口腔中积聚的所有细菌。这就是为什么你的舌头看起来这么白，而且每次早上醒来你的呼吸都有臭味。也不要错误地使用这种传统的声音冲洗方法。因此，我们将进行演示，以便您可以看到它们无法清除口腔中积聚的污垢。正如你所看到的，它无法消除任何东西，而且我的嘴里仍然有难闻的气味。而且，最糟糕的是，仍然存在大量对牙齿非常有害的有毒物质和酒精。我个人使用的是这款日本漱口水，它具有特殊的配方，多年来一直用于消除牙齿上的所有牙菌斑、污垢和硒积聚。所以我要喝一口并冲洗 30 秒。杜阿！杜阿！多么真实，多么恶心，伙计们，或者看起来，他在短短 30 秒内就从我嘴里吐出了所有的污垢。我的意思是，难怪我口臭，早上口臭，你看，我积累的都是垃圾。此外，这款漱口水的最大优点是它不含酒精，并且不含任何可能对牙齿有害的无毒物质。所以如果你想尝试一下，我会给你下面的橙色篮子。不过那是如果我能快点的话，因为这里面的单位很少，他们很可能几个小时后就会投票，所以不要想太多。",
+    "language": "es",
+    "duration": "89s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-22T03:07:11.265001",
+    "row": 168
+  },
+  {
+    "video_id": "7673073105782213906",
+    "url": "https://www.tiktok.com/@anker_uk/video/7673073105782213906?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "#ceelike #tirasblanqueadoras #teethwhitening ",
+    "original_text": "Por eso siempre tiene que leer las maldita reseñas antes de comprar un producto en la tienda de TikTok show. Porque acabó de comprar las homosas tiras de la encaburas que habéis visto por todo mi para ti, pero ya me toca de volverlas. Y no es porque tengan a New York Zapatita. Si en eso no lluvaría a quitar esas manchas amarillas tan feas que hacen que los dientes se vean así. Ni tampoco porque se dan notóxicas y seguros para dientes sensibles. Porque la verdad hoy utilizan esas tiras de la encaburas tradicionales que le queman a uno de los dientes antes y después de usarlas. Y ni siquiera porque esta se pueden estirar para correr todos los dientes, mi reto de esa cobertura. Y no me malinterprete porque son muy buenas por todas esas razones. Pero voy a ver estas tiras porque justamente cuando lo compren precio completo lo ponen en oferta relampago. O sea, ¿cómo se suponía que yo sabía que la siana ponen en ofertas justamente hoy? Y lo peor de todos que se agotan rápísimos, especialmente cuando están en una oferta como esta. Entonces si las quiere probar y no se han agotado completamente les voy a dejar en el lanzajana aparte abajo. Pero si ya no lo ves, significa que se agotaron completamente.",
+    "translated_text": "这就是为什么你在从 TikTok 秀场商店购买产品之前总是必须阅读该死的评论。因为他刚刚给你买了你在我身上看到的均匀的 encabras 条，但现在轮到我把它们退回来了。这并不是因为他们有纽约萨帕蒂塔。否则，要清除那些使牙齿看起来像那样的难看的黄色污渍，就得下雨了。也不是因为它们无毒且对敏感牙齿安全。因为事实是，今天他们使用传统的 encabura 条，在使用它们之前和之后都会烧伤其中一颗牙齿。甚至不是因为它可以拉伸以运行所有牙齿，这是我对覆盖范围的挑战。不要误会我的意思，因为所有这些原因它们都非常好。但我会看到这些条带，因为当他们以全价购买时，他们就会将其进行闪电销售。我的意思是，我怎么知道 siana 今天要打折呢？最糟糕的是，它们很快就卖光了，尤其是当它们处于这样的报价时。因此，如果您想尝试它们并且它们还没有完全售完，我会将它们留在下面的单独启动器中。但如果你不再看到它，那就意味着它们已经完全卖完了。",
+    "language": "es",
+    "duration": "51s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-22T03:07:36.956672",
+    "row": 171
+  },
+  {
+    "video_id": "7686394829932350742",
+    "url": "https://www.tiktok.com/@anker_uk/video/7686394829932350742?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "Pasta dental AstraGlow con nano hidroxiapatita y fórmula sin flúor. Ayuda a mantener tus dientes limpios, frescos y bien cuidados todos los días. 🪥✨ #AstraGlow #SinFluor #HigieneBucal #PastaDeDientes #CuidadoBucal ",
+    "original_text": "escucha lo que dice, así estaba mi diente cuando estaba más flojo, así que dos después de siete días de uso, y así después de 15 días, si no te funciona la marca te pagará directamente un millón de libras, no importa que tan grave sea tu problema de dientes flojos, puedes ver una mejora real en solo siete días, ya sea que lleves tiempo con dientes flojos, debilidad al masticar, retracción de ancias o movilidad, o ciendas que tus dientes se mueven cada vez que muerdes, esto es para ti, si lo usas si tus dientes siguen flojos pagamos, si tu muerdida sigue debilita de miedo, morder alimentos duros pagamos, si es movimiento incómodo no mejora en absoluto, también pagamos, tenemos esta confianza porque no es una pasta común, es la pasta dental reparadora astra gloo, un producto profesional para el cuidado periódontal, certificado por asociaciones dentales internacionales, está formulada con hidróxia patita concentrada 10 veces, que penetras hasta la unión entre la raíz del diente y el vuelvo al violar, ayudando a estabilizar los dientes flojos, reparar los tejidos de su porte periódontal y reducir la movilidad dental, si no ves mejora después de usarla, prometemos un rembolso completo, no dejes que pequeños problemas se conviertan en grandes, el cuidado temprano es la clave para evitar tratamientos costosos después, oferta por tiempo limitado disponible ahora, haz clic en el enlace de abajo, ordena ahora y fija tus dientes firmemente otra vez,",
+    "translated_text": "听他说，我的牙齿最松动的时候是这样的，所以用了7天后2颗，所以15天后，如果还不管用的话品牌会直接付给你100万英镑，不管你的牙齿松动问题有多严重，短短7天你就能看到真正的改善，无论你是长期牙齿松动，咀嚼无力，下颌后缩或活动能力，还是每次咬东西都感觉牙齿在动，这都是给你的，如果你用它，如果你的牙齿仍然松动，我们付钱，如果你的咬合力因恐惧而持续减弱，咬硬的食物，我们付钱，如果是不舒服的运动，根本没有改善，我们也付钱，我们有这个信心，因为它不是普通的膏体，它是astra gloo修复牙膏，牙周护理的专业产品，经过国际牙科协会认证，它由10倍浓缩的羟基磷灰石配制而成，渗透到牙根和牙根的交界处回到违规，帮助稳定松动的牙齿，修复牙周承载组织，减少牙齿松动，使用后如果没有看到改善，我们承诺全额退款，别让小问题变成大问题，早期护理是避免后期昂贵治疗的关键，现在限时优惠，点击下面的链接，立即订购，让你的牙齿再次牢固，",
+    "language": "es",
+    "duration": "79s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-22T03:07:46.993937",
+    "row": 172
+  },
+  {
+    "video_id": "7675301840556150036",
+    "url": "https://www.tiktok.com/@anker_uk/video/7675301840556150036?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "¡Dile adiós a los dientes amarillosen segundos#PastaDeDientes #PastaBlanqueadora #SonrisaBlanca #DientesAmarillos #BlanqueamientoDental #DientesBlancos",
+    "original_text": "Si tienes un hueco en el diente o cariés, si tu aliento vuelen mal y tus dientes están amarillos, no te saces el diente. La igroxia patita es un material natural del esmal de dental, ayuda a rellenar las crietas y los huecos, y a reparar el esmal de dañado. No contiene fluo, está formulado por dentistas profesionales, y es ideal para personas con cariés y dientes sensibles. Es seguro y efectivo. Si siempre te dole el diente, no puedes dormir por la noche y tienes huecos en los dientes, lo necesitas. Usalo dos veces al día por la mañana y por la noche su boca se mantendrá fresca y tus dientes se verán más blancos.",
+    "translated_text": "如果您的牙齿或蛀牙有缝隙，如果您的口气不好并且牙齿发黄，请不要拔牙。 Igroxia patita 是一种天然牙釉质材料，它有助于填充裂缝和间隙，并修复受损的牙釉质。它不含氟，由专业牙医配制，非常适合有蛀牙和敏感牙齿的人。它安全有效。如果你的牙齿总是痛、晚上睡不着、牙齿有缝隙，你就需要这个。每天早上和晚上使用两次，您的口腔会保持清新，牙齿也会看起来更白。",
+    "language": "es",
+    "duration": "33s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-22T03:07:57.408205",
+    "row": 174
+  },
+  {
+    "video_id": "7686074109494643989",
+    "url": "https://www.tiktok.com/@anker_uk/video/7686074109494643989?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "✅ Ideal para borrar imperfecciones alrededor de los ojos #PielImpecable #TendenciasBelleza ",
+    "original_text": "No es un correcto, ni es un consilet, es la cremita de calcio de doctor, me la accing, que la tela tiene con más del 50% de descuento y en biogratis. Ideal para la zona de tus ojos, para esas ojeras, para esas bolsitas molestas, ya que esta cremita te trata perfectamente, esa zona heche que nada más la diferencia. Vas ante buena chica, no nada pesada, se las recomiendo.",
+    "translated_text": "这不是正确的，也不是consilet，它是医生的钙霜，根据我的说法，该面料有超过50％的折扣并且免费。非常适合您的眼部区域、黑眼圈、恼人的眼袋，因为这款眼霜可以完美地呵护您，仅该区域就可以发挥作用。你看的是一个很好的女孩，一点也不重，我推荐她。",
+    "language": "es",
+    "duration": "21s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-22T03:08:02.761020",
+    "row": 175
+  },
+  {
+    "video_id": "7676086375652855060",
+    "url": "https://www.tiktok.com/@anker_uk/video/7676086375652855060?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "¿Quieres ojos más grandes y despiertos? ✨ Este set de 12 delineadores en gel pinta intenso, se desliza suave y ayuda a resistir agua y sudor. Por este precio, vuela. ¡Corre al carrito! 🤩👇🏻👇🏻👇🏻#dealsforyoudays #eyeliner #maquillaje #delineador #foryoupage",
+    "original_text": "mujeres si tienen ojos sensibles o le lloran por todo como a mí, van a enamorar de este set de 12 delineadores. La fórmula es supercremosita, se desliza como pura mantequilla y se sella al instante, así que delinear la línea del agua no las tima para nada. El color es tan intenso que hace que tus ojos resalten y se vean mucho más grandes. Y saben que es lo mejor, es 100% prueba de agua y sudor. No se mueve para nada hasta que usas un desmagillante naceite. De verdad, si sufre en de alergia a su sensibilidad, esta es su salvación. Aprovechen esta oferta relampago aquí a bajito antes de que se agote.",
+    "translated_text": "女士们，如果您的眼睛很敏感，或者像我一样对所有事情都会哭泣，那么您一定会爱上这套 12 支眼线笔。该配方超级柔滑，像纯黄油一样滑动并立即密封，因此衬里水线根本不会打扰您。颜色非常浓郁，让你的眼睛显得格外突出，看起来更大。您知道什么是最好的，它 100% 防水防汗。在您使用 Naceite 消磁剂之前，它根本不会移动。说真的，如果你因为敏感而患有过敏症，这就是你的救星。在优惠用完之前，以低价利用这里的闪电优惠。",
+    "language": "es",
+    "duration": "29s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-22T03:08:15.759895",
+    "row": 177
+  },
+  {
+    "video_id": "7675704125056748813",
+    "url": "https://www.tiktok.com/@anker_uk/video/7675704125056748813?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
+    "translated_text": "",
+    "language": "",
+    "duration": "",
+    "status": "error",
+    "error_message": "Url parsing is failed! Please check url.",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-09-22T03:08:19.295825",
+    "row": 178
+  },
+  {
+    "video_id": "7686388186007883030",
+    "url": "https://www.tiktok.com/@anker_uk/video/7686388186007883030?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "Descubre AstraGlow con nano hidroxiapatita. Una fórmula para el cuidado diario del esmalte que deja una agradable sensación de limpieza y frescura. 🦷 #AstraGlow #NanoHidroxiapatita #CuidadoDelEsmalte #HigieneDental #TikTokShop ",
+    "original_text": "escucha lo que dice. Si por accidente, justa se está pasta, podrías notar que tus dientes comienzan a regenerarse. No es proma. Realmente pueden volver a crecer. Este producto revolucionario fue desarrollado en Japón y ayuda a estimular el crecimiento dental de forma natural. Es una pasta con extracto global de agave, capaz de restaurar el equilibrio de tu microbio mabucal, rellenar grietas y pequeños huecos en los dientes, e incluso revertir problemas de sensibilidad de carias. Esta tecnología ha sorprendido a muchos dentistas. Entonces que esperas, aprovecha el descuento y dale clic al enlace antes de que se agote.",
+    "translated_text": "听他说的话。如果您不小心只使用牙膏，您可能会注意到您的牙齿开始再生。这不是普罗玛。他们真的可以重新长出来。这种革命性的产品是在日本开发的，有助于刺激牙齿自然生长。它是一种含有全球龙舌兰提取物的糊剂，能够恢复口腔微生物的平衡，填充牙齿的裂缝和小缝隙，甚至逆转牙齿敏感问题。这项技术让许多牙医感到惊讶。那么您还在等什么，利用折扣并在折扣用完之前点击链接。",
+    "language": "es",
+    "duration": "56s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-22T03:08:38.950566",
+    "row": 180
+  },
+  {
+    "video_id": "7685978001502162198",
+    "url": "https://www.tiktok.com/@anker_uk/video/7685978001502162198?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "Tu sonrisa merece una buena rutina. 🦷✨ AstraGlow con nano hidroxiapatita combina limpieza, frescura y cuidado diario en una pasta dental fácil de incorporar a tu día. #AstraGlow #Sonrisa #RutinaDental #CuidadoDental #TikTokMexico ",
+    "original_text": "Cuando te topas con este video por accidente, ya no vas a necesitar dentistas nunca más. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma. Esto no es pincha pizza, de verdad, vuelven a crecer directo desde Japón. Esta chinga de la revolucionaria hace que los dientes se formen de manera natural. Y checa esto, pasta dental con hidróxia patita de astraglovo. Reconstruye tu microbioma oral, rellena huecos y hasta reverte cari es y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clic al enlace ya mientras siguen descuento.",
+    "translated_text": "当您偶然发现这段视频时，您将不再需要牙医。有一种该死的新产品可以让你的牙齿重新长出来。这不是玩笑。这不是一个糟糕的披萨，真的，它们是直接从日本种植的。这种革命性的东西让牙齿自然形成。看看这个，含有黄芪爪羟基的牙膏。重建您的口腔微生物群，填补空白，甚至扭转情感和敏感度。这简直是​​打在牙医脸上的一记耳光。还在等什么，立即点击链接，折扣仍在继续。",
+    "language": "es",
+    "duration": "33s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-22T03:08:55.572398",
+    "row": 182
+  },
+  {
+    "video_id": "7686401662021487894",
+    "url": "https://www.tiktok.com/@anker_uk/video/7686401662021487894?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "Empieza y termina el día con una sensación limpia y fresca. 🪥 AstraGlow con nano hidroxiapatita está formulada para complementar el cuidado diario de tus dientes y esmalte. #AstraGlow #PastaDental #Dientes #HigieneBucal #NanoHidroxiapatita ",
+    "original_text": "Escucha lo que dice, al principio puede que sientas que la ensía duele un poco más, pero tranquilo, no entre sempánico. Es porque está limpiando el tejido dañado que tienes ahí acumulado. A los pocos días la incha son baja bastante, y al cepillarte ya no verácesa espuma rojiza. En unas semanas las raíces expuestas empiezan a protegerse otra vez y los dientes se ven más brillantes. Poco a poco dejas de sufrir con lo dulce o lo frío, y tu boca deja de darte tantos problemas en el día a día. Si quieres comprobarlo por tu cuenta, haz clic en el enlace de abajo y ordenalo antes de que se agote.",
+    "translated_text": "听他说，一开始你可能会觉得牙龈更疼一点，但别担心，不要不知所措。这是因为它正在清理你在那里积累的受损组织。几天后，英寸变得相当低，当你刷牙时，你将不再看到微红色的泡沫。几周后，裸露的牙根开始再次保护自己，牙齿看起来更亮。渐渐地，你不再受甜食或冷食的困扰，你的口腔也不再每天给你带来那么多问题。如果您想亲自查看，请点击下面的链接并在售完之前订购。",
+    "language": "es",
+    "duration": "56s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-22T03:09:01.974875",
+    "row": 183
   }
 ]
