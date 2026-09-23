@@ -7170,7 +7170,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:02:09.745369",
+    "extracted_at": "2026-09-23T04:11:13.795248",
     "row": 101
   },
   {
@@ -7202,7 +7202,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:02:24.516675",
+    "extracted_at": "2026-09-23T04:11:17.362445",
     "row": 105
   },
   {
@@ -7518,7 +7518,7 @@
     "error_message": "",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:02:14.110009",
+    "extracted_at": "2026-09-23T04:11:15.947157",
     "row": 103
   },
   {
@@ -9744,7 +9744,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:01:28.194279",
+    "extracted_at": "2026-09-23T04:11:07.489834",
     "row": 65
   },
   {
@@ -11760,7 +11760,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:01:24.662841",
+    "extracted_at": "2026-09-23T04:11:04.450702",
     "row": 63
   },
   {
@@ -13788,7 +13788,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:01:14.431478",
+    "extracted_at": "2026-09-23T04:10:55.012264",
     "row": 14
   },
   {
@@ -13916,7 +13916,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:01:18.001057",
+    "extracted_at": "2026-09-23T04:10:58.123268",
     "row": 29
   },
   {
@@ -14108,7 +14108,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:01:21.447024",
+    "extracted_at": "2026-09-23T04:11:01.068486",
     "row": 54
   },
   {
@@ -14156,7 +14156,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:01:31.671919",
+    "extracted_at": "2026-09-23T04:11:10.598591",
     "row": 66
   },
   {
@@ -14476,7 +14476,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:02:27.876126",
+    "extracted_at": "2026-09-23T04:11:20.521114",
     "row": 106
   },
   {
@@ -14508,7 +14508,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:02:34.903620",
+    "extracted_at": "2026-09-23T04:11:23.657461",
     "row": 108
   },
   {
@@ -14540,7 +14540,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:02:57.862122",
+    "extracted_at": "2026-09-23T04:11:26.783143",
     "row": 113
   },
   {
@@ -14588,7 +14588,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:03:08.348921",
+    "extracted_at": "2026-09-23T04:11:29.919484",
     "row": 116
   },
   {
@@ -14604,7 +14604,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:03:12.114953",
+    "extracted_at": "2026-09-23T04:11:34.043760",
     "row": 117
   },
   {
@@ -14652,7 +14652,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:03:31.153590",
+    "extracted_at": "2026-09-23T04:11:37.395846",
     "row": 122
   },
   {
@@ -14668,7 +14668,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:03:34.524687",
+    "extracted_at": "2026-09-23T04:11:40.357947",
     "row": 123
   },
   {
@@ -14700,7 +14700,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:03:52.188814",
+    "extracted_at": "2026-09-23T04:11:43.410607",
     "row": 126
   },
   {
@@ -14723,16 +14723,16 @@
     "video_id": "7685201252669459729",
     "url": "https://www.tiktok.com/@anker_uk/video/7685201252669459729?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "",
-    "original_text": "[提取失败] Url parsing is failed! Please check url.",
-    "translated_text": "",
-    "language": "",
-    "duration": "",
-    "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
-    "video_type": "",
-    "video_structure": "",
-    "extracted_at": "2026-09-23T04:04:18.917992",
+    "description": "¡Con el máximo efecto blanqueador sin dañar el esmalte dental, la pasta de dientes probiótica sp10 hace que tu sonrisa sea más blanca!",
+    "original_text": "You",
+    "translated_text": "你",
+    "language": "en",
+    "duration": "67s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "混剪",
+    "extracted_at": "2026-09-23T04:11:55.260666",
     "row": 131
   },
   {
@@ -14755,16 +14755,16 @@
     "video_id": "7676285511203376398",
     "url": "https://www.tiktok.com/@anker_uk/video/7676285511203376398?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "",
-    "original_text": "[提取失败] Url parsing is failed! Please check url.",
-    "translated_text": "",
-    "language": "",
-    "duration": "",
-    "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
-    "video_type": "",
-    "video_structure": "",
-    "extracted_at": "2026-09-23T04:04:43.192627",
+    "description": "¡Dile adiós a los dientes amarillos en segundos",
+    "original_text": "Si tienes un hueco en el diente o cariés, si tu aliento vuelen mal y tus dientes están amarillos, no te saces el diente. La Igroxyapatita es un material natural del esmal de edental, ayudar a rellenar las crietas y los huecos, y a reparar el esmal de dañado. No contiene flore, está formulado por dentistas profesionales, y es ideal para personas con cariés y dientes sensibles. Es seguro y efectivo. Si siempre te dole el diente, no puedes dormir por la noche y tienes huecos en los dientes, lo necesitas. Usalo dos veces al día por la mañana y por la noche su boca se mantendra fresca y tus dientes se verán más blancos.",
+    "translated_text": "如果您的牙齿或蛀牙有缝隙，如果您的口气不好并且牙齿发黄，请不要拔牙。 Igroxyapatite 是一种天然的牙釉质材料，有助于填充裂缝和间隙，并修复受损的牙釉质。它不含菌群，由专业牙医配制，非常适合有蛀牙和敏感牙齿的人。它安全有效。如果你的牙齿总是痛、晚上睡不着、牙齿有缝隙，你就需要这个。每天早上和晚上使用两次，您的口腔会保持清新，牙齿也会看起来更白。",
+    "language": "es",
+    "duration": "33s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-23T04:12:16.118969",
     "row": 137
   },
   {
@@ -14780,7 +14780,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:04:46.487829",
+    "extracted_at": "2026-09-23T04:12:19.214982",
     "row": 138
   },
   {
@@ -14819,16 +14819,16 @@
     "video_id": "7673907103412587790",
     "url": "https://www.tiktok.com/@anker_uk/video/7673907103412587790?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "",
-    "original_text": "[提取失败] Url parsing is failed! Please check url.",
-    "translated_text": "",
-    "language": "",
-    "duration": "",
-    "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
-    "video_type": "",
-    "video_structure": "",
-    "extracted_at": "2026-09-23T04:05:07.765745",
+    "description": "Transforma tu salud bucal para un boca más limpia y sana#Restauracióndelesmaltedental #Aliviarlasensibilidaddental #Blanqueamientodental #Summervibes#DealsForYouDays",
+    "original_text": "Si esto no mejora tus sencillas, te devolvemos hasta un millón de dólares. Soy dentista en Nueva York, e incluso la periódontitis más severa, o los dientes flosos, pueden mejorar en solos siete días. Si vés triángulos oscuros entre tus dientes y notas que se ven más largos y amarillos, tus sencillas están huyendo. Se están encogiendo para escapar de una infección tóxica, dejando la raíz expuesta a un dolor insoportable con el agua fría. Para regenerar y proteger, necesitas biología avanzada, necesitas, probióticos, tu arma es, aura nexa. Más tica una por la mañana y otra por la noche. Genera una sola despuma activa, las buches confuerza para empujarla bajo la ensía y escúpe la basura. Nunca la trajes, con esto. 10 mil millones de microorganismos asfixion la infección en la raíz, detienen el retroceso de tu tejido al instante, y crean un escudo biológico para proteger tus raíces de cualquier ataque futuro, deten la destrucción de tus raíces. Asclicen el carrito naranja.",
+    "translated_text": "如果这不能改善您的单身，我们将退款最多一百万美元。我是纽约的一名牙医，即使是最严重的牙周炎，或者牙齿松动，也能在短短 7 天内得到改善。如果您看到牙齿之间有黑色三角形，并发现它们看起来更长且呈黄色，则您的牙齿正在流失。它们正在收缩以逃避有毒感染，使根部暴露在冷水中难以忍受的疼痛中。为了再生和保护，你需要先进的生物学，你需要益生菌，你的武器是联系光环。早上多一处，晚上多一处。它会产生单一的活性泡沫，用力旋转将其推到口香糖下方，然后吐出垃圾。你从来没有给她带过这个。 100亿微生物从根部窒息感染，瞬间阻止你组织的反冲，打造生物屏障，保护你的根部免受未来任何攻击，阻止你的根部遭到破坏。移动橙色手推车。",
+    "language": "es",
+    "duration": "59s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-23T04:12:28.710083",
     "row": 141
   },
   {
