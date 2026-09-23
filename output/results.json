@@ -7170,7 +7170,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7679015595370679559: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:35:52.613401",
+    "extracted_at": "2026-09-23T04:40:55.631863",
     "row": 101
   },
   {
@@ -7199,10 +7199,10 @@
     "language": "",
     "duration": "9s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-ve-4863-sg/oAM2MQApAIqfJ4fehNuejIW5sWBiiM8Q0ql9eV/?a=1988&bti=ODszNWYuMDE6&&bt=898&ft=aEeq8qT0mIoPD12xUW2I3wUKqBAbMeF~O5&mime_type=video_mp4&rc=PGc8NDM7N2RmaDllNmk0ZUBpM2Zua3A5cmw3ZDQzOGk1NUAyLWNeXl4uNmMxY2M2LjZjYSNgZmBkMmRrNF9hLS1kYzZzcw%3D%3D&expire=1790310962&l=20260923043553A8677FC4B7D2C7035C39&ply_type=2&policy=2&signature=9843079e60da4dc5ddab2f0460569ee2&tk=tt_chain_token&btag=e000b0000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-ve-4863-sg/oAM2MQApAIqfJ4fehNuejIW5sWBiiM8Q0ql9eV/?a=1988&bti=ODszNWYuMDE6&&bt=898&ft=aEeq8qT0mIoPD12QEW2I3wUAvzAbMeF~O5&mime_type=video_mp4&rc=PGc8NDM7N2RmaDllNmk0ZUBpM2Zua3A5cmw3ZDQzOGk1NUAyLWNeXl4uNmMxY2M2LjZjYSNgZmBkMmRrNF9hLS1kYzZzcw%3D%3D&expire=1790311265&l=202609230440568A205B629D5BFF0428DC&ply_type=2&policy=2&signature=ae8d9393f470aafd1f438b177f44f285&tk=tt_chain_token&btag=e000b0000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:35:53.650593",
+    "extracted_at": "2026-09-23T04:40:56.838409",
     "row": 105
   },
   {
@@ -7515,10 +7515,10 @@
     "language": "",
     "duration": "10s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-ve-4863-sg/o0ZGIcjiwBEFHUBdTfiyBe1Q6vUghB1RE2PYRi/?a=1988&bti=ODszNWYuMDE6&&bt=1058&ft=aEeq8qT0mIoPD12IUW2I3wUVSBAbMeF~O5&mime_type=video_mp4&rc=PDU1NjQ1ODs2PDk3ZmVmOkBpajRzOGw5cmp2ZDQzOGk1NEBiX18vMmNjNjYxLTItNTQ0YSNlNjNlMmQ0YTRhLS1kY2Bzcw%3D%3D&expire=1790310962&l=20260923043552A69846EAA648400344B6&ply_type=2&policy=2&signature=3d4f33f4c6bb85b45554a05a517dc1e5&tk=tt_chain_token&btag=e000b0000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-ve-4863-sg/o0ZGIcjiwBEFHUBdTfiyBe1Q6vUghB1RE2PYRi/?a=1988&bti=ODszNWYuMDE6&&bt=1058&ft=aEeq8qT0mIoPD12QEW2I3wUaPzAbMeF~O5&mime_type=video_mp4&rc=PDU1NjQ1ODs2PDk3ZmVmOkBpajRzOGw5cmp2ZDQzOGk1NEBiX18vMmNjNjYxLTItNTQ0YSNlNjNlMmQ0YTRhLS1kY2Bzcw%3D%3D&expire=1790311266&l=2026092304405559A7AC0CCA68EE03E8CC&ply_type=2&policy=2&signature=d42c7dd3ca88400ff9720e381c33b0ea&tk=tt_chain_token&btag=e000b0000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:35:53.134988",
+    "extracted_at": "2026-09-23T04:40:56.284978",
     "row": 103
   },
   {
@@ -9744,7 +9744,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7677503713711361288: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:35:51.519857",
+    "extracted_at": "2026-09-23T04:40:54.519590",
     "row": 65
   },
   {
@@ -11757,10 +11757,10 @@
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7684170697513487634: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+    "error_message": "yt-dlp failed: ERROR: [TikTok] 7684170697513487634: Your IP address is blocked from accessing this post",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:35:51.106380",
+    "extracted_at": "2026-09-23T04:40:53.643442",
     "row": 63
   },
   {
@@ -13785,10 +13785,10 @@
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7685244425534033170: Your IP address is blocked from accessing this post",
+    "error_message": "yt-dlp failed: ERROR: [TikTok] 7685244425534033170: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:35:49.609179",
+    "extracted_at": "2026-09-23T04:40:51.697169",
     "row": 14
   },
   {
@@ -13916,7 +13916,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7673558008269638933: Your IP address is blocked from accessing this post",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:35:50.157060",
+    "extracted_at": "2026-09-23T04:40:52.357342",
     "row": 29
   },
   {
@@ -14108,7 +14108,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7684164215124266257: Your IP address is blocked from accessing this post",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:35:50.565628",
+    "extracted_at": "2026-09-23T04:40:52.903167",
     "row": 54
   },
   {
@@ -14153,10 +14153,10 @@
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7673558014527343892: Your IP address is blocked from accessing this post",
+    "error_message": "yt-dlp failed: ERROR: [TikTok] 7673558014527343892: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:35:51.991158",
+    "extracted_at": "2026-09-23T04:40:55.050233",
     "row": 66
   },
   {
@@ -14476,7 +14476,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7678566222417464597: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:35:54.186266",
+    "extracted_at": "2026-09-23T04:40:57.368945",
     "row": 106
   },
   {
@@ -14508,7 +14508,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7677503340447616264: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:35:54.631189",
+    "extracted_at": "2026-09-23T04:40:58.035339",
     "row": 108
   },
   {
@@ -14540,7 +14540,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7677503294209543440: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:35:55.117421",
+    "extracted_at": "2026-09-23T04:40:58.548182",
     "row": 113
   },
   {
@@ -14585,10 +14585,10 @@
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7685247033246059784: Your IP address is blocked from accessing this post",
+    "error_message": "yt-dlp failed: ERROR: [TikTok] 7685247033246059784: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:35:55.527421",
+    "extracted_at": "2026-09-23T04:40:59.207910",
     "row": 116
   },
   {
@@ -14604,7 +14604,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7677503756753210625: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:35:55.996693",
+    "extracted_at": "2026-09-23T04:40:59.753591",
     "row": 117
   },
   {
@@ -14652,23 +14652,23 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7678565188060089620: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:35:56.446111",
+    "extracted_at": "2026-09-23T04:41:00.276452",
     "row": 122
   },
   {
     "video_id": "7676447290281970952",
     "url": "https://www.tiktok.com/@anker_uk/video/7676447290281970952?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "Presiona, cepilla y enjuaga. Así de fácil es usar esta espuma dental ...",
-    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "description": "",
+    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7676447290281970952",
     "translated_text": "",
     "language": "",
-    "duration": "51s",
+    "duration": "",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oUDiIjfdQQsDqFDCzZmBAsUhEiEBPIzgVeqgVT/?a=1988&bti=ODszNWYuMDE6&&bt=560&ft=aEeq8qT0mIoPD12PUW2I3wUXcCAbMeF~O5&mime_type=video_mp4&rc=aTs8Z2QzZzYzNmVkaDg2NkBpamY0cG05cnU2ZDMzODgzNEA1L2JiLjUtXjYxYGMvLTBfYSNkcWE1MmQ0YjFhLS1kLzFzcw%3D%3D&expire=1790311007&l=20260923043556B1AAF3275160C202A8DE&ply_type=2&policy=2&signature=a5c081e0d5145cc773d6e2dc3578ae2a&tk=tt_chain_token&btag=e000c8000",
+    "error_message": "yt-dlp failed: ERROR: [TikTok] 7676447290281970952: Your IP address is blocked from accessing this post",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:35:56.984098",
+    "extracted_at": "2026-09-23T04:41:00.851501",
     "row": 123
   },
   {
@@ -14697,10 +14697,10 @@
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7685244416654658837: Your IP address is blocked from accessing this post",
+    "error_message": "yt-dlp failed: ERROR: [TikTok] 7685244416654658837: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:35:57.456964",
+    "extracted_at": "2026-09-23T04:41:01.453626",
     "row": 126
   },
   {
@@ -14780,7 +14780,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7684173651494620424: Your IP address is blocked from accessing this post",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-23T04:35:57.937098",
+    "extracted_at": "2026-09-23T04:41:02.066776",
     "row": 138
   },
   {
