@@ -443,12 +443,12 @@ def main() -> int:
             log("飞书每日余额播报已推送（个人）")
         except Exception as e:
             log(f"飞书每日播报推送失败（个人）：{e}")
-    if group_webhook and summary["any_alert"]:
+    if group_webhook:
         try:
-            send_feishu(group_webhook, build_feishu_msg(results, True, required_days, extra_days, group_mode=True))
-            log("飞书告警已推送（大群）")
+            send_feishu(group_webhook, build_daily_msg(results, required_days, extra_days))
+            log("飞书每日余额播报已推送（大群）")
         except Exception as e:
-            log(f"飞书告警推送失败（大群）：{e}")
+            log(f"飞书每日播报推送失败（大群）：{e}")
     if not webhook and not group_webhook:
         log("未配置任何飞书 Webhook，跳过推送")
         return 1 if summary["any_alert"] else 0
