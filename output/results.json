@@ -10908,7 +10908,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7683953147810811167: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:08.705600",
+    "extracted_at": "2026-09-30T06:16:18.692733",
     "row": 100
   },
   {
@@ -13036,7 +13036,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685705757685288205: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:10:57.916556",
+    "extracted_at": "2026-09-30T06:16:06.651596",
     "row": 83
   },
   {
@@ -13052,7 +13052,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685697515269655821: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:10:54.829697",
+    "extracted_at": "2026-09-30T06:16:03.365962",
     "row": 103
   },
   {
@@ -13084,7 +13084,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685418100178570510: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:10:59.245106",
+    "extracted_at": "2026-09-30T06:16:07.831400",
     "row": 133
   },
   {
@@ -13113,10 +13113,10 @@
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "yt-dlp failed: ERROR: [TikTok] 7685518463514823967: Your IP address is blocked from accessing this post",
+    "error_message": "yt-dlp failed: ERROR: [TikTok] 7685518463514823967: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:12.816798",
+    "extracted_at": "2026-09-30T06:16:23.944330",
     "row": 114
   },
   {
@@ -13164,7 +13164,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685716970041281822: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:08.264481",
+    "extracted_at": "2026-09-30T06:16:17.999551",
     "row": 98
   },
   {
@@ -13212,7 +13212,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7686117310846782750: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:04.626812",
+    "extracted_at": "2026-09-30T06:16:14.903239",
     "row": 107
   },
   {
@@ -13228,7 +13228,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7684616885756841230: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:03.671507",
+    "extracted_at": "2026-09-30T06:16:13.668751",
     "row": 91
   },
   {
@@ -13356,7 +13356,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7684872725583711519: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:11.807932",
+    "extracted_at": "2026-09-30T06:16:22.807383",
     "row": 112
   },
   {
@@ -13452,7 +13452,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685717490864770334: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:07.122668",
+    "extracted_at": "2026-09-30T06:16:17.465447",
     "row": 95
   },
   {
@@ -13548,7 +13548,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7684596830499360014: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:15.769519",
+    "extracted_at": "2026-09-30T06:16:28.042004",
     "row": 134
   },
   {
@@ -15612,7 +15612,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7689100845140413726: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:10:53.135775",
+    "extracted_at": "2026-09-30T06:16:00.587919",
     "row": 6
   },
   {
@@ -15628,7 +15628,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7689036095165713678: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:10:53.834793",
+    "extracted_at": "2026-09-30T06:16:02.212253",
     "row": 37
   },
   {
@@ -15660,7 +15660,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685698580966853902: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:10:54.308938",
+    "extracted_at": "2026-09-30T06:16:02.764050",
     "row": 79
   },
   {
@@ -15692,7 +15692,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7689057916082605343: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:10:55.754925",
+    "extracted_at": "2026-09-30T06:16:04.245737",
     "row": 53
   },
   {
@@ -15740,7 +15740,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7688297656405282062: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:10:56.289129",
+    "extracted_at": "2026-09-30T06:16:04.969539",
     "row": 115
   },
   {
@@ -15756,7 +15756,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7689001773654166815: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:10:56.759754",
+    "extracted_at": "2026-09-30T06:16:05.548597",
     "row": 16
   },
   {
@@ -15804,7 +15804,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7689103263286758686: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:10:57.282641",
+    "extracted_at": "2026-09-30T06:16:06.113399",
     "row": 88
   },
   {
@@ -15852,7 +15852,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7688453970347511071: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:10:58.832277",
+    "extracted_at": "2026-09-30T06:16:07.211726",
     "row": 77
   },
   {
@@ -15948,7 +15948,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7687557765329341726: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:10:59.794175",
+    "extracted_at": "2026-09-30T06:16:08.451309",
     "row": 128
   },
   {
@@ -15980,7 +15980,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685339059094310158: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:00.416427",
+    "extracted_at": "2026-09-30T06:16:09.117396",
     "row": 130
   },
   {
@@ -15996,7 +15996,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7688239178290613534: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:01.138111",
+    "extracted_at": "2026-09-30T06:16:09.870076",
     "row": 54
   },
   {
@@ -16028,7 +16028,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7688910415799127326: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:01.627842",
+    "extracted_at": "2026-09-30T06:16:11.332657",
     "row": 35
   },
   {
@@ -16076,7 +16076,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7686825668864134430: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:02.048598",
+    "extracted_at": "2026-09-30T06:16:11.857248",
     "row": 66
   },
   {
@@ -16092,7 +16092,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7689021926508907807: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:02.582388",
+    "extracted_at": "2026-09-30T06:16:12.423202",
     "row": 85
   },
   {
@@ -16156,7 +16156,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7688301919625825567: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:03.144083",
+    "extracted_at": "2026-09-30T06:16:13.063109",
     "row": 70
   },
   {
@@ -16300,7 +16300,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7689033801325874446: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:04.195978",
+    "extracted_at": "2026-09-30T06:16:14.355593",
     "row": 108
   },
   {
@@ -16364,7 +16364,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7690170477259574558: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:05.123021",
+    "extracted_at": "2026-09-30T06:16:15.480447",
     "row": 62
   },
   {
@@ -16684,7 +16684,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7686830867905285407: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:05.625091",
+    "extracted_at": "2026-09-30T06:16:16.245537",
     "row": 125
   },
   {
@@ -16700,7 +16700,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7688705633951993118: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:06.542229",
+    "extracted_at": "2026-09-30T06:16:16.917234",
     "row": 90
   },
   {
@@ -16796,7 +16796,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7689470143532928286: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:09.326283",
+    "extracted_at": "2026-09-30T06:16:19.432722",
     "row": 101
   },
   {
@@ -16812,7 +16812,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7686815393775635742: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:09.872770",
+    "extracted_at": "2026-09-30T06:16:20.110251",
     "row": 104
   },
   {
@@ -16828,7 +16828,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7688240152107322655: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:10.378146",
+    "extracted_at": "2026-09-30T06:16:20.840081",
     "row": 105
   },
   {
@@ -16860,7 +16860,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7687935006374661407: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:10.841839",
+    "extracted_at": "2026-09-30T06:16:21.468340",
     "row": 110
   },
   {
@@ -16876,7 +16876,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7690150095030881550: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:11.347342",
+    "extracted_at": "2026-09-30T06:16:22.095633",
     "row": 111
   },
   {
@@ -16892,7 +16892,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7687611148153130271: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:12.235307",
+    "extracted_at": "2026-09-30T06:16:23.397424",
     "row": 113
   },
   {
@@ -16908,7 +16908,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7689001973168753951: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:13.250444",
+    "extracted_at": "2026-09-30T06:16:24.501733",
     "row": 118
   },
   {
@@ -16940,7 +16940,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7688307092720995614: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:13.909950",
+    "extracted_at": "2026-09-30T06:16:25.075654",
     "row": 120
   },
   {
@@ -16956,7 +16956,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7688472865641073951: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:14.372520",
+    "extracted_at": "2026-09-30T06:16:26.173339",
     "row": 121
   },
   {
@@ -16972,7 +16972,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7687986245598792973: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:14.939078",
+    "extracted_at": "2026-09-30T06:16:26.774293",
     "row": 123
   },
   {
@@ -16988,7 +16988,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7689827643918699797: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T06:11:15.359674",
+    "extracted_at": "2026-09-30T06:16:27.331395",
     "row": 124
   }
 ]
