@@ -10908,7 +10908,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:38:31.165252",
+    "extracted_at": "2026-09-30T02:44:40.522344",
     "row": 100
   },
   {
@@ -13036,7 +13036,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:37:13.843592",
+    "extracted_at": "2026-09-30T02:42:51.721831",
     "row": 83
   },
   {
@@ -13052,8 +13052,8 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:36:54.899500",
-    "row": 78
+    "extracted_at": "2026-09-30T02:44:51.019752",
+    "row": 103
   },
   {
     "video_id": "7684392072140393759",
@@ -13084,7 +13084,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:38:20.549375",
+    "extracted_at": "2026-09-30T02:43:30.180371",
     "row": 97
   },
   {
@@ -13164,7 +13164,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:38:24.123919",
+    "extracted_at": "2026-09-30T02:44:36.680263",
     "row": 98
   },
   {
@@ -13212,8 +13212,8 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:35:28.542969",
-    "row": 59
+    "extracted_at": "2026-09-30T02:45:06.263427",
+    "row": 107
   },
   {
     "video_id": "7684616885756841230",
@@ -13228,7 +13228,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:37:49.893980",
+    "extracted_at": "2026-09-30T02:44:02.681686",
     "row": 91
   },
   {
@@ -13452,7 +13452,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:38:12.810868",
+    "extracted_at": "2026-09-30T02:44:33.405356",
     "row": 95
   },
   {
@@ -15612,8 +15612,8 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:31:18.264593",
-    "row": 2
+    "extracted_at": "2026-09-30T02:41:02.049809",
+    "row": 6
   },
   {
     "video_id": "7689036095165713678",
@@ -15628,8 +15628,8 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:31:22.085360",
-    "row": 3
+    "extracted_at": "2026-09-30T02:41:05.532432",
+    "row": 37
   },
   {
     "video_id": "7689036095165713678",
@@ -15660,8 +15660,8 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:31:29.564975",
-    "row": 5
+    "extracted_at": "2026-09-30T02:41:09.317793",
+    "row": 79
   },
   {
     "video_id": "7689100845140413726",
@@ -15692,8 +15692,8 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:31:40.945551",
-    "row": 8
+    "extracted_at": "2026-09-30T02:41:16.488557",
+    "row": 53
   },
   {
     "video_id": "7689057916082605343",
@@ -15724,8 +15724,8 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:31:48.293829",
-    "row": 10
+    "extracted_at": "2026-09-30T02:41:20.107390",
+    "row": 56
   },
   {
     "video_id": "7688297656405282062",
@@ -15740,8 +15740,8 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:31:51.674167",
-    "row": 11
+    "extracted_at": "2026-09-30T02:41:23.860740",
+    "row": 21
   },
   {
     "video_id": "7689001773654166815",
@@ -15756,8 +15756,8 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:31:55.525787",
-    "row": 12
+    "extracted_at": "2026-09-30T02:41:38.759265",
+    "row": 16
   },
   {
     "video_id": "7689001773654166815",
@@ -15779,17 +15779,17 @@
     "video_id": "7687526284045438238",
     "url": "https://www.tiktok.com/@anker_uk/video/7687526284045438238?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "¡Sin necesidad de tiras blanqueadoras! Con solo anduna pasta dental de calidad con niacinamida, puedes conseguir dientes más blancos y brillantes 🦷✨ #CuidadDental #BlanqueamientoDental #PastaDental #CuidadoBucal #Niacinamida",
-    "original_text": "Escupir sangre en el lavabo no es de machos, es dependejos que nos cuidan. Esa sangre es un pinche grito de auxilio de tus sencillas, están infectadas y hechas mierda. Hay unas bacterias yjas de puta que se están dando un festín con tus sencillas, por eso se inflaman y sangran con solo mirarlas. Es el primer aviso antes de que tus dientes empiezen a bailar y se te caigan de los hico. Necesitas hacer una pinche limpieza profunda. Necesitas una barrida de probióticos, un chingo de bacterias buenas, que llegan y sacan apatadas a las culeras que causan la gingivitis, o en orden en ese desmadre. Las pastillas auranesa son como mandar a las fuerzas especiales, liberan los probióticos justo en la zona del besastre. Deja de hacerte pendejo y haz clic en el carrito naranja, antes de que sea muy tarde.",
-    "translated_text": "在水槽里吐血不是男子气概，而是照顾我们的家属。那血是你们这些简单人的求救声，他们被感染了，搞砸了。有一些该死的细菌正在以你的简单细菌为食，这就是为什么它们只要看到它们就会发炎和流血。这是您的牙齿开始跳舞和脱落之前的第一个警告。你需要做一次深度清洁。你需要大量的益生菌，大量的有益细菌，它们可以清除引起牙龈炎的细菌，或者按顺序清除这些细菌。 Auranesa 药丸就像指挥特种部队一样，它们在接吻区域释放益生菌。别再做个白痴了，在为时已晚之前点击橙色购物车。",
-    "language": "es",
-    "duration": "43s",
-    "status": "success",
-    "error_message": "",
-    "video_type": "达人视频",
-    "video_structure": "达人口播",
-    "extracted_at": "2026-09-30T02:32:11.497485",
-    "row": 14
+    "description": "",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
+    "translated_text": "",
+    "language": "",
+    "duration": "",
+    "status": "error",
+    "error_message": "Url parsing is failed! Please check url.",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-09-30T02:45:02.462312",
+    "row": 106
   },
   {
     "video_id": "7689103263286758686",
@@ -15804,8 +15804,8 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:32:15.186197",
-    "row": 15
+    "extracted_at": "2026-09-30T02:41:51.287665",
+    "row": 88
   },
   {
     "video_id": "7689001773654166815",
@@ -15827,17 +15827,17 @@
     "video_id": "7686530394556222751",
     "url": "https://www.tiktok.com/@anker_uk/video/7686530394556222751?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "",
-    "original_text": "[提取失败] Url parsing is failed! Please check url.",
-    "translated_text": "",
-    "language": "",
-    "duration": "",
-    "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
-    "video_type": "",
-    "video_structure": "",
-    "extracted_at": "2026-09-30T02:32:23.489021",
-    "row": 17
+    "description": "#tiktokshopstockup #gingivitis #gingivalrecession #gum #tooth ",
+    "original_text": "No importa si llevas 10 o 100 años con problemas de encias. Ya sea retracción de las encias, inflamación, enrogesimiento o sangrado al cepillarte, este gel reparador para las encias puede ayudarte. Primero, ayuda a eliminar las bacterias de las encias y luego ayuda a prevenir que la inflamación vuelva a aparecer. Aplica lo por la mañana y por la noche y mantener un cuidado constante para unas encias más saludables. Haz clic en el icono amarillo del carrito de compras y compra lo ahora.",
+    "translated_text": "无论您的牙龈问题已有 10 年还是 100 年，都没有关系。无论是牙龈萎缩、发炎、发红还是刷牙时出血，这款牙龈修复凝胶都能提供帮助。首先，它有助于消除牙龈中的细菌，然后有助于防止炎症复发。早晚涂抹，持续护理，保持牙龈健康。单击黄色购物车图标并立即购买。",
+    "language": "es",
+    "duration": "29s",
+    "status": "success",
+    "error_message": "",
+    "video_type": "达人视频",
+    "video_structure": "达人口播",
+    "extracted_at": "2026-09-30T02:42:33.854384",
+    "row": 81
   },
   {
     "video_id": "7688453970347511071",
@@ -15852,8 +15852,8 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:32:34.301216",
-    "row": 20
+    "extracted_at": "2026-09-30T02:43:26.321873",
+    "row": 77
   },
   {
     "video_id": "7688297656405282062",
@@ -15948,8 +15948,8 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:33:01.218820",
-    "row": 27
+    "extracted_at": "2026-09-30T02:43:33.916663",
+    "row": 67
   },
   {
     "video_id": "7688669407840685326",
@@ -15964,7 +15964,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:33:12.924004",
+    "extracted_at": "2026-09-30T02:43:37.452100",
     "row": 30
   },
   {
@@ -15980,8 +15980,8 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:33:20.036234",
-    "row": 32
+    "extracted_at": "2026-09-30T02:43:41.233930",
+    "row": 87
   },
   {
     "video_id": "7688239178290613534",
@@ -15996,8 +15996,8 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:33:23.461026",
-    "row": 33
+    "extracted_at": "2026-09-30T02:43:44.682451",
+    "row": 54
   },
   {
     "video_id": "7688239178290613534",
@@ -16028,7 +16028,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:33:31.490701",
+    "extracted_at": "2026-09-30T02:43:48.278177",
     "row": 35
   },
   {
@@ -16076,8 +16076,8 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:33:47.184823",
-    "row": 39
+    "extracted_at": "2026-09-30T02:43:51.789821",
+    "row": 66
   },
   {
     "video_id": "7689021926508907807",
@@ -16092,24 +16092,24 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:33:54.861815",
-    "row": 41
+    "extracted_at": "2026-09-30T02:43:55.690229",
+    "row": 85
   },
   {
     "video_id": "7687911903556865310",
     "url": "https://www.tiktok.com/@anker_uk/video/7687911903556865310?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "If you also have hemorrhoids problems, try this small blue tube. It works wel #fyp #tiktokshop #hemorrhoid #Hemorrhoid #care",
-    "original_text": "Usa lo una vez y tu moleste ya no estarán rojas, inchada ni sangrarán. Usa lo dos veces y esa inflamación comenzará a desinflamarse por completo. Tras siete días esa zona volverás a sentirse firme, sana y completamente normal. Cuánto más grave sea tu problema de morroides mejor será el efecto. Esta tecnología desarrollada en Alemania con vinal y docaína de alta concentración con ingredientes herbales naturales, logrando un efecto 10 veces superior de las tremas convencionales. Si alguien dice que las tremas no funcionan es porque nunca probaron una fórmula alemana real. Ya no tendrá que pasar por cirugía dolorosas ni citas interminables con especialistas. Si no te funciona, te devolvemos todo tu dinero sin preguntas. Asclicen en el enlace de abajo ahora mismo, 50% de descuento por tiempo limitado, producto 100% auténtico garantizado.",
-    "translated_text": "使用一次，你的不适就不再是红、肿、流血了。使用两次，炎症就会开始完全消退。 7 天后，该区域会再次感觉紧实、健康且完全正常。你的病态问题越严重，效果就越好。这项技术是在德国开发的，采用高浓度的维林和多卡因，以及天然草本成分，效果比传统药物高10倍。如果有人说 Tremas 不起作用，那是因为他们从未尝试过真正的德国配方。您将不再需要经历痛苦的​​手术或无休止地与专家预约。如果它不适合您，我们将无条件退还您所有的钱。现在点击下面的链接，限时50%折扣，100%正品保证。",
-    "language": "es",
-    "duration": "91s",
-    "status": "success",
-    "error_message": "",
-    "video_type": "达人视频",
-    "video_structure": "达人口播",
-    "extracted_at": "2026-09-30T02:34:06.505994",
-    "row": 42
+    "description": "",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
+    "translated_text": "",
+    "language": "",
+    "duration": "",
+    "status": "error",
+    "error_message": "Url parsing is failed! Please check url.",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-09-30T02:44:19.071360",
+    "row": 99
   },
   {
     "video_id": "7689057916082605343",
@@ -16156,8 +16156,8 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:34:17.472555",
-    "row": 45
+    "extracted_at": "2026-09-30T02:43:59.080348",
+    "row": 70
   },
   {
     "video_id": "7688301919625825567",
@@ -16300,8 +16300,8 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:35:02.358095",
-    "row": 55
+    "extracted_at": "2026-09-30T02:45:09.556384",
+    "row": 108
   },
   {
     "video_id": "7687987884405624078",
@@ -16364,7 +16364,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:35:47.515719",
+    "extracted_at": "2026-09-30T02:44:15.377597",
     "row": 62
   },
   {
@@ -16684,7 +16684,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:37:41.462462",
+    "extracted_at": "2026-09-30T02:44:22.584154",
     "row": 89
   },
   {
@@ -16700,7 +16700,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:37:45.550978",
+    "extracted_at": "2026-09-30T02:44:26.085512",
     "row": 90
   },
   {
@@ -16732,7 +16732,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:38:02.703556",
+    "extracted_at": "2026-09-30T02:44:29.673805",
     "row": 93
   },
   {
@@ -16796,7 +16796,71 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-09-30T02:38:35.182019",
+    "extracted_at": "2026-09-30T02:44:43.823330",
     "row": 101
+  },
+  {
+    "video_id": "7686815393775635742",
+    "url": "https://www.tiktok.com/@anker_uk/video/7686815393775635742?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
+    "translated_text": "",
+    "language": "",
+    "duration": "",
+    "status": "error",
+    "error_message": "Url parsing is failed! Please check url.",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-09-30T02:44:54.533619",
+    "row": 104
+  },
+  {
+    "video_id": "7688240152107322655",
+    "url": "https://www.tiktok.com/@anker_uk/video/7688240152107322655?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
+    "translated_text": "",
+    "language": "",
+    "duration": "",
+    "status": "error",
+    "error_message": "Url parsing is failed! Please check url.",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-09-30T02:44:58.934022",
+    "row": 105
+  },
+  {
+    "video_id": "7686825503524654366",
+    "url": "https://www.tiktok.com/@anker_uk/video/7686825503524654366?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
+    "translated_text": "",
+    "language": "",
+    "duration": "",
+    "status": "error",
+    "error_message": "Url parsing is failed! Please check url.",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-09-30T02:45:12.914549",
+    "row": 109
+  },
+  {
+    "video_id": "7687935006374661407",
+    "url": "https://www.tiktok.com/@anker_uk/video/7687935006374661407?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "",
+    "original_text": "[提取失败] Url parsing is failed! Please check url.",
+    "translated_text": "",
+    "language": "",
+    "duration": "",
+    "status": "error",
+    "error_message": "Url parsing is failed! Please check url.",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-09-30T02:45:16.961669",
+    "row": 110
   }
 ]
