@@ -10924,7 +10924,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7682768342599470350: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:27.686300",
+    "extracted_at": "2026-10-23T03:26:04.645727",
     "row": 34
   },
   {
@@ -11145,10 +11145,10 @@
     "language": "",
     "duration": "119s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/oAgtjE0fjVETdqI2CcDJTeF6sMWRAAhQOe7XII/?a=1988&bti=ODszNWYuMDE6&&bt=810&ft=aEeq8qT0mIoPD12idd6I3wUMOZAbMeF~O5&mime_type=video_mp4&rc=OmRoNDRpOmg2NTNnNmg6PEBpM3Bybmo5cjR3ZDMzaTczNEA1Xi0tYDJjXmAxYWJfX19hYSNxZ2FnMmQ0Y2VhLS1kMTJzcw%3D%3D&expire=1792898327&l=20261023031648EF171CC4C067C81C1D50&ply_type=2&policy=2&signature=57e3bc16edbf86b74e375da1f1ab05b6&tk=tt_chain_token&btag=e00090000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/oAgtjE0fjVETdqI2CcDJTeF6sMWRAAhQOe7XII/?a=1988&bti=ODszNWYuMDE6&&bt=810&ft=4KJMyMzm8Zmo0D-RTa4jVE-ZQpWrKsd.&mime_type=video_mp4&rc=OmRoNDRpOmg2NTNnNmg6PEBpM3Bybmo5cjR3ZDMzaTczNEA1Xi0tYDJjXmAxYWJfX19hYSNxZ2FnMmQ0Y2VhLS1kMTJzcw%3D%3D&expire=1792898885&l=20261023032606BB583C58F73EE8136357&ply_type=2&policy=2&signature=5f811bf3fe97e10a8ff060525aab0916&tk=tt_chain_token&btag=e00090000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:49.029981",
+    "extracted_at": "2026-10-23T03:26:06.626287",
     "row": 38
   },
   {
@@ -13036,7 +13036,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685705757685288205: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:10:54.205333",
+    "extracted_at": "2026-10-23T03:25:56.696887",
     "row": 11
   },
   {
@@ -13052,7 +13052,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685697515269655821: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:13:45.591668",
+    "extracted_at": "2026-10-23T03:26:00.160201",
     "row": 22
   },
   {
@@ -15612,7 +15612,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7689100845140413726: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:14:08.308893",
+    "extracted_at": "2026-10-23T03:26:00.848148",
     "row": 23
   },
   {
@@ -15628,7 +15628,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7689036095165713678: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:12:18.073315",
+    "extracted_at": "2026-10-23T03:25:58.628022",
     "row": 18
   },
   {
@@ -15660,7 +15660,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685698580966853902: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:57.086850",
+    "extracted_at": "2026-10-23T03:26:12.720255",
     "row": 56
   },
   {
@@ -15692,7 +15692,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7689057916082605343: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:59.114490",
+    "extracted_at": "2026-10-23T03:26:14.368896",
     "row": 60
   },
   {
@@ -15740,7 +15740,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7688297656405282062: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:55.892284",
+    "extracted_at": "2026-10-23T03:26:12.127710",
     "row": 54
   },
   {
@@ -15756,7 +15756,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7689001773654166815: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:11:57.673924",
+    "extracted_at": "2026-10-23T03:25:57.888327",
     "row": 17
   },
   {
@@ -15804,7 +15804,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7689103263286758686: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:11:15.241568",
+    "extracted_at": "2026-10-23T03:25:57.281064",
     "row": 13
   },
   {
@@ -15948,7 +15948,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7687557765329341726: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:12:38.401965",
+    "extracted_at": "2026-10-23T03:25:59.097022",
     "row": 19
   },
   {
@@ -15980,7 +15980,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7685339059094310158: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:13:01.083271",
+    "extracted_at": "2026-10-23T03:25:59.627135",
     "row": 20
   },
   {
@@ -15996,7 +15996,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7688239178290613534: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:52.521561",
+    "extracted_at": "2026-10-23T03:26:09.091932",
     "row": 44
   },
   {
@@ -16028,7 +16028,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7688910415799127326: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:54.242151",
+    "extracted_at": "2026-10-23T03:26:10.339707",
     "row": 49
   },
   {
@@ -16076,7 +16076,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7686825668864134430: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:53.670826",
+    "extracted_at": "2026-10-23T03:26:09.859973",
     "row": 48
   },
   {
@@ -16092,7 +16092,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7689021926508907807: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:50.013101",
+    "extracted_at": "2026-10-23T03:26:07.159162",
     "row": 39
   },
   {
@@ -17580,7 +17580,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7687141011977489694: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:55.385129",
+    "extracted_at": "2026-10-23T03:26:11.470774",
     "row": 51
   },
   {
@@ -17788,7 +17788,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7688463946566831391: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:51.216194",
+    "extracted_at": "2026-10-23T03:26:08.428630",
     "row": 41
   },
   {
@@ -19260,7 +19260,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7691318375250808077: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:54.744834",
+    "extracted_at": "2026-10-23T03:26:10.818014",
     "row": 50
   },
   {
@@ -19292,7 +19292,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7691117657751391496: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:15:08.004909",
+    "extracted_at": "2026-10-23T03:26:02.375583",
     "row": 26
   },
   {
@@ -19324,7 +19324,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7690515434675686670: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:15:51.853493",
+    "extracted_at": "2026-10-23T03:26:03.714720",
     "row": 29
   },
   {
@@ -19356,7 +19356,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7691951265810484511: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:58.555751",
+    "extracted_at": "2026-10-23T03:26:13.717648",
     "row": 59
   },
   {
@@ -19452,7 +19452,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7691260215617981709: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:14:47.586293",
+    "extracted_at": "2026-10-23T03:26:01.940910",
     "row": 25
   },
   {
@@ -19484,7 +19484,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7690529128600161567: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:59.816884",
+    "extracted_at": "2026-10-23T03:26:15.026302",
     "row": 64
   },
   {
@@ -19500,7 +19500,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7692107780127214879: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:01.269628",
+    "extracted_at": "2026-10-23T03:26:15.970735",
     "row": 66
   },
   {
@@ -19724,7 +19724,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7691120501636271378: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:50.695103",
+    "extracted_at": "2026-10-23T03:26:07.712706",
     "row": 40
   },
   {
@@ -22652,7 +22652,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7696839179292003615: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:14:28.520947",
+    "extracted_at": "2026-10-23T03:26:01.429319",
     "row": 24
   },
   {
@@ -22716,7 +22716,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7687138503758482719: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:15:09.617420",
+    "extracted_at": "2026-10-23T03:26:02.878882",
     "row": 28
   },
   {
@@ -22732,7 +22732,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7697691527698533663: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:11.485131",
+    "extracted_at": "2026-10-23T03:26:04.174593",
     "row": 31
   },
   {
@@ -22796,7 +22796,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7696841617495346462: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:39.656469",
+    "extracted_at": "2026-10-23T03:26:05.081977",
     "row": 36
   },
   {
@@ -22812,7 +22812,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7695464293688560926: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:46.430297",
+    "extracted_at": "2026-10-23T03:26:05.996461",
     "row": 37
   },
   {
@@ -22972,7 +22972,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7696084696639278366: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:16:58.072186",
+    "extracted_at": "2026-10-23T03:26:13.216871",
     "row": 58
   },
   {
@@ -23100,7 +23100,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7687562611797413150: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:00.451136",
+    "extracted_at": "2026-10-23T03:26:15.513284",
     "row": 65
   },
   {
@@ -23276,7 +23276,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7697188612475014406: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:05.905711",
+    "extracted_at": "2026-10-23T03:26:16.609976",
     "row": 77
   },
   {
@@ -23308,7 +23308,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7697188619462790408: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:07.333656",
+    "extracted_at": "2026-10-23T03:26:17.381440",
     "row": 79
   },
   {
@@ -23468,7 +23468,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7697643864122854676: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:12.956128",
+    "extracted_at": "2026-10-23T03:26:17.974914",
     "row": 89
   },
   {
@@ -23516,7 +23516,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7697339873102925076: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:15.158768",
+    "extracted_at": "2026-10-23T03:26:18.596530",
     "row": 92
   },
   {
@@ -23545,10 +23545,10 @@
     "language": "",
     "duration": "44s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/ooGtXAjtaWzUcEVDD5gARX8mlXcWiPAIBQwiE/?a=1988&bti=ODszNWYuMDE6&&bt=711&ft=4KJMyMzm8Zmo0_RRTa4jV6hedpWrKsd.&mime_type=video_mp4&rc=ZjY3Ozg5ZmY0ZWY6N2hnOkBpM20zOGo5cnFrZTMzaTgzNEBgYDNgYy0yXy0xXzIxYC5iYSNfNjFiMmQ0YF9hLS1kLzJzcw%3D%3D&expire=1792898280&l=202610230317163D5C25652B8D171C8882&ply_type=2&policy=2&signature=825a76724c170a8fd1c58707b113f003&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c004-tx2/ooGtXAjtaWzUcEVDD5gARX8mlXcWiPAIBQwiE/?a=1988&bti=ODszNWYuMDE6&&bt=711&ft=aEeq8qT0mIoPD12p7d6I3wUgqBAbMeF~O5&mime_type=video_mp4&rc=ZjY3Ozg5ZmY0ZWY6N2hnOkBpM20zOGo5cnFrZTMzaTgzNEBgYDNgYy0yXy0xXzIxYC5iYSNfNjFiMmQ0YF9hLS1kLzJzcw%3D%3D&expire=1792898822&l=202610230326186221821D7864061352BF&ply_type=2&policy=2&signature=3f6448fc92796a4b0ddc22cceec2dafe&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:16.655660",
+    "extracted_at": "2026-10-23T03:26:19.157815",
     "row": 94
   },
   {
@@ -23609,10 +23609,10 @@
     "language": "",
     "duration": "32s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/o8dzDf3xwEaSIjg16gqgFB5QQaBhEfHyPDPG03/?a=1988&bti=ODszNWYuMDE6&&bt=885&ft=aEeq8qT0mIoPD12_Fd6I3wU2gLAbMeF~O5&mime_type=video_mp4&rc=Zjc1NzM4aTtoNjo3NDk2ZUBpanQ7cXU5cnY0ZTQzZzM2NEBjNS9fXy1eXy0xYzE0NjNfYSNwNDRyMmRjYjRhLS1kLS9zcw%3D%3D&expire=1792898273&l=202610230317212C4709BBF0F0781C7465&ply_type=2&policy=2&signature=79fec72687144718d48e9042936632f4&tk=tt_chain_token&btag=e000c8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/o8dzDf3xwEaSIjg16gqgFB5QQaBhEfHyPDPG03/?a=1988&bti=ODszNWYuMDE6&&bt=885&ft=aEeq8qT0mIoPD12w7d6I3wUeMJAbMeF~O5&mime_type=video_mp4&rc=Zjc1NzM4aTtoNjo3NDk2ZUBpanQ7cXU5cnY0ZTQzZzM2NEBjNS9fXy1eXy0xYzE0NjNfYSNwNDRyMmRjYjRhLS1kLS9zcw%3D%3D&expire=1792898812&l=20261023032619311416EFD4B63C133B9E&ply_type=2&policy=2&signature=f05d500d773eb80e9a8026bf7cf3b4f9&tk=tt_chain_token&btag=e000c8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:21.642745",
+    "extracted_at": "2026-10-23T03:26:20.294609",
     "row": 102
   },
   {
@@ -23625,10 +23625,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c004-tx/oUIFMVcEqCJEgAreplEAXLIHrdGzAmQxfegdOk/?a=1988&bti=ODszNWYuMDE6&&bt=1007&ft=aEeq8qT0mIoPD122Fd6I3wU8W_AbMeF~O5&mime_type=video_mp4&rc=aGlpaTlnZzVpaWZpZzQ3OEBpMzNveXQ5cnU3ZTMzZzgzNEBjXmIzYjE2XjQxNS9eMWA2YSNkbGhjMmRrbjNhLS1kLy9zcw%3D%3D&expire=1792898275&l=202610230317216FA96891FC065320420F&ply_type=2&policy=2&signature=b06ebda39be9b3bdc3b96e1ac717762e&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c004-tx/oUIFMVcEqCJEgAreplEAXLIHrdGzAmQxfegdOk/?a=1988&bti=ODszNWYuMDE6&&bt=1007&ft=aEeq8qT0mIoPD12w7d6I3wUSrBAbMeF~O5&mime_type=video_mp4&rc=aGlpaTlnZzVpaWZpZzQ3OEBpMzNveXQ5cnU3ZTMzZzgzNEBjXmIzYjE2XjQxNS9eMWA2YSNkbGhjMmRrbjNhLS1kLy9zcw%3D%3D&expire=1792898813&l=20261023032620F3DE006352C17913997C&ply_type=2&policy=2&signature=e3d88614e4cd0a09afbfc235838c8d72&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:22.233499",
+    "extracted_at": "2026-10-23T03:26:20.775346",
     "row": 103
   },
   {
@@ -23641,10 +23641,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c003-tx/ocQY7AkMVCzIdfqWQQtIfAgjEHfx8mpA0rRVsb/?a=1988&bti=ODszNWYuMDE6&&bt=1025&ft=aEeq8qT0mIoPD122Fd6I3wU8~jAbMeF~O5&mime_type=video_mp4&rc=ZGg8PGRlOGQ4Njc2ZjpmaEBpMzp5Oms5cjY3ZTMzZzgzNEAvMmIuXmMxNl8xYjYtMy8xYSNeaWgvMmRjMzNhLS1kLy9zcw%3D%3D&expire=1792898275&l=2026102303172277A4C5F527314F19E587&ply_type=2&policy=2&signature=5bc827a6a2590122f2699cfefa091439&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c003-tx/ocQY7AkMVCzIdfqWQQtIfAgjEHfx8mpA0rRVsb/?a=1988&bti=ODszNWYuMDE6&&bt=1025&ft=4KJMyMzm8Zmo0m-RTa4jVbDZQpWrKsd.&mime_type=video_mp4&rc=ZGg8PGRlOGQ4Njc2ZjpmaEBpMzp5Oms5cjY3ZTMzZzgzNEAvMmIuXmMxNl8xYjYtMy8xYSNeaWgvMmRjMzNhLS1kLy9zcw%3D%3D&expire=1792898814&l=20261023032620A7865E162AD6D41398D8&ply_type=2&policy=2&signature=712948a8570edfab90044ce4ea7374fc&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:23.390785",
+    "extracted_at": "2026-10-23T03:26:21.286112",
     "row": 104
   },
   {
@@ -23657,10 +23657,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/ocAQLIrVIIrgFjsII8SeDLoofGO3iKQ5OmRwfA/?a=1988&bti=ODszNWYuMDE6&&bt=651&ft=aEeq8qT0mIoPD127Fd6I3wUKNjAbMeF~O5&mime_type=video_mp4&rc=ZjM3ODhoaGRpOWVnPGQ5OkBpMzozZXg5cjg4ZTMzbzczNUAyXl9jNmFiNTYxXzVfYi9hYSNjZXNgMmRjLzVhLS1kMTFzcw%3D%3D&expire=1792898276&l=20261023031723402139EE0C155A19555A&ply_type=2&policy=2&signature=f34f908845fe10f6185c4aa805a6a499&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/ocAQLIrVIIrgFjsII8SeDLoofGO3iKQ5OmRwfA/?a=1988&bti=ODszNWYuMDE6&&bt=651&ft=4KJMyMzm8Zmo0m-RTa4jV-OhQpWrKsd.&mime_type=video_mp4&rc=ZjM3ODhoaGRpOWVnPGQ5OkBpMzozZXg5cjg4ZTMzbzczNUAyXl9jNmFiNTYxXzVfYi9hYSNjZXNgMmRjLzVhLS1kMTFzcw%3D%3D&expire=1792898814&l=2026102303262181D02E70A8DC2A11833E&ply_type=2&policy=2&signature=aedc80e32a25fa7f4fdd8e1a2e795ff6&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:23.964298",
+    "extracted_at": "2026-10-23T03:26:21.797803",
     "row": 105
   },
   {
@@ -23673,10 +23673,10 @@
     "language": "",
     "duration": "38s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/oUbBDEgcIAqQ1nwXEBXVLSFE30lgNDfMfyEPL1/?a=1988&bti=ODszNWYuMDE6&&bt=927&ft=aEeq8qT0mIoPD125Fd6I3wU8cjAbMeF~O5&mime_type=video_mp4&rc=Ojg3NTc1NWk1ZjQ0aTNmOUBpamVtZ3k5cndmZTQzZzM2NEAwNTRjNi01XzUxLWFhMC8xYSNmXm8tMmRjMjVhLS1kLS9zcw%3D%3D&expire=1792898282&l=2026102303172428BD62068E7CC51C1953&ply_type=2&policy=2&signature=6ef649914e061370baf70d976f87623e&tk=tt_chain_token&btag=e000c8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/oUbBDEgcIAqQ1nwXEBXVLSFE30lgNDfMfyEPL1/?a=1988&bti=ODszNWYuMDE6&&bt=927&ft=4KJMyMzm8Zmo0C-RTa4jVCKZQpWrKsd.&mime_type=video_mp4&rc=Ojg3NTc1NWk1ZjQ0aTNmOUBpamVtZ3k5cndmZTQzZzM2NEAwNTRjNi01XzUxLWFhMC8xYSNmXm8tMmRjMjVhLS1kLS9zcw%3D%3D&expire=1792898820&l=202610230326219F5DE8D36EEB01135A89&ply_type=2&policy=2&signature=c10cf78cf5bf8c5cce1d4a09f59a7909&tk=tt_chain_token&btag=e000c8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:24.599621",
+    "extracted_at": "2026-10-23T03:26:22.479104",
     "row": 106
   },
   {
@@ -23689,10 +23689,10 @@
     "language": "",
     "duration": "36s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oACmbXIEIDAVtboeL4LoSSzfQkIfhEATGCwrQi/?a=1988&bti=ODszNWYuMDE6&&bt=591&ft=4KJMyMzm8Zmo0~KRTa4jVC3kdpWrKsd.&mime_type=video_mp4&rc=OTs7PDM4OTc5OWc8aWU2NEBpM3V5ZnI5cjhyZTMzODgzNEAxNTQtYzNeXzYxNTE0Yl8zYSM1cmtmMmRrLzVhLS1kLzFzcw%3D%3D&expire=1792898281&l=2026102303172401D9246C8569D819C731&ply_type=2&policy=2&signature=e2e434bf97520e17c0ba4368d56f90bd&tk=tt_chain_token&btag=e000c8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oACmbXIEIDAVtboeL4LoSSzfQkIfhEATGCwrQi/?a=1988&bti=ODszNWYuMDE6&&bt=591&ft=4KJMyMzm8Zmo0q-RTa4jVG4CQpWrKsd.&mime_type=video_mp4&rc=OTs7PDM4OTc5OWc8aWU2NEBpM3V5ZnI5cjhyZTMzODgzNEAxNTQtYzNeXzYxNTE0Yl8zYSM1cmtmMmRrLzVhLS1kLzFzcw%3D%3D&expire=1792898819&l=20261023032622F3BBD9C9E0B27A1384CF&ply_type=2&policy=2&signature=f5087fddf3cc12b33c1cc49983200770&tk=tt_chain_token&btag=e000c8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:25.273750",
+    "extracted_at": "2026-10-23T03:26:23.200158",
     "row": 107
   },
   {
@@ -23705,10 +23705,10 @@
     "language": "",
     "duration": "24s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/o8bJUeePtA9WGeEIgf6IAPFQbGFLQtTkrzyO1O/?a=1988&bti=ODszNWYuMDE6&&bt=793&ft=aEeq8qT0mIoPD12YFd6I3wUNL_AbMeF~O5&mime_type=video_mp4&rc=PGQ1ZWk8ZWc7OzU8PDNnOkBpM3N5dHg5cmt5ZTMzODgzNEAuYDEuNV8uNV8xNDEtLTYvYSNpYTZlMmRzYC9hLS1kLzFzcw%3D%3D&expire=1792898269&l=202610230317255C6A37663ACDEE1739EB&ply_type=2&policy=2&signature=3a5c7d2e15b5172faeb5fbe7948cc5cc&tk=tt_chain_token&btag=e000f8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/o8bJUeePtA9WGeEIgf6IAPFQbGFLQtTkrzyO1O/?a=1988&bti=ODszNWYuMDE6&&bt=793&ft=aEeq8qT0mIoPD12o7d6I3wU4ySAbMeF~O5&mime_type=video_mp4&rc=PGQ1ZWk8ZWc7OzU8PDNnOkBpM3N5dHg5cmt5ZTMzODgzNEAuYDEuNV8uNV8xNDEtLTYvYSNpYTZlMmRzYC9hLS1kLzFzcw%3D%3D&expire=1792898807&l=202610230326233EB73E1D8DFC2411319B&ply_type=2&policy=2&signature=0b544652fde4311d068a1c6a38c5d6e4&tk=tt_chain_token&btag=e000f8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:25.834023",
+    "extracted_at": "2026-10-23T03:26:23.916487",
     "row": 108
   },
   {
@@ -23721,10 +23721,10 @@
     "language": "",
     "duration": "34s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/o0iR3DT1aCY6BWfQi7wSzAIApRXPE2dUYVJwIB/?a=1988&bti=ODszNWYuMDE6&&bt=790&ft=aEeq8qT0mIoPD12sFd6I3wUg._AbMeF~O5&mime_type=video_mp4&rc=OmY5NGQ4Ojg2OjhpaTY7aEBpanBxdnU5cnk3ZTQzZzM2NEBeYmEtLjRjXzIxMDMtYjZgYSMxaDBeMmQ0ZTZhLS1kLS9zcw%3D%3D&expire=1792898280&l=20261023031725DF4AA286049D4D18E0C2&ply_type=2&policy=2&signature=46b4cc9afbe2121bdf9153a39a6f3a79&tk=tt_chain_token&btag=e000c8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/o0iR3DT1aCY6BWfQi7wSzAIApRXPE2dUYVJwIB/?a=1988&bti=ODszNWYuMDE6&&bt=790&ft=4KJMyMzm8Zmo0l-RTa4jVB2WQpWrKsd.&mime_type=video_mp4&rc=OmY5NGQ4Ojg2OjhpaTY7aEBpanBxdnU5cnk3ZTQzZzM2NEBeYmEtLjRjXzIxMDMtYjZgYSMxaDBeMmQ0ZTZhLS1kLS9zcw%3D%3D&expire=1792898818&l=202610230326242B5CD895CFAF3A135B82&ply_type=2&policy=2&signature=0bbf0185bd334d6e9a70279122d5c390&tk=tt_chain_token&btag=e000c8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:26.529547",
+    "extracted_at": "2026-10-23T03:26:24.561209",
     "row": 109
   },
   {
@@ -23737,10 +23737,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oA16FyfDkQ2wR4qERNv8T0CGRBKAWEsfFgEuIg/?a=1988&bti=ODszNWYuMDE6&&bt=616&ft=aEeq8qT0mIoPD12eFd6I3wU9ZKAbMeF~O5&mime_type=video_mp4&rc=NDkzO2hmaDc8Mzg0ZDpmOkBpMzQ4aXU5cmU5ZTMzbzczNUAzMTQ2MC40NjAxLV82YjY0YSNjbF8xMmRrajVhLS1kMTFzcw%3D%3D&expire=1792898280&l=202610230317262F9C539DDF1B87197758&ply_type=2&policy=2&signature=8924b7b85757a6e5e4e8368ccd2a68b4&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oA16FyfDkQ2wR4qERNv8T0CGRBKAWEsfFgEuIg/?a=1988&bti=ODszNWYuMDE6&&bt=616&ft=aEeq8qT0mIoPD12J7d6I3wUNASAbMeF~O5&mime_type=video_mp4&rc=NDkzO2hmaDc8Mzg0ZDpmOkBpMzQ4aXU5cmU5ZTMzbzczNUAzMTQ2MC40NjAxLV82YjY0YSNjbF8xMmRrajVhLS1kMTFzcw%3D%3D&expire=1792898818&l=2026102303262433A3246C91FD68155135&ply_type=2&policy=2&signature=057f24cedce63ad9e1dd630ac2e72d37&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:27.220189",
+    "extracted_at": "2026-10-23T03:26:25.181810",
     "row": 110
   },
   {
@@ -23753,10 +23753,10 @@
     "language": "",
     "duration": "86s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oMPPlQaoP4A5lYVQi9b1uCUAPiHAsBPiEIJEG/?a=1988&bti=ODszNWYuMDE6&&bt=390&ft=aEeq8qT0mIoPD12eFd6I3wUVdyAbMeF~O5&mime_type=video_mp4&rc=OTM8PDg3NGVoOjxlZDc6OUBpajt0dXM5cnJvZTMzODgzNEA2M18uYl41NmMxNDQuYi1iYSMxX2RuMmQ0LjRhLS1kLzFzcw%3D%3D&expire=1792898333&l=202610230317271714AEB4D4B6661D081A&ply_type=2&policy=2&signature=922be101a0b09e168c916539a2b2bf56&tk=tt_chain_token&btag=e000d0000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oEolRailR4N5IzAumAQYAJVcGQs9Eh1QiBwGP/?a=1988&bti=ODszNWYuMDE6&&bt=612&ft=4KJMyMzm8Zmo0b-RTa4jVJDhQpWrKsd.&mime_type=video_mp4&rc=ZGY2OTc3ZzdoMzk8OjQ3OkBpajt0dXM5cnJvZTMzODgzNEAtMmA0YWFeNS0xMGE2YDEuYSMxX2RuMmQ0LjRhLS1kLzFzcw%3D%3D&expire=1792898871&l=202610230326251063522DD33369156014&ply_type=2&policy=2&signature=2c05e1bc665b961057857c6542337968&tk=tt_chain_token&btag=e000d0000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:27.830368",
+    "extracted_at": "2026-10-23T03:26:25.901165",
     "row": 111
   },
   {
@@ -23769,10 +23769,10 @@
     "language": "",
     "duration": "36s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/oUIwXFqHGBDCDwDdEfCA2SQgETYIq1fcMTmEB7/?a=1988&bti=ODszNWYuMDE6&&bt=871&ft=4KJMyMzm8Zmo0pKRTa4jV7~edpWrKsd.&mime_type=video_mp4&rc=ZDRpN2U6O2g3NmY8Zjc5O0BpMzUzbHk5cjo5ZTQzZzM2NEBeLTUtNjJfXmExMGBeNGBjYSNpbDMwMmQ0Z15hLS1kLS9zcw%3D%3D&expire=1792898284&l=20261023031727D8C5A9F75EAC6616FEE1&ply_type=2&policy=2&signature=ea66455caa88239416d6d05a18161f0a&tk=tt_chain_token&btag=e000c8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/oUIwXFqHGBDCDwDdEfCA2SQgETYIq1fcMTmEB7/?a=1988&bti=ODszNWYuMDE6&&bt=871&ft=4KJMyMzm8Zmo09-RTa4jV0LeQpWrKsd.&mime_type=video_mp4&rc=ZDRpN2U6O2g3NmY8Zjc5O0BpMzUzbHk5cjo5ZTQzZzM2NEBeLTUtNjJfXmExMGBeNGBjYSNpbDMwMmQ0Z15hLS1kLS9zcw%3D%3D&expire=1792898822&l=20261023032626EAA1EA0C06C9A41379EC&ply_type=2&policy=2&signature=3320022604adaae62190293f3916d204&tk=tt_chain_token&btag=e000c8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:28.421085",
+    "extracted_at": "2026-10-23T03:26:26.526842",
     "row": 112
   },
   {
@@ -23788,7 +23788,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7697643865674681621: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:28.920898",
+    "extracted_at": "2026-10-23T03:26:27.039889",
     "row": 113
   },
   {
@@ -23801,10 +23801,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/ooVeIaRi9DfQNALj2LhIh5wgEoIDAje7iUbGIO/?a=1988&bti=ODszNWYuMDE6&&bt=614&ft=aEeq8qT0mIoPD12OFd6I3wU7F_AbMeF~O5&mime_type=video_mp4&rc=ODxoNjZoZGdmaTRkZWY6OEBpank2ZHc5cjo5ZTMzbzczNUBjYWM1Ly8zNV4xLTQtYl5iYSNnZC9oMmRraTVhLS1kMTFzcw%3D%3D&expire=1792898282&l=20261023031729504305F0D5BC0D191EDB&ply_type=2&policy=2&signature=f61526d015cdc839e7e2a760a993bcae&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/ooVeIaRi9DfQNALj2LhIh5wgEoIDAje7iUbGIO/?a=1988&bti=ODszNWYuMDE6&&bt=614&ft=4KJMyMzm8Zmo0T-RTa4jVsxkQpWrKsd.&mime_type=video_mp4&rc=ODxoNjZoZGdmaTRkZWY6OEBpank2ZHc5cjo5ZTMzbzczNUBjYWM1Ly8zNV4xLTQtYl5iYSNnZC9oMmRraTVhLS1kMTFzcw%3D%3D&expire=1792898820&l=202610230326275EA4D2602D161F1370BB&ply_type=2&policy=2&signature=93fed519cc3f02858155341c5ca0c7b3&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:29.565993",
+    "extracted_at": "2026-10-23T03:26:27.684939",
     "row": 114
   },
   {
@@ -23817,10 +23817,10 @@
     "language": "",
     "duration": "19s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/ooeGJDGfLLbfQWjAiGK8AFDRwHdgRwAeArmhBI/?a=1988&bti=ODszNWYuMDE6&&bt=1208&ft=4KJMyMzm8Zmo0dKRTa4jV-PNdpWrKsd.&mime_type=video_mp4&rc=cnF8b2hsc2d3SkBwaHIxaDFybndmNzlpNzY7N2QzOTQ1Zzk7ZEBpanB3NWs5cjo8ZTMzODczNEBjRl5Nc3FePmJKYSNvYF90aHFmOiMxM2AyLTMtXy8xYTFiMTQtYSNzLi9yMmRzZTVhLS1kMWBzcw%3D%3D&expire=1792898268&l=20261023031729F881F2521EBE4824F224&ply_type=2&policy=2&signature=1d2f5ff04cd2a9caeecd5a121669f54d&tk=tt_chain_token&btag=e000b8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/ooeGJDGfLLbfQWjAiGK8AFDRwHdgRwAeArmhBI/?a=1988&bti=ODszNWYuMDE6&&bt=1208&ft=aEeq8qT0mIoPD12A7d6I3wU5gWAbMeF~O5&mime_type=video_mp4&rc=NzlpNzY7N2QzOTQ1Zzk7ZEBpanB3NWs5cjo8ZTMzODczNEAxM2AyLTMtXy8xYTFiMTQtYSNzLi9yMmRzZTVhLS1kMWBzcw%3D%3D&expire=1792898807&l=2026102303262768C1E73026232F15A1DA&ply_type=2&policy=2&signature=e7acbaac95190f6a134b53d91434f5e6&tk=tt_chain_token&btag=e000f8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:30.659437",
+    "extracted_at": "2026-10-23T03:26:28.194472",
     "row": 115
   },
   {
@@ -23833,10 +23833,10 @@
     "language": "",
     "duration": "20s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oQjJOeAexXf8AFA9zq41WGAIhQgf8GhMRtmCZD/?a=1988&bti=ODszNWYuMDE6&&bt=904&ft=aEeq8qT0mIoPD12.Fd6I3wUgc_AbMeF~O5&mime_type=video_mp4&rc=ZjxmZzo1Z2k5Zjg0OmRpZEBpanJzNXk5cmhrZDMzODgzNEAtLTZfMGBhNWExYy81YTQvYSNjc2IwMmRrbHJhLS1kLy1zcw%3D%3D&expire=1792898271&l=20261023031730449A92D38E8ABF175107&ply_type=2&policy=2&signature=5f6dd25c94bfe0e84a363d7aeb6b37d8&tk=tt_chain_token&btag=e000b8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oQjJOeAexXf8AFA9zq41WGAIhQgf8GhMRtmCZD/?a=1988&bti=ODszNWYuMDE6&&bt=904&ft=4KJMyMzm8Zmo0S-RTa4jV1euQpWrKsd.&mime_type=video_mp4&rc=ZjxmZzo1Z2k5Zjg0OmRpZEBpanJzNXk5cmhrZDMzODgzNEAtLTZfMGBhNWExYy81YTQvYSNjc2IwMmRrbHJhLS1kLy1zcw%3D%3D&expire=1792898808&l=202610230326284377483C695F98133607&ply_type=2&policy=2&signature=0e408d1d43f7de412867c4cfe78313ad&tk=tt_chain_token&btag=e000b8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:31.238697",
+    "extracted_at": "2026-10-23T03:26:28.722154",
     "row": 116
   },
   {
@@ -23852,7 +23852,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7696842364412775698: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:31.795203",
+    "extracted_at": "2026-10-23T03:26:29.308654",
     "row": 117
   },
   {
@@ -23865,10 +23865,10 @@
     "language": "",
     "duration": "41s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/osfxrQDrq3BxECrRBsFEgPDtC0AVsxcEI3fupY/?a=1988&bti=ODszNWYuMDE6&&bt=686&ft=aEeq8qT0mIoPD124Fd6I3wUV8RAbMeF~O5&mime_type=video_mp4&rc=OmdkZWRnZTc4NGY7O2Q8NEBpajVoeXA5cnVyZTMzODgzNUBfMjZjYzAtNl4xYTZeYDU2YSNpcHFhMmRjNDVhLS1kLzZzcw%3D%3D&expire=1792898293&l=202610230317311CFFE4F36878FB17479C&ply_type=2&policy=2&signature=1a297d5d08c5f27198febe16fea42d65&tk=tt_chain_token&btag=e000c8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v16-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/osfxrQDrq3BxECrRBsFEgPDtC0AVsxcEI3fupY/?a=1988&bti=ODszNWYuMDE6&&bt=686&ft=4KJMyMzm8Zmo0v-RTa4jV5jeQpWrKsd.&mime_type=video_mp4&rc=OmdkZWRnZTc4NGY7O2Q8NEBpajVoeXA5cnVyZTMzODgzNUBfMjZjYzAtNl4xYTZeYDU2YSNpcHFhMmRjNDVhLS1kLzZzcw%3D%3D&expire=1792898830&l=20261023032629D0CDB0653601EA15B6CD&ply_type=2&policy=2&signature=96709067e42b6a02de6d2e34fbd417be&tk=tt_chain_token&btag=e000c8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:32.329668",
+    "extracted_at": "2026-10-23T03:26:30.042734",
     "row": 118
   },
   {
@@ -23884,7 +23884,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7697643865674714389: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:32.956908",
+    "extracted_at": "2026-10-23T03:26:30.576019",
     "row": 119
   },
   {
@@ -23897,10 +23897,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/ocUBLaMqDEjNNQ10AeFQkkR5qBfpqCFIE7gVEz/?a=1988&bti=ODszNWYuMDE6&&bt=574&ft=aEeq8qT0mIoPD12WFd6I3wUnvyAbMeF~O5&mime_type=video_mp4&rc=Njs4OjplNztnZGVmZWU0aUBpamQ2bHQ5cmh0ZTMzbzczNUBhMV5jYjVfXzAxYzFiYS9gYSMzcWhuMmRjbjNhLS1kMTFzcw%3D%3D&expire=1792898286&l=2026102303173340DE2F81041E48192F5F&ply_type=2&policy=2&signature=3d9cac2a7d2174793f782f627d85301a&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/ocUBLaMqDEjNNQ10AeFQkkR5qBfpqCFIE7gVEz/?a=1988&bti=ODszNWYuMDE6&&bt=574&ft=4KJMyMzm8Zmo0i-RTa4jVBPCQpWrKsd.&mime_type=video_mp4&rc=Njs4OjplNztnZGVmZWU0aUBpamQ2bHQ5cmh0ZTMzbzczNUBhMV5jYjVfXzAxYzFiYS9gYSMzcWhuMmRjbjNhLS1kMTFzcw%3D%3D&expire=1792898824&l=20261023032630C86585E807C08B17A37C&ply_type=2&policy=2&signature=092a53f06a32f72336d1e47e5ffa4aac&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:33.568382",
+    "extracted_at": "2026-10-23T03:26:31.136954",
     "row": 120
   },
   {
@@ -23913,10 +23913,10 @@
     "language": "",
     "duration": "24s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oIgyS4BzIiAwEKBnSQipqXCCBzeqfVDRqBSngN/?a=1988&bti=ODszNWYuMDE6&&bt=889&ft=aEeq8qT0mIoPD12vFd6I3wU_M_AbMeF~O5&mime_type=video_mp4&rc=Z2dmO2c6OjtlOTw3OWZpZkBpM2dpM205cnN3ZDMzODgzNUBiLWExXl42X14xNi5hNmIxYSM2MTVkMmRzZGNhLS1kLzZzcw%3D%3D&expire=1792898278&l=20261023031733CAEA8E5F98A1571BB8F8&ply_type=2&policy=2&signature=e89fc5202cbf6dcfd9741c15c0089e98&tk=tt_chain_token&btag=e000f8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oIgyS4BzIiAwEKBnSQipqXCCBzeqfVDRqBSngN/?a=1988&bti=ODszNWYuMDE6&&bt=889&ft=4KJMyMzm8Zmo0i-RTa4jVoueQpWrKsd.&mime_type=video_mp4&rc=Z2dmO2c6OjtlOTw3OWZpZkBpM2dpM205cnN3ZDMzODgzNUBiLWExXl42X14xNi5hNmIxYSM2MTVkMmRzZGNhLS1kLzZzcw%3D%3D&expire=1792898815&l=20261023032631614E672FCA2C5812FE1B&ply_type=2&policy=2&signature=467f385f9cbe196bf17b94a276c10c2f&tk=tt_chain_token&btag=e000f8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:34.213305",
+    "extracted_at": "2026-10-23T03:26:32.832659",
     "row": 121
   },
   {
@@ -23929,10 +23929,10 @@
     "language": "",
     "duration": "55s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/ogIdCTfByI3yId1COvr3HaTtVAaALiGOiQFyEw/?a=1988&bti=ODszNWYuMDE6&&bt=769&ft=aEeq8qT0mIoPD12zFd6I3wU2v_AbMeF~O5&mime_type=video_mp4&rc=OGYzaWc4NWRoZmdkO2ZkNUBpam1nOnE5cnN0ZTMzbzczNUAvXy1iMjQwNmAxMy8zXjFiYSNvbl40MmRjM15hLS1kMTFzcw%3D%3D&expire=1792898310&l=20261023031734E99F4BAECFBF6219D7BA&ply_type=2&policy=2&signature=181f885ebade4300cdc9bc307fd8b623&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/ogIdCTfByI3yId1COvr3HaTtVAaALiGOiQFyEw/?a=1988&bti=ODszNWYuMDE6&&bt=769&ft=aEeq8qT0mIoPD12x7d6I3wUsiBAbMeF~O5&mime_type=video_mp4&rc=OGYzaWc4NWRoZmdkO2ZkNUBpam1nOnE5cnN0ZTMzbzczNUAvXy1iMjQwNmAxMy8zXjFiYSNvbl40MmRjM15hLS1kMTFzcw%3D%3D&expire=1792898848&l=20261023032632C6562EFF53B1E117FEDA&ply_type=2&policy=2&signature=d6a4a1435a0821c45eb9097df1cd99c2&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:35.533057",
+    "extracted_at": "2026-10-23T03:26:33.502521",
     "row": 122
   },
   {
@@ -23945,10 +23945,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oE29CHfByI27Ig1CrbytvaODRAqAbiZiiQCYEw/?a=1988&bti=ODszNWYuMDE6&&bt=629&ft=aEeq8qT0mIoPD12MFd6I3wU-t_AbMeF~O5&mime_type=video_mp4&rc=Mzc6ZDdnODY6OzY6PGk6Z0Bpamh4eXA5cmY5ZTMzbzczNUAuX2NhMGBeNjYxMjIwMzQzYSNqLTVpMmRjbTVhLS1kMTFzcw%3D%3D&expire=1792898289&l=20261023031735AD2545B30386F11D1892&ply_type=2&policy=2&signature=493121229a93001f1f19ccff1f31b667&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oE29CHfByI27Ig1CrbytvaODRAqAbiZiiQCYEw/?a=1988&bti=ODszNWYuMDE6&&bt=629&ft=4KJMyMzm8Zmo0F-RTa4jVA~uQpWrKsd.&mime_type=video_mp4&rc=Mzc6ZDdnODY6OzY6PGk6Z0Bpamh4eXA5cmY5ZTMzbzczNUAuX2NhMGBeNjYxMjIwMzQzYSNqLTVpMmRjbTVhLS1kMTFzcw%3D%3D&expire=1792898827&l=20261023032633D09F4CDE2DF8401393B5&ply_type=2&policy=2&signature=83764cd1b2330279ccd8cbbd05a3a539&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:36.101669",
+    "extracted_at": "2026-10-23T03:26:34.272406",
     "row": 123
   },
   {
@@ -23964,7 +23964,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7696798558116187413: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:36.573233",
+    "extracted_at": "2026-10-23T03:26:34.707834",
     "row": 124
   },
   {
@@ -23977,10 +23977,10 @@
     "language": "",
     "duration": "53s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/ocAhBC9qcElQIV6ElFRfBFv0HD43jKIlNofaCg/?a=1988&bti=ODszNWYuMDE6&&bt=1302&ft=aEeq8qT0mIoPD12mFd6I3wUVByAbMeF~O5&mime_type=video_mp4&rc=ZmY6ZjwzZTo5Omk1ZGk3NUBpamdvcmw5cnNkZTMzODgzNEBiLjFfLzYvNS8xNGAzY19jYSMvcjZsMmRjZjVhLS1kL2Bzcw%3D%3D&expire=1792898310&l=2026102303173633DBDB2B4AB65616D6A5&ply_type=2&policy=2&signature=e406f46906bde993729cadb637ff43fe&tk=tt_chain_token&btag=e000c8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/ocAhBC9qcElQIV6ElFRfBFv0HD43jKIlNofaCg/?a=1988&bti=ODszNWYuMDE6&&bt=1302&ft=aEeq8qT0mIoPD12C7d6I3wURxiAbMeF~O5&mime_type=video_mp4&rc=ZmY6ZjwzZTo5Omk1ZGk3NUBpamdvcmw5cnNkZTMzODgzNEBiLjFfLzYvNS8xNGAzY19jYSMvcjZsMmRjZjVhLS1kL2Bzcw%3D%3D&expire=1792898848&l=20261023032634AF6A1B686AA6F51161A3&ply_type=2&policy=2&signature=029214042803dfe0d7598adb3057950f&tk=tt_chain_token&btag=e000c8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:37.173220",
+    "extracted_at": "2026-10-23T03:26:35.315790",
     "row": 125
   },
   {
@@ -23993,10 +23993,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-pve-0068-tx/oAJMfhaiLAKGQEGIdAi1AdbBwFpTEBHKviZBq3/?a=1988&bti=ODszNWYuMDE6&&bt=1025&ft=4KJMyMzm8Zmo0yKRTa4jVBWLdpWrKsd.&mime_type=video_mp4&rc=ODM0NDM2PDc1aTM1OjdnaEBpajx0anE5cnk3ZTMzZzgzNEBiXy4wMzAtXy0xMmMwLTNgYSMvaC1kMmRrbjNhLS1kLy9zcw%3D%3D&expire=1792898290&l=202610230317371CF4EC7C635031172110&ply_type=2&policy=2&signature=a21c8bff6c521d80de737b59ecb8dca4&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-pve-0068-tx/oAJMfhaiLAKGQEGIdAi1AdbBwFpTEBHKviZBq3/?a=1988&bti=ODszNWYuMDE6&&bt=1025&ft=4KJMyMzm8Zmo0u-RTa4jVxghQpWrKsd.&mime_type=video_mp4&rc=ODM0NDM2PDc1aTM1OjdnaEBpajx0anE5cnk3ZTMzZzgzNEBiXy4wMzAtXy0xMmMwLTNgYSMvaC1kMmRrbjNhLS1kLy9zcw%3D%3D&expire=1792898828&l=20261023032635DB30407072EE4B11BC4C&ply_type=2&policy=2&signature=e9c653e62e5bc04324aff84293b51511&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:37.735504",
+    "extracted_at": "2026-10-23T03:26:35.948043",
     "row": 126
   },
   {
@@ -24009,10 +24009,10 @@
     "language": "",
     "duration": "66s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/ooSCbf0UXgwVDXKEQF8EAABUOB0FI4yoqT4etv/?a=1988&bti=ODszNWYuMDE6&&bt=1317&ft=aEeq8qT0mIoPD12VFd6I3wUjXOAbMeF~O5&mime_type=video_mp4&rc=NzVoNmQzZTVnOWdlMzw5aEBpam1vZHg5cjNuZTMzODgzNEA0M15gNTNiX2ExMmEzLTMyYSNhYi1jMmQ0cDZhLS1kLzFzcw%3D%3D&expire=1792898324&l=20261023031737B75B2EA1BAD58E197ACC&ply_type=2&policy=2&signature=93b96f626ded108a462f47a43508270c&tk=tt_chain_token&btag=e000d0000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oEmmV02fqQUJCwB8nB0FqO4EIKDg95AuAgfVBQ/?a=1988&bti=ODszNWYuMDE6&&bt=599&ft=aEeq8qT0mIoPD12P7d6I3wUh7BAbMeF~O5&mime_type=video_mp4&rc=OTxoMzs6NTppODg6MzM3OEBpam1vZHg5cjNuZTMzODgzNEBiNl4uY2EwXi4xLzQzMS0yYSNhYi1jMmQ0cDZhLS1kLzFzcw%3D%3D&expire=1792898862&l=20261023032636D2E4913AD3ED111576F2&ply_type=2&policy=2&signature=18a2445f8ba49905eda7934b8b1f7a36&tk=tt_chain_token&btag=e000d0000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:38.299185",
+    "extracted_at": "2026-10-23T03:26:36.683076",
     "row": 127
   },
   {
@@ -24025,10 +24025,10 @@
     "language": "",
     "duration": "27s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/o0AVTaiZBEzULT4YCqiQp9AyKAfu1EBIiZwHYZ/?a=1988&bti=ODszNWYuMDE6&&bt=1180&ft=aEeq8qT0mIoPD12VFd6I3wUgB2AbMeF~O5&mime_type=video_mp4&rc=NDY2OTozZ2RlODZlZzg3ZkBpamRwa3I5cnNuZTQzZzM2NEAwLmFgYC5iNWMxMy0uLl8vYSMyaG5gMmRjbDJhLS1kLS9zcw%3D%3D&expire=1792898285&l=202610230317387295254B5283401961FD&ply_type=2&policy=2&signature=7461c115d299129670f91ae427fb187a&tk=tt_chain_token&btag=e000f8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/o0AVTaiZBEzULT4YCqiQp9AyKAfu1EBIiZwHYZ/?a=1988&bti=ODszNWYuMDE6&&bt=1180&ft=aEeq8qT0mIoPD12u7d6I3wU96BAbMeF~O5&mime_type=video_mp4&rc=NDY2OTozZ2RlODZlZzg3ZkBpamRwa3I5cnNuZTQzZzM2NEAwLmFgYC5iNWMxMy0uLl8vYSMyaG5gMmRjbDJhLS1kLS9zcw%3D%3D&expire=1792898824&l=202610230326366AE3C6A2F3D4531375A1&ply_type=2&policy=2&signature=6df5e7325382fe59853d11182659b42b&tk=tt_chain_token&btag=e000f8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:38.939653",
+    "extracted_at": "2026-10-23T03:26:37.157697",
     "row": 128
   },
   {
@@ -24041,10 +24041,10 @@
     "language": "",
     "duration": "33s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oU2bb7QcIigkpbCCty1COB2AZEpryigfwATizI/?a=1988&bti=ODszNWYuMDE6&&bt=622&ft=aEeq8qT0mIoPD12KFd6I3wUNL_AbMeF~O5&mime_type=video_mp4&rc=ZjQ2ZmU5aTZkOzY8OTNmNUBpMzNsdHU5cmd0ZTMzbzczNUA2MzBeNjJjX2AxYDE2L140YSNiMnA2MmRzbzNhLS1kMTFzcw%3D%3D&expire=1792898292&l=20261023031739B26721FB9B4EAD1975AC&ply_type=2&policy=2&signature=2179a47635a879b9a5d9bed0d1e214f9&tk=tt_chain_token&btag=e00088000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oU2bb7QcIigkpbCCty1COB2AZEpryigfwATizI/?a=1988&bti=ODszNWYuMDE6&&bt=622&ft=4KJMyMzm8Zmo0U-RTa4jVIXhQpWrKsd.&mime_type=video_mp4&rc=ZjQ2ZmU5aTZkOzY8OTNmNUBpMzNsdHU5cmd0ZTMzbzczNUA2MzBeNjJjX2AxYDE2L140YSNiMnA2MmRzbzNhLS1kMTFzcw%3D%3D&expire=1792898830&l=20261023032637C7C25967288CE21179BB&ply_type=2&policy=2&signature=ea6cdac1a8f98222ed13a8bc73dcde01&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:39.511893",
+    "extracted_at": "2026-10-23T03:26:38.001798",
     "row": 129
   },
   {
@@ -24057,10 +24057,10 @@
     "language": "",
     "duration": "37s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/ogerfoGeAoGQrmyIywLNfgHiOMSPRAFiLkAICT/?a=1988&bti=ODszNWYuMDE6&&bt=991&ft=4KJMyMzm8Zmo0GKRTa4jVWnodpWrKsd.&mime_type=video_mp4&rc=aWU2NTw5aThnZGg0NDU8ZUBpajxlO3I5cnE1ZTQzZzM2NEBjXzYvLV4zXi8xMy1hYjMyYSMuaHNkMmRzbTVhLS1kLS9zcw%3D%3D&expire=1792898296&l=202610230317399A9E0D798998061BE853&ply_type=2&policy=2&signature=240bd78522813a9af8f05e91b415b24d&tk=tt_chain_token&btag=e000c8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/ogerfoGeAoGQrmyIywLNfgHiOMSPRAFiLkAICT/?a=1988&bti=ODszNWYuMDE6&&bt=991&ft=4KJMyMzm8Zmo08-RTa4jVSqeQpWrKsd.&mime_type=video_mp4&rc=aWU2NTw5aThnZGg0NDU8ZUBpajxlO3I5cnE1ZTQzZzM2NEBjXzYvLV4zXi8xMy1hYjMyYSMuaHNkMmRzbTVhLS1kLS9zcw%3D%3D&expire=1792898835&l=20261023032638CFE631D67BF8E8119044&ply_type=2&policy=2&signature=a17a890543e7b314dc7abed58f883981&tk=tt_chain_token&btag=e000c8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:40.030209",
+    "extracted_at": "2026-10-23T03:26:38.602244",
     "row": 130
   },
   {
@@ -24073,10 +24073,10 @@
     "language": "",
     "duration": "26s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oE5gRDeInAp8V5w44ICaj4A8GeQoLdI5GxOhfn/?a=1988&bti=ODszNWYuMDE6&&bt=1049&ft=aEeq8qT0mIoPD128Fd6I3wU.2gAbMeF~O5&mime_type=video_mp4&rc=PDo8NThkODdmM2Y4ZjRoN0BpMzt1NnY5cnFqZTMzODczNEAwYTVjMWAvNmAxX14zXl9hYSNwbG1jMmQ0ajZhLS1kMWBzcw%3D%3D&expire=1792898286&l=202610230317401AAF1F8E90FFA416FB98&ply_type=2&policy=2&signature=1768906881c092b8b6ce3b563d60e08d&tk=tt_chain_token&btag=e000f8000",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oE5gRDeInAp8V5w44ICaj4A8GeQoLdI5GxOhfn/?a=1988&bti=ODszNWYuMDE6&&bt=1049&ft=aEeq8qT0mIoPD12H7d6I3wUpiBAbMeF~O5&mime_type=video_mp4&rc=PDo8NThkODdmM2Y4ZjRoN0BpMzt1NnY5cnFqZTMzODczNEAwYTVjMWAvNmAxX14zXl9hYSNwbG1jMmQ0ajZhLS1kMWBzcw%3D%3D&expire=1792898825&l=2026102303263835790C399454451529C9&ply_type=2&policy=2&signature=6a958dbbdfbeda435abec95be1c18b46&tk=tt_chain_token&btag=e000f8000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:40.737635",
+    "extracted_at": "2026-10-23T03:26:39.189681",
     "row": 131
   },
   {
@@ -24084,31 +24084,31 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7698211476028345613?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "¡Dile adiós a los dientes amarillos en segundos",
-    "original_text": "",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
     "translated_text": "",
-    "language": "en",
+    "language": "",
     "duration": "44s",
-    "status": "no_audio_detected",
-    "error_message": "",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c003-tx/owBjAkp1aFHIZCYQIqEDe9fgE1mXgp7DDSWmHV/?a=1988&bti=ODszNWYuMDE6&&bt=1614&ft=4KJMyMzm8Zmo07-RTa4jVPIeQpWrKsd.&mime_type=video_mp4&rc=MzVlPGVmNWllOWZlNmc7PEBpMzxmang5cnNyZTMzZzgzNEAwXzBhNmAvXjYxMi9iMjQwYSNkY3NgMmRraF5hLS1kLy9zcw%3D%3D&expire=1792898843&l=20261023032639FB34418701F93A12C718&ply_type=2&policy=2&signature=f9aa80e4a4bd0af7f66951ab32f52437&tk=tt_chain_token&btag=e00088000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T01:57:36.951258",
+    "extracted_at": "2026-10-23T03:26:41.296320",
     "row": 132
   },
   {
     "video_id": "7697116932872457492",
     "url": "https://www.tiktok.com/@anker_uk/video/7697116932872457492?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "Cuida tu sonrisa con nuestra fórmula al 7.5% nHAP. Aprovecha nuestra promoción del mes.⏱️🦷#BuenFin#Descuentos #TikTokShop #FYP #ventaveraniega ",
-    "original_text": "Si tienes pequeños espacios entre los dientes, dientes o pacos o una salud dental deficiente, no te preocupes, prueba hidróxia patita, un producto de cuidado vocal diario. Su formula natural protege el esmalte, rellenando suavemente las líneas finas y los espacios, nutriendo el esmalte y mejorando la textura de los dientes. Su formula no contiene fluor y ha sido desarrollada y formulada por un equipo de profesionales del cuidado vocal, garantizando su suavidad y seguridad y de al para quienes cuidan sus dientes y desean un cuidado vocal diario de calidad, manteniendo una boca limpia y fresca con facilidad. Asclique en el carrito amarillo para conseguirlo, si prefieres un cuidado vocal sofisticado.",
-    "translated_text": "如果您的牙齿之间、牙齿或缝隙很小或者牙齿健康状况不佳，请不要担心，尝试一下 Hydroxia Patita，一种日常声乐护理产品。其天然配方可保护牙釉质，轻轻填充细纹和缝隙，滋养牙釉质并改善牙齿质地。其配方不含氟化物，由声乐护理专业团队开发和配制，保证其柔软性和安全性，适合那些爱护牙齿并需要日常优质声乐护理的人士，轻松保持口腔清洁清新。如果您喜欢复杂的声音护理，请点击黄色购物车获取。",
-    "language": "es",
+    "description": "Cuida tu sonrisa con nuestra fórmula al 7.5% nHAP. Aprovecha nuestra ...",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
     "duration": "36s",
-    "status": "success",
-    "error_message": "",
-    "video_type": "达人视频",
-    "video_structure": "达人口播",
-    "extracted_at": "2026-10-23T01:57:44.221342",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o4WVjVG2oLyQIMp7DAIfec38b1mAmXQMgC4Ce0/?a=1988&bti=ODszNWYuMDE6&&bt=775&ft=aEeq8qT0mIoPD12Z7d6I3wU~4SAbMeF~O5&mime_type=video_mp4&rc=ZGQ0aWY5N2RkZDUzOjhpPEBpanF0Z3U5cnV0ZTMzODczNEAtXmIyMF5iXmAxMTJjLmNgYSNrZGZnMmRjYTVhLS1kMWBzcw%3D%3D&expire=1792898837&l=202610230326419520C9C482996811C9D5&ply_type=2&policy=2&signature=70317581a5ee9120e1e4b7c5542695a2&tk=tt_chain_token&btag=e00088000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:41.841651",
     "row": 133
   },
   {
@@ -24116,15 +24116,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7697109974933146900?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "#BuenFin#Descuentos #oralhealth #yellowteeth #sale        ",
-    "original_text": "Si tienes pequeños espacios entre los dientes, dientes o pacos o una salud dental deficiente, no te preocupes, prueba hidróxia patita, un producto de cuidado vocal diario. Su formula natural protege el esmalte, rellenando suavemente las líneas finas y los espacios, nutriendo el esmalte y mejorando la textura de los dientes. Su formula no contiene fluor y ha sido desarrollada y formulada por un equipo de profesionales del cuidado vocal, garantizando su suavidad y seguridad, ideal para quienes cuidan sus dientes y desean un cuidado vocal diario de calidad, manteniendo una boca limpia y fresca con facilidad. Asclican el carrito amarillo para conseguirlo, si prefieres un cuidado vocal sofisticado.",
-    "translated_text": "如果您的牙齿之间、牙齿或缝隙很小或者牙齿健康状况不佳，请不要担心，尝试一下 Hydroxia Patita，一种日常声乐护理产品。其天然配方可保护牙釉质，轻轻填充细纹和缝隙，滋养牙釉质并改善牙齿质地。其配方不含氟化物，由声乐护理专业团队开发和配制，保证其柔软性和安全性，非常适合那些爱护牙齿并需要日常优质声乐护理的人士，轻松保持口腔清洁清新。如果您喜欢复杂的声音护理，请点击黄色购物车获取。",
-    "language": "es",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
     "duration": "36s",
-    "status": "success",
-    "error_message": "",
-    "video_type": "达人视频",
-    "video_structure": "达人口播",
-    "extracted_at": "2026-10-23T01:57:51.760935",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oQVdheQRgDAVRQo8nfW4LqdegrBWkIAiMC0jAI/?a=1988&bti=ODszNWYuMDE6&&bt=1196&ft=4KJMyMzm8Zmo0e-RTa4jVU2bQpWrKsd.&mime_type=video_mp4&rc=aDtlODc1PGk6NDc3PGg5NEBpMztlOGs5cmR0ZTMzODczNEAvYGJhYV82Xy4xLjZhLzUtYSNgYzQvMmQ0LTVhLS1kMWBzcw%3D%3D&expire=1792898838&l=20261023032641C3997C7D1E2CD5113598&ply_type=2&policy=2&signature=a89ca8a5c2f3a8cc6074ad36f5b8c286&tk=tt_chain_token&btag=e000c8000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:42.468184",
     "row": 134
   },
   {
@@ -24132,31 +24132,31 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7698325404402142472?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "¿No vas a probarlas? #ceelike#Spray bucal#Mal aliento",
-    "original_text": "No, come ti adora l'alito? Ti piace? Sì. Questo è l'ospraiorale di Silai, che ha il gusto mentolo, puoi provare? Bellissimo. Tu vi piace? Bellissimo. Tu è l'acquistato. L'acquistato proprio aggiune, il link di Tik Tok-Shop, l'ospraiorale ha il gusto mentolo di Silai.",
-    "translated_text": "不，你的呼吸如何爱？你喜欢它？是的。这是Silai osprairal，有薄荷味，你能尝尝吗？美丽的。你喜欢它？美丽的。你是被收购的人。购买的加了，抖音店铺链接，ospraioral有西莱的薄荷味。",
-    "language": "it",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
     "duration": "27s",
-    "status": "success",
-    "error_message": "",
-    "video_type": "达人视频",
-    "video_structure": "达人口播",
-    "extracted_at": "2026-10-23T01:57:57.609783",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oQWRAqDgsIVFFfNILofCr9y9x8Q95fEHAED8FQ/?a=1988&bti=ODszNWYuMDE6&&bt=858&ft=4KJMyMzm8Zmo0e-RTa4jVHBZQpWrKsd.&mime_type=video_mp4&rc=ZTU0aDlmaGgzODNoaThoZUBpMztoZHg5cmZ5ZTMzODgzNEAwY2AxNC0wNmAxLTM0NjRhYSNjYTFjMmRrMV5hLS1kLzFzcw%3D%3D&expire=1792898829&l=20261023032642ECD6DCEE8EC5C513BDEC&ply_type=2&policy=2&signature=f6b07cdd3399c6afa0858c5624b429e2&tk=tt_chain_token&btag=e000f8000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:43.031482",
     "row": 135
   },
   {
     "video_id": "7696114505742306573",
     "url": "https://www.tiktok.com/@anker_uk/video/7696114505742306573?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "Si sientes que el aliento se estropea rápido, prueba esta pasta dental #occotaps #tiktokshop #pastadental #fyp",
-    "original_text": "No le creas al dentista cuando te dice que te las saces, solo quieren tu dinero. Hay una pincha producto nueva que hace que te vuelvan a crecer los dientes. No es broma, esto no es pincha pizza, de verdad vuelven a crecer. Director desde Japón está chingadera revolucionaria, hace que los dientes se formen de manera natural. Y checa esto, pasta dental, de esencia herbal de agave. Reconstruye tu microbioma oral, rellena huecos, y hasta revierte carias y sensibilidad. Es una pincha cachetada en la cara para los dentistas. Entonces, que chingados esperas, dale clica en la cella mientras sigue en descuento.",
-    "translated_text": "当牙医告诉你把它们拔出来时，不要相信他们，他们只是想要你的钱。有一种该死的新产品可以让你的牙齿重新长出来。不开玩笑，这不是他妈的披萨，它们真的又长回来了。来自日本的导演，这位革命性的 chingadera 让牙齿自然形成。看看这款牙膏，含有龙舌兰草药精华。重建您的口腔微生物组、填补空白，甚至逆转蛀牙和敏感性。这简直是​​打在牙医脸上的一记耳光。所以，你还在等什么，趁着还在打折的时候点击cella吧。",
-    "language": "es",
+    "description": "Si sientes que el aliento se estropea rápido, prueba esta pasta denta...",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
     "duration": "32s",
-    "status": "success",
-    "error_message": "",
-    "video_type": "达人视频",
-    "video_structure": "达人口播",
-    "extracted_at": "2026-10-23T01:58:04.050368",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/oYCTBqDTzzJEwSwDDEEn4jdf7DggLFIDQeSByh/?a=1988&bti=ODszNWYuMDE6&&bt=919&ft=aEeq8qT0mIoPD12L7d6I3wUVSSAbMeF~O5&mime_type=video_mp4&rc=ZzVnO2c0ZGYzaTtoaDg0OUBpM3I6c2s5cng0ZTQzZzM2NEAwLV5iLjQwXmAxMy4uLjUtYSNtcTFoMmRzYjRhLS1kLS9zcw%3D%3D&expire=1792898835&l=20261023032643CFDCC0D077B0C1136224&ply_type=2&policy=2&signature=5240f79385cc2943fd008ac418a55382&tk=tt_chain_token&btag=e000c8000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:43.541361",
     "row": 136
   },
   {
@@ -24164,31 +24164,31 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7696703559211027718?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "¡Dile adiós a los dientes amarillosen segundos",
-    "original_text": "Bebé, si te da pena son reír porque tienes los dientes amarillos, tienes que probar esta pasta con tecnología de encima. No es la pasta morada que sólo maquilla. Esta te ayuda a neutralizar el tono amarillento desde adentro. Te deja los dientes bonitos, aliento fresco y no las tímales malte. Te la dejo en el carrito besitos.",
-    "translated_text": "宝贝，如果你因为牙齿黄而不好意思笑，你一定要试试这款采用最新技术的牙膏。它不仅仅是化妆的紫色膏体。这可以帮助您中和内部的淡黄色调。它让您拥有美丽的牙齿、清新的口气和无不良灰质。我会把它放在你的购物车里，亲吻。",
-    "language": "es",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
     "duration": "23s",
-    "status": "success",
-    "error_message": "",
-    "video_type": "达人视频",
-    "video_structure": "达人口播",
-    "extracted_at": "2026-10-23T02:03:41.595508",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oMAPouA8DRBElYVLEB3S3i32IQAt4iIaAAcjg/?a=1988&bti=ODszNWYuMDE6&&bt=536&ft=aEeq8qT0mIoPD12n7d6I3wUrIJAbMeF~O5&mime_type=video_mp4&rc=OjY6aGZkNjpoOGhnNDZpZEBpM2VqZ3A5cmw1ZTMzODgzNEA0LWFeMmJfXi4xYzM1YDFfYSMxM29yMmQ0cDVhLS1kLzFzcw%3D%3D&expire=1792898827&l=20261023032643BDF71A8AF9351911669A&ply_type=2&policy=2&signature=0f70c6b6023f3fab184d9c63ccc164d2&tk=tt_chain_token&btag=e000f8000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:44.286498",
     "row": 137
   },
   {
     "video_id": "7693860197999185170",
     "url": "https://www.tiktok.com/@anker_uk/video/7693860197999185170?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "POV: Tus dientes se ven amarillos en todas las fotos 😳#oralcare#HonestReview#BeautyToothpaste#TikTokShop ",
-    "original_text": "Si te da pena son reír porque tienes dos guientes amarillos tienes que probar esta pasta con tecnología de ensimas, no es la pasta morada que solo maquilla, esta te ayuda a neutralizar el tono amarillento desde adentro, te deja los dientes bonitos, al aliento fresco, y no las tima el esmalte, te la dejo en el carrito besitos.",
+    "description": "POV: Tus dientes se ven amarillos en todas las fotos 😳#oralcare#Hones...",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
     "translated_text": "",
-    "language": "es",
+    "language": "",
     "duration": "20s",
-    "status": "success",
-    "error_message": "",
-    "video_type": "达人视频",
-    "video_structure": "达人口播",
-    "extracted_at": "2026-10-23T02:03:57.412416",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/ogq2QlACADEfpgAGO3jBfF5kQBQOEICvVUystg/?a=1988&bti=ODszNWYuMDE6&&bt=1180&ft=aEeq8qT0mIoPD12n7d6I3wUCjSAbMeF~O5&mime_type=video_mp4&rc=Mzo5Zjs8OztlZTQ8ZzkzOEBpajNzcmw5cjRuZTMzODgzNEBgMzFfLy9eNV4xNGJfMS0zYSMwNl5fMmQ0NTFhLS1kLy1zcw%3D%3D&expire=1792898824&l=20261023032644984A7196137001119F8A&ply_type=2&policy=2&signature=62f3b17d1867142e7c6bb28d8db93231&tk=tt_chain_token&btag=e000b8000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:44.822844",
     "row": 138
   },
   {
@@ -24196,47 +24196,47 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7697210986159213837?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "BRO… ¿TUS DIENTES ESTÁN TAN DESTROZADOS QUE YA PIENSAS EN SACÁRTELOS?",
-    "original_text": "[提取失败] Download/ffmpeg error: ffmpeg failed: ffmpeg versi",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
     "translated_text": "",
     "language": "",
     "duration": "66s",
     "status": "error",
-    "error_message": "Download/ffmpeg error: ffmpeg failed: ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers\n  built with gcc 13 (Ubuntu 13.2.0-23ubuntu3)\n  configuration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened -",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-v-85c255-tx/oYIaffHdDI2QmjkxJAFgk4D9TCfsVWHQEGAtgo/?a=1988&bti=ODszNWYuMDE6&&bt=1360&ft=4KJMyMzm8Zmo0n-RTa4jVVckQpWrKsd.&mime_type=video_mp4&rc=NWk5ODM7NTZkZzkzNTw2ZUBpajxuZ2w5cnl5ZTQzZzM2NEAuXmA0LjQuXjUxMWAxMTEvYSNtLWk0MmRjbDVhLS1kLS9zcw%3D%3D&expire=1792898872&l=20261023032646ADD8ED8DEF269415CC66&ply_type=2&policy=2&signature=d47fc17315e2c02066f67d2a4a7e2231&tk=tt_chain_token&btag=e000d0000",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T02:04:02.350579",
+    "extracted_at": "2026-10-23T03:26:46.597702",
     "row": 140
   },
   {
     "video_id": "7698239147135225110",
     "url": "https://www.tiktok.com/@anker_uk/video/7698239147135225110?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "Empieza y termina el día con una sensación limpia y fresca. 🪥 AstraGlow con nano hidroxiapatita está formulada para complementar el cuidado diario de tus dientes y esmalte. #AstraGlow #PastaDental #Dientes #HigieneBucal #NanoHidroxiapatita ",
-    "original_text": "Si te despierta si tu boca huele culero, y después de se pillarte sigue ese pinche olor atescado, ya valiste madre, fuck, cuando hablas ya incomodas a la gente, ni se diga pesar a tu parejabro. El problema no es que no te cepillas, el moutuas y el chicle no sirven, ya estás infectado, no es broma. Un chingo de streptococos mutans están en tu boca comiendo buffet, se pillarte no sirven y madres. Necesitas matar esas bacterias, necesitas una invasión de extracto activo de agave, un ejército de extracto activo de agave, que entre y exterminé a las que se comen la base de tus dientes. Oco taps, pasta dental de agave, 10 millones de extracto activo de agave, una bomba nuclear para la boca. Te cepillas una vez, espera a 10 segundos y la espuma explota. Disuelve la mubre como baño público y saca todo el olor escondidro sin dejar ni madres. 7 días, 2 veces al día tuvo cacambia por completo, antes de noquear a tu pareja dale clic al carrito naranja.",
-    "translated_text": "如果你的嘴闻起来像屎一样，他把你叫醒，而他抓住你之后，那股他妈的堵塞的气味还在继续，你就值得了，混蛋，当你说话的时候，你已经让人不舒服了，别打扰你的伴侣了兄弟。问题不在于你不刷牙，漱口水和口香糖不起作用，你已经被感染了，不是开玩笑。吃自助餐的时候嘴里有很多变形链球菌，它们是没用的，妈妈们。你需要杀死这些细菌，你需要活性龙舌兰提取物的入侵，大量的活性龙舌兰提取物，来消灭那些侵蚀你牙根的细菌。 Oco水龙头、龙舌兰牙膏、1000万活性龙舌兰提取物、口腔的核弹。你刷一次，等10秒，泡沫就会爆炸。它像公共厕所一样溶解污垢，去除所有隐藏的气味，不留痕迹。 7天，每天2次，他完全拥有cacambia，然后点击橙色推车击倒你的搭档。",
-    "language": "es",
+    "description": "Empieza y termina el día con una sensación limpia y fresca. 🪥 AstraGl...",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
     "duration": "55s",
-    "status": "success",
-    "error_message": "",
-    "video_type": "达人视频",
-    "video_structure": "达人口播",
-    "extracted_at": "2026-10-23T02:04:10.136878",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oc6PgIlBdEY3KQZP16FjkAhiBtSWaBvXiYZEV/?a=1988&bti=ODszNWYuMDE6&&bt=761&ft=aEeq8qT0mIoPD12F7d6I3wUznJAbMeF~O5&mime_type=video_mp4&rc=NDc6ZjMzZ2hoZzxpaDw4OkBpM3I8cm85cjh0ZTMzbzczNUAtMy0xL2NjNi0xXzMyNTQuYSNmZi9iMmQ0NF5hLS1kMTFzcw%3D%3D&expire=1792898865&l=202610230326504ADB2B395190B4137F0C&ply_type=2&policy=2&signature=8dc8ebdaa1c313e37080d34fa3b26e31&tk=tt_chain_token&btag=e000c8000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:50.659830",
     "row": 147
   },
   {
     "video_id": "7696920215082388737",
     "url": "https://www.tiktok.com/@anker_uk/video/7696920215082388737?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "Me gusta#ReseñaHonesta\n#RutinaDeCuidadoBucal\n#PastaDeDientesBeamach\n#ComprasEnTikTokShop #fyp",
-    "original_text": "Tienes carias o huecos en los dientes, mal aliento o dientes amarillos, no te los saces, la hidroxía patita, es un componente natural del diente, ayudan, rellenar grietas y huequitos. Repara el daño dental y recupera la fuerza y el brillo, fue desarrollada sos por dentistas, sin fluer, especial para gente con carias y dientes sensibles. Suave, segura y que si jala, si te dole en los dientes a cada rato, no puedes dormir o ya viste un oído, podría acceder justo lo que necesitas. Usa la en la mañana y noche, tu boca se siente fresca y tus dientes se ven con más blancos. Dale click a link y consigue la ya.",
-    "translated_text": "你的牙齿有蛀牙或缝隙，有口臭或牙齿发黄，不要把它们拔掉，羟基化是牙齿的天然成分，它有助于填充裂缝和孔洞。修复牙齿损伤并恢复强度和光泽，它是由牙医开发的，无需使用牙膏，特别适合有蛀牙和牙齿敏感的人。柔软、安全，如果它有拉力，如果你的牙齿一直疼，你无法入睡，或者你已经看到了一只耳朵，它就能满足你的需要。早晚使用，口腔感觉清新，牙齿看起来更洁白。单击链接并立即获取。",
-    "language": "es",
+    "description": "Me gusta#ReseñaHonesta\n#RutinaDeCuidadoBucal\n#PastaDeDientesBeamach\n#...",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
     "duration": "30s",
-    "status": "success",
-    "error_message": "",
-    "video_type": "达人视频",
-    "video_structure": "达人口播",
-    "extracted_at": "2026-10-23T02:04:17.759081",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oMCA8uIgcgAFSEPszWVOf0fHvQDrBBCEMQOq1R/?a=1988&bti=ODszNWYuMDE6&&bt=748&ft=aEeq8qT0mIoPD12g7d6I3wUV29AbMeF~O5&mime_type=video_mp4&rc=NGQ6OTdpPDY3M2Y8ZTk2NEBpM2gza3k5cmVpZTMzODgzNEA2M15gLl4wXjQxNGMzMS8zYSM2bGxuMmRrNTVhLS1kL2Bzcw%3D%3D&expire=1792898842&l=202610230326522B8868C1F4F31113840F&ply_type=2&policy=2&signature=502c0f17a16c92b6c28d3f007e997a5f&tk=tt_chain_token&btag=e000c8000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:52.523605",
     "row": 150
   },
   {
@@ -24244,15 +24244,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7695974507571383553?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "¡Dile adiós a los dientes amarillosen segundos",
-    "original_text": "Sabía que mi marido pensó que me había hecho una limpieza dental, en realidad solo cambié a este ventí frico morado. Antes tenía los dientes amarillos y muchas manchas, ni siquiera me atrevía y a su enredir. Ahora con un solo cepillado siento que tengo dientes nuevos. No sólo blanquea, también dejó un aliento muy fresco, científicos lo formularon durante años para ayudar con dientes amarillos, mal aliento y sarro. Incluso mis amigos me preguntan si me blanqué los dientes. Lo más importante es muy suave, incluso para personas cumbrados. Pide lo hoy y recibe descuento especial, en biocratis y garante de la evolución del dinero.",
-    "translated_text": "我知道我的丈夫以为我已经清洁了牙齿，实际上我只是换成了这种ventí frico morado。在我牙齿黄、污渍多之前，我根本不敢去乱动。现在只需一把刷子，我就感觉自己有了新牙齿。它不仅能美白，还能让你的口气非常清新，科学家们多年来一直配制它来帮助治疗黄牙、口臭和牙垢。连我的朋友都问我有没有美白牙齿。最重要的是它非常柔软，即使对于高个子来说也是如此。立即订购即可享受特殊折扣，在biocratis 和货币演变的担保人处购买。",
-    "language": "es",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
     "duration": "38s",
-    "status": "success",
-    "error_message": "",
-    "video_type": "达人视频",
-    "video_structure": "达人口播",
-    "extracted_at": "2026-10-23T02:04:24.220136",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oIpfPG4Q6GLyD83eEA9g6oVoDWrTmA5eII2CgF/?a=1988&bti=ODszNWYuMDE6&&bt=667&ft=4KJMyMzm8Zmo0H-RTa4jV_FZQpWrKsd.&mime_type=video_mp4&rc=NmU2Zmg0aWg5Njc5NjM3Z0Bpam5meXk5cjlzZTMzODgzNEAvNjA2LV5fXzIxLWIzY2NiYSNyZ19jMmRzYjNhLS1kLzFzcw%3D%3D&expire=1792898851&l=2026102303265224875F490E85B413039E&ply_type=2&policy=2&signature=bf687a99ac9177afa784ab2b1cfa10f0&tk=tt_chain_token&btag=e000c8000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:53.253395",
     "row": 151
   },
   {
@@ -24260,15 +24260,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7696836600529014024?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "Todos necesitan llevar uno de estos consigo 👀✨",
-    "original_text": "Yo tengo chicles y yo tengo una espray comprobióticos. ¿Cuál será mejor? Mi novia siempre me está diciendo lo 5 minutos de tomarme el chicle que me empieza a hablar mal de la linda. Pringado, pues yo cada vez que me tomo esto, mi novia no puede parar de besar. El mío sólo tapa el mal aliento temporalmente, por eso no me paro de meter chicles a la boca. Pues yo sólo con dos esprays me duran más de dos horas. Pues me chicle personalmente, es el más potente de menta para que me tapé algún mal aliento. Que el pringado sólo la menta de tapar mal aliento, madre mi, a mí a pues mirar todos los esprays que yo puedo utilizar, ya que vienen comprobióticos lo que va a eliminar tu mal aliento desde la raíz. ¿Y dónde los puedo conseguir? Como sabía que le vas a preguntar, ¿y es que este producto se ha hecho tan viral que se están quedando sin esto rapidísimo? Así que si todavía ves por aquí debajo un carrito naranja, aprovecha y date prisa.",
-    "translated_text": "我有口香糖和益生菌喷雾剂。哪个会更好？我的女朋友总是告诉我，服用口香糖后 5 分钟内，她就开始说那个漂亮女孩的坏话。醉了，因为每次我拿这个，我女朋友就忍不住亲吻。我的口香糖只能暂时掩盖口臭，这就是为什么我无法停止把口香糖放进嘴里。好吧，只需两次喷雾就可以持续两个多小时。嗯，我个人嚼口香糖，它是掩盖口臭最有效的薄荷。天哪，粘液中只有薄荷可以掩盖口臭，所以我必须看看我能使用的所有喷雾剂，因为它们含有益生菌，可以从根源上消除你的口臭。我在哪里可以得到它们？我知道您会问，这款产品是否已经如此火爆以至于很快就被抢购一空？因此，如果您仍然看到下面有一辆橙色推车，请抓住机会，快点。",
-    "language": "es",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
     "duration": "44s",
-    "status": "success",
-    "error_message": "",
-    "video_type": "达人视频",
-    "video_structure": "达人口播",
-    "extracted_at": "2026-10-23T02:04:31.871924",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/okDqIaUV9CfK2mDBBEgFn093QfcoqjEB2ggzkA/?a=1988&bti=ODszNWYuMDE6&&bt=458&ft=4KJMyMzm8Zmo0H-RTa4jVBPCQpWrKsd.&mime_type=video_mp4&rc=MzxkNTY7Zzk8PDc8M2hkZkBpam1qcHM5cjtkZTMzODgzNEAzNjYzNTYyNWAxNl8wYWBgYSNqLm5xMmRzZDVhLS1kLzFzcw%3D%3D&expire=1792898857&l=20261023032653D40EFCC4485EAC11A96B&ply_type=2&policy=2&signature=1109a61a708683aa75d0c55f3603084c&tk=tt_chain_token&btag=e000c8000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:53.781402",
     "row": 152
   },
   {
@@ -24276,15 +24276,15 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7696400275220778241?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "¡Dile adiós a los dientes amarillosen segundos",
-    "original_text": "Bebe, si te da pena son reír porque tienes los dientes amarillos, tienes que probar esta pasta con tecnología de ensimas. No es la pasta morada que sólo maquilla. Esta te ayuda a neutralizar el tono amarillento desde adentro. Te deja los dientes bonitos, aliento fresco y no las tima el desmante. Te la dejo en el carrito besitos.",
-    "translated_text": "宝贝，如果你因为牙齿黄而不好意思笑的话，你一定要尝试一下这款采用 ensimas 技术的意大利面。它不仅仅是化妆的紫色膏体。这可以帮助您中和内部的淡黄色调。它可以让您的牙齿美丽、口气清新，而且拔牙不会打扰您。我会把它放在你的购物车里，亲吻。",
-    "language": "es",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
     "duration": "23s",
-    "status": "success",
-    "error_message": "",
-    "video_type": "达人视频",
-    "video_structure": "达人口播",
-    "extracted_at": "2026-10-23T02:04:36.249219",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/okmzDf9hCEEUI6evmgqgFBuhQPVxA5smWBcEF9/?a=1988&bti=ODszNWYuMDE6&&bt=844&ft=aEeq8qT0mIoPD12t7d6I3wUJD0AbMeF~O5&mime_type=video_mp4&rc=ZDM0NGhpOGY7OTg1NGdlM0BpanFlb3g5cjtrZTMzODgzNEA1YzIxXmE1NV4xXzJiMS00YSNtYGxtMmRjZzRhLS1kLzFzcw%3D%3D&expire=1792898837&l=20261023032653E72B6D7310A59D11E786&ply_type=2&policy=2&signature=1bae85753f078a7a2358d99a28e64281&tk=tt_chain_token&btag=e000f8000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:54.326157",
     "row": 153
   },
   {
@@ -24292,31 +24292,31 @@
     "url": "https://www.tiktok.com/@anker_uk/video/7698325508303506709?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
     "description": "¿No vas a probarlas? #ceelike#Spray bucal#Mal aliento",
-    "original_text": "¿Pero amor? ¿Qué paso? Espero amor, mira, como... ¿Qué pasa? ¿A ni me compras un carfón, maí? No, por favor, ¿qué es de favor? ¿Y Tamor? Eso, como se la va. Eso, Tamor. Eso te ayudaba a combatir toda la bateria dentro de tu ópah. Como así, es muy aliento. Tamor, ¿sí? Un comea bien, dicho es, maí. No, su senó de la pila. Claro que si, la saco muchicle. Amolete, bien, no sirve amor. Eso es una refusiona. Eso te quitará todo el malamiento amor. ¿Qué no y coca la notadanta en que coles de eso? A mí sí, no os te amo con el opón. Amo, en tiktok, mirá, te lo hará aquí para que lo fompre, pero con lo ya por qué se ha indescribete. ¿Mira? No.",
-    "translated_text": "但爱呢？发生了什么？我希望爱，看起来，就像……发生了什么事？你连买个carfon都不能吗，maí？不，请问，有什么事吗？还有塔莫尔？事情就是这样。就是这样，塔莫尔。这可以帮助您对抗手机内的所有电池。就这样，这是非常令人鼓舞的。塔莫尔，是吗？好食者，即maí。不，它是从堆里取出来的。当然是的，我得到了很多。阿莫莱特，好吧，这没有用，亲爱的。这就是拒绝。那会带走所有不好的爱。不可以把你得到的notadanta喝可乐吗？是的，我并不爱你相反的东西。大师，在抖音上，你看，他会在这里对你做这样我可以帮助他，但现在为什么他不描述自己。看？不。",
-    "language": "es",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
     "duration": "37s",
-    "status": "success",
-    "error_message": "",
-    "video_type": "达人视频",
-    "video_structure": "达人口播",
-    "extracted_at": "2026-10-23T02:04:45.267614",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oQZYnFwafAImHk7jQBK1vGA9aiAuiBBHJvDEJ4/?a=1988&bti=ODszNWYuMDE6&&bt=658&ft=4KJMyMzm8Zmo0A-RTa4jVOFhQpWrKsd.&mime_type=video_mp4&rc=OmZkaWlnOjRoNWVnZ2loZUBpajg3dXI5cm15ZTMzODgzNEBjYi5eYy8xXmExXi1jNmFgYSNyYm8xMmRzMV5hLS1kL2Bzcw%3D%3D&expire=1792898851&l=2026102303265426D0FCEB56956013D8D9&ply_type=2&policy=2&signature=853bec42d535a3ebfa7d066e1ab5d82c&tk=tt_chain_token&btag=e000c8000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:54.942221",
     "row": 154
   },
   {
     "video_id": "7696838882100399373",
     "url": "https://www.tiktok.com/@anker_uk/video/7696838882100399373?lang=en&is_copy_url=1&is_from_webapp=v1",
     "author": "@anker_uk",
-    "description": "¿Quieres comer frutas y alimentos sin preocupaciones? Mira esto#pastadental #tiktokshop #occotaps #fyp",
-    "original_text": "Si pruebas este colutorio, notarás que tus dientes empiezan a regenerarse. No es broma, pueden volver a crecer de verdad, este producto revolucionario está fabricado en Japón. Estimula de forma natural la regeneración de enta, rellena pequeñas griezas y microfizuras y ayuda a regenerar tanto las sencillas como los dientes. ¿Por qué no recomendamos este producto a mayores de 50 años con periodos títis? Porque, en cuanto empiezas a usar, lo tuvida cambia por completo, por muy flujos que tengas los dientes, solo tienes que enjuagarte la boca por la mañana y por la noche. Solo tres días, notarás una diferencia evidente. Este es el colutorio para las sencillas que se ha hecho viralentico, contiene extracto activo de agave hasta 10 veces más concentrado y cuenta con certificación de la FDA. Con un solo enjuagadilla, ayuda a reparar el esmante que estabilizar las raíces y mejorar las alud de las sencillas. Los dientes deja de moverse, mas ticarteja de doler y las sencillas deja de sacrar. Volverás a comer con tranquilidad, y si terminas el frasco y no funciona, la marca te pagará 10 mil dólares. Ahora llevate dos botellas con un 50 por ciento de descuento, haz clic en el enlace de abajo y prueba lo ya.",
-    "translated_text": "如果您尝试使用这种漱口水，您会发现您的牙齿开始再生。不是开玩笑，它们真的可以重新长出来，这个革命性的产品是日本制造的。它自然地刺激牙齿再生，填充小裂缝和微裂隙，并有助于牙齿和牙齿的再生。为什么我们不向 50 岁以上患有乳炎的人推荐该产品？因为，一旦你开始使用它，你的生活就彻底改变了，无论你的牙齿流多少，你只需要早晚漱口即可。只需三天，你就会发现明显的变化。这是一款广受欢迎的简单漱口水，含有浓度高达 10 倍的活性龙舌兰提取物，并获得 FDA 认证。只需一次冲洗，即可帮助修复污渍、稳定根部并改善根部崩塌。牙齿停止移动，疼痛加剧，牙齿不再糖化。你又会安心地吃东西了，如果你吃完罐子还是不行，品牌就会付给你一万美元。现在购买两瓶可享受 50% 的折扣，点击下面的链接立即尝试。",
-    "language": "es",
+    "description": "¿Quieres comer frutas y alimentos sin preocupaciones? Mira esto#pasta...",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
     "duration": "62s",
-    "status": "success",
-    "error_message": "",
-    "video_type": "达人视频",
-    "video_structure": "达人口播",
-    "extracted_at": "2026-10-23T02:04:58.548947",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c002-tx/ocAsA3yaDirGIBEQI1iB0IfzEVbPwuFTBpRnsK/?a=1988&bti=ODszNWYuMDE6&&bt=832&ft=4KJMyMzm8Zmo0O-RTa4jV7jbQpWrKsd.&mime_type=video_mp4&rc=Mzs5OzM0NjtmZ2VlM2g1O0BpamxwN245cm08ZTMzZzgzNEBiLWItXzRiX2MxMWFfYS5hYSNtbWwxMmRzYjVhLS1kLy9zcw%3D%3D&expire=1792898877&l=202610230326552482A15032A11B11AB26&ply_type=2&policy=2&signature=68f22eaa8547c31cfb9d5da1c518add3&tk=tt_chain_token&btag=e00090000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:55.451029",
     "row": 155
   },
   {
@@ -24786,7 +24786,7 @@
     "error_message": "yt-dlp failed: ERROR: [TikTok] 7697436681158413574: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-10-23T03:17:19.600076",
+    "extracted_at": "2026-10-23T03:26:19.631297",
     "row": 99
   },
   {
@@ -24820,5 +24820,149 @@
     "video_structure": "",
     "extracted_at": "2026-10-23T03:17:20.984581",
     "row": 101
+  },
+  {
+    "video_id": "7698309793638862098",
+    "url": "https://www.tiktok.com/@anker_uk/video/7698309793638862098?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "Pasta dental morada#tiktokshop#dientesblancos#dientes#HonestReview ",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
+    "duration": "19s",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oopVdPPeCAq9Qj8yAIFHqVoDwfBuTxeEDICvYE/?a=1988&bti=ODszNWYuMDE6&&bt=1132&ft=4KJMyMzm8Zmo0I-RTa4jVLSbQpWrKsd.&mime_type=video_mp4&rc=cnF8b2hsc2d3SkBwaHIxaDFybndmNjs2ZzpmZTQ3ZDhnZzRkPEBpamhzO3g5cnZ4ZTMzODczNEBjRl5Nc3FePmJKYSNvYF90aHFmOiM2Ly40YmMwXi8xM2IwXzJhYSMwNDRuMmQ0NF5hLS1kMTFzcw%3D%3D&expire=1792898824&l=20261023032645FE7105DFE16FAC1355E0&ply_type=2&policy=2&signature=c03e450632abc3af47a8fc07042c8e1d&tk=tt_chain_token&btag=e000b8000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:45.887741",
+    "row": 139
+  },
+  {
+    "video_id": "7697148044063608085",
+    "url": "https://www.tiktok.com/@anker_uk/video/7697148044063608085?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "#tiktok#fyppppp#fyp#BuenFin#Descuentos ",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
+    "duration": "15s",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/okdXVOUbBEnr0VzGAUiQqpIquAfG1BAIiGw3Ca/?a=1988&bti=ODszNWYuMDE6&&bt=792&ft=aEeq8qT0mIoPD12X7d6I3wUYJJAbMeF~O5&mime_type=video_mp4&rc=cnF8b2hsc2d3SkBwaHIxaDFybndmaWRlZzM3MzVkOjY4OWQ3Z0BpM2h3d205cm92ZTMzODczNEBjRl5Nc3FePmJKYSNvYF90aHFmOiMwX2MxL2FhNmIxYWFeMjEyYSNuNm5hMmRjMzVhLS1kMTFzcw%3D%3D&expire=1792898822&l=202610230326462C69AACA07B2A21384AA&ply_type=2&policy=2&signature=2b5bca0c6a4e6b396ee35de2714574ed&tk=tt_chain_token&btag=e000b8000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:47.220941",
+    "row": 141
+  },
+  {
+    "video_id": "7695744706378124551",
+    "url": "https://www.tiktok.com/@anker_uk/video/7695744706378124551?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "Pasta dental morada#tiktokshop#dientesblancos#dientes#HonestReview ",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
+    "duration": "29s",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o8fJEM2czBBFnh1IQEnFsEAEpfbgsqy3DERQE7/?a=1988&bti=ODszNWYuMDE6&&bt=1144&ft=aEeq8qT0mIoPD12X7d6I3wUfTCAbMeF~O5&mime_type=video_mp4&rc=ZzM0ODY3ZWhoZDs7NDtnOUBpajx4d3A5cndmZTMzODczNEAzLzY1L2E0Xl8xX2MuMDU0YSNuY3BjMmRrYTNhLS1kMWBzcw%3D%3D&expire=1792898836&l=20261023032647A36C223F36D3C511DABC&ply_type=2&policy=2&signature=8c325e559198e02b6273b8b2cfb8b91a&tk=tt_chain_token&btag=e000f8000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:47.864728",
+    "row": 142
+  },
+  {
+    "video_id": "7695600472610196750",
+    "url": "https://www.tiktok.com/@anker_uk/video/7695600472610196750?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "¡Dile adiós a los dientes amarillos en segundos",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
+    "duration": "33s",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c004-tx/ow044XUiavPlFBB3ECDz7AE6M9sQIgxOAcioF/?a=1988&bti=ODszNWYuMDE6&&bt=1007&ft=4KJMyMzm8Zmo05-RTa4jV3rZQpWrKsd.&mime_type=video_mp4&rc=NDVoOmU0M2RnPDllZzdpZUBpM3Q2M3c5cjU3ZTMzZzgzNEAvMGFgYV9fXjQxXmMvMS9jYSNoY2NuMmRrMzNhLS1kLy9zcw%3D%3D&expire=1792898841&l=2026102303264725DF2B81BD4285134276&ply_type=2&policy=2&signature=82727fad85164dc4eb536395f2809a22&tk=tt_chain_token&btag=e00088000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:48.389768",
+    "row": 143
+  },
+  {
+    "video_id": "7696092028123221261",
+    "url": "https://www.tiktok.com/@anker_uk/video/7696092028123221261?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "Los dentistas no te dirán voluntariamente estos consejos de cuidado b...",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
+    "duration": "56s",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c003-tx/oMQljFZIU0aiFgB3Ep3vODxV64ZAPviiQAEsz/?a=1988&bti=ODszNWYuMDE6&&bt=837&ft=4KJMyMzm8Zmo05-RTa4jVfahQpWrKsd.&mime_type=video_mp4&rc=NDNoZDk6NGhoZWc7aTM7OkBpanNuams5cjd5ZTMzZzgzNEBjNWFeMGMyXmMxLWFfMDZeYSNocG4vMmRrMzNhLS1kLy9zcw%3D%3D&expire=1792898864&l=20261023032648994C6386B946D813863C&ply_type=2&policy=2&signature=1922614058382edaf4b15861bc74dae6&tk=tt_chain_token&btag=e00088000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:48.946649",
+    "row": 144
+  },
+  {
+    "video_id": "7696820160375639303",
+    "url": "https://www.tiktok.com/@anker_uk/video/7696820160375639303?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "Este tip es para los amantes del café. ☕️ Luego me agradecen. 😌✨#tikt...",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
+    "duration": "19s",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/ogABQZOSweqEfBZCgjDJ1Ic8c0oREkFg0K6EJT/?a=1988&bti=ODszNWYuMDE6&&bt=1181&ft=aEeq8qT0mIoPD12j7d6I3wUn9CAbMeF~O5&mime_type=video_mp4&rc=cnF8b2hsc2d3SkBwaHIxaDFybndmNzw2NzQ1PDk5NDQ0PGVnZkBpamhlN2o5cjo8ZTMzODczNEBjRl5Nc3FePmJKYSNvYF90aHFmOiNeLi4tXmNeXjExYGMuNWA2YSMxXnNjMmQ0ZjVhLS1kMWBzcw%3D%3D&expire=1792898828&l=202610230326497D4358EC3FC84311CA2B&ply_type=2&policy=2&signature=a3204d328ec91609d6b015ff1984259f&tk=tt_chain_token&btag=e000b8000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:49.514056",
+    "row": 145
+  },
+  {
+    "video_id": "7697189775018609921",
+    "url": "https://www.tiktok.com/@anker_uk/video/7697189775018609921?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "",
+    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7697189775018609921",
+    "translated_text": "",
+    "language": "",
+    "duration": "",
+    "status": "error",
+    "error_message": "yt-dlp failed: ERROR: [TikTok] 7697189775018609921: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:50.008763",
+    "row": 146
+  },
+  {
+    "video_id": "7697643874977697031",
+    "url": "https://www.tiktok.com/@anker_uk/video/7697643874977697031?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "",
+    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7697643874977697031",
+    "translated_text": "",
+    "language": "",
+    "duration": "",
+    "status": "error",
+    "error_message": "yt-dlp failed: ERROR: [TikTok] 7697643874977697031: Video not available, status code 10240; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:51.154577",
+    "row": 148
+  },
+  {
+    "video_id": "7695973342435609857",
+    "url": "https://www.tiktok.com/@anker_uk/video/7695973342435609857?lang=en&is_copy_url=1&is_from_webapp=v1",
+    "author": "@anker_uk",
+    "description": "¡Dile adiós a los dientes amarillosen segundos",
+    "original_text": "[提取失败] Download/ffmpeg error: 403 Client Error: Forbidden",
+    "translated_text": "",
+    "language": "",
+    "duration": "33s",
+    "status": "error",
+    "error_message": "Download/ffmpeg error: 403 Client Error: Forbidden for url: https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oEDQ0UbWEBfznIEYzfVBCjuBhV9rZgBNQRACFq/?a=1988&bti=ODszNWYuMDE6&&bt=695&ft=4KJMyMzm8Zmo0t-RTa4jVIFZQpWrKsd.&mime_type=video_mp4&rc=aWY4ZjdkZmk5aTk1NDNkO0BpajRpPHE5cm9zZTMzODgzNEBhYjZhL18tNl8xMy42LTRgYSNpcmoxMmRrXjNhLS1kLzFzcw%3D%3D&expire=1792898844&l=20261023032651C59F62E8CC9D71184AE1&ply_type=2&policy=2&signature=a37f2af84b66cae5826094d2a316b4c2&tk=tt_chain_token&btag=e000c8000",
+    "video_type": "",
+    "video_structure": "",
+    "extracted_at": "2026-10-23T03:26:51.965750",
+    "row": 149
   }
 ]
