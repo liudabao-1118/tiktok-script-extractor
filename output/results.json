@@ -29946,7 +29946,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-11-10T09:26:09.415455",
+    "extracted_at": "2026-11-10T09:35:55.343387",
     "row": 6
   },
   {
@@ -29978,7 +29978,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-11-10T09:26:12.377217",
+    "extracted_at": "2026-11-10T09:35:58.309585",
     "row": 8
   },
   {
@@ -29994,7 +29994,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-11-10T09:26:15.579059",
+    "extracted_at": "2026-11-10T09:36:01.299833",
     "row": 9
   },
   {
@@ -30122,7 +30122,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-11-10T09:26:18.577721",
+    "extracted_at": "2026-11-10T09:36:04.639957",
     "row": 17
   },
   {
@@ -30154,7 +30154,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-11-10T09:26:21.340297",
+    "extracted_at": "2026-11-10T09:36:07.708787",
     "row": 19
   },
   {
@@ -30170,7 +30170,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-11-10T09:26:24.305629",
+    "extracted_at": "2026-11-10T09:36:10.859825",
     "row": 20
   },
   {
@@ -30266,7 +30266,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-11-10T09:26:27.003024",
+    "extracted_at": "2026-11-10T09:36:13.905585",
     "row": 26
   },
   {
@@ -30298,7 +30298,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-11-10T09:26:29.881458",
+    "extracted_at": "2026-11-10T09:36:16.875861",
     "row": 28
   },
   {
@@ -30330,7 +30330,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-11-10T09:26:32.794568",
+    "extracted_at": "2026-11-10T09:36:20.061031",
     "row": 30
   },
   {
@@ -30346,7 +30346,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-11-10T09:26:36.013369",
+    "extracted_at": "2026-11-10T09:36:23.049410",
     "row": 31
   },
   {
@@ -30362,7 +30362,7 @@
     "error_message": "Download/ffmpeg error: ffmpeg failed: ffmpeg version 8.0.1-3ubuntu2 Copyright (c) 2000-2025 the FFmpeg developers\n  built with gcc 15 (Ubuntu 15.2.0-13ubuntu3)\n  configuration: --prefix=/usr --extra-version=3ubuntu2 --toolchain=hardened -",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-11-10T09:26:40.209879",
+    "extracted_at": "2026-11-10T09:36:27.119599",
     "row": 32
   },
   {
@@ -30442,7 +30442,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-11-10T09:26:43.203388",
+    "extracted_at": "2026-11-10T09:36:30.044735",
     "row": 37
   },
   {
@@ -30474,7 +30474,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-11-10T09:26:46.144283",
+    "extracted_at": "2026-11-10T09:36:33.167196",
     "row": 39
   },
   {
@@ -30522,7 +30522,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-11-10T08:42:27.006386",
+    "extracted_at": "2026-11-10T09:36:36.993694",
     "row": 42
   },
   {
@@ -30538,7 +30538,7 @@
     "error_message": "Download/ffmpeg error: ffmpeg failed: ffmpeg version 8.0.1-3ubuntu2 Copyright (c) 2000-2025 the FFmpeg developers\n  built with gcc 15 (Ubuntu 15.2.0-13ubuntu3)\n  configuration: --prefix=/usr --extra-version=3ubuntu2 --toolchain=hardened -",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-11-10T08:42:31.526345",
+    "extracted_at": "2026-11-10T09:36:41.067396",
     "row": 43
   },
   {
