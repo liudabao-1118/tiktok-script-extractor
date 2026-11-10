@@ -269,6 +269,7 @@ class FeishuClient:
             )
             if needs_extract or needs_analysis:
                 pending.append(item)
+        pending.sort(key=lambda x: 1 if x["original"].startswith("[提取失败]") else 0)
         return pending
 
     def write_back(self, results, batch_size=25):
