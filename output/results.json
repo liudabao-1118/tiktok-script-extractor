@@ -31794,15 +31794,15 @@
     "url": "https://tiktok.com/@no_ou7/video/7706106677371620622",
     "author": "@no_ou7",
     "description": "",
-    "original_text": "[提取失败] Url parsing is failed! Please check url.",
+    "original_text": "[提取失败] yt-dlp failed: ERROR: [TikTok] 7706106677371620622",
     "translated_text": "",
     "language": "",
     "duration": "",
     "status": "error",
-    "error_message": "Url parsing is failed! Please check url.",
+    "error_message": "yt-dlp failed: ERROR: [TikTok] 7706106677371620622: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-11-19T02:51:26.163901",
+    "extracted_at": "2026-11-19T02:56:40.803422",
     "row": 4
   },
   {
@@ -31866,7 +31866,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-11-19T02:51:43.274613",
+    "extracted_at": "2026-11-19T02:56:58.858501",
     "row": 8
   },
   {
@@ -31962,7 +31962,7 @@
     "error_message": "Url parsing is failed! Please check url.",
     "video_type": "",
     "video_structure": "",
-    "extracted_at": "2026-11-19T02:52:23.508884",
+    "extracted_at": "2026-11-19T02:57:13.258780",
     "row": 15
   },
   {
