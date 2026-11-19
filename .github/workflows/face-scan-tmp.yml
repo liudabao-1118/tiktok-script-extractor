@@ -1,0 +1,31 @@
+name: face-scan-tmp
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        part: [0, 1, 2, 3, 4, 5]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup
+        run: |
+          python -m pip install -q --upgrade yt-dlp opencv-python-headless numpy mediapipe
+          which ffmpeg ffprobe || (sudo apt-get -qq update && sudo apt-get -qq install -y ffmpeg)
+      - name: Scan
+        timeout-minutes: 120
+        run: python facescan/scan.py facescan/links.json ${{ matrix.part }} 6 results.csv sheet
+      - name: Emit
+        run: |
+          echo "===BEGIN:RESULTS==="
+          cat results.csv
+          echo "===END:RESULTS==="
+          for f in sheet_*.jpg; do
+            echo "===BEGIN:$f==="
+            base64 -w0 "$f" | fold -w 4000 | sed "s/^/B64::/"
+            echo "===END:$f==="
+          done
