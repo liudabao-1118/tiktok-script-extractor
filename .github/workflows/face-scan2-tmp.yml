@@ -14,11 +14,12 @@ jobs:
       - uses: actions/checkout@v4
       - name: Setup
         run: |
+          sudo apt-get -qq update
+          sudo apt-get -qq install -y libegl1 libgl1 libglib2.0-0 ffmpeg
           python -m pip install -q --upgrade yt-dlp opencv-python-headless numpy mediapipe
-          which ffmpeg ffprobe || (sudo apt-get -qq update && sudo apt-get -qq install -y ffmpeg)
           curl -sSL -o blaze_face_short_range.tflite "https://storage.googleapis.com/mediapipe-models/face_detector/blaze_face_short_range/float16/1/blaze_face_short_range.tflite"
           ls -lh blaze_face_short_range.tflite
-          python -c "from mediapipe.tasks.python import vision; print('tasks api ok')"
+          python -c "from mediapipe.tasks.python import vision, BaseOptions; vision.FaceDetector.create_from_options(vision.FaceDetectorOptions(base_options=BaseOptions(model_asset_path='blaze_face_short_range.tflite'), min_detection_confidence=0.4)); print('BLAZEFACE_OK')"
       - name: Scan
         timeout-minutes: 120
         run: python facescan/scan2.py facescan/links.json ${{ matrix.part }} 6 results2.csv
